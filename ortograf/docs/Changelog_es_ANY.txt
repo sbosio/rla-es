@@ -1,0 +1,12 @@
+Versión 0.2:
+- Corrección de los infinitivos de verbos totalmente pronominales. Afecta
+también a la definición de los sufijos.
+- Correcciones y agregados enviados por:
+  · Juan Rey Saura.
+  · Carlos Dávila.
+  · Román Gelbort.
+- Se añadió el "voseo" utilizado en algunos países de América Latina, como
+forma verbal válida, en el fichero de afijos.
+
+Versión 0.1beta:
+- Lanzamiento inicial. Únicamente para pruebas.

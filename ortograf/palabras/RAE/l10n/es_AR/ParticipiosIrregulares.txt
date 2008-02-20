@@ -1,0 +1,11 @@
+adscripto/GS
+circunscripto/GS
+descripto/GS
+inscripto/GS
+prescripto/GS
+proscripto/GS
+sobrescripto/GS
+subscripto/GS
+suscripto/GS
+transcripto/GS
+trascripto/GS

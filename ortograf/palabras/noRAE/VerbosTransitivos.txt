@@ -1,0 +1,6 @@
+dimensionar/RED
+reasignar/RED
+recapturar/RED
+recombinar/RED
+redirigir/RED
+reinventar/RED

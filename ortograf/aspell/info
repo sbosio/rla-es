@@ -1,0 +1,40 @@
+name_english Spanish
+name_native Español
+name_ascii Espanol
+lang es
+data-file es_affix.dat
+mode aspell6
+
+author:
+  name Santiago Bosio
+  name-native Santiago Bosio
+  email sbosio at fullzero com ar
+author:
+  name Consejeria de Infraestructuras y Transporte de la Generalitat Valenciana
+  name-native Conselleria d'Infraestructures I Transport de la Generalitat Valenciana
+# note Financed first aspell packaged work
+author:
+  name Ismael Olea
+  email ismael at olea org
+  maintainer true
+copyright LGPL
+url https://svn.hispalinux.es/websvn/listing.php?repname=rla-es&path=%2F&sc=0
+#source_url Url of the original word list
+#source_version Version of the original word list used
+
+version 0.60-1b
+source-version 0.3
+complete false
+accurate unknown
+alias es español 
+alias es castellano
+alias es spanish
+
+dict:
+  name es
+  add es
+notes The present version is original work by Santiago Bosio and is not related with COES (http://www.datsi.fi.upm.es/~coes/)
+
+
+readme-extra Changelog-aspell-es.txt utf-8
+

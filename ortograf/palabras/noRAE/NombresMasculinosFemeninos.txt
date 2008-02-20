@@ -1,0 +1,3 @@
+capacitador/GS
+originador/GS
+prescriptor/GS

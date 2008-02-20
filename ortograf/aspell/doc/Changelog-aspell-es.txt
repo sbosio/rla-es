@@ -1,0 +1,8 @@
+* 2005-11-14 Ismael Olea <ismael@olea.org>
+- Primera versión aparentemente definitiva de la versión aspell6
+
+* 2005-11-11 Ismael Olea <ismael@olea.org>
+- Primera versión aspell 0.60 basada en el trabajo de sbosio sin material
+  COES.
+
+

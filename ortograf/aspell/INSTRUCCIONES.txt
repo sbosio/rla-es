@@ -1,0 +1,29 @@
+
+
+Por Ismael Olea
+2005-11-14
+
+Los pasos de creación del diccionario están integrados en el script
+autogen.sh.
+
+ 
+Estas son las instrucciones para crear aspell-es, la versión aspell del
+corrector.
+
+Ejecutar:
+	perl proc create
+	./configure
+
+Copiar fichero de afijos como es_affix.dat
+Copiar diccionario como es.wl
+
+ejecutar:
+	make dist
+
+
+- el script proc pertenece a la distribución de aspell-lang, lo he puesto
+aqui por pura comodidad, pero cuidadito con el.
+
+
+NOTA: Este trabajo ha sido financiado por la Conselleria de Infraestructuras
+y Transporte de la Generalitat Valenciana.
