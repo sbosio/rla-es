@@ -3757,7 +3757,7 @@ craso/S
 cráter/S
 creacionismo/S
 crecidos
-crecimiento/Sgpha
+crecimiento/Sgpa
 credenciero/S
 crédito/hS
 credo/S
@@ -4015,7 +4015,6 @@ decurión/S
 dédalo/S
 dedal/S
 dedil/S
-defendedor/S
 defensorio/S
 déficit
 definidor/S
@@ -4025,7 +4024,6 @@ deflagrador/S
 degolladero/S
 degollador/S
 degollado/S
-degollamiento/S
 degüello/S
 deicidio/S
 deíctico/S
@@ -4038,7 +4036,6 @@ dele/S
 deletreo/S
 delfín/S
 delgado/S
-delicto/S
 delinquimiento/S
 delirio/sS
 delito/S
@@ -4067,9 +4064,7 @@ depresor/S
 derechuelo/S
 dermatoesqueleto/S
 dermesto/S
-derramadero/S
 derramamiento/S
-derramaplaceres
 derrame/S
 derrelicto/S
 derretido/S
@@ -4148,7 +4143,6 @@ descuernacabras
 descuido/S
 desdén/S
 desdentado/S
-desdeño/S
 desdoro/S
 desencajamiento/S
 desenfreno/S
@@ -4161,7 +4155,6 @@ desfiguramiento/S
 desfiladero/S
 desfile/S
 desfloramiento/S
-desfrenamiento/S
 desgaire/S
 desgalgadero/S
 desgarramiento/S
@@ -4180,10 +4173,8 @@ desierto/S
 designio/S
 desistimiento/S
 desjuntamiento/S
-deslate/S
 deslazamiento/S
 desleimiento/S
-deslindamiento/S
 deslinde/S
 deslizadero/S
 deslizamiento/S

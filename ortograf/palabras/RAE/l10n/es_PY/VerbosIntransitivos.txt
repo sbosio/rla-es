@@ -4,6 +4,7 @@ camorrear/RED
 carretear/RED
 chambonear/RED
 churrasquear/RED
+denguear/RED
 dragonear/RED
 empacar/RED
 empozar/RED

@@ -4,6 +4,7 @@ cancanear/RED
 carretear/RED
 chambonear/RED
 chinguear/RED
+denguear/RED
 dragonear/RED
 empacar/RED
 empozar/RED

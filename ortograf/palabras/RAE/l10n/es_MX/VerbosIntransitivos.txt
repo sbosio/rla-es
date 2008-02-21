@@ -9,6 +9,7 @@ carretear/RED
 chacualear/RED
 chambonear/RED
 contrapuntear/RED
+denguear/RED
 destripar/RED
 dragonear/RED
 empacar/RED

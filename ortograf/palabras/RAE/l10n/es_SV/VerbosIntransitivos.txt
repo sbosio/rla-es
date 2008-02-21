@@ -6,6 +6,7 @@ carretear/RED
 chambonear/RED
 chotear/RED
 chucanear/RED
+denguear/RED
 dragonear/RED
 empacar/RED
 empozar/RED

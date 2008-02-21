@@ -153,13 +153,10 @@ datar/REDÀ
 declamar/RED
 declinar/REDÏ
 defecar/RED
-deferir/XD
 deglutir/REDÀ
 deletrear/REDÀÂ
 deliberar/RED
-demediar/RED
 dentar/IRD
-departir/RED
 deponer/XÀ
 desacelerar/RED
 desalojar/REDÀÁÂÄ
@@ -180,13 +177,10 @@ desengrasar/RED
 desengrosar/IRD
 desenmudecer/IRD
 desensebar/RED
-desfallecer/IRD
 desflemar/RED
-desfrutar/RED
 desgravar/RED
 deshilar/RED
 desinvernar/RED
-deslatar/RED
 desmentir/XDÀÁÂ
 desmerecer/IRDÀ
 despapar/RED

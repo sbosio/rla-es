@@ -10,6 +10,7 @@ chambonear/RED
 chingar/RED
 churrasquear/RED
 cinchar/RED
+denguear/RED
 dragonear/RED
 empacar/RED
 empozar/RED

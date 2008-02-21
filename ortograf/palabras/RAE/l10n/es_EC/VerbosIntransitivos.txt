@@ -4,6 +4,7 @@ camaronear/RED
 carretear/RED
 chambonear/RED
 contrapuntear/RED
+denguear/RED
 dragonear/RED
 empacar/RED
 empozar/RED

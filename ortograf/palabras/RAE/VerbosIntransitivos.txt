@@ -320,8 +320,8 @@ degenerar/RED
 delinquir/RED
 delirar/RED
 demarrar/RED
-denguear/RED
 dentellar/RED
+departir/RED
 depender/RED
 derrapar/RED
 derrenegar/IRD
@@ -333,12 +333,11 @@ descarrilar/RED
 descomer/RED
 desconfiar/IRD
 desconformar/RED
-descordar/IRD
-descrecer/IRD
 descuadrar/RED
 desemballestar/RED
 desembocar/RED
 desenfrailar/RED
+desfallecer/IRD
 desfilar/RED
 desistir/RED
 desmogar/RED

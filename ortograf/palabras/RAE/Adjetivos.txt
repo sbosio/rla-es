@@ -650,7 +650,7 @@ aluvial/S
 alveolar/S
 alvino/GS
 alzado/GS
-amable/Sh
+amable/S
 amaceno/GS
 amacigado/GS
 amador/GS
@@ -1219,7 +1219,7 @@ asistido/GS
 asmático/GS
 asnal/S
 asno/S
-asociable/hS
+asociable/S
 asociado/GS
 asociativo/GS
 asolador/SG
@@ -2624,7 +2624,7 @@ cluniense/S
 cnidario/S
 coagulable/S
 coagulador/SG
-coagulante/hS
+coagulante/S
 coaguloso/GS
 cobarde/S
 cobardón/SG
@@ -2904,7 +2904,7 @@ confiscable/S
 confiscatorio/GS
 confitado/SG
 conflictivo/GS
-conforme/hSk
+conforme/Sk
 conformista/kS
 confortable/S
 confortador/SG
@@ -3077,7 +3077,7 @@ contuso/S
 convaleciente/S
 convencional/S
 convenible/kS
-conveniente/kSh
+conveniente/kS
 conventual/S
 convergente/S
 conversable/hSk
@@ -3472,10 +3472,7 @@ declarativo/SG
 declaratorio/GS
 declinable/kS
 declinante/S
-decora/k
 decorativo/SG
-decoro/GSk
-decorosa/k
 decoroso/GSk
 decrépito/GS
 decumbente/S
@@ -3502,7 +3499,6 @@ deforme/S
 defraudador/GS
 degenerante/S
 degollador/GS
-degollante/S
 degradante/S
 dehiscente/Sk
 deicida/S
@@ -3515,7 +3511,6 @@ delatable/S
 delatador/GS
 delator/SG
 deleble/kS
-delectable/S
 delegado/GS
 delegatorio/GS
 deleitable/S
@@ -3648,7 +3643,6 @@ desapercibido/SG
 desapiadado/GS
 desarrapado/GS
 desastrado/GS
-desatalentado/SG
 desatinado/SG
 desavenido/GS
 desbaratado/GS
@@ -3674,11 +3668,9 @@ descomulgado/GS
 desconcertado/GS
 desconectado/GS
 descorazonador/GS
-descorregido/GS
 descosido/GS
 descriptible/Sk
 descriptivo/GS
-descriptor/GS
 descubierto/GS
 descubridor/SG
 descuidado/GS
@@ -3700,7 +3692,6 @@ desengañado/SG
 desensortijado/GS
 desenvuelto/GS
 deseoso/GS
-desequido/GS
 desértico/GS
 desertor/SG
 desesperado/GS
@@ -3718,7 +3709,6 @@ deshilado/GS
 deshojador/GS
 deshollinador/GS
 deshonrador/GS
-deshonrible/S
 deshuesador/GS
 desiderable/S
 desiderativo/SG
@@ -3731,7 +3721,6 @@ deslechugador/GS
 deslenguado/GS
 deslizable/S
 deslizadero/SG
-deslizadizo/SG
 deslizante/Sc
 deslumbrador/SG
 deslumbrante/S
@@ -3761,7 +3750,6 @@ desocupado/GS
 desodorante/S
 desodorizante/S
 desolador/GS
-desollado/GS
 desollador/GS
 desopilativo/SG
 desorejado/GS
@@ -4621,7 +4609,7 @@ enteco/GS
 entelerido/GS
 entendedor/GS
 entendida/h
-entendido/hSG
+entendido/SG
 enterado/GS
 entera/S
 enterizo/GS
@@ -6025,7 +6013,7 @@ guineano/GS
 guineo/SG
 guipuzcoano/GS
 guisada/ah
-guisado/ahSG
+guisado/aSG
 guisador/GS
 guloso/SG
 gurbionado/GS
@@ -7816,7 +7804,7 @@ maronita/S
 marrajo/GS
 marrano/GS
 marrida/ah
-marrido/GSha
+marrido/GSa
 marrón/S
 marroquí
 marroquíes

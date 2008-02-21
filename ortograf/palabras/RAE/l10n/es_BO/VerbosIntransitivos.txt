@@ -9,6 +9,7 @@ chambonear/RED
 churrasquear/RED
 contrapuntear/RED
 coquear/RED
+denguear/RED
 dragonear/RED
 empacar/RED
 empozar/RED

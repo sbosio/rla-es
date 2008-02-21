@@ -197,15 +197,11 @@ declarar/REDÀÂÄñò
 dejar/REDÀÁÂÃÄÅÌÍÎÏÙÚÛÜñòôø
 demorar/REDÀÁÅñò
 derivar/REDÀÄ
-derramar/REDÀÁñò
-derrocar/REDÀñ
 derrotar/REDÀÁÄñ
 desabotonar/RED
-desacordar/IRD
 desaguar/REDÀ
 desaparecer/IRDñ
 desarmar/REDÀÁñ
-desasentar/IRD
 desatracar/RED
 desayunar/REDÁñ
 desbabar/RED
@@ -217,9 +213,7 @@ descabezar/RED
 descargar/REDÀÄñ
 descorrer/RED
 descuidar/REDÀñ
-desdecir/Xñ
 desembarcar/REDÀ
-desencarecer/IRD
 desenfocar/RED
 desentonar/RED
 desesperar/REDÁñ
@@ -230,7 +224,6 @@ desmayar/REDñ
 desmedrar/RED
 desmejorar/RED
 desmontar/REDÀ
-desnevar/IRD
 despachar/REDÀñ
 despampanar/RED
 desparecer/IRD

@@ -8,6 +8,7 @@ camaronear/RED
 carretear/RED
 chambonear/RED
 chucanear/RED
+denguear/RED
 dragonear/RED
 embullar/RED
 empacar/RED

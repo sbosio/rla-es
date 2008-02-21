@@ -2,6 +2,7 @@ abejonear/RED
 antipatizar/RED
 carretear/RED
 chambonear/RED
+denguear/RED
 dragonear/RED
 empacar/RED
 empozar/RED

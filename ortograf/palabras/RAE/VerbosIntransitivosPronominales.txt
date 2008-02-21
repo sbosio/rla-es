@@ -42,15 +42,14 @@ copular/RED
 debruzar/RED
 desafinar/RED
 desagradar/REDñ
-desalivar/RED
 desbravar/RED
 desbravecer/IRD
 descollar/IRD
 desconvenir/XD
 descorrear/RED
+desdecir/Xñ
 desemperezar/RED
 desertar/RED
-desflorecer/IRD
 desperecer/IRD
 despotricar/RED
 desranchar/RED

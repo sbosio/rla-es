@@ -336,11 +336,11 @@ delibrar
 deliciarse
 deliñar
 delongar
-demarrarse
+demarrar
 demigar
 demonstrar
 demulcir
-denodarse
+denodar
 densar
 dentecer
 dentrotraer
@@ -353,6 +353,7 @@ derraigar
 derrancar
 derranchar
 derrelinquir
+derriscar
 derromper
 derronchar
 derrostrarse
@@ -364,6 +365,7 @@ desafiuciar
 desafiuzar
 desafuciar
 desajacarse
+desalar
 desañudar
 desapañar
 desaposesionar
@@ -385,7 +387,6 @@ descendir
 desconhortar
 desconsejar
 desconversar
-descordar
 descrinar
 descrucificar
 desdonar

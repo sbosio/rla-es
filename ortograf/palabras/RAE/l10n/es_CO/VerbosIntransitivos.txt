@@ -5,6 +5,7 @@ cancanear/RED
 carretear/RED
 chambonear/RED
 contrapuntear/RED
+denguear/RED
 descunchar/RED
 dragonear/RED
 embullar/RED

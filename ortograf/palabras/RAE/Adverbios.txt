@@ -319,8 +319,6 @@ delicadamente
 demás
 demasiadamente
 demasiado
-demientra
-denante
 dentro
 deprisa
 derechamente
@@ -336,7 +334,6 @@ desairadamente
 desanimadamente
 desapaciblemente
 desapasionadamente
-desapoderadamente
 desastradamente
 desatentadamente
 desatinadamente
@@ -346,7 +343,6 @@ descomedidamente
 descompuestamente
 descomunalmente
 desconfiadamente
-desconforme
 desconsideradamente
 desconsoladamente
 descubiertamente

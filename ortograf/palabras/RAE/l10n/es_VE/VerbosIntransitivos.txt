@@ -4,6 +4,7 @@ barajustar/RED
 buscar/RED
 carretear/RED
 chambonear/RED
+denguear/RED
 dragonear/RED
 empacar/RED
 empozar/RED

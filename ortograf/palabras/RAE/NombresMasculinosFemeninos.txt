@@ -568,7 +568,6 @@ decorador/GS
 defensa/S
 defensivo/GS
 defensor/GS
-dejado/GS
 delantero/GS
 delta/S
 demagogo/GS
@@ -585,6 +584,7 @@ deshuesador/GS
 deslindador/GS
 desmarojador/GS
 desmotador/GS
+desollado/GS
 desorden/S
 despalillador/GS
 despampanador/GS
