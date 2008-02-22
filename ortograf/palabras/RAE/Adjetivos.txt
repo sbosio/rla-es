@@ -873,6 +873,7 @@ anticuado/GS
 antidepresivo/GS
 antidroga/S
 antiguo/SG
+antihistamínico/GS
 antihelmíntico/SG
 antimonial/S
 antiniebla/S

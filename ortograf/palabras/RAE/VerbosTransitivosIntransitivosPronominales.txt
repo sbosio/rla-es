@@ -192,7 +192,7 @@ cuartear/RED
 cuidar/REDÀÁÄÅÌÍÙÚסעפר
 cumplir/REDÀסר
 curar/REDÀÁÂסעפר
-decir/XÀÁÂÃÈÉÊËבגדהסףת
+decir/XÀÁÂÃÈÉÊËÏבגדהסףת
 declarar/REDÀÂÄסע
 dejar/REDÀÁÂÃÄÅÌÍÎÏÙÚÛÜסעפר
 demorar/REDÀÁÅסע

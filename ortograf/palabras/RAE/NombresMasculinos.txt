@@ -976,6 +976,7 @@ antifonal/S
 antifonario/S
 antígeno/S
 antiguo/S
+antihistamínico/S
 antílope/S
 antimonio/S
 antipendio/S

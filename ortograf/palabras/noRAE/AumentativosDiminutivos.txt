@@ -16,6 +16,7 @@ igualito/GS
 indignadísimo/GS
 jovenzuelo/GS
 lentísimo/GS
+mayorcito/GS		# Contribuida por Gonzalo Higuera Díaz
 mismísimo/GS
 momentito/S
 muchísimo/GS

@@ -1749,7 +1749,7 @@ mancomunar/RED
 manejar/REDÄñòô
 mangar/RED
 manifestar/IRDñò
-mantener/XDÀñóöú
+mantener/XDÀÉñóöú
 maquillar/REDñòô
 marañar/RED
 maravillar/REDÁñ
@@ -1972,7 +1972,7 @@ recostar/IRDÀÄñòõù
 recrear/REDÀÄñòôø
 recriminar/REDÁÂÆñò
 rectificar/REDÀÁñ
-recuperar/REDÁÄñò
+recuperar/REDÁÄñòô
 redimir/REDÀÁÄñ
 redondear/RED
 reembarcar/RED
