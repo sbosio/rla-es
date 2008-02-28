@@ -1,3 +1,18 @@
+# Lista de lemas: VerbosTransitivos.txt
+# Copyright (C) 2004-2008 de Santiago Bosio (sbosio AT fullzero.com.ar)
+
+# Este listado es software libre: usted puede redistribuirlo y/o modificarlo
+# conforme a los términos de sólo una de las siguientes licencias (a su
+# elección):
+# - La Licencia Pública General de GNU, versión 3 (GPLv3)
+# - La Licencia Pública General Restringida de GNU, versión 3 (LGPLv3)
+# - La Licencia Pública de Mozilla, versión 1.1 (MPLv1.1)
+
+# Este listado se distribuye con el deseo que le resulte útil, pero
+# SIN GARANTÍAS DE NINGÚN TIPO; ni siquiera con las garantías implícitas
+# de COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO DETERMINADO. Para más
+# información consulte el texto de la licencia respectiva seleccionada.
+
 acolchonar/RED
 ajotar/RED
 albardear/RED
