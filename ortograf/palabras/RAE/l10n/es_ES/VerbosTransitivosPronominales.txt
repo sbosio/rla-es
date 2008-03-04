@@ -20,6 +20,7 @@ afatar/RED
 aganar/RED
 atalantar/RED
 derriscar/RED
+despelotar/RED
 despelucar/RED
 destupir/RED
 emboticar/RED

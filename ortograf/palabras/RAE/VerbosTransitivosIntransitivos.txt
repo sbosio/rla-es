@@ -199,9 +199,6 @@ desinvernar/RED
 desmentir/XDÀÁÂ
 desmerecer/IRDÀ
 despapar/RED
-desplayar/RED
-desquilatar/RED
-destellar/RED
 detonar/RED
 dialogar/RED
 diferir/XDÀ

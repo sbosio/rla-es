@@ -104,6 +104,7 @@ cuervera/S
 cuquera/S
 dalla/S
 despidida/S
+diezma/S
 doga/S
 donosilla/S
 dorna/S

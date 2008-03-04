@@ -469,6 +469,7 @@ destronchar
 destropar
 destullecer
 desturbar
+desvezar
 desuñir
 desyuncir
 detardar

@@ -3782,14 +3782,11 @@ despedazador/GS
 despegable/S
 despegador/GS
 despejado/GS
-despenador/GS
-despendedor/GS
 despeñadero/GS
 desperdiciado/GS
 desperdiciador/GS
 despertador/GS
 despiadado/GS
-despidiente/S
 despierto/GS
 despilfarrador/SG
 despinzador/SG
@@ -3830,7 +3827,6 @@ desvaído/S
 desvalido/GS
 desvalijador/GS
 desvanecedor/SG
-desvanecido/GS
 desventurado/GS
 desvergonzado/GS
 desviacionista/S
@@ -3842,7 +3838,6 @@ detectivesco/GS
 detenedor/GS
 detenido/GS
 detergente/S
-deterior/GS
 determinable/kS
 determinada/k
 determinado/GSk
@@ -3887,9 +3882,7 @@ diario/GS
 diarreico/GS
 diatónico/SG
 dibranquial/S
-dibujador/SG
 dibujante/S
-dicaz/S
 dicente/S
 dicharachero/GS
 dicha/rbp
@@ -3925,7 +3918,6 @@ diestro/GS
 diezmesino/GS
 diezmilésimo/SG
 diezmillonésimo/GS
-diezmo/GS
 diez/S
 difamador/GS
 difamatorio/GS
@@ -3935,7 +3927,6 @@ diferente/Sk
 difícil/S
 dificultador/GS
 dificultoso/GS
-difidente/S
 difluente/S
 difrangente/S
 diftérico/GS
@@ -4869,7 +4860,7 @@ espectroscópico/GS
 especulador/GS
 especular/S
 especulativo/GS
-espeluznante/gS
+espeluznante/S
 esperable/kS
 esperantista/S
 esperanzador/GS
@@ -9001,7 +8992,7 @@ pafio/GS
 pagable/aSk
 pagada/akh
 pagadero/GS
-pagado/GSkah
+pagado/GSka
 pagador/SGao
 pagano/GS
 paisajista/S
@@ -10298,7 +10289,7 @@ rayada/s
 rayado/GSs
 rayano/GS
 rayoso/SG
-razonable/kSh
+razonable/kS
 razonado/GS
 razonador/GS
 rea

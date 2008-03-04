@@ -975,7 +975,6 @@ despedazar/REDñ
 despedir/XDÀÁÉÊñóöú
 despeinar/REDÁñò
 despellejar/REDñò
-despelotar/RED
 despeluchar/RED
 despeluzar/RED
 despeñar/REDñ
@@ -987,8 +986,8 @@ despestañar/RED
 despezonar/RED
 despicar/RED
 despilfarrar/RED
+despintar/RED
 despiojar/RED
-despizcar/RED
 desplanchar/RED
 desplantar/RED
 desplazar/REDÀÄÆñòôø
@@ -1003,7 +1002,6 @@ despopularizar/RED
 desportillar/RED
 desposar/REDÁñ
 desposeer/REDÀ
-despreciar/REDÀÁñò
 desprender/REDÄñò
 desprestigiar/REDÁñ
 despresurizar/RED
@@ -1041,13 +1039,12 @@ desusar/RED
 desustanciar/RED
 desvalorizar/RED
 desvanecer/IRDñ
-desvarar/RED
 desvelar/REDÀÁÂÄÅñò
 desvencijar/RED
 desvendar/RED
 desvestir/XDÂÉñó
+desviar/IRDÀÁÄñò
 desvirtuar/IRDÀÄ
-desvolver/IR
 deszocar/RED
 deszumar/RED
 detener/XDÀÁÂÈÉÖáñóöú

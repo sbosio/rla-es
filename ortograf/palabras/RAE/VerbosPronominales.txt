@@ -234,13 +234,13 @@ desparrancar/RED
 despear/RED
 despelotar/RED
 despendolar/RED
+desperecer/IRD
 desperezar/REDñò
 despernancar/RED
 despezuñar/RED
 despreocupar/REDñôø
 desternillar/RED
 destoser/RED
-desvergonzar/IRD
 desvivir/REDñò
 dignar/REDôø
 eflorecer/IRD

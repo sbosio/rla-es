@@ -18,6 +18,7 @@ abracar/RED
 acalambrar/RED
 amelcochar/RED
 ameritar/RED
+despelotar/RED
 despercudir/RED
 embochinchar/RED
 enhorquetar/RED

@@ -358,8 +358,9 @@ desistir/RED
 desmogar/RED
 desovar/RED
 despichar/RED
+desplayar/RED
 destinar/RED
-destrejar/RED
+desvariar/IRD
 devalar/RED
 devanear/RED
 devenir/XD

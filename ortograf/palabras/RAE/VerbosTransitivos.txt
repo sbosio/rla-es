@@ -1403,6 +1403,7 @@ despleguetear/RED
 despoetizar/RED
 despolarizar/RED
 despolvorear/RED
+despreciar/REDÀÁò
 desprivatizar/RED
 despropiar/RED
 desproporcionar/RED
@@ -1420,7 +1421,6 @@ desraspar/RED
 desratizar/RED
 desrelingar/RED
 desroblar/RED
-destablar/RED
 destachonar/RED
 destaconar/RED
 destajar/RED
@@ -1431,6 +1431,7 @@ destarar/RED
 destazar/REDÀ
 destechar/RED
 destejar/RED
+destellar/RED
 destensar/RED
 destinar/REDÀÁÂÄÅÆ
 destituir/XDÀÁÂ
@@ -1448,6 +1449,7 @@ desvahar/RED
 desvainar/RED
 desvalijar/REDÀÂ
 desvalorar/RED
+desvarar/RED
 desvastigar/RED
 desvedar/RED
 desvelar/REDÀÁÂÄÅÆ
@@ -1458,6 +1460,7 @@ desvincular/REDÀÁÄ
 desvirar/RED
 desvirgar/REDÀ
 desvitrificar/RED
+desvolver/IR
 desyemar/RED
 desyerbar/RED
 desyugar/RED
@@ -1488,7 +1491,6 @@ dictar/REDÀÁÂÅÆ
 dietar/RED
 diezmar/RED
 difamar/REDÀÁÂÅ
-difumar/RED
 digerir/XDÀ
 dilapidar/REDÀ
 diligenciar/RED

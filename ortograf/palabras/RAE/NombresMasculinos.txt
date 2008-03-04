@@ -4211,10 +4211,10 @@ desnudo
 desodorante/S
 desolladero/S
 desollador/S
+desorden/S
 desorejamiento/S
 desove/S
 despabilador/S
-despachador/S
 despacho/bS
 despachurramiento/S
 despajador/S
@@ -4227,8 +4227,6 @@ despegue/S
 despeluzamiento/S
 despeñadero/S
 despeño/S
-despepitador/S
-despepitado/S
 desperdicio/S
 desperdigamiento/S
 desperfecto/S
@@ -4252,14 +4250,12 @@ despotismo/S
 despulpador/S
 despulsamiento/S
 desquiciamiento/S
-desquijaramiento/S
 desquite/S
 destacamento/S
 destajador/S
 destartalo/S
 destazador/S
 destello/S
-desterradero/S
 desterronamiento/S
 destierro/S
 destilador/S
@@ -4329,7 +4325,6 @@ diapente/S
 diaquenio/S
 diario/SO
 día/S
-diascordio/S
 diaspro/S
 dibranquial/S
 dibujo/S
@@ -4355,6 +4350,7 @@ diego/S
 diente/rS
 diésel/S
 dietario/S
+diezmo/S
 diez/S
 difumino/S
 difunto/S
@@ -4364,8 +4360,7 @@ digestor/S
 digesto/S
 dígito/S
 dígrafo/S
-dije
-dij/S
+dije/S
 dilema/S
 diligenciero/S
 dilucidario/S
@@ -4402,7 +4397,6 @@ dirigible/S
 disacárido/S
 disanto/S
 discernimiento/S
-disciplinante/S
 disciplinazo/S
 discipulado/S
 disco/S
@@ -11858,7 +11852,7 @@ taharal/S
 tahúr/S
 tajadero/Sa
 tajamar/S
-tajamiento/hSa
+tajamiento/Sa
 tajante/S
 tajero/S
 tajón/S

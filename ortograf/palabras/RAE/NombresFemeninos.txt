@@ -3246,11 +3246,8 @@ despechugadura/S
 despedida/S
 despellejadura/S
 despensa/S
-despinzadera/S
 desplumadura/S
-despoblada/S
 desportilladura/S
-despotiquez/S
 destechadura/S
 destetadera/S
 destilación/S
@@ -3267,7 +3264,6 @@ desviación/S
 detección/S
 detención/S
 determinación/kSnd
-detinencia/S
 detonación/S
 deuda/S
 devanadera/S

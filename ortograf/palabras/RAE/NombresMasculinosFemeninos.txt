@@ -600,7 +600,7 @@ deslindador/GS
 desmarojador/GS
 desmotador/GS
 desollado/GS
-desorden/S
+despachador/GS
 despalillador/GS
 despampanador/GS
 despensero/GS
@@ -610,6 +610,7 @@ desposando/GS
 destajero/GS
 destartalado/GS
 destinatario/GS
+desvalido/GS
 deudo/GS
 dezmero/GS
 dialéctico/GS
@@ -617,7 +618,6 @@ dictador/GS
 didáctico/GS
 diestro/GS
 diezmero/GS
-diezmo/GS
 diferencial/S
 dignatario/GS
 diplomático/GS

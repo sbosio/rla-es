@@ -65,9 +65,7 @@ descorrear/RED
 desdecir/Xñ
 desemperezar/RED
 desertar/RED
-desperecer/IRD
 despotricar/RED
-desranchar/RED
 doler/IRDñò
 embastecer/IRD
 embizcar/RED
