@@ -554,6 +554,7 @@ alemán/GS
 alentado/GS
 alentador/GSh
 alentoso/GS
+alergénico/GS
 alérgico/GS
 alero/S
 alesnado/GS
@@ -6230,6 +6231,8 @@ hipersensible/S
 hípico/SG
 hipnótico/SG
 hipnotizador/GS
+hipoalergénico/GS
+hipoalérgico/GS
 hipocicloide/S
 hipocondríaco/GS
 hipocorístico/GS

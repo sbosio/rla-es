@@ -27,7 +27,7 @@ abrir/REÀÁÂÃÄÅÆñò
 abstraer/XDÀÁÈñ
 acabar/REDÀÁÃÄÅñòôø
 acampar/RED
-aclarar/REDÀÁÂÃÄÅÆÍÙÚÛñòôø
+aclarar/REDÀÁÂÃÄÅÆÍÎÙÚÛñòôø
 acobardar/REDÁñ
 acomodar/REDÀÁÂÄÅÆñòôø
 acortar/REDÀÂÄ
