@@ -146,7 +146,7 @@ colear/RED
 comarcar/RED
 comenzar/IRDÀ
 concebir/XDÀÁÈ
-concluir/XDÀ
+concluir/IRDÀ
 concordar/IRDÀ
 condicionar/REDÀÁÂÄÅÎ
 consentir/XDÀÁÂÃ
@@ -154,7 +154,7 @@ contactar/REDÀÁÅÚ
 contestar/REDÀÁÂÃÅÆÌÍÎÚÛ
 contrastar/REDÀÄ
 contravenir/XD
-contribuir/XD
+contribuir/IRD
 controvertir/XD
 cosechar/REDÀ
 cosquillear/REDÁÂÅÆ
@@ -329,7 +329,7 @@ huchear/RED
 husmear/REDÀÂÆ
 idolatrar/REDÄ
 importar/REDÀÁÂÄÅÆ
-influir/XDÀÁÂÈ
+influir/IRDÀÁÂÈ
 ingresar/REDÀÁÂ
 inhalar/REDÀÄ
 instar/REDÀÂÄÅÆ

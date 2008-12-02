@@ -1,5 +1,5 @@
---- ../../afijos.txt	2005-11-11 13:17:19.517974007 -0300
-+++ afijos.txt	2005-11-11 13:19:07.072752718 -0300
+--- ../../afijos.txt	2008-11-14 11:21:22.000000000 -0200
++++ afijos.txt	2008-12-01 18:17:38.000000000 -0200
 @@ -1,8 +1,8 @@
  #
 -# es_ANY.aff
@@ -10,7 +10,7 @@
 +# Definición de prefijos y sufijos comunes del idioma español de
 +# México.
  #
- # Copyright 2004-2005, Santiago Bosio.
+ # Copyright 2004-2008, Santiago Bosio.
  #
 @@ -17,7 +17,7 @@
  TRY aeroinsctldumpbgfvhzóíjáqéñxyúükwAEROINSCTLDUMPBGFVHZÓÍJÁQÉÑXYÚÜKW
@@ -116,17 +116,16 @@
  
  # Mapeo de caracteres. Es útil en palabras acentuadas en la vocal incorrecta.
  # Por ej.: autómatico -> automático. Si bien estos casos son poco frecuentes,
-@@ -530,21 +599,19 @@
+@@ -530,21 +618,18 @@
  # - Verbos regulares de 1ª, 2ª y 3ª conjugación (los que se conjugan
  # igual que los verbos modelos 'amar', 'temer' y 'partir').
  # - Verbos irregulares de presente del indicativo, imperativo y subjuntivo.
--SFX R Y 202
-+SFX R Y 157
+-SFX R Y 240
++SFX R Y 189
  #
  # Presente del indicativo, formas invariables.
  #
 -SFX R ar        ás        ar        # 2ª pers. sing. (vos), terminación -ar.
-+#SFX R ar        ás        ar        # 2ª pers. sing. (vos), terminación -ar.
  SFX R r         mos       [aei]r    # 1ª pers. pl. terminación -ar, -er, -ir.
 -SFX R ar        áis       ar        # 2ª pers. pl. terminación -ar.
  #
@@ -141,7 +140,7 @@
  #
  # Pretérito perfecto simple del indicativo, terminación -ar.
  #
-@@ -556,8 +623,7 @@
+@@ -556,8 +641,7 @@
  SFX R zar       cé        zar       # Alt. ortográfica
  SFX R r         ste       ar        # 2ª pers. sing.
  SFX R ar        ó         ar        # 3ª pers. sing.
@@ -151,7 +150,7 @@
  #
  # Futuro del indicativo, terminaciones -ar, -er, -ir.
  #
-@@ -565,16 +631,14 @@
+@@ -565,16 +649,14 @@
  SFX R 0         ás        [aei]r    # 2ª pers. sing.
  SFX R 0         á         [aei]r    # 3ª pers. sing.
  SFX R 0         emos      [aei]r    # 1ª pers. pl.
@@ -170,7 +169,7 @@
  #
  # Presente del subjuntivo. Formas invariables, terminación -ar
  #
-@@ -584,12 +648,6 @@
+@@ -584,12 +666,6 @@
  SFX R ar        emos      [^g]uar
  SFX R uar       üemos     guar      # Alt. ortográfica
  SFX R zar       cemos     zar       # Alt. ortográfica
@@ -183,7 +182,7 @@
  #
  # Pretérito imperfecto del subjuntivo, terminación -ar.
  #
-@@ -599,23 +657,19 @@
+@@ -599,23 +675,15 @@
  SFX R r         ses       ar        # 2ª pers. sing.
  SFX R ar        áramos    ar        # 1ª pers. pl.
  SFX R ar        ásemos    ar        # 1ª pers. pl.
@@ -201,25 +200,24 @@
  SFX R ar        áremos    ar        # 1ª pers. pl.
 -SFX R 0         eis       ar        # 2ª pers. pl.
 -SFX R 0         en        ar        # 3ª pers. pl.
-+SFX R 0         en        ar        # 2ª y 3ª pers. pl.
- #
+-#
 -# Presente del imperativo
-+# Presente del imperativo, terminación -ar
- #
+-#
 -SFX R ar        á         ar        # 2ª pers. sing. (vos)
 -SFX R r         d         [aei]r    # 2ª pers. pl.
-+#SFX R ar        á         ar        # 2ª pers. sing. (vos)
++SFX R 0         en        ar        # 2ª y 3ª pers. pl.
  #
  # Gerundio, terminación -ar.
  #
-@@ -628,16 +682,14 @@
+@@ -626,18 +694,12 @@
  #
- # Presente del indicativo. Formas invariables, terminación -er
+ SFX R 0         se        [aeií]r
  #
+-# Presente del indicativo. Formas invariables, terminación -er
+-#
 -SFX R er        és        er        # 2ª pers. sing. (vos), terminación -er.
 -SFX R er        éis       er        # 2ª pers. pl.
-+#SFX R er        és        er        # 2ª pers. sing. (vos), terminación -er.
- #
+-#
  # Pretérito imperfecto del indicativo, terminación -er.
  #
  SFX R er        ía        er        # 1ª y 3ª pers. sing.
@@ -231,7 +229,7 @@
  #
  # Pretérito perfecto simple del indicativo, terminación -er.
  #
-@@ -648,9 +700,7 @@
+@@ -648,9 +710,7 @@
  SFX R er        yó        [aeo]er   # Alt. ortográfica.
  SFX R er        imos      [^aeo]er  # 1ª pers. pl.
  SFX R er        ímos      [aeo]er   # Alt. ortográfica.
@@ -242,7 +240,7 @@
  SFX R er        yeron     [aeo]er   # Alt. ortográfica.
  #
  # Pretérito imperfecto del subjuntivo, terminación -er.
-@@ -667,13 +717,9 @@
+@@ -667,13 +727,9 @@
  SFX R er        yéramos   [aeo]er   # Alt. ortográfica.
  SFX R er        iésemos   [^aeo]er  # 1ª pers. pl.
  SFX R er        yésemos   [aeo]er   # Alt. ortográfica.
@@ -258,7 +256,7 @@
  SFX R er        yesen     [aeo]er   # Alt. ortográfica.
  #
  # Futuro del subjuntivo, terminación -er.
-@@ -684,9 +730,7 @@
+@@ -684,9 +740,7 @@
  SFX R er        yeres     [aeo]er   # Alt. ortográfica.
  SFX R er        iéremos   [^aeo]er  # 1ª pers. pl.
  SFX R er        yéremos   [aeo]er   # Alt. ortográfica.
@@ -269,18 +267,18 @@
  SFX R er        yeren     [aeo]er   # Alt. ortográfica.
  #
  # Gerundio, terminación -er
-@@ -700,19 +744,18 @@
+@@ -698,21 +752,12 @@
+ SFX R r         ndo       ñer       # Alt. ortográfica.
+ SFX R er        éndose    ñer
  #
- # Presente del imperativo, terminación -er
- #
+-# Presente del imperativo, terminación -er
+-#
 -SFX R er        é         er        # 2ª pers. sing. (vos).
-+#SFX R er        é         er        # 2ª pers. sing. (vos)
- #
- # Presente del indicativo. Formas invariables, terminación -ir
- #
+-#
+-# Presente del indicativo. Formas invariables, terminación -ir
+-#
 -SFX R ir        ís        ir        # 2ª pers. sing. (vos) y pl. (vosotros).
-+#SFX R ir        ís        ir        # 2ª pers. sing. (vos), terminación -ir.
- #
+-#
  # Pretérito imperfecto del indicativo, terminación -ir.
  #
  SFX R ir        ía        ir        # 1ª y 3ª pers. sing.
@@ -292,72 +290,92 @@
  #
  # Pretérito perfecto simple del indicativo
  #
-@@ -722,8 +765,7 @@
- SFX R r         ó         [^l]lir
- SFX R ir        ó         llir      # Alt. ortográfica.
+@@ -724,8 +769,7 @@
  SFX R ir        ó         ñir       # Alt. ortográfica.
+ SFX R r         ó         [gq]uir
+ SFX R ir        yó        [^gq]uir  # Alt. ortográfica.
 -SFX R r         steis     ir        # 2ª pers. pl.
--SFX R r         eron      [^lñ]ir   # 3ª pers. pl.
-+SFX R r         eron      [^lñ]ir   # 2ª y 3ª pers. pl.
+-SFX R r         eron      [^lñu]ir  # 3ª pers. pl.
++SFX R r         eron      [^lñu]ir  # 2ª y 3ª pers. pl.
  SFX R r         eron      [^l]lir
  SFX R ir        eron      llir      # Alt. ortográfica.
  SFX R ir        eron      ñir       # Alt. ortográfica.
-@@ -754,22 +796,14 @@
- SFX R r         ésemos    [^l]lir   # 1ª pers. pl.
- SFX R ir        ésemos    llir      # 1ª pers. pl.
+@@ -770,30 +814,18 @@
  SFX R ir        ésemos    ñir       # 1ª pers. pl.
--SFX R r         erais     [^lñ]ir   # 2ª pers. pl.
+ SFX R r         ésemos    [gq]uir   # 1ª pers. pl.
+ SFX R ir        yésemos   [^gq]uir  # 1ª pers. pl.
+-SFX R r         erais     [^lñu]ir  # 2ª pers. pl.
 -SFX R r         erais     [^l]lir   # 2ª pers. pl.
 -SFX R ir        erais     llir      # 2ª pers. pl.
 -SFX R ir        erais     ñir       # 2ª pers. pl.
--SFX R r         eseis     [^lñ]ir   # 2ª pers. pl.
+-SFX R r         erais     [gq]uir   # 2ª pers. pl.
+-SFX R ir        yerais    [^gq]uir  # 2ª pers. pl.
+-SFX R r         eseis     [^lñu]ir  # 2ª pers. pl.
 -SFX R r         eseis     [^l]lir   # 2ª pers. pl.
 -SFX R ir        eseis     llir      # 2ª pers. pl.
 -SFX R ir        eseis     ñir       # 2ª pers. pl.
--SFX R r         eran      [^lñ]ir   # 3ª pers. pl.
+-SFX R r         eseis     [gq]uir   # 2ª pers. pl.
+-SFX R ir        yeseis    [^gq]uir  # 2ª pers. pl.
+-SFX R r         eran      [^lñu]ir  # 3ª pers. pl.
 -SFX R r         eran      [^l]lir   # 3ª pers. pl.
 -SFX R ir        eran      llir      # 3ª pers. pl.
 -SFX R ir        eran      ñir       # 3ª pers. pl.
--SFX R r         esen      [^lñ]ir   # 3ª pers. pl.
+-SFX R r         eran      [gq]uir   # 3ª pers. pl.
+-SFX R ir        yeran     [^gq]uir  # 3ª pers. pl.
+-SFX R r         esen      [^lñu]ir  # 3ª pers. pl.
 -SFX R r         esen      [^l]lir   # 3ª pers. pl.
 -SFX R ir        esen      llir      # 3ª pers. pl.
 -SFX R ir        esen      ñir       # 3ª pers. pl.
-+SFX R r         eran      [^lñ]ir   # 2ª y 3ª pers. pl.
+-SFX R r         esen      [gq]uir   # 3ª pers. pl.
+-SFX R ir        yesen     [^gq]uir  # 3ª pers. pl.
++SFX R r         eran      [^lñu]ir  # 2ª y 3ª pers. pl.
 +SFX R r         eran      [^l]lir   # 2ª y 3ª pers. pl.
 +SFX R ir        eran      llir      # 2ª y 3ª pers. pl.
 +SFX R ir        eran      ñir       # 2ª y 3ª pers. pl.
-+SFX R r         esen      [^lñ]ir   # 2ª y 3ª pers. pl.
++SFX R r         eran      [gq]uir   # 2ª y 3ª pers. pl.
++SFX R ir        yeran     [^gq]uir  # 2ª y 3ª pers. pl.
++SFX R r         esen      [^lñu]ir  # 2ª y 3ª pers. pl.
 +SFX R r         esen      [^l]lir   # 2ª y 3ª pers. pl.
 +SFX R ir        esen      llir      # 2ª y 3ª pers. pl.
 +SFX R ir        esen      ñir       # 2ª y 3ª pers. pl.
++SFX R r         esen      [gq]uir   # 2ª y 3ª pers. pl.
++SFX R ir        yesen     [^gq]uir  # 2ª y 3ª pers. pl.
  #
  # Futuro del subjuntivo
  #
-@@ -785,14 +819,10 @@
- SFX R r         éremos    [^l]lir   # 1ª pers. pl.
- SFX R ir        éremos    llir      # 1ª pers. pl.
+@@ -815,18 +847,12 @@
  SFX R ir        éremos    ñir       # 1ª pers. pl.
--SFX R r         ereis     [^lñ]ir   # 2ª pers. pl.
+ SFX R r         éremos    [gq]uir   # 1ª pers. pl.
+ SFX R ir        yéremos   [^gq]uir  # 1ª pers. pl.
+-SFX R r         ereis     [^lñu]ir  # 2ª pers. pl.
 -SFX R r         ereis     [^l]lir   # 2ª pers. pl.
 -SFX R ir        ereis     llir      # 2ª pers. pl.
 -SFX R ir        ereis     ñir       # 2ª pers. pl.
--SFX R r         eren      [^lñ]ir   # 3ª pers. pl.
+-SFX R r         ereis     [gq]uir   # 2ª pers. pl.
+-SFX R ir        yereis    [^gq]uir  # 2ª pers. pl.
+-SFX R r         eren      [^lñu]ir  # 3ª pers. pl.
 -SFX R r         eren      [^l]lir   # 3ª pers. pl.
 -SFX R ir        eren      llir      # 3ª pers. pl.
 -SFX R ir        eren      ñir       # 3ª pers. pl.
-+SFX R r         eren      [^lñ]ir   # 2ª y 3ª pers. pl.
+-SFX R r         eren      [gq]uir   # 3ª pers. pl.
+-SFX R ir        yeren     [^gq]uir  # 3ª pers. pl.
++SFX R r         eren      [^lñu]ir  # 2ª y 3ª pers. pl.
 +SFX R r         eren      [^l]lir   # 2ª y 3ª pers. pl.
 +SFX R ir        eren      llir      # 2ª y 3ª pers. pl.
 +SFX R ir        eren      ñir       # 2ª y 3ª pers. pl.
++SFX R r         eren      [gq]uir   # 2ª y 3ª pers. pl.
++SFX R ir        yeren     [^gq]uir  # 2ª y 3ª pers. pl.
  #
  # Gerundio, terminación -ir.
  #
-@@ -807,12 +837,12 @@
- #
- # Presente del imperativo, terminación -ir
- #
+@@ -842,15 +868,11 @@
+ SFX R r         éndose    [gq]uir
+ SFX R ir        yendo     [^gq]uir  # Alt. ortográfica
+ SFX R ir        yéndose   [^gq]uir  # Alt. ortográfica
+-#
+-# Presente del imperativo, terminación -ir
+-#
 -SFX R ir        í         ir        # 2ª pers. sing. (vos)
-+#SFX R ir        í         ir        # 2ª pers. sing. (vos)
  
  # Conjugaciones específicas para verbos regulares de 1ª, 2ª y 3ª conjugación.
  # Presente de indicativo y subjuntivo. Salvo formas invariables (2ª y 3ª
@@ -367,7 +385,7 @@
  #
  # Presente del indicativo.
  #
-@@ -835,7 +865,7 @@
+@@ -873,7 +895,7 @@
  SFX E ar        es        [^g]uar
  SFX E uar       ües       guar      # Alt. ortográfica.
  SFX E zar       ces       zar       # Alt. ortográfica.
@@ -376,7 +394,7 @@
  SFX E car       quen      car       # Alt. ortográfica.
  SFX E gar       guen      gar       # Alt. ortográfica.
  SFX E ar        en        [^g]uar
-@@ -859,10 +889,7 @@
+@@ -897,10 +919,7 @@
  SFX E er        amos      [^cg]er   # 1ª pers. pl. terminación -er
  SFX E cer       zamos     cer       # Alt. ortográfica.
  SFX E ger       jamos     ger       # Alt. ortográfica.
@@ -388,7 +406,7 @@
  SFX E cer       zan       cer       # Alt. ortográfica.
  SFX E ger       jan       ger       # Alt. ortográfica.
  #
-@@ -875,7 +902,7 @@
+@@ -913,7 +932,7 @@
  SFX E quir      co        quir      # Alt. ortográfica.
  SFX E ir        es        ir        # 2ª pers. sing. terminación -ir
  SFX E ir        e         ir        # 3ª pers. sing. terminación -ir
@@ -397,7 +415,7 @@
  #
  # Presente del subjuntivo, terminación -ir
  #
-@@ -894,12 +921,7 @@
+@@ -932,12 +951,7 @@
  SFX E gir       jamos     gir       # Alt. ortográfica.
  SFX E uir       amos      guir      # Alt. ortográfica.
  SFX E quir      camos     quir      # Alt. ortográfica.
@@ -411,28 +429,26 @@
  SFX E cir       zan       cir       # Alt. ortográfica.
  SFX E gir       jan       gir       # Alt. ortográfica.
  SFX E uir       an        guir      # Alt. ortográfica.
-@@ -909,13 +931,13 @@
+@@ -947,13 +961,12 @@
  # Son aquellos verbos que varían en el presente del indicativo, imperativo
  # y subjuntivo, manteniéndose en los restantes tiempos la misma conjugación
  # que los regulares.
--SFX I Y 732
-+SFX I Y 716
+-SFX I Y 741
++SFX I Y 724
  #
  # Verbos irregulares que se conjugan como el modelo 'acertar'.
  #
  SFX I ertar     ierto     ertar     # Terminación '-ertar' como 'acertar'.
  SFX I ertar     iertas    ertar
 -SFX I ar        ás        ar        # 2ª pers. sing. (vos), terminación -ar
-+#SFX I ar        ás        ar        # 2ª pers. sing. (vos), terminación -ar
  SFX I ertar     ierta     ertar
  SFX I ertar     iertan    ertar
  SFX I ertar     ierte     ertar
-@@ -1477,13 +1499,12 @@
+@@ -1515,13 +1528,11 @@
  #
  SFX I cer       zco       [ae]cer   # Terminación '-cer' como 'abastecer' y
  SFX I r         s         [ae]cer   # 'complacer'.
 -SFX I er        és        er        # 2ª pers. sing. (vos), terminación -er
-+#SFX I er        és        er        # 2ª pers. sing. (vos), terminación -er
  SFX I r         0         [ae]cer
  SFX I r         n         [ae]cer
  SFX I cer       zca       [ae]cer
@@ -442,7 +458,7 @@
  SFX I cer       zcan      [ae]cer
  SFX I cer       zco       nocer     # Terminación '-nocer' como 'conocer'.
  SFX I r         s         nocer
-@@ -1492,7 +1513,6 @@
+@@ -1530,7 +1541,6 @@
  SFX I cer       zca       nocer
  SFX I cer       zcas      nocer
  SFX I cer       zcamos    nocer
@@ -450,7 +466,7 @@
  SFX I cer       zcan      nocer
  #
  # Verbos irregulares que se conjugan como el modelo 'mover'.
-@@ -1504,7 +1524,6 @@
+@@ -1542,7 +1552,6 @@
  SFX I olver     uelva     olver
  SFX I olver     uelvas    olver
  SFX I er        amos      [^aoc]er
@@ -458,7 +474,7 @@
  SFX I olver     uelvan    olver
  SFX I over      uevo      over      # Terminación '-over' como 'mover'.
  SFX I over      ueves     over
-@@ -1520,7 +1539,6 @@
+@@ -1558,7 +1567,6 @@
  SFX I ocer      ueza      cocer
  SFX I ocer      uezas     cocer
  SFX I cer       zamos     cocer
@@ -466,7 +482,7 @@
  SFX I ocer      uezan     cocer
  SFX I oler      uelo      oler      # Terminación '-oler' como 'condoler'.
  SFX I oler      ueles     oler
-@@ -1536,7 +1554,6 @@
+@@ -1574,7 +1582,6 @@
  SFX I orcer     uerza     orcer
  SFX I orcer     uerzas    orcer
  SFX I cer       zamos     orcer
@@ -474,7 +490,7 @@
  SFX I orcer     uerzan    orcer
  SFX I order     uerdo     order     # Terminación '-order' como 'morder'.
  SFX I order     uerdes    order
-@@ -1593,8 +1610,6 @@
+@@ -1631,8 +1638,6 @@
  SFX I cer       zgas      yacer
  SFX I cer       gas       yacer
  SFX I cer       zgamos    yacer
@@ -483,7 +499,7 @@
  SFX I cer       zgan      yacer
  SFX I cer       gan       yacer
  #
-@@ -1607,7 +1622,6 @@
+@@ -1645,7 +1650,6 @@
  SFX I er        iga       aer
  SFX I er        igas      aer
  SFX I er        igamos    aer
@@ -491,7 +507,7 @@
  SFX I er        igan      aer
  #
  # Verbos irregulares que se conjugan como el modelo 'roer'.
-@@ -1622,8 +1636,6 @@
+@@ -1660,8 +1664,6 @@
  SFX I er        igas      oer
  SFX I er        yas       oer
  SFX I er        igamos    oer
@@ -500,12 +516,11 @@
  SFX I er        igan      oer
  SFX I er        yan       oer
  #
-@@ -1631,13 +1643,12 @@
+@@ -1669,13 +1671,11 @@
  #
  SFX I ir        go        sir       # Únicamente terminación '-sir'.
  SFX I ir        es        sir
 -SFX I ir        ís        ir        # 2ª pers. sing. (vos), terminación -ir
-+#SFX I ir        ís        ir        # 2ª pers. sing. (vos), terminación -ir
  SFX I ir        e         sir
  SFX I ir        en        sir
  SFX I ir        ga        sir
@@ -515,15 +530,17 @@
  SFX I ir        gan       sir
  #
  # Verbos irregulares que se conjugan como el modelo 'discernir'.
-@@ -1649,7 +1660,6 @@
+@@ -1686,8 +1686,7 @@
+ SFX I ernir     iernen    ernir
  SFX I ernir     ierna     ernir
  SFX I ernir     iernas    ernir
- SFX I ir        amos      [^cs]ir
--SFX I ir        áis       [^cs]ir
+-SFX I ir        amos      [^csu]ir
+-SFX I ir        áis       [^csu]ir
++SFX I ir        amos      [^cs]ir
  SFX I ernir     iernan    ernir
  SFX I endir     iendo     endir     # Terminación '-endir' como 'hendir'.
  SFX I endir     iendes    endir
-@@ -1678,7 +1688,6 @@
+@@ -1716,7 +1715,6 @@
  SFX I cir       zca       cir
  SFX I cir       zcas      cir
  SFX I cir       zcamos    cir
@@ -531,40 +548,38 @@
  SFX I cir       zcan      cir
  #
  # Verbos irregulares que se conjugan como el modelo 'reunir'.
-@@ -1699,7 +1708,7 @@
- SFX I unir      únan      unir
+@@ -1745,11 +1743,10 @@
+ SFX I ir        ya        uir
+ SFX I ir        yas       uir
+ SFX I ir        yamos     uir
+-SFX I ir        yáis      uir
+ SFX I ir        yan       uir
  
  # Verbos irregulares de pretéritos, condicionales y futuros.
--SFX X Y 1171
-+SFX X Y 987
+-SFX X Y 1141
++SFX X Y 971
  #
  # Presente de indicativo, diversas terminaciones en -er e -ir.
  #
-@@ -1707,9 +1716,7 @@
+@@ -1757,9 +1754,6 @@
  SFX X r         s         oner
  SFX X r         0         oner
  SFX X r         mos       [ei]r
 -SFX X er        éis       [^v]er
 -SFX X er        éis       [es]ver
 -SFX X er        és        [^v]er
-+#SFX X er        és        [^v]er
  SFX X r         n         oner
  SFX X erer      iero      erer
  SFX X erer      ieres     erer
-@@ -1746,9 +1753,9 @@
+@@ -1796,7 +1790,6 @@
  SFX X erir      iero      erir
  SFX X erir      ieres     erir
  SFX X erir      iere      erir
--SFX X ir        ís        [^u]ir
--SFX X ir        is        [^g]uir
--SFX X ir        ís        guir
-+#SFX X ir        ís        [^u]ir
-+#SFX X ir        is        [^g]uir
-+#SFX X ir        ís        guir
+-SFX X ir        ís        ir
  SFX X erir      ieren     erir
  SFX X ertir     ierto     ertir
  SFX X ertir     iertes    ertir
-@@ -1857,8 +1864,6 @@
+@@ -1901,8 +1894,6 @@
  SFX X r         ías       ver
  SFX X er        íamos     [^v]er
  SFX X r         íamos     ver
@@ -573,7 +588,7 @@
  SFX X er        ían       [^v]er
  SFX X r         ían       ver
  SFX X ir        ía        ir
-@@ -1878,25 +1883,21 @@
+@@ -1922,25 +1913,21 @@
  SFX X oner      usiste    oner
  SFX X oner      uso       oner
  SFX X oner      usimos    oner
@@ -599,7 +614,7 @@
  SFX X er        jeron     raer
  SFX X acer      ice       [^ae]hacer
  SFX X acer      íce       [ae]hacer
-@@ -1906,19 +1907,16 @@
+@@ -1950,19 +1937,16 @@
  SFX X acer      ízo       [ae]hacer
  SFX X acer      izo       facer
  SFX X acer      icimos    acer
@@ -619,7 +634,7 @@
  SFX X 0         on        ñer
  SFX X er        í         ler
  SFX X er        í         [es]ver
-@@ -1926,12 +1924,10 @@
+@@ -1970,12 +1954,10 @@
  SFX X er        ió        ler
  SFX X er        ió        [es]ver
  SFX X er        imos      [lv]er
@@ -632,7 +647,7 @@
  SFX X erir      irieron   erir
  SFX X ertir     irtió     ertir
  SFX X ertir     irtieron  ertir
-@@ -1949,13 +1945,11 @@
+@@ -1993,13 +1975,11 @@
  SFX X cir       jiste     ucir
  SFX X cir       jo        ucir
  SFX X cir       jimos     ucir
@@ -644,9 +659,9 @@
  SFX X enir      inimos    enir
 -SFX X enir      inisteis  enir
  SFX X enir      inieron   enir
- SFX X ir        yó        [^g]uir
- SFX X ir        yeron     [^g]uir
-@@ -1985,13 +1979,11 @@
+ SFX X üir       uyó       üir
+ SFX X üir       uyeron    üir
+@@ -2027,13 +2007,11 @@
  SFX X ecir      ijiste    ecir
  SFX X ecir      ijo       ecir
  SFX X ecir      ijimos    ecir
@@ -660,7 +675,7 @@
  SFX X eír       ieron     eír
  SFX X ír        yó        oír
  SFX X ír        yeron     oír
-@@ -2002,97 +1994,81 @@
+@@ -2044,97 +2022,81 @@
  SFX X er        drás      ner
  SFX X er        drá       ner
  SFX X er        dremos    ner
@@ -758,7 +773,7 @@
  SFX X ír        irán      ír
  #
  # Condicional del indicativo, diversas terminaciones en -er e -ir.
-@@ -2100,82 +2076,66 @@
+@@ -2142,82 +2104,66 @@
  SFX X er        dría      ner
  SFX X er        drías     ner
  SFX X er        dríamos   ner
@@ -841,7 +856,7 @@
  SFX X 0         ían       ucir
  #
  # Presente del subjuntivo, diversas terminaciones en -er e -ir.
-@@ -2183,172 +2143,138 @@
+@@ -2225,167 +2171,134 @@
  SFX X er        ga        ner
  SFX X er        gas       ner
  SFX X er        gamos     ner
@@ -932,11 +947,6 @@
  SFX X ir        gamos     enir
 -SFX X ir        gáis      enir
  SFX X ir        gan       enir
- SFX X ir        ya        [^g]uir
- SFX X ir        yas       [^g]uir
- SFX X ir        yamos     [^g]uir
--SFX X ir        yáis      [^g]uir
- SFX X ir        yan       [^g]uir
  SFX X üir       uya       üir
  SFX X üir       uyas      üir
  SFX X üir       uyamos    üir
@@ -1014,7 +1024,7 @@
  SFX X ír        igan      oír
  #
  # Pretérito imperfecto del subjuntivo, diversas terminaciones en -er e -ir.
-@@ -2359,8 +2285,6 @@
+@@ -2396,8 +2309,6 @@
  SFX X oner      usieses   oner
  SFX X oner      usiéramos oner
  SFX X oner      usiésemos oner
@@ -1023,7 +1033,7 @@
  SFX X oner      usieran   oner
  SFX X oner      usiesen   oner
  SFX X erer      isiera    erer
-@@ -2369,8 +2293,6 @@
+@@ -2406,8 +2317,6 @@
  SFX X erer      isieses   erer
  SFX X erer      isiéramos erer
  SFX X erer      isiésemos erer
@@ -1032,7 +1042,7 @@
  SFX X erer      isieran   erer
  SFX X erer      isiesen   erer
  SFX X ener      uviera    ener
-@@ -2379,8 +2301,6 @@
+@@ -2416,8 +2325,6 @@
  SFX X ener      uvieses   ener
  SFX X ener      uviéramos ener
  SFX X ener      uviésemos ener
@@ -1041,7 +1051,7 @@
  SFX X ener      uvieran   ener
  SFX X ener      uviesen   ener
  SFX X er        jera      raer
-@@ -2389,8 +2309,6 @@
+@@ -2426,8 +2333,6 @@
  SFX X er        jeses     raer
  SFX X er        jéramos   raer
  SFX X er        jésemos   raer
@@ -1050,7 +1060,7 @@
  SFX X er        jeran     raer
  SFX X er        jesen     raer
  SFX X acer      iciera    acer
-@@ -2399,8 +2317,6 @@
+@@ -2436,8 +2341,6 @@
  SFX X acer      icieses   acer
  SFX X acer      iciéramos acer
  SFX X acer      iciésemos acer
@@ -1059,7 +1069,7 @@
  SFX X acer      icieran   acer
  SFX X acer      iciesen   acer
  SFX X aber      upiera    aber
-@@ -2409,8 +2325,6 @@
+@@ -2446,8 +2349,6 @@
  SFX X aber      upieses   aber
  SFX X aber      upiéramos aber
  SFX X aber      upiésemos aber
@@ -1068,7 +1078,7 @@
  SFX X aber      upieran   aber
  SFX X aber      upiesen   aber
  SFX X r         ra        ñer  
-@@ -2419,8 +2333,6 @@
+@@ -2456,8 +2357,6 @@
  SFX X r         ses       ñer 
  SFX X er        éramos    ñer 
  SFX X er        ésemos    ñer 
@@ -1077,7 +1087,7 @@
  SFX X r         ran       ñer 
  SFX X r         sen       ñer 
  SFX X er        iera      [lv]er  
-@@ -2429,8 +2341,6 @@
+@@ -2466,8 +2365,6 @@
  SFX X er        ieses     [lv]er 
  SFX X er        iéramos   [lv]er 
  SFX X er        iésemos   [lv]er 
@@ -1086,7 +1096,7 @@
  SFX X er        ieran     [lv]er 
  SFX X er        iesen     [lv]er 
  SFX X erir      iriera    erir
-@@ -2439,8 +2349,6 @@
+@@ -2476,8 +2373,6 @@
  SFX X erir      irieses   erir
  SFX X erir      iriéramos erir
  SFX X erir      iriésemos erir
@@ -1095,7 +1105,7 @@
  SFX X erir      irieran   erir
  SFX X erir      iriesen   erir
  SFX X ertir     irtiera   ertir
-@@ -2449,8 +2357,6 @@
+@@ -2486,8 +2381,6 @@
  SFX X ertir     irtieses  ertir
  SFX X ertir     irtiéramos ertir
  SFX X ertir     irtiésemos ertir
@@ -1104,7 +1114,7 @@
  SFX X ertir     irtieran  ertir
  SFX X ertir     irtiesen  ertir
  SFX X entir     intiera   entir
-@@ -2459,8 +2365,6 @@
+@@ -2496,8 +2389,6 @@
  SFX X entir     intieses  entir
  SFX X entir     intiéramos entir
  SFX X entir     intiésemos entir
@@ -1113,7 +1123,7 @@
  SFX X entir     intieran  entir
  SFX X entir     intiesen  entir
  SFX X ervir     irviera   ervir
-@@ -2469,8 +2373,6 @@
+@@ -2506,8 +2397,6 @@
  SFX X ervir     irvieses  ervir
  SFX X ervir     irviéramos ervir
  SFX X ervir     irviésemos ervir
@@ -1122,7 +1132,7 @@
  SFX X ervir     irvieran  ervir
  SFX X ervir     irviesen  ervir
  SFX X ormir     urmiera   ormir
-@@ -2479,8 +2381,6 @@
+@@ -2516,8 +2405,6 @@
  SFX X ormir     urmieses  ormir
  SFX X ormir     urmiéramos ormir
  SFX X ormir     urmiésemos ormir
@@ -1131,7 +1141,7 @@
  SFX X ormir     urmieran  ormir
  SFX X ormir     urmiesen  ormir
  SFX X orir      uriera    orir
-@@ -2489,8 +2389,6 @@
+@@ -2526,8 +2413,6 @@
  SFX X orir      urieses   orir
  SFX X orir      uriéramos orir
  SFX X orir      uriésemos orir
@@ -1140,7 +1150,7 @@
  SFX X orir      urieran   orir
  SFX X orir      uriesen   orir
  SFX X irir      iriera    irir
-@@ -2499,8 +2397,6 @@
+@@ -2536,8 +2421,6 @@
  SFX X irir      irieses   irir
  SFX X irir      iriéramos irir
  SFX X irir      iriésemos irir
@@ -1149,7 +1159,7 @@
  SFX X irir      irieran   irir
  SFX X irir      iriesen   irir
  SFX X cir       jera      ucir
-@@ -2509,8 +2405,6 @@
+@@ -2546,8 +2429,6 @@
  SFX X cir       jeses     ucir
  SFX X cir       jéramos   ucir
  SFX X cir       jésemos   ucir
@@ -1158,7 +1168,7 @@
  SFX X cir       jeran     ucir
  SFX X cir       jesen     ucir
  SFX X enir      iniera    enir
-@@ -2519,8 +2413,6 @@
+@@ -2556,18 +2437,22 @@
  SFX X enir      inieses   enir
  SFX X enir      iniéramos enir
  SFX X enir      iniésemos enir
@@ -1166,17 +1176,17 @@
 -SFX X enir      inieseis  enir
  SFX X enir      inieran   enir
  SFX X enir      iniesen   enir
- SFX X ir        yera      [^g]uir
-@@ -2529,8 +2421,6 @@
- SFX X ir        yeses     [^g]uir
- SFX X ir        yéramos   [^g]uir
- SFX X ir        yésemos   [^g]uir
--SFX X ir        yerais    [^g]uir
--SFX X ir        yeseis    [^g]uir
- SFX X ir        yeran     [^g]uir
- SFX X ir        yesen     [^g]uir
++SFX X ir        yera      [^g]uir
++SFX X ir        yese      [^g]uir
++SFX X ir        yeras     [^g]uir
++SFX X ir        yeses     [^g]uir
++SFX X ir        yéramos   [^g]uir
++SFX X ir        yésemos   [^g]uir
++SFX X ir        yeran     [^g]uir
++SFX X ir        yesen     [^g]uir
  SFX X üir       uyera     üir
-@@ -2539,8 +2429,6 @@
+ SFX X üir       uyese     üir
+ SFX X üir       uyeras    üir
  SFX X üir       uyeses    üir
  SFX X üir       uyéramos  üir
  SFX X üir       uyésemos  üir
@@ -1185,7 +1195,7 @@
  SFX X üir       uyeran    üir
  SFX X üir       uyesen    üir
  SFX X eñir      iñera     eñir
-@@ -2549,8 +2437,6 @@
+@@ -2576,8 +2461,6 @@
  SFX X eñir      iñeses    eñir
  SFX X eñir      iñéramos  eñir
  SFX X eñir      iñésemos  eñir
@@ -1194,7 +1204,7 @@
  SFX X eñir      iñeran    eñir
  SFX X eñir      iñesen    eñir
  SFX X egir      igiera    egir
-@@ -2559,8 +2445,6 @@
+@@ -2586,8 +2469,6 @@
  SFX X egir      igieses   egir
  SFX X egir      igiéramos egir
  SFX X egir      igiésemos egir
@@ -1203,7 +1213,7 @@
  SFX X egir      igieran   egir
  SFX X egir      igiesen   egir
  SFX X edir      idiera    edir
-@@ -2569,8 +2453,6 @@
+@@ -2596,8 +2477,6 @@
  SFX X edir      idieses   edir
  SFX X edir      idiéramos edir
  SFX X edir      idiésemos edir
@@ -1212,7 +1222,7 @@
  SFX X edir      idieran   edir
  SFX X edir      idiesen   edir
  SFX X etir      itiera    etir
-@@ -2579,8 +2461,6 @@
+@@ -2606,8 +2485,6 @@
  SFX X etir      itieses   etir
  SFX X etir      itiéramos etir
  SFX X etir      itiésemos etir
@@ -1221,7 +1231,7 @@
  SFX X etir      itieran   etir
  SFX X etir      itiesen   etir
  SFX X ebir      ibiera    ebir
-@@ -2589,8 +2469,6 @@
+@@ -2616,8 +2493,6 @@
  SFX X ebir      ibieses   ebir
  SFX X ebir      ibiéramos ebir
  SFX X ebir      ibiésemos ebir
@@ -1230,7 +1240,7 @@
  SFX X ebir      ibieran   ebir
  SFX X ebir      ibiesen   ebir
  SFX X emir      imiera    emir
-@@ -2599,8 +2477,6 @@
+@@ -2626,8 +2501,6 @@
  SFX X emir      imieses   emir
  SFX X emir      imiéramos emir
  SFX X emir      imiésemos emir
@@ -1239,7 +1249,7 @@
  SFX X emir      imieran   emir
  SFX X emir      imiesen   emir
  SFX X eguir     iguiera   eguir
-@@ -2609,8 +2485,6 @@
+@@ -2636,8 +2509,6 @@
  SFX X eguir     iguieses  eguir
  SFX X eguir     iguiéramos eguir
  SFX X eguir     iguiésemos eguir
@@ -1248,7 +1258,7 @@
  SFX X eguir     iguieran  eguir
  SFX X eguir     iguiesen  eguir
  SFX X estir     istiera   estir
-@@ -2619,8 +2493,6 @@
+@@ -2646,8 +2517,6 @@
  SFX X estir     istieses  estir
  SFX X estir     istiéramos estir
  SFX X estir     istiésemos estir
@@ -1257,7 +1267,7 @@
  SFX X estir     istieran  estir
  SFX X estir     istiesen  estir
  SFX X endir     indiera   endir
-@@ -2629,8 +2501,6 @@
+@@ -2656,8 +2525,6 @@
  SFX X endir     indieses  endir
  SFX X endir     indiéramos endir
  SFX X endir     indiésemos endir
@@ -1266,7 +1276,7 @@
  SFX X endir     indieran  endir
  SFX X endir     indiesen  endir
  SFX X r         era       lir
-@@ -2639,8 +2509,6 @@
+@@ -2666,8 +2533,6 @@
  SFX X r         eses      lir
  SFX X r         éramos    lir
  SFX X r         ésemos    lir
@@ -1275,7 +1285,7 @@
  SFX X r         eran      lir
  SFX X r         esen      lir
  SFX X ecir      ijera     ecir
-@@ -2649,8 +2517,6 @@
+@@ -2676,8 +2541,6 @@
  SFX X ecir      ijeses    ecir
  SFX X ecir      ijéramos  ecir
  SFX X ecir      ijésemos  ecir
@@ -1284,7 +1294,7 @@
  SFX X ecir      ijeran    ecir
  SFX X ecir      ijesen    ecir
  SFX X eír       iera      eír
-@@ -2659,8 +2525,6 @@
+@@ -2686,8 +2549,6 @@
  SFX X eír       ieses     eír
  SFX X eír       iéramos   eír
  SFX X eír       iésemos   eír
@@ -1293,7 +1303,7 @@
  SFX X eír       ieran     eír
  SFX X eír       iesen     eír
  SFX X ír        yera      oír
-@@ -2669,8 +2533,6 @@
+@@ -2696,8 +2557,6 @@
  SFX X ír        yeses     oír
  SFX X ír        yéramos   oír
  SFX X ír        yésemos   oír
@@ -1302,7 +1312,7 @@
  SFX X ír        yeran     oír
  SFX X ír        yesen     oír
  #
-@@ -2679,167 +2541,134 @@
+@@ -2706,162 +2565,130 @@
  SFX X oner      usiere    oner
  SFX X oner      usieres   oner
  SFX X oner      usiéremos oner
@@ -1388,11 +1398,6 @@
  SFX X enir      iniéremos enir
 -SFX X enir      iniereis  enir
  SFX X enir      inieren   enir
- SFX X ir        yere      [^g]uir
- SFX X ir        yeres     [^g]uir
- SFX X ir        yéremos   [^g]uir
--SFX X ir        yereis    [^g]uir
- SFX X ir        yeren     [^g]uir
  SFX X üir       uyere     üir
  SFX X üir       uyeres    üir
  SFX X üir       uyéremos  üir
@@ -1470,7 +1475,7 @@
  SFX X er        é         er
  SFX X ir        í         ir
  SFX X r         0         ír
-@@ -2988,11 +2817,10 @@
+@@ -3008,11 +2835,10 @@
  # Verbos en infinitivo con clíticos de objeto directo o indirecto en
  # 1ª y 2ª persona, singular y plural; en posición enclítica.
  #
@@ -1483,7 +1488,7 @@
  
  # Verbos en infinitivo con clíticos de objeto indirecto en 3ª persona,
  # singular y plural; en posición enclítica.
-@@ -3004,7 +2832,7 @@
+@@ -3024,7 +2850,7 @@
  # Verbos en infinitivo con clíticos de objeto directo e indirecto en 1ª, 2ª y
  # 3ª persona, singular y plural; en posición enclítica.
  #
@@ -1492,7 +1497,7 @@
  SFX Ã ar        ármela    ar
  SFX Ã ar        ármelo    ar
  SFX Ã ar        ármelas   ar
-@@ -3021,10 +2849,6 @@
+@@ -3041,10 +2867,6 @@
  SFX Ã ar        árnoslo   ar
  SFX Ã ar        árnoslas  ar
  SFX Ã ar        árnoslos  ar
@@ -1503,7 +1508,7 @@
  SFX Ã er        érmela    er
  SFX Ã er        érmelo    er
  SFX Ã er        érmelas   er
-@@ -3041,10 +2865,6 @@
+@@ -3061,10 +2883,6 @@
  SFX Ã er        érnoslo   er
  SFX Ã er        érnoslas  er
  SFX Ã er        érnoslos  er
@@ -1514,7 +1519,7 @@
  SFX Ã ir        írmela    ir
  SFX Ã ir        írmelo    ir
  SFX Ã ir        írmelas   ir
-@@ -3061,10 +2881,6 @@
+@@ -3081,10 +2899,6 @@
  SFX Ã ir        írnoslo   ir
  SFX Ã ir        írnoslas  ir
  SFX Ã ir        írnoslos  ir
@@ -1525,7 +1530,7 @@
  SFX Ã 0         mela      ír
  SFX Ã 0         melo      ír
  SFX Ã 0         melas     ír
-@@ -3081,10 +2897,6 @@
+@@ -3101,10 +2915,6 @@
  SFX Ã 0         noslo     ír
  SFX Ã 0         noslas    ír
  SFX Ã 0         noslos    ír
@@ -1536,7 +1541,7 @@
  
  # Verbos regulares e irregulares de presente en gerundio, con clíticos de
  # objeto directo en 3ª persona, singular y plural; en posición enclítica.
-@@ -3111,23 +2923,19 @@
+@@ -3131,23 +2941,19 @@
  # objeto directo o indirecto en 1ª y 2ª persona, singular y plural; en
  # posición enclítica.
  #
@@ -1561,7 +1566,7 @@
  
  # Verbos regulares e irregulares de presente en gerundio, con clíticos de
  # objeto indirecto en 3ª persona, singular y plural; en posición enclítica.
-@@ -3146,7 +2954,7 @@
+@@ -3166,7 +2972,7 @@
  # objeto directo e indirecto en 1ª, 2ª y 3ª persona, singular y plural; en
  # posición enclítica.
  #
@@ -1570,7 +1575,7 @@
  SFX Ç ar        ándomela    ar
  SFX Ç ar        ándomelo    ar
  SFX Ç ar        ándomelas   ar
-@@ -3163,10 +2971,6 @@
+@@ -3183,10 +2989,6 @@
  SFX Ç ar        ándonoslo   ar
  SFX Ç ar        ándonoslas  ar
  SFX Ç ar        ándonoslos  ar
@@ -1581,7 +1586,7 @@
  SFX Ç er        iéndomela   er
  SFX Ç er        iéndomelo   er
  SFX Ç er        iéndomelas  er
-@@ -3183,10 +2987,6 @@
+@@ -3203,10 +3005,6 @@
  SFX Ç er        iéndonoslo  er
  SFX Ç er        iéndonoslas er
  SFX Ç er        iéndonoslos er
@@ -1592,7 +1597,7 @@
  SFX Ç r         éndomela    ir
  SFX Ç r         éndomelo    ir
  SFX Ç r         éndomelas   ir
-@@ -3203,10 +3003,6 @@
+@@ -3223,10 +3021,6 @@
  SFX Ç r         éndonoslo   ir
  SFX Ç r         éndonoslas  ir
  SFX Ç r         éndonoslos  ir
@@ -1603,7 +1608,7 @@
  
  # Verbos totalmente irregulares en gerundio, con clíticos de objeto directo
  # en 3ª persona, singular y plural; en posición enclítica.
-@@ -3292,67 +3088,52 @@
+@@ -3312,67 +3106,52 @@
  # Verbos totalmente irregulares en gerundio, con clíticos de objeto directo
  # o indirecto en 1ª y 2ª persona, singular y plural; en posición enclítica.
  #
@@ -1672,7 +1677,7 @@
  
  # Verbos totalmente irregulares en gerundio, con clíticos de objeto indirecto
  # en 3ª persona, singular y plural; en posición enclítica.
-@@ -3400,7 +3181,7 @@
+@@ -3420,7 +3199,7 @@
  # Verbos totalmente irregulares en gerundio, con clíticos de objeto directo
  # e indirecto en 1ª, 2ª y 3ª persona, singular y plural; en posición enclítica.
  #
@@ -1681,7 +1686,7 @@
  SFX Ë er        iéndomela     er
  SFX Ë er        iéndomelo     er
  SFX Ë er        iéndomelas    er
-@@ -3409,10 +3190,6 @@
+@@ -3429,10 +3208,6 @@
  SFX Ë er        iéndonoslo    er
  SFX Ë er        iéndonoslas   er
  SFX Ë er        iéndonoslos   er
@@ -1692,7 +1697,7 @@
  SFX Ë er        iéndosela     er
  SFX Ë er        iéndoselo     er
  SFX Ë er        iéndoselas    er
-@@ -3437,10 +3214,6 @@
+@@ -3457,10 +3232,6 @@
  SFX Ë ertir     irtiéndonoslo ertir
  SFX Ë ertir     irtiéndonoslas ertir
  SFX Ë ertir     irtiéndonoslos ertir
@@ -1703,7 +1708,7 @@
  SFX Ë endir     indiéndomela  endir
  SFX Ë endir     indiéndomelas endir
  SFX Ë endir     indiéndomelo  endir
-@@ -3449,10 +3222,6 @@
+@@ -3469,10 +3240,6 @@
  SFX Ë endir     indiéndonoslas endir
  SFX Ë endir     indiéndonoslo endir
  SFX Ë endir     indiéndonoslos endir
@@ -1714,7 +1719,7 @@
  SFX Ë endir     indiéndosela  endir
  SFX Ë endir     indiéndoselas endir
  SFX Ë endir     indiéndoselo  endir
-@@ -3477,10 +3246,6 @@
+@@ -3497,10 +3264,6 @@
  SFX Ë ir        yéndonoslo    [^g]uir
  SFX Ë ir        yéndonoslas   [^g]uir
  SFX Ë ir        yéndonoslos   [^g]uir
@@ -1725,7 +1730,7 @@
  SFX Ë edir      idiéndomela   edir
  SFX Ë edir      idiéndomelo   edir
  SFX Ë edir      idiéndomelas  edir
-@@ -3497,10 +3262,6 @@
+@@ -3517,10 +3280,6 @@
  SFX Ë edir      idiéndonoslo  edir
  SFX Ë edir      idiéndonoslas edir
  SFX Ë edir      idiéndonoslos edir
@@ -1736,7 +1741,7 @@
  SFX Ë ecir      iciéndomela   ecir
  SFX Ë ecir      iciéndomelo   ecir
  SFX Ë ecir      iciéndomelas  ecir
-@@ -3517,10 +3278,6 @@
+@@ -3537,10 +3296,6 @@
  SFX Ë ecir      iciéndonoslo  ecir
  SFX Ë ecir      iciéndonoslas ecir
  SFX Ë ecir      iciéndonoslos ecir
@@ -1747,7 +1752,7 @@
  SFX Ë ír        yéndomela     oír
  SFX Ë ír        yéndomelo     oír
  SFX Ë ír        yéndomelas    oír
-@@ -3537,27 +3294,19 @@
+@@ -3557,27 +3312,15 @@
  SFX Ë ír        yéndonoslo    oír
  SFX Ë ír        yéndonoslas   oír
  SFX Ë ír        yéndonoslos   oír
@@ -1773,14 +1778,10 @@
 -SFX Ì r         dlas     r
 -SFX Ì r         dlo      r
 -SFX Ì r         dlos     r
-+#SFX Ì r         la       r         # 2ª pers. singular (vos)
-+#SFX Ì r         las      r
-+#SFX Ì r         lo       r
-+#SFX Ì r         los      r
  SFX Ì acar      ácala    acar
  SFX Ì acar      ácalas   acar
  SFX Ì acar      ácalo    acar
-@@ -3934,13 +3683,11 @@
+@@ -3954,13 +3697,9 @@
  # Verbos regulares en imperativo, con clíticos de objeto directo o indirecto
  # en 1ª y 2ª persona, singular y plural; en posición enclítica.
  #
@@ -1792,12 +1793,10 @@
 -SFX Í r         nos      r
 -SFX Í r         dme      r
 -SFX Í r         dnos     r
-+#SFX Í r         me       r         # 2ª pers. singular (vos)
-+#SFX Í r         nos      r
  SFX Í ablar     áblame   ablar
  SFX Í ablar     áblanos  ablar
  SFX Í acar      ácame    acar
-@@ -4103,13 +3850,11 @@
+@@ -4123,13 +3862,9 @@
  # Verbos regulares en imperativo, con clíticos de objeto indirecto en
  # 3ª persona, singular y plural; en posición enclítica.
  #
@@ -1809,12 +1808,10 @@
 -SFX Î r         les      r
 -SFX Î r         dle      r
 -SFX Î r         dles     r
-+#SFX Î r         le       r         # 2ª pers. singular (vos)
-+#SFX Î r         les      r
  SFX Î ablar     áblale   ablar
  SFX Î ablar     áblales  ablar
  SFX Î acar      ácale    acar
-@@ -4195,7 +3940,7 @@
+@@ -4215,7 +3950,7 @@
  # persona, y objeto indirecto en 1ª y 3ª persona, singular y plural; en
  # posición enclítica.
  #
@@ -1823,7 +1820,7 @@
  SFX Ï adir      ádemela     adir
  SFX Ï adir      ádemelas    adir
  SFX Ï adir      ádemelo     adir
-@@ -4208,30 +3953,18 @@
+@@ -4228,30 +3963,6 @@
  SFX Ï adir      ádeselas    adir
  SFX Ï adir      ádeselo     adir
  SFX Ï adir      ádeselos    adir
@@ -1851,22 +1848,10 @@
 -SFX Ï ir        ídselas     ir
 -SFX Ï ir        ídselo      ir
 -SFX Ï ir        ídselos     ir
-+#SFX Ï ir        ímela       ir        # 2ª pers. singular (vos)
-+#SFX Ï ir        ímelas      ir
-+#SFX Ï ir        ímelo       ir
-+#SFX Ï ir        ímelos      ir
-+#SFX Ï ir        ínosla      ir
-+#SFX Ï ir        ínoslas     ir
-+#SFX Ï ir        ínoslo      ir
-+#SFX Ï ir        ínoslos     ir
-+#SFX Ï ir        ísela       ir
-+#SFX Ï ir        íselas      ir
-+#SFX Ï ir        íselo       ir
-+#SFX Ï ir        íselos      ir
  SFX Ï ambiar    ámbiamela   ambiar
  SFX Ï ambiar    ámbiamelas  ambiar
  SFX Ï ambiar    ámbiamelo   ambiar
-@@ -4244,30 +3977,18 @@
+@@ -4264,30 +3975,6 @@
  SFX Ï ambiar    ámbiaselas  ambiar
  SFX Ï ambiar    ámbiaselo   ambiar
  SFX Ï ambiar    ámbiaselos  ambiar
@@ -1894,22 +1879,10 @@
 -SFX Ï ar        ádselas     ar
 -SFX Ï ar        ádselo      ar
 -SFX Ï ar        ádselos     ar
-+#SFX Ï ar        ámela       ar        # 2ª pers. singular (vos)
-+#SFX Ï ar        ámelas      ar
-+#SFX Ï ar        ámelo       ar
-+#SFX Ï ar        ámelos      ar
-+#SFX Ï ar        ánosla      ar
-+#SFX Ï ar        ánoslas     ar
-+#SFX Ï ar        ánoslo      ar
-+#SFX Ï ar        ánoslos     ar
-+#SFX Ï ar        ásela       ar
-+#SFX Ï ar        áselas      ar
-+#SFX Ï ar        áselo       ar
-+#SFX Ï ar        áselos      ar
  SFX Ï ancar     áncamela    ancar
  SFX Ï ancar     áncamelas   ancar
  SFX Ï ancar     áncamelo    ancar
-@@ -4340,30 +4061,18 @@
+@@ -4360,30 +4047,6 @@
  SFX Ï eder      édeselas    eder
  SFX Ï eder      édeselo     eder
  SFX Ï eder      édeselos    eder
@@ -1937,22 +1910,10 @@
 -SFX Ï er        édselas     er
 -SFX Ï er        édselo      er
 -SFX Ï er        édselos     er
-+#SFX Ï er        émela       er        # 2ª pers. singular (vos)
-+#SFX Ï er        émelas      er
-+#SFX Ï er        émelo       er
-+#SFX Ï er        émelos      er
-+#SFX Ï er        énosla      er
-+#SFX Ï er        énoslas     er
-+#SFX Ï er        énoslo      er
-+#SFX Ï er        énoslos     er
-+#SFX Ï er        ésela       er
-+#SFX Ï er        éselas      er
-+#SFX Ï er        éselo       er
-+#SFX Ï er        éselos      er
  SFX Ï eer       éemela      eer
  SFX Ï eer       éemelas     eer
  SFX Ï eer       éemelo      eer
-@@ -4500,19 +4209,15 @@
+@@ -4520,19 +4183,11 @@
  # Verbos irregulares de presente en imperativo (2ª persona), con clíticos de
  # objeto directo en 3ª persona, singular y plural; en posición enclítica.
  #
@@ -1970,14 +1931,10 @@
 -SFX Ð r         dlas      r
 -SFX Ð r         dlo       r
 -SFX Ð r         dlos      r
-+#SFX Ð r         la        r         # 2ª pers. singular (vos)
-+#SFX Ð r         las       r
-+#SFX Ð r         lo        r
-+#SFX Ð r         los       r
  SFX Ð ender     iéndela   ender
  SFX Ð ender     iéndelas  ender
  SFX Ð ender     iéndelo   ender
-@@ -4566,13 +4271,11 @@
+@@ -4586,13 +4241,9 @@
  # objeto directo o indirecto en 1ª persona, singular y plural; en posición
  # enclítica.
  #
@@ -1989,12 +1946,10 @@
 -SFX Ñ r         nos       r
 -SFX Ñ r         dme       r
 -SFX Ñ r         dnos      r
-+#SFX Ñ r         me        r         # 2ª pers. singular (vos)
-+#SFX Ñ r         nos       r
  SFX Ñ ender     iéndeme   ender
  SFX Ñ ender     iéndenos  ender
  SFX Ñ entar     iéntame   entar
-@@ -4597,13 +4300,11 @@
+@@ -4617,13 +4268,9 @@
  # Verbos irregulares de presente en imperativo (2ª persona), con clíticos de
  # objeto indirecto en 3ª persona, singular y plural; en posición enclítica.
  #
@@ -2006,12 +1961,10 @@
 -SFX Ò r         les       r
 -SFX Ò r         dle       r
 -SFX Ò r         dles      r
-+#SFX Ò r         le        r         # 2ª pers. singular (vos)
-+#SFX Ò r         les       r
  SFX Ò egar      iégale    egar
  SFX Ò egar      iégales   egar
  SFX Ò ender     iéndele   ender
-@@ -4625,7 +4326,7 @@
+@@ -4645,7 +4292,7 @@
  # objeto directo en 3ª persona, y de objeto indirecto en 1ª y 3ª persona,
  # singular y plural; en posición enclítica.
  #
@@ -2020,7 +1973,7 @@
  SFX Ó ecer      écemela      ecer
  SFX Ó ecer      écemelas     ecer
  SFX Ó ecer      écemelo      ecer
-@@ -4638,30 +4339,18 @@
+@@ -4658,30 +4305,6 @@
  SFX Ó ecer      éceselas     ecer
  SFX Ó ecer      éceselo      ecer
  SFX Ó ecer      éceselos     ecer
@@ -2048,22 +2001,10 @@
 -SFX Ó er        édselas      er
 -SFX Ó er        édselo       er
 -SFX Ó er        édselos      er
-+#SFX Ó er        émela        er        # 2ª pers. singular (vos)
-+#SFX Ó er        émelas       er
-+#SFX Ó er        émelo        er
-+#SFX Ó er        émelos       er
-+#SFX Ó er        énosla       er
-+#SFX Ó er        énoslas      er
-+#SFX Ó er        énoslo       er
-+#SFX Ó er        énoslos      er
-+#SFX Ó er        ésela        er
-+#SFX Ó er        éselas       er
-+#SFX Ó er        éselo        er
-+#SFX Ó er        éselos       er
  SFX Ó iar       íamela       iar
  SFX Ó iar       íamelas      iar
  SFX Ó iar       íamelo       iar
-@@ -4674,30 +4363,18 @@
+@@ -4694,30 +4317,6 @@
  SFX Ó iar       íaselas      iar
  SFX Ó iar       íaselo       iar
  SFX Ó iar       íaselos      iar
@@ -2091,22 +2032,10 @@
 -SFX Ó ar        ádselas      ar
 -SFX Ó ar        ádselo       ar
 -SFX Ó ar        ádselos      ar
-+#SFX Ó ar        ámela        ar        # 2ª pers. singular
-+#SFX Ó ar        ámelas       ar
-+#SFX Ó ar        ámelo        ar
-+#SFX Ó ar        ámelos       ar
-+#SFX Ó ar        ánosla       ar
-+#SFX Ó ar        ánoslas      ar
-+#SFX Ó ar        ánoslo       ar
-+#SFX Ó ar        ánoslos      ar
-+#SFX Ó ar        ásela        ar
-+#SFX Ó ar        áselas       ar
-+#SFX Ó ar        áselo        ar
-+#SFX Ó ar        áselos       ar
  SFX Ó olver     uélvemela    olver
  SFX Ó olver     uélvemelas   olver
  SFX Ó olver     uélvemelo    olver
-@@ -4750,19 +4427,15 @@
+@@ -4770,19 +4369,11 @@
  # Verbos totalmente irregulares en imperativo (2ª persona), con clíticos de
  # objeto directo en 3ª persona, singular y plural; en posición enclítica.
  #
@@ -2124,14 +2053,10 @@
 -SFX Ô r         dlas     r
 -SFX Ô r         dlo      r
 -SFX Ô r         dlos     r
-+#SFX Ô r         la       r         # 2ª pers. singular (vos)
-+#SFX Ô r         las      r
-+#SFX Ô r         lo       r
-+#SFX Ô r         los      r
  SFX Ô cer       zla      cer
  SFX Ô cer       zlas     cer
  SFX Ô cer       zlo      cer
-@@ -4803,10 +4476,6 @@
+@@ -4823,10 +4414,6 @@
  SFX Ô ervir     írvelas  ervir
  SFX Ô ervir     írvelo   ervir
  SFX Ô ervir     írvelos  ervir
@@ -2142,7 +2067,7 @@
  SFX Ô uir       úyelas   uir
  SFX Ô uir       úyela    uir
  SFX Ô uir       úyelos   uir
-@@ -4816,13 +4485,11 @@
+@@ -4836,13 +4423,9 @@
  # objeto directo o indirecto en 1ª persona, singular y plural; en posición
  # enclítica.
  #
@@ -2154,12 +2079,10 @@
 -SFX Õ r         nos     r
 -SFX Õ r         dme     r
 -SFX Õ r         dnos    r
-+#SFX Õ r         me      r         # 2ª pers. singular
-+#SFX Õ r         nos     r
  SFX Õ aer       áeme    aer
  SFX Õ aer       áenos   aer
  SFX Õ ecir      íceme   ecir
-@@ -4841,21 +4508,17 @@
+@@ -4861,21 +4444,15 @@
  SFX Õ er        nos     ner
  SFX Õ estir     ísteme  estir
  SFX Õ estir     ístenos estir
@@ -2179,12 +2102,10 @@
 -SFX Ö r         les     r
 -SFX Ö r         dle     r
 -SFX Ö r         dles    r
-+#SFX Ö r         le      r         # 2ª pers. singular
-+#SFX Ö r         les     r
  SFX Ö aer       áele    aer
  SFX Ö aer       áeles   aer
  SFX Ö cer       zle     cer
-@@ -4864,14 +4527,12 @@
+@@ -4884,14 +4461,12 @@
  SFX Ö edir      ídeles  edir
  SFX Ö er        le      ner
  SFX Ö er        les     ner
@@ -2200,7 +2121,7 @@
  SFX Ø aer       áemela    aer
  SFX Ø aer       áemelas   aer
  SFX Ø aer       áemelo    aer
-@@ -4884,30 +4545,18 @@
+@@ -4904,30 +4479,6 @@
  SFX Ø aer       áeselas   aer
  SFX Ø aer       áeselo    aer
  SFX Ø aer       áeselos   aer
@@ -2228,22 +2149,10 @@
 -SFX Ø er        édselas   er
 -SFX Ø er        édselo    er
 -SFX Ø er        édselos   er
-+#SFX Ø er        émela     er        # 2ª pers. singular (vos)
-+#SFX Ø er        émelas    er
-+#SFX Ø er        émelo     er
-+#SFX Ø er        émelos    er
-+#SFX Ø er        énosla    er
-+#SFX Ø er        énoslas   er
-+#SFX Ø er        énoslo    er
-+#SFX Ø er        énoslos   er
-+#SFX Ø er        ésela     er
-+#SFX Ø er        éselas    er
-+#SFX Ø er        éselo     er
-+#SFX Ø er        éselos    er
  SFX Ø edir      ídemela   edir
  SFX Ø edir      ídemelas  edir
  SFX Ø edir      ídemelo   edir
-@@ -4920,30 +4569,18 @@
+@@ -4940,30 +4491,6 @@
  SFX Ø edir      ídeselas  edir
  SFX Ø edir      ídeselo   edir
  SFX Ø edir      ídeselos  edir
@@ -2271,22 +2180,10 @@
 -SFX Ø ir        ídselas   ir
 -SFX Ø ir        ídselo    ir
 -SFX Ø ir        ídselos   ir
-+#SFX Ø ir        ímela     ir        # 2ª pers. singular (vos)
-+#SFX Ø ir        ímelas    ir
-+#SFX Ø ir        ímelo     ir
-+#SFX Ø ir        ímelos    ir
-+#SFX Ø ir        ínosla    ir
-+#SFX Ø ir        ínoslas   ir
-+#SFX Ø ir        ínoslo    ir
-+#SFX Ø ir        ínoslos   ir
-+#SFX Ø ir        ísela     ir
-+#SFX Ø ir        íselas    ir
-+#SFX Ø ir        íselo     ir
-+#SFX Ø ir        íselos    ir
  SFX Ø oner      ónmela    oner
  SFX Ø oner      ónmelas   oner
  SFX Ø oner      ónmelo    oner
-@@ -6786,119 +6423,95 @@
+@@ -6806,119 +6333,95 @@
  # Verbos que aceptan conjugación pronominal en infinitivo, con pronombre
  # personal reflexivo/recíproco; en posición enclítica.
  #
@@ -2403,15 +2300,14 @@
  # pronombre personal reflexivo en posición enclítica.
  #
 -SFX ô Y 136
-+SFX ô Y 134
++SFX ô Y 135
  SFX ô abar      ábate    abar
--SFX ô r         te       [aei]r    # 2ª pers. singular (vos)
+ SFX ô r         te       [aei]r    # 2ª pers. singular (vos)
 -SFX ô r         os       r
-+#SFX ô r         te       [aei]r    # 2ª pers. singular (vos)
  SFX ô acar      ácate    acar
  SFX ô achar     áchate   achar
  SFX ô aciar     áciate   aciar
-@@ -7036,10 +6649,9 @@
+@@ -7056,10 +6559,8 @@
  # Verbos irregulares de presente que aceptan conjugación pronominal,
  # en imperativo; con pronombre personal reflexivo en posición enclítica.
  #
@@ -2420,11 +2316,10 @@
  SFX õ aer       áete      aer
 -SFX õ r         te        [aei]r    # 2ª pers. singular (vos)
 -SFX õ r         os        [^i]r
-+#SFX õ r         te        [aei]r    # 2ª pers. singular (vos)
  SFX õ ecer      écete     ecer
  SFX õ egar      iégate    egar
  SFX õ ender     iéndete   ender
-@@ -7067,19 +6679,16 @@
+@@ -7087,19 +6588,15 @@
  SFX õ over      uévete    over
  SFX õ uar       úate      uar
  SFX õ unir      únete     unir
@@ -2438,7 +2333,6 @@
  SFX ö aer       áete     aer
 -SFX ö r         te       [eií]r    # 2ª pers. singular (vos)
 -SFX ö r         os       [^i]r
-+#SFX ö r         te       [eií]r    # 2ª pers. singular (vos)
  SFX ö aler      álete    aler
  SFX ö cer       zte      cer
  SFX ö edir      ídete    edir

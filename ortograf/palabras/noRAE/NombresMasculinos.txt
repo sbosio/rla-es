@@ -14,13 +14,26 @@
 # Debe haber recibido una copia de la Licencia Pública General de GNU junto
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
+alnico/S
+autodesarrollo/S
 causalismo/S
 cibercafé/S
 datáfono/S
 dimensionamiento/S
 direccionamiento/S
+fenólico/S
+flexómetro/S
 franquiciado/S
+hiperenlace/S
+hipervínculo/S
 iusnaturalismo
 kiosko/S
 máster/S
+poliestireno/S
+polímetro/S
+portabroca/S
+punzonado/S
+ranurado/S
+rebarbado/S
+refrentado/S
 renting

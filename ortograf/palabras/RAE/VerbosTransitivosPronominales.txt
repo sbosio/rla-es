@@ -420,7 +420,7 @@ atragantar/REDñ
 atraillar/IRD
 atrampar/RED
 atravesar/IRDÄÆñò
-atribuir/XDÀÁÂÃÈËñó
+atribuir/IRDÀÁÂÃÈËñó
 atribular/RED
 atrincherar/REDñ
 atrofiar/RED
@@ -592,7 +592,7 @@ consolidar/REDÁñ
 consonantizar/RED
 consternar/RED
 constipar/RED
-constituir/XDÁñó
+constituir/IRDÁñó
 contagiar/REDÀÁñò
 contaminar/REDÀÄò
 contener/XDÀñóö
@@ -615,7 +615,8 @@ copiar/REDÀÙñ
 coronar/REDÀÌñ
 corporeizar/RED
 corroborar/REDÀ
-corroer/REIDÂÁññ
+corroer/REIDÂÁñ
+cortocircuitar/REDñ
 coser/REDñ
 costear/REDÀÂñ
 criar/IRDÀñ
@@ -1031,7 +1032,7 @@ destrincar/RED
 destrizar/RED
 destroncar/RED
 destrozar/REDÀÁÂÄÆñ
-destruir/XDÀÁÂÈÊñó
+destruir/IRDÀÁÂÈÊñó
 desubicar/RED
 desudar/RED
 desunir/REDÀÁñ
@@ -1059,7 +1060,7 @@ difundir/REDÀÄ
 dignificar/REDÀ
 dilacerar/RED
 dilatar/REDÀÂÄñ
-diluir/XDÀÁÈñ
+diluir/IRDÀÁÈñ
 dinamizar/REDÀ
 diplomar/RED
 dirigir/REDÀÁÄÅÆñòôø
@@ -1082,7 +1083,7 @@ distender/IRDñ
 distinguir/REDÀÁÂÄñò
 distorsionar/REDÄ
 distraer/XDÀÁÈÉÊñóö
-distribuir/XDÀÁÂáñ
+distribuir/IRDÀÁÂáñ
 diversificar/REDÀÁñ
 divertir/XDÀÁÂÉñóöú
 dividir/REDÀÁÄÌñò
@@ -1507,7 +1508,7 @@ excarcelar/RED
 exceptuar/IRDÄÅò
 excitar/REDÀÁÂÄñ
 exclaustrar/RED
-excluir/XDÀÁÂÈñó
+excluir/IRDÀÁÂÈñó
 excoriar/RED
 exculpar/REDÀÁÂñ
 excusar/REDÀÁÂÅÍÚñò
@@ -1658,7 +1659,7 @@ inhabilitar/REDÀÁÂñ
 inhibir/REDÀÁÄñ
 iniciar/REDÀÁÄÅÆñò
 injerir/XD
-inmiscuir/XDÁñ
+inmiscuir/IRDÁñ
 inmolar/REDñ
 inmortalizar/REDÀÁÂñ
 inmovilizar/REDÀÁÄÆñ
@@ -1674,7 +1675,7 @@ insolar/RED
 insolentar/RED
 instalar/REDÀÄÅñòôø
 institucionalizar/REDÀ
-instruir/XDÀÁÂÈÉÊñó
+instruir/IRDÀÁÂÈÉÊñó
 insubordinar/RED
 insultar/REDÀÁÂÄÅÆÍñò
 insurreccionar/RED
@@ -1762,7 +1763,7 @@ mancomunar/RED
 manejar/REDÄñòô
 mangar/RED
 manifestar/IRDñò
-mantener/XDÀÉñóöú
+mantener/XDÀÅÉñóöú
 maquillar/REDñòô
 marañar/RED
 maravillar/REDÁñ
@@ -1834,8 +1835,8 @@ obligar/REDÀñò
 obliterar/RED
 obnubilar/RED
 obsesionar/REDñò
-obstruir/XD
-ocluir/XD
+obstruir/IRD
+ocluir/IRD
 ocultar/REDÀÃÄÅÆñòø
 ocupar/REDñòôø
 ofender/REDÂñò
@@ -1919,7 +1920,7 @@ propagar/REDÀ
 propasar/REDÁñ
 proponer/XÀÅÈñóö
 proporcionar/REDÀÁÂÃÆñò
-prostituir/XDÀÁñ
+prostituir/IRDÀÁñ
 proteger/REDÀÁÂÄÅñòôø
 proveer/REDÀÂÄñø
 proyectar/REDÁÄñò
@@ -1969,7 +1970,7 @@ rechiflar/RED
 recibir/REDÀÁÂÄÆñò
 reciprocar/RED
 reclinar/RED
-recluir/XDÀÁÈñ
+recluir/IRDÀÁÈñ
 recobrar/REDÀÁñ
 recocer/IRD
 recoger/REDÀÁÂÃÄÆÌÍÙñòôø
@@ -1978,7 +1979,7 @@ reconcentrar/RED
 reconciliar/REDÁÂñò
 recondenar/RED
 reconocer/IRDÀÁÂÃÄÅñòõ
-reconstituir/XD
+reconstituir/IRD
 recortar/REDÀÂÄÌñ
 recorvar/RED
 recostar/IRDÀÄñòõù
@@ -2073,7 +2074,7 @@ respeluzar/RED
 responsabilizar/REDÁÄñò
 resquebrajar/RED
 restablecer/IRDÀÁÂñ
-restituir/XDÁÊñ
+restituir/IRDÁÊñ
 resumir/REDÀÁÆñ
 retardar/REDÄ
 retener/XDÀÁñó

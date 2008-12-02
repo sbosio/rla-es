@@ -254,7 +254,7 @@ desteñir/XD
 destilar/REDÀÄ
 diferenciar/REDÀÁñ
 disimilar/RED
-disminuir/XDÀÈñú
+disminuir/IRDÀÈñú
 disparar/REDÀÁÄÅñò
 disponer/XÀÈÉñóöú
 disputar/REDÆñò
@@ -391,7 +391,7 @@ hermosear/RED
 hincar/REDÀÅñòôø
 hispir/RED
 hospedar/REDÀÁñ
-huir/XDÁÂñó
+huir/IRDÁÂñó
 humillar/REDÀÁÂÄñòô
 igualar/REDÀÁÄñ
 implicar/REDÂñò
@@ -508,7 +508,7 @@ refrescar/REDÀÁÌñø
 refundir/REDÀÁñ
 regir/XDÀÁñ
 rehervir/XD
-rehuir/XDÀÁÂÈñ
+rehuir/IRDÀÁÂÈñ
 reír/XDÁÉÊñóöú
 rejuvenecer/IRDÀñ
 relevar/REDÀñ

@@ -43,6 +43,7 @@ algebrista/S
 alguacil/S
 almacenista/S
 almirante/S
+alópata/S
 alpinista/S
 amante/S
 amanuense/S

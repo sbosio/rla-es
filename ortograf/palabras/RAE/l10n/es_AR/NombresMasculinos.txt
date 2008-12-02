@@ -37,6 +37,7 @@ bananal
 barbijo/S
 benteveo/S
 bizcochuelo/S
+bulón/S
 cabildante/S
 cachimbo/S
 cachumbo/S

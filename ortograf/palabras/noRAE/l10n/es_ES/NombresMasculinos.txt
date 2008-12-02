@@ -1,4 +1,4 @@
-# Lista de lemas: NombresFemeninos.txt
+# Lista de lemas: NombresMasculinos.txt
 # Copyright (C) 2004-2008 de Santiago Bosio (sbosio AT fullzero.com.ar)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
@@ -14,35 +14,5 @@
 # Debe haber recibido una copia de la Licencia Pública General de GNU junto
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
-acupresión/S			# Contribuida por Ricardo Goldberger
-aislación/S
-amigdalectomía/S
-apendicectomía/S
-autocompasión/S
-autoconciencia/S
-autoconfianza/S
-autodisciplina/S
-autoprotección/S		# Contribuida por César Romé
-contabilización/S
-coquilla/S			# Contribuida por César Romé
-criolita/S
-cromita/S
-cumplimentación/S
-ferroaleación/S
-fundamentación/S
-interoperatividad/S		# Contribuida por Gonzalo Higuera Díaz
-meritocracia/S
-microinformática/S
-personalización/S
-plaquita/S
-reinvención/S
-resiliencia/S
-sandwichera/S
-similaridad/S
-sobreutilización/S
-subcultura/S
-subfamilia/S
-subrutina/S
-sumatoria/S
-temporalización/S
-totalización/S
+fuelóleo/S
+porexpan

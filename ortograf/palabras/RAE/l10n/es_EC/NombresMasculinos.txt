@@ -18,6 +18,7 @@ abigeato/S
 abigeo/S
 achiote/S
 acompañado/S
+aductor/S
 ajicero/S
 ajizal/S
 altoparlante/S

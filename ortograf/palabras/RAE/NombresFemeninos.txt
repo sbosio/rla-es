@@ -153,6 +153,7 @@ adehala/S
 adelfa/NS
 adenia/S
 adenitis
+adenoides
 adherencia/S
 adhesión/S
 adhesividad/S
@@ -178,11 +179,13 @@ adoratriz/S
 adormidera/S
 adquisición/S
 adrenalina/S
+adrenal/S
 adscripción/S
 aduana/S
 aducción/S
 adulación/S
 adularia/S
+adultez/S
 adustez/S
 adverbialización/S
 adversidad/S
@@ -214,6 +217,7 @@ afinidad/S
 afirmación/S
 afirmativa/S
 aflicción/S
+afloración/S
 afonía/S
 aforisma/S
 afrenta/S
@@ -262,6 +266,7 @@ aguaverde/S
 aguavilla/S
 aguaza/S
 agudeza/S
+agudización/S
 aguedita/S
 aguijada/S
 aguijadura/S
@@ -551,6 +556,7 @@ ameba/S
 amelga/S
 amenaza/S
 amenidad/S
+amenorrea/S
 americanada/S
 ametista/S
 ametrallador/S
@@ -659,6 +665,7 @@ angulosidad/S
 angustia/S
 anhidrita/S
 anhidrosis
+anidación/S		# Contribuida por César Romé
 anilina/S
 anilla/S
 animación/pS
@@ -668,6 +675,7 @@ animalidad/S
 ánima/S
 animosidad/S
 aniquilación/S
+anisotropía/S			# Contribuida por Gonzalo Higuera Díaz
 anodinia/S
 anomalía/S
 anonadación/S
@@ -958,6 +966,7 @@ atropina/S
 audacia/S
 audición/S
 audiencia/S
+auditoría/S
 augita/S
 aulaga/S
 aula/S
@@ -970,10 +979,12 @@ ausencia/S
 austeridad/S
 auténtica/S
 autenticidad/S
+autoafirmación/S
 autoclave/S
 autocopista/S
 autocracia/S
 autodefensa/S
+autodefinición/S
 automática/S
 automatización/S
 autonomía/S
@@ -2337,6 +2348,7 @@ civeta/S
 civilidad/kS
 civilización/S
 cizalla/pS
+cizalladura/S
 cizaña/S
 clandestinidad/S
 claque/S
@@ -2773,6 +2785,7 @@ copia/mS
 copiosidad/S
 copla/S
 coplona/S
+copropiedad/S		# Contribuida por Dylan Nicholson
 cópula/S
 coquetería/S
 coquina/S
@@ -2920,6 +2933,7 @@ criminalidad/S
 crin/S
 cripta/S
 criptógama/S
+criptografía/S		# Contribuida por Gonzalo Higuera Díaz
 crisálida/S
 crisantema/S
 crisis
@@ -3355,11 +3369,12 @@ diosma/S
 diplomacia/S
 dipodia/S
 diputación/S
-dirección/S
+dirección/sS
 directriz/S
 disartria/S
 discapacidad/S
 disciplina/S
+discografía/S
 disconformidad/S
 discontinuación/S
 discontinuidad/S
@@ -3495,6 +3510,7 @@ dríade/SG
 driza/S
 droga/LS
 drogodependencia/S
+droguería/S		# Contribuida por Dylan Nicholson
 drosera/S
 drupa/S
 drusa/S
@@ -3627,6 +3643,7 @@ embreadura/S
 embriaguez/S
 embriogenia/S
 embrolla/S
+embutición/S
 embutidera/S
 emelga/S
 emergencia/S
@@ -4658,6 +4675,7 @@ furgoneta/S
 furia/S
 furriera/S
 fusa/qS
+fusibilidad/S
 fusilería/S
 fusión/kSof
 fusta/S
@@ -5648,6 +5666,7 @@ isla/NS
 isobara
 isóbara/S
 isoterma/S
+isotropía/S
 isquemia/S
 itálica/S
 itria/S
@@ -6047,6 +6066,7 @@ limeta/S
 limícola/S
 limitación/S
 limonada/S
+limonita/S
 limosidad/S
 limosna/S
 limpiadera/S
@@ -6298,6 +6318,7 @@ magistratura/S
 magnanimidad/S
 magnesia/S
 magnesita/S
+magnetita/S
 magnetización/S
 magneto/S
 magnetosfera/S
@@ -6627,6 +6648,7 @@ mejora/S
 mejoría/S
 meladucha/S
 meladura/S
+melamina/s
 melancolía/S
 melanina/S
 melanita/S
@@ -6726,6 +6748,7 @@ metafísica/S
 metáfora/S
 metagoge/S
 metalepsis
+metalografía/S
 metalla/S
 metaloterapia/S
 metalurgia/S
@@ -7339,6 +7362,7 @@ observancia/Sk
 obsesión/S
 obsidiana/S
 obsolescencia/S
+obstaculización/S
 obstetricia/S
 obstinación/S
 obstrucción/S
@@ -7423,6 +7447,7 @@ opa/S
 opción/S
 operación/fS
 ópera/S
+operatividad/S
 opereta/S
 opilación/S
 opinión/S
@@ -8934,6 +8959,7 @@ resignación/S
 resigna/S
 resina/S
 resistencia/S
+resistividad/S
 resolución/kS
 resonancia/S
 respetabilidad/S
@@ -9031,6 +9057,7 @@ robaliza/S
 robinia/S
 robladura/S
 robleda/S
+robótica/S		# Contribuida por Gonzalo Higuera Díaz
 robra/S
 robustez/GS
 rocada/S
@@ -9521,6 +9548,7 @@ sinovia/S
 sinovitis
 sinrazón/S
 sintaxis
+sinterización/S
 síntesis
 sinuosidad/S
 sinusitis
@@ -10165,6 +10193,7 @@ tos
 tose/S
 tosidura/S
 tosquedad/S
+tostación/S
 tostada/S
 tostadura/S
 totalidad/S
@@ -10271,6 +10300,7 @@ trepidación/S
 treta/Sp
 trezna/S
 triaca/S
+tiangulación/S
 tría/S
 tribu
 tribulación/S
@@ -10736,6 +10766,7 @@ vitivinicultura/S
 vitola/S
 vitoria/S
 vitrina/S
+vitrocerámica/S
 viudedad/S
 viudez/S
 vivacidad/S

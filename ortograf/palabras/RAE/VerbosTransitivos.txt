@@ -662,7 +662,7 @@ capear/REDÀ
 capialzar/RED
 capitalizar/REDÀ
 capitanear/REDÀÄ
-capitidisminuir/XD
+capitidisminuir/IRD
 capolar/RED
 caponar/RED
 capotear/RED
@@ -751,7 +751,7 @@ cinglar/RED
 cintarear/RED
 cintar/RED
 cintilar/RED
-circuir/XD
+circuir/IRD
 circuncidar/RED
 circundar/REDÆ
 circunferir/XD
@@ -854,7 +854,7 @@ consignar/REDÀ
 constatar/REDÀÅ
 constelar/RED
 constreñir/XDÀ
-construir/XDÀÁÂÈ
+construir/IRDÀÁÂÈ
 consultar/REDÀÁÂÃÄÅÆÌÎÙÚÛ
 consumar/REDÀÌ
 contabilizar/REDÀ
@@ -997,7 +997,7 @@ derogar/REDÀ
 derrabar/RED
 derrocar/REDÀ
 derrochar/REDÀ
-derruir/XDÀ
+derruir/IRDÀ
 desabarrancar/RED
 desabejar/RED
 desabollar/RED
@@ -1358,7 +1358,7 @@ desnacionalizar/RED
 desnarigar/RED
 desnatar/RED
 desobedecer/IRDÀÁÂ
-desobstruir/XDÀ
+desobstruir/IRDÀ
 desodorizar/RED
 desoír/XDÀ
 desopinar/RED
@@ -1435,7 +1435,7 @@ destejar/RED
 destellar/RED
 destensar/RED
 destinar/REDÀÁÂÄÅÆ
-destituir/XDÀÁÂ
+destituir/IRDÀÁÂ
 destramar/RED
 destripar/REDÀ
 destriunfar/RED
@@ -1496,7 +1496,7 @@ digerir/XDÀ
 dilapidar/REDÀ
 diligenciar/RED
 dilucidar/REDÀ
-diluir/XDÀÁÈá
+diluir/IRDÀÁÈá
 dimidiar/RED
 dinamitar/REDÀ
 dintelar/RED
@@ -2052,7 +2052,7 @@ esguardamillar/RED
 esguazar/RED
 esmaltar/REDÀ
 esmerilar/RED
-esmuir/XD
+esmuir/IRD
 esnifar/REDÄ
 espachurrar/RED
 espadañar/RED
@@ -2103,7 +2103,7 @@ estaquillar/RED
 estarcir/RED
 estatificar/RED
 estatuar/RED
-estatuir/XD
+estatuir/IRD
 estebar/RED
 estenografiar/IRD
 estereotipar/RED
@@ -2364,7 +2364,7 @@ ilegitimar/RED
 iludir/RED
 iluminar/REDÀÁÂÄÅÆ
 imbricar/RED
-imbuir/XDÂ
+imbuir/IRDÂ
 imitar/REDÀÁÂÄÅÆÙ
 impactar/REDÀÂÆ
 impartir/REDÀÂÆ
@@ -2397,7 +2397,7 @@ incidir/RED
 incinerar/REDÀÄ
 incitar/REDÀÁÂÄÅÆ
 inclaustrar/RED
-incluir/XDÀÁÂÃÈÉÊ
+incluir/IRDÀÁÂÃÈÉÊ
 incoar/RED
 incordiar/REDÀÁ
 incrasar/RED
@@ -2452,7 +2452,7 @@ inspeccionar/REDÀÂÄÅ
 instaurar/REDÀÂ
 instigar/RED
 instilar/RED
-instituir/XDÀ
+instituir/IRDÀ
 instrumentar/REDÀÄ
 insuflar/REDÂÆ
 insumir/RED
@@ -2476,7 +2476,7 @@ interrogar/REDÀÁÂÄÅÆ
 interrumpir/REDÀÁÂÄÅÆÙÚ
 interviuvar/RED
 intubar/RED
-intuir/XDÀÁÈ
+intuir/IRDÀÁÈ
 invadir/REDÀÁÂÄÅÆ
 invaginar/RED
 invalidar/REDÀÂÄ
@@ -2493,7 +2493,7 @@ irradiar/REDÀÄ
 irreverenciar/RED
 irrigar/RED
 irritar/REDÀÁÂÄÅ
-irruir/XD
+irruir/IRD
 iterar/RED
 izar/REDÀÁÄ
 jabalconar/RED
@@ -2579,7 +2579,7 @@ lotear/RED
 lubricar/REDÀ
 lubrificar/RED
 ludir/RED
-luir/XD
+luir/IRD
 lujar/RED
 lustrar/REDÀÁÂÄ
 macadamizar/RED
@@ -2696,8 +2696,8 @@ mixtificar/RED
 mixturar/RED
 mochar/RED
 mojonar/RED
-moldar/RED
-moldear/REDÀÁÄ
+moldar/hRED
+moldear/hREDÀÁÄ
 moldurar/RED
 moler/IRDÀÁÂÄ
 mollificar/RED
@@ -3109,7 +3109,7 @@ reconducir/XDÀÁÈ
 reconfortar/REDÀÁÂÄ
 reconquistar/REDÀÁ
 reconsiderar/REDÀÄ
-reconstruir/XDÀÁÂÈ
+reconstruir/IRDÀÁÂÈ
 recontar/IRD
 reconvenir/XDÀÂÈÊ
 reconvertir/XDÀ
@@ -3134,7 +3134,7 @@ redhibir/RED
 rediezmar/RED
 redilar/RED
 redilear/RED
-redistribuir/XDÀ
+redistribuir/IRDÀ
 redituar/IRD
 redoblegar/RED
 redorar/RED
@@ -3303,7 +3303,7 @@ retraducir/XD
 retrancar/RED
 retranquear/RED
 retransmitir/REDÀ
-retribuir/XDÀÁÂÃÊ
+retribuir/IRDÀÁÂÃÊ
 retrillar/RED
 retrovender/RED
 retundir/RED
@@ -3508,7 +3508,7 @@ subsanar/REDÀ
 subsidiar/REDÀ
 subsolar/IRD
 substanciar/RED
-substituir/XDÀ
+substituir/IRDÀ
 substraer/XD
 subsumir/REDÀ
 subtender/IRD
@@ -3534,7 +3534,7 @@ surcar/REDÀÄÆ
 suscitar/REDÀÁÂ
 sustanciar/REDÀ
 sustantivar/RED
-sustituir/XDÀÁÂÈÉÊÔá
+sustituir/IRDÀÁÂÈÉÊÔá
 sutilizar/RED
 suturar/REDÀ
 tabellar/RED
@@ -3671,7 +3671,7 @@ trepanar/RED
 trepar/REDÀÂÅÆÍ
 tresdoblar/RED
 triangular/RED
-tribuir/XD
+tribuir/IRD
 tributar/REDÀÁÂÆ
 trillar/RED
 trincar/REDÀÁÂ

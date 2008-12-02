@@ -300,6 +300,7 @@ aedo/S
 aerobio/S
 aeródromo/S
 aerofagia/S
+aerogenerador/S
 aerolito/S
 aeroplano/S
 aeropuerto/S
@@ -588,6 +589,7 @@ alelí/S
 alelo/S
 alenguamiento/S
 alerce/S
+alérgeno/S
 alerón/S
 alero/S
 aletargamiento/S
@@ -975,6 +977,7 @@ anquilosamiento/S
 anquilostoma/S
 ansarino/S
 ánsar/S
+ansiolítico/S
 antagonismo/S
 antecedente/S
 antejo/S
@@ -993,6 +996,7 @@ antifonario/S
 antígeno/S
 antiguo/S
 antihistamínico/S
+antiinflamatorio/S
 antílope/S
 antimonio/S
 antipendio/S
@@ -2282,6 +2286,7 @@ buyo/S
 buzamiento/S
 buzón/S
 buzo/S
+byte/S
 cabalgamiento/Si
 cabalista/S
 caballejo/S
@@ -3052,6 +3057,7 @@ chasco/S
 chasis
 chasquido/S
 chauvinismo/S
+chavetero/S
 chavo/S
 chavó/S
 chayote/S
@@ -3197,6 +3203,7 @@ cimillo/S
 cinabrio/S
 cinamomo/S
 cinc
+cincado/S
 cincel/S
 cincho/HS
 cinchuelo/S
@@ -3446,6 +3453,8 @@ complemento/S
 complot
 complotes
 comportamiento/S
+compost
+compostaje/S
 comprado/S
 comprimido/S
 comprobante/S
@@ -3605,6 +3614,7 @@ contratorpedero/S
 contravalor/S
 contravapor/S
 contraveneno/S
+contra/S
 control/hS
 contubernio/S
 convencionalismo/S
@@ -4205,6 +4215,8 @@ desmembramiento/S
 desmenuzamiento/S
 desmeollamiento/S
 desmoche/S
+desmoldeo/S
+desmolde/S
 desmontable/S
 desmoronamiento/S
 desnudamiento/S
@@ -4556,6 +4568,7 @@ duodeno/S
 dúo/S
 duplicado/S
 duque/S
+duraluminio/S
 duramen/S
 duraznero/S
 durazno/NS
@@ -4945,6 +4958,7 @@ enrizamiento/S
 enrojecimiento/S
 enrolamiento/S
 enrollado/S
+enrollamiento/S
 enronquecimiento/S
 enroscamiento/S
 ensalzamiento/S
@@ -5418,6 +5432,7 @@ estaquillador/S
 estarcido/S
 estatalismo/S
 estatismo/S
+estátor/S
 estatuderato/S
 estatúder/S
 estatus
@@ -5945,6 +5960,8 @@ fuco/S
 fuego/S
 fuellar/S
 fuelle/S
+fuel
+fueloil
 fuero/S
 fuer/S
 fuerte/S
@@ -6067,6 +6084,7 @@ gascón/S
 gases
 gas/f
 gasista/S
+gasógeno/S
 gasóleo/S
 gastador/S
 gasterópodo/S
@@ -6761,6 +6779,7 @@ icho/S
 ichu
 ichus
 icono/S
+ícono/S
 iconostasio/S
 icor/S
 icosaedro/S
@@ -6875,6 +6894,7 @@ integrismo/S
 intelecto/S
 intelectualismo/S
 intento/S
+intercambiador/S
 intercomunicador/S
 interdicto/S
 interés/hS
@@ -6899,6 +6919,7 @@ intradós/S
 introito/S
 intrusismo/S
 inundado/S
+invar/S
 inventario/S
 invento/S
 invernadero/S
@@ -7101,6 +7122,7 @@ kelvin
 kermes
 ketchup/S
 kilociclo/S
+kilográmetro/S
 kilogramo/S
 kilolitro/S
 kilométrico/S
@@ -8959,6 +8981,7 @@ ovni/S
 ovoide/S
 óvulo/S
 oxalato/S
+oxidante/hS
 óxido/Se
 oxidrilo/S
 oxígeno/S
@@ -9025,6 +9048,7 @@ palco/bS
 palenque/S
 paleoterio/S
 palero/S
+palé/S
 paleta/H
 paletero/S
 paleto/GS
@@ -9778,6 +9802,7 @@ pleon/S
 ple/SH
 plesiosauro/S
 pleuronecto/S
+plexiglás/S
 plexo/S
 pliego/S
 plieguecillo/S
@@ -9967,6 +9992,7 @@ potajier/S
 potasio/S
 pote/CS
 potencial/S
+potenciómetro/S
 potentado/S
 potero/S
 potingue/S
@@ -10701,6 +10727,8 @@ renuevo/S
 renunciamiento/S
 renvalso/S
 reo/fS
+reostato/S
+reóstato/S
 reparamiento/S
 reparo
 repelente/S
@@ -11989,6 +12017,7 @@ tecnicismo/S
 tedero/S
 tedeum
 tedio/S
+teflón/S
 tegual/S
 teguillo/S
 tegumento/S
@@ -12266,6 +12295,7 @@ tondino/S
 tondo/S
 tonel/CS
 tonelete/S
+tóner/S
 tongo/S
 tono/NS
 tonos/q

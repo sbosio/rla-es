@@ -1,5 +1,5 @@
---- ../../afijos.txt	2005-11-11 13:17:19.517974007 -0300
-+++ afijos.txt	2005-11-11 13:19:06.894799372 -0300
+--- ../../afijos.txt	2008-11-14 11:21:22.000000000 -0200
++++ afijos.txt	2008-12-01 22:19:18.000000000 -0200
 @@ -1,8 +1,8 @@
  #
 -# es_ANY.aff
@@ -10,14 +10,14 @@
 +# Definición de prefijos y sufijos comunes del idioma español de
 +# España.
  #
- # Copyright 2004-2005, Santiago Bosio.
+ # Copyright 2004-2008, Santiago Bosio.
  #
-@@ -530,11 +511,10 @@
+@@ -530,11 +530,10 @@
  # - Verbos regulares de 1ª, 2ª y 3ª conjugación (los que se conjugan
  # igual que los verbos modelos 'amar', 'temer' y 'partir').
  # - Verbos irregulares de presente del indicativo, imperativo y subjuntivo.
--SFX R Y 202
-+SFX R Y 197
+-SFX R Y 240
++SFX R Y 235
  #
  # Presente del indicativo, formas invariables.
  #
@@ -25,7 +25,7 @@
  SFX R r         mos       [aei]r    # 1ª pers. pl. terminación -ar, -er, -ir.
  SFX R ar        áis       ar        # 2ª pers. pl. terminación -ar.
  #
-@@ -612,9 +592,8 @@
+@@ -612,9 +611,8 @@
  SFX R 0         eis       ar        # 2ª pers. pl.
  SFX R 0         en        ar        # 3ª pers. pl.
  #
@@ -36,7 +36,7 @@
  SFX R r         d         [aei]r    # 2ª pers. pl.
  #
  # Gerundio, terminación -ar.
-@@ -628,7 +607,6 @@
+@@ -628,7 +626,6 @@
  #
  # Presente del indicativo. Formas invariables, terminación -er
  #
@@ -44,7 +44,7 @@
  SFX R er        éis       er        # 2ª pers. pl.
  #
  # Pretérito imperfecto del indicativo, terminación -er.
-@@ -698,13 +676,9 @@
+@@ -698,13 +695,9 @@
  SFX R r         ndo       ñer       # Alt. ortográfica.
  SFX R er        éndose    ñer
  #
@@ -59,10 +59,10 @@
  #
  # Pretérito imperfecto del indicativo, terminación -ir.
  #
-@@ -804,10 +778,6 @@
- SFX R ir        éndose    llir      # Alt. ortográfica
- SFX R ir        endo      ñir       # Alt. ortográfica
- SFX R ir        éndose    ñir       # Alt. ortográfica
+@@ -842,10 +835,6 @@
+ SFX R r         éndose    [gq]uir
+ SFX R ir        yendo     [^gq]uir  # Alt. ortográfica
+ SFX R ir        yéndose   [^gq]uir  # Alt. ortográfica
 -#
 -# Presente del imperativo, terminación -ir
 -#
@@ -70,12 +70,12 @@
  
  # Conjugaciones específicas para verbos regulares de 1ª, 2ª y 3ª conjugación.
  # Presente de indicativo y subjuntivo. Salvo formas invariables (2ª y 3ª
-@@ -909,13 +879,12 @@
+@@ -947,13 +936,12 @@
  # Son aquellos verbos que varían en el presente del indicativo, imperativo
  # y subjuntivo, manteniéndose en los restantes tiempos la misma conjugación
  # que los regulares.
--SFX I Y 732
-+SFX I Y 729
+-SFX I Y 741
++SFX I Y 738
  #
  # Verbos irregulares que se conjugan como el modelo 'acertar'.
  #
@@ -85,7 +85,7 @@
  SFX I ertar     ierta     ertar
  SFX I ertar     iertan    ertar
  SFX I ertar     ierte     ertar
-@@ -1477,7 +1446,6 @@
+@@ -1515,7 +1503,6 @@
  #
  SFX I cer       zco       [ae]cer   # Terminación '-cer' como 'abastecer' y
  SFX I r         s         [ae]cer   # 'complacer'.
@@ -93,7 +93,7 @@
  SFX I r         0         [ae]cer
  SFX I r         n         [ae]cer
  SFX I cer       zca       [ae]cer
-@@ -1631,7 +1599,6 @@
+@@ -1669,7 +1656,6 @@
  #
  SFX I ir        go        sir       # Únicamente terminación '-sir'.
  SFX I ir        es        sir
@@ -101,16 +101,16 @@
  SFX I ir        e         sir
  SFX I ir        en        sir
  SFX I ir        ga        sir
-@@ -1699,7 +1666,7 @@
- SFX I unir      únan      unir
+@@ -1749,7 +1735,7 @@
+ SFX I ir        yan       uir
  
  # Verbos irregulares de pretéritos, condicionales y futuros.
--SFX X Y 1171
-+SFX X Y 1167
+-SFX X Y 1141
++SFX X Y 1137
  #
  # Presente de indicativo, diversas terminaciones en -er e -ir.
  #
-@@ -1709,7 +1676,6 @@
+@@ -1759,7 +1745,6 @@
  SFX X r         mos       [ei]r
  SFX X er        éis       [^v]er
  SFX X er        éis       [es]ver
@@ -118,7 +118,7 @@
  SFX X r         n         oner
  SFX X erer      iero      erer
  SFX X erer      ieres     erer
-@@ -2840,9 +2806,6 @@
+@@ -2862,9 +2847,6 @@
  # Imperativo, terminaciones -er e -ir.
  #
  SFX X r         d         [ei]r
@@ -128,7 +128,7 @@
  #
  # Gerundios irregulares, diversas terminaciones en -er e -ir.
  #
-@@ -3545,15 +3508,11 @@
+@@ -3565,15 +3547,11 @@
  # Verbos regulares en imperativo, con clíticos de objeto directo en
  # 3ª persona, singular y plural; en posición enclítica.
  #
@@ -145,7 +145,7 @@
  SFX Ì r         dla      r
  SFX Ì r         dlas     r
  SFX Ì r         dlo      r
-@@ -3934,11 +3893,9 @@
+@@ -3954,11 +3932,9 @@
  # Verbos regulares en imperativo, con clíticos de objeto directo o indirecto
  # en 1ª y 2ª persona, singular y plural; en posición enclítica.
  #
@@ -158,7 +158,7 @@
  SFX Í r         dme      r
  SFX Í r         dnos     r
  SFX Í ablar     áblame   ablar
-@@ -4103,11 +4060,9 @@
+@@ -4123,11 +4099,9 @@
  # Verbos regulares en imperativo, con clíticos de objeto indirecto en
  # 3ª persona, singular y plural; en posición enclítica.
  #
@@ -171,7 +171,7 @@
  SFX Î r         dle      r
  SFX Î r         dles     r
  SFX Î ablar     áblale   ablar
-@@ -4195,7 +4150,7 @@
+@@ -4215,7 +4189,7 @@
  # persona, y objeto indirecto en 1ª y 3ª persona, singular y plural; en
  # posición enclítica.
  #
@@ -180,7 +180,7 @@
  SFX Ï adir      ádemela     adir
  SFX Ï adir      ádemelas    adir
  SFX Ï adir      ádemelo     adir
-@@ -4208,18 +4163,6 @@
+@@ -4228,18 +4202,6 @@
  SFX Ï adir      ádeselas    adir
  SFX Ï adir      ádeselo     adir
  SFX Ï adir      ádeselos    adir
@@ -199,7 +199,7 @@
  SFX Ï ir        ídmela      ir
  SFX Ï ir        ídmelas     ir
  SFX Ï ir        ídmelo      ir
-@@ -4244,18 +4187,6 @@
+@@ -4264,18 +4226,6 @@
  SFX Ï ambiar    ámbiaselas  ambiar
  SFX Ï ambiar    ámbiaselo   ambiar
  SFX Ï ambiar    ámbiaselos  ambiar
@@ -218,7 +218,7 @@
  SFX Ï ar        ádmela      ar
  SFX Ï ar        ádmelas     ar
  SFX Ï ar        ádmelo      ar
-@@ -4340,18 +4271,6 @@
+@@ -4360,18 +4310,6 @@
  SFX Ï eder      édeselas    eder
  SFX Ï eder      édeselo     eder
  SFX Ï eder      édeselos    eder
@@ -237,7 +237,7 @@
  SFX Ï er        édmela      er
  SFX Ï er        édmelas     er
  SFX Ï er        édmelo      er
-@@ -4500,15 +4419,11 @@
+@@ -4520,15 +4458,11 @@
  # Verbos irregulares de presente en imperativo (2ª persona), con clíticos de
  # objeto directo en 3ª persona, singular y plural; en posición enclítica.
  #
@@ -254,7 +254,7 @@
  SFX Ð r         dla       r
  SFX Ð r         dlas      r
  SFX Ð r         dlo       r
-@@ -4566,11 +4481,9 @@
+@@ -4586,11 +4520,9 @@
  # objeto directo o indirecto en 1ª persona, singular y plural; en posición
  # enclítica.
  #
@@ -267,7 +267,7 @@
  SFX Ñ r         dme       r
  SFX Ñ r         dnos      r
  SFX Ñ ender     iéndeme   ender
-@@ -4597,11 +4510,9 @@
+@@ -4617,11 +4549,9 @@
  # Verbos irregulares de presente en imperativo (2ª persona), con clíticos de
  # objeto indirecto en 3ª persona, singular y plural; en posición enclítica.
  #
@@ -280,7 +280,7 @@
  SFX Ò r         dle       r
  SFX Ò r         dles      r
  SFX Ò egar      iégale    egar
-@@ -4625,7 +4536,7 @@
+@@ -4645,7 +4575,7 @@
  # objeto directo en 3ª persona, y de objeto indirecto en 1ª y 3ª persona,
  # singular y plural; en posición enclítica.
  #
@@ -289,7 +289,7 @@
  SFX Ó ecer      écemela      ecer
  SFX Ó ecer      écemelas     ecer
  SFX Ó ecer      écemelo      ecer
-@@ -4638,18 +4549,6 @@
+@@ -4658,18 +4588,6 @@
  SFX Ó ecer      éceselas     ecer
  SFX Ó ecer      éceselo      ecer
  SFX Ó ecer      éceselos     ecer
@@ -308,7 +308,7 @@
  SFX Ó er        édmela       er
  SFX Ó er        édmelas      er
  SFX Ó er        édmelo       er
-@@ -4674,18 +4573,6 @@
+@@ -4694,18 +4612,6 @@
  SFX Ó iar       íaselas      iar
  SFX Ó iar       íaselo       iar
  SFX Ó iar       íaselos      iar
@@ -327,7 +327,7 @@
  SFX Ó ar        ádmela       ar
  SFX Ó ar        ádmelas      ar
  SFX Ó ar        ádmelo       ar
-@@ -4750,15 +4637,11 @@
+@@ -4770,15 +4676,11 @@
  # Verbos totalmente irregulares en imperativo (2ª persona), con clíticos de
  # objeto directo en 3ª persona, singular y plural; en posición enclítica.
  #
@@ -344,7 +344,7 @@
  SFX Ô r         dla      r
  SFX Ô r         dlas     r
  SFX Ô r         dlo      r
-@@ -4816,11 +4699,9 @@
+@@ -4836,11 +4738,9 @@
  # objeto directo o indirecto en 1ª persona, singular y plural; en posición
  # enclítica.
  #
@@ -357,7 +357,7 @@
  SFX Õ r         dme     r
  SFX Õ r         dnos    r
  SFX Õ aer       áeme    aer
-@@ -4849,11 +4730,9 @@
+@@ -4869,11 +4769,9 @@
  # Verbos irregulares de presente en imperativo (2ª persona), con clíticos de
  # objeto indirecto en 3ª persona, singular y plural; en posición enclítica.
  #
@@ -370,7 +370,7 @@
  SFX Ö r         dle     r
  SFX Ö r         dles    r
  SFX Ö aer       áele    aer
-@@ -4871,7 +4750,7 @@
+@@ -4891,7 +4789,7 @@
  # objeto directo en 3ª persona, y de objeto indirecto en 1ª y 3ª persona,
  # singular y plural; en posición enclítica.
  #
@@ -379,7 +379,7 @@
  SFX Ø aer       áemela    aer
  SFX Ø aer       áemelas   aer
  SFX Ø aer       áemelo    aer
-@@ -4884,18 +4763,6 @@
+@@ -4904,18 +4802,6 @@
  SFX Ø aer       áeselas   aer
  SFX Ø aer       áeselo    aer
  SFX Ø aer       áeselos   aer
@@ -398,7 +398,7 @@
  SFX Ø er        édmela    er
  SFX Ø er        édmelas   er
  SFX Ø er        édmelo    er
-@@ -4920,18 +4787,6 @@
+@@ -4940,18 +4826,6 @@
  SFX Ø edir      ídeselas  edir
  SFX Ø edir      ídeselo   edir
  SFX Ø edir      ídeselos  edir
@@ -417,7 +417,7 @@
  SFX Ø ir        ídmela    ir
  SFX Ø ir        ídmelas   ir
  SFX Ø ir        ídmelo    ir
-@@ -6895,9 +6750,8 @@
+@@ -6915,9 +6789,8 @@
  # Verbos regulares que aceptan conjugación pronominal, en imperativo; con
  # pronombre personal reflexivo en posición enclítica.
  #
@@ -428,7 +428,7 @@
  SFX ô r         os       r
  SFX ô acar      ácate    acar
  SFX ô achar     áchate   achar
-@@ -7036,9 +6890,8 @@
+@@ -7056,9 +6929,8 @@
  # Verbos irregulares de presente que aceptan conjugación pronominal,
  # en imperativo; con pronombre personal reflexivo en posición enclítica.
  #
@@ -439,7 +439,7 @@
  SFX õ r         os        [^i]r
  SFX õ ecer      écete     ecer
  SFX õ egar      iégate    egar
-@@ -7072,9 +6925,8 @@
+@@ -7092,9 +6964,8 @@
  # Verbos totalmente irregulares que aceptan conjugación pronominal,
  # en imperativo; con pronombre personal reflexivo en posición enclítica.
  #

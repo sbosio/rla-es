@@ -253,6 +253,7 @@ adamantino/GS
 adamita/S
 adaptable/kS
 adaptador/GS
+adaptativo/GS
 adecuada/k
 adecuado/kGS
 adelantado/GS
@@ -304,6 +305,7 @@ adquirible/S
 adquiriente/S
 adquisidor/GS
 adquisitivo/GS
+adrenal/S
 adriático/SG
 aduanero/GS
 aductor/GS
@@ -622,6 +624,8 @@ almohade/GS
 almohadillado/SG
 almorávide/S
 alocado/GS
+alópata/S
+alopático/GS
 alotrópico/GS
 alpestre/S
 alpina/u
@@ -833,6 +837,7 @@ angular/S
 anguloso/GS
 angustiador/SG
 angustiado/SG
+angustiante/S
 angustioso/GS
 anhelante/S
 anheloso/GS
@@ -852,6 +857,7 @@ aniquilador/GS
 anisado/GS
 anisodonte/S
 anisofilo/GS
+anisótropo/GS			# Contribuida por Gonzalo Higuera Díaz
 anochecedor/GS
 anodino/GS
 anofeles
@@ -864,6 +870,7 @@ anotador/GS
 anquiseco/GS
 ansarino/GS
 anseriforme/S
+ansiolítico/GS
 ansioso/GS
 ansotano/GS
 antagónico/GS
@@ -891,7 +898,9 @@ antidepresivo/GS
 antidroga/S
 antiguo/SG
 antihistamínico/GS
-antihelmíntico/SG
+antihelmíntico/GS
+antiinflamatorio/GS
+antimicrobiano/GS
 antimonial/S
 antiniebla/S
 antipático/GS
@@ -1021,6 +1030,7 @@ apresador/GS
 apretadero/SG
 apretado/GS
 apretador/GS
+apriorístico/GS
 apropiable/kS
 apropiador/GS
 aprovechable/S
@@ -1307,6 +1317,7 @@ atomístico/GS
 atónito/SG
 átono/GS
 atontado/GS
+atópico/GS
 atormentador/SG
 atosigador/GS
 atrabiliario/GS
@@ -1339,7 +1350,7 @@ auditorio/SG
 augurador/SG
 augustal/S
 augusto/GS
-aúlico/GS
+áulico/GS
 aullador/GS
 aumentable/S
 aumentador/GS
@@ -1347,6 +1358,7 @@ aumentativo/GS
 aurelianense/S
 áureo/GS
 aurgitano/GS
+áurico/GS
 auricular/eS
 auriense/S
 ausente/GS
@@ -1361,6 +1373,7 @@ austriaco/GS
 auténtico/GS
 autista/S
 autóctono/SG
+autodestructivo/GS
 autodidacto/GS
 autoestopista/S
 autógeno/GS
@@ -2552,6 +2565,7 @@ cimera/i
 cimerio/GS
 cimero/iGS
 cinámico/GS
+cincado/GS
 cinchado/GS
 cinco/GS
 cincomesino/GS
@@ -3070,6 +3084,7 @@ contractivo/GS
 contractual/S
 contradictorio/GS
 contradictor/SG
+contraelectromotriz/S
 contrahecho/SG
 contranatural/S
 contraponedor/SG
@@ -3273,6 +3288,7 @@ criminal/S
 criminoso/GS
 criollo/GS
 criptógamo/GS
+criptográfico/GS		# Contribuida por Gonzalo Higuera Díaz
 cristalino/GS
 cristalizable/kS
 cristalizado/GS
@@ -3459,6 +3475,7 @@ debilitante/S
 débil/S
 debutante/S
 decadentista/S
+decantador/GS
 decápodo/SG
 decasílaba/i
 decasílabo/iSG
@@ -3989,6 +4006,7 @@ dipneo/GS
 díptero/GS
 diputador/SG
 dirceo/GS
+direccional/S
 directa/k
 directivo/GS
 directo/kSG
@@ -5204,6 +5222,7 @@ extorsionista/S
 extractador/GS
 extracurricular/S
 extraembrionario/GS
+extraescolar/S
 extrajudicial/S
 extralingüístico/GS
 extranjero/GS
@@ -5562,6 +5581,7 @@ fotoeléctrico/GS
 fotográfico/SG
 fotométrico/SG
 fotosensible/S
+fotovoltaico/GS
 fraccionable/S
 fraccionario/GS
 fragante/S
@@ -6410,6 +6430,7 @@ idea/S
 idéntico/GS
 identificable/S
 identificador/GS
+identificativo/GS
 ideológico/GS
 idílico/SG
 idiota/S
@@ -6933,6 +6954,7 @@ isópodo/S
 isotérmico/GS
 isotermo/GS
 isotónico/GS
+isótropo/GS			# Contribuida por Gonzalo Higuera Díaz
 isquiático/GS
 israelí/S
 israelita/S
@@ -8915,6 +8937,7 @@ organizado/SG
 organizativo/GS
 orgiástico/GS
 orgulloso/GS
+orientable/GS
 orientador/hGS
 orientalista/S
 oriental/S
@@ -8977,7 +9000,7 @@ ovovivíparo/GS
 ovular/S
 oxálico/GS
 oxidable/hkS
-oxidante/Shc
+oxidante/chS
 oxigenado/GS
 oxoniense/S
 oyente/S
@@ -9059,8 +9082,10 @@ pando/SG
 panegírico/GS
 panero/GS
 paneslavista/S
+paneuropeo/GS			# Contribuida por Gonzalo Higuera Díaz
 pánfilo/GS
 pangermanista/S
+panhispánico/GS			# Contribuida por Gonzalo Higuera Díaz
 pánico/GS
 panicular/S
 paniego/GS
@@ -10312,6 +10337,7 @@ rebuznador/SG
 recabita/S
 recalcitrante/S
 recalvastro/GS
+recargable/S
 recatón/GS
 recaudatorio/GS
 recela/S
@@ -11223,6 +11249,7 @@ seudónimo/GS
 severo/SG
 sevillano/SG
 sexagenario/GS
+sexagesimal/S
 sexagésimo/GS
 sexcentésimo/SG
 sexista/S
@@ -11834,6 +11861,7 @@ terminativa/g
 terminativo/gSG
 termodinámico/SG
 termoeléctrico/SG
+termoestable/S
 termométrico/SG
 termonuclear/S
 terna/kS
@@ -12386,6 +12414,7 @@ unicelular/S
 unicolor/S
 único/SG
 unidimensional/S
+unidireccional/S		# Contribuida por Gonzalo Higuera Díaz
 unidor/SG
 unifamiliar/S
 unificado/GS
@@ -12749,6 +12778,7 @@ vitelino/GS
 vitoriano/GS
 vítreo/GS
 vitrificable/S
+vitrocerámico/GS
 vituperable/S
 vituperador/GS
 viudal/S

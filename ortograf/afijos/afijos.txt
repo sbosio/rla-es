@@ -4,7 +4,7 @@
 # Definición de prefijos y sufijos comunes del idioma español de España y
 # América Latina.
 #
-# Copyright 2004-2005, Santiago Bosio.
+# Copyright 2004-2008, Santiago Bosio.
 #
 # Distribuido bajo la licencia 'GNU Lesser General Public License' (LGPL),
 # publicada por la Free Software Foundation.
@@ -530,7 +530,7 @@ SFX Q jar       xiones    ejar
 # - Verbos regulares de 1ª, 2ª y 3ª conjugación (los que se conjugan
 # igual que los verbos modelos 'amar', 'temer' y 'partir').
 # - Verbos irregulares de presente del indicativo, imperativo y subjuntivo.
-SFX R Y 202
+SFX R Y 240
 #
 # Presente del indicativo, formas invariables.
 #
@@ -718,92 +718,130 @@ SFX R ir        ían       ir        # 3ª pers. pl.
 #
 SFX R ir        í         ir        # 1ª pers. sing.
 SFX R r         ste       ir        # 2ª pers. sing.
-SFX R r         ó         [^lñ]ir   # 3ª pers. sing.
+SFX R r         ó         [^lñu]ir  # 3ª pers. sing.
 SFX R r         ó         [^l]lir
 SFX R ir        ó         llir      # Alt. ortográfica.
 SFX R ir        ó         ñir       # Alt. ortográfica.
+SFX R r         ó         [gq]uir
+SFX R ir        yó        [^gq]uir  # Alt. ortográfica.
 SFX R r         steis     ir        # 2ª pers. pl.
-SFX R r         eron      [^lñ]ir   # 3ª pers. pl.
+SFX R r         eron      [^lñu]ir  # 3ª pers. pl.
 SFX R r         eron      [^l]lir
 SFX R ir        eron      llir      # Alt. ortográfica.
 SFX R ir        eron      ñir       # Alt. ortográfica.
+SFX R r         eron      [gq]uir
+SFX R ir        yeron     [^gq]uir  # Alt. ortográfica.
 #
 # Pretérito imperfecto del subjuntivo
 #
-SFX R r         era       [^lñ]ir   # 1ª y 3ª pers. sing.
+SFX R r         era       [^lñu]ir  # 1ª y 3ª pers. sing.
 SFX R r         era       [^l]lir   # 1ª y 3ª pers. sing.
 SFX R ir        era       llir      # 1ª y 3ª pers. sing.
 SFX R ir        era       ñir       # 1ª y 3ª pers. sing.
-SFX R r         ese       [^lñ]ir   # 1ª y 3ª pers. sing.
+SFX R r         era       [gq]uir   # 1ª y 3ª pers. sing.
+SFX R ir        yera      [^gq]uir  # 1ª y 3ª pers. sing.
+SFX R r         ese       [^lñu]ir  # 1ª y 3ª pers. sing.
 SFX R r         ese       [^l]lir   # 1ª y 3ª pers. sing.
 SFX R ir        ese       llir      # 1ª y 3ª pers. sing.
 SFX R ir        ese       ñir       # 1ª y 3ª pers. sing.
-SFX R r         eras      [^lñ]ir   # 2ª pers. sing.
+SFX R r         ese       [gq]uir   # 1ª y 3ª pers. sing.
+SFX R ir        yese      [^gq]uir  # 1ª y 3ª pers. sing.
+SFX R r         eras      [^lñu]ir  # 2ª pers. sing.
 SFX R r         eras      [^l]lir   # 2ª pers. sing.
 SFX R ir        eras      llir      # 2ª pers. sing.
 SFX R ir        eras      ñir       # 2ª pers. sing.
-SFX R r         eses      [^lñ]ir   # 2ª pers. sing.
+SFX R r         eras      [gq]uir   # 2ª pers. sing.
+SFX R ir        yeras     [^gq]uir  # 2ª pers. sing.
+SFX R r         eses      [^lñu]ir  # 2ª pers. sing.
 SFX R r         eses      [^l]lir   # 2ª pers. sing.
 SFX R ir        eses      llir      # 2ª pers. sing.
 SFX R ir        eses      ñir       # 2ª pers. sing.
-SFX R r         éramos    [^lñ]ir   # 1ª pers. pl.
+SFX R r         eses      [gq]uir   # 2ª pers. sing.
+SFX R ir        yeses     [^gq]uir  # 2ª pers. sing.
+SFX R r         éramos    [^lñu]ir  # 1ª pers. pl.
 SFX R r         éramos    [^l]lir   # 1ª pers. pl.
 SFX R ir        éramos    llir      # 1ª pers. pl.
 SFX R ir        éramos    ñir       # 1ª pers. pl.
-SFX R r         ésemos    [^lñ]ir   # 1ª pers. pl.
+SFX R r         éramos    [gq]uir   # 1ª pers. pl.
+SFX R ir        yéramos   [^gq]uir  # 1ª pers. pl.
+SFX R r         ésemos    [^lñu]ir  # 1ª pers. pl.
 SFX R r         ésemos    [^l]lir   # 1ª pers. pl.
 SFX R ir        ésemos    llir      # 1ª pers. pl.
 SFX R ir        ésemos    ñir       # 1ª pers. pl.
-SFX R r         erais     [^lñ]ir   # 2ª pers. pl.
+SFX R r         ésemos    [gq]uir   # 1ª pers. pl.
+SFX R ir        yésemos   [^gq]uir  # 1ª pers. pl.
+SFX R r         erais     [^lñu]ir  # 2ª pers. pl.
 SFX R r         erais     [^l]lir   # 2ª pers. pl.
 SFX R ir        erais     llir      # 2ª pers. pl.
 SFX R ir        erais     ñir       # 2ª pers. pl.
-SFX R r         eseis     [^lñ]ir   # 2ª pers. pl.
+SFX R r         erais     [gq]uir   # 2ª pers. pl.
+SFX R ir        yerais    [^gq]uir  # 2ª pers. pl.
+SFX R r         eseis     [^lñu]ir  # 2ª pers. pl.
 SFX R r         eseis     [^l]lir   # 2ª pers. pl.
 SFX R ir        eseis     llir      # 2ª pers. pl.
 SFX R ir        eseis     ñir       # 2ª pers. pl.
-SFX R r         eran      [^lñ]ir   # 3ª pers. pl.
+SFX R r         eseis     [gq]uir   # 2ª pers. pl.
+SFX R ir        yeseis    [^gq]uir  # 2ª pers. pl.
+SFX R r         eran      [^lñu]ir  # 3ª pers. pl.
 SFX R r         eran      [^l]lir   # 3ª pers. pl.
 SFX R ir        eran      llir      # 3ª pers. pl.
 SFX R ir        eran      ñir       # 3ª pers. pl.
-SFX R r         esen      [^lñ]ir   # 3ª pers. pl.
+SFX R r         eran      [gq]uir   # 3ª pers. pl.
+SFX R ir        yeran     [^gq]uir  # 3ª pers. pl.
+SFX R r         esen      [^lñu]ir  # 3ª pers. pl.
 SFX R r         esen      [^l]lir   # 3ª pers. pl.
 SFX R ir        esen      llir      # 3ª pers. pl.
 SFX R ir        esen      ñir       # 3ª pers. pl.
+SFX R r         esen      [gq]uir   # 3ª pers. pl.
+SFX R ir        yesen     [^gq]uir  # 3ª pers. pl.
 #
 # Futuro del subjuntivo
 #
-SFX R r         ere       [^lñ]ir   # 1ª y 3ª pers. sing.
+SFX R r         ere       [^lñu]ir  # 1ª y 3ª pers. sing.
 SFX R r         ere       [^l]lir   # 1ª y 3ª pers. sing.
 SFX R ir        ere       llir      # 1ª y 3ª pers. sing.
 SFX R ir        ere       ñir       # 1ª y 3ª pers. sing.
-SFX R r         eres      [^lñ]ir   # 2ª pers. sing.
+SFX R r         ere       [gq]uir   # 1ª y 3ª pers. sing.
+SFX R ir        yere      [^gq]uir  # 1ª y 3ª pers. sing.
+SFX R r         eres      [^lñu]ir  # 2ª pers. sing.
 SFX R r         eres      [^l]lir   # 2ª pers. sing.
 SFX R ir        eres      llir      # 2ª pers. sing.
 SFX R ir        eres      ñir       # 2ª pers. sing.
-SFX R r         éremos    [^lñ]ir   # 1ª pers. pl.
+SFX R r         eres      [gq]uir   # 2ª pers. sing.
+SFX R ir        yeres     [^gq]uir  # 2ª pers. sing.
+SFX R r         éremos    [^lñu]ir  # 1ª pers. pl.
 SFX R r         éremos    [^l]lir   # 1ª pers. pl.
 SFX R ir        éremos    llir      # 1ª pers. pl.
 SFX R ir        éremos    ñir       # 1ª pers. pl.
-SFX R r         ereis     [^lñ]ir   # 2ª pers. pl.
+SFX R r         éremos    [gq]uir   # 1ª pers. pl.
+SFX R ir        yéremos   [^gq]uir  # 1ª pers. pl.
+SFX R r         ereis     [^lñu]ir  # 2ª pers. pl.
 SFX R r         ereis     [^l]lir   # 2ª pers. pl.
 SFX R ir        ereis     llir      # 2ª pers. pl.
 SFX R ir        ereis     ñir       # 2ª pers. pl.
-SFX R r         eren      [^lñ]ir   # 3ª pers. pl.
+SFX R r         ereis     [gq]uir   # 2ª pers. pl.
+SFX R ir        yereis    [^gq]uir  # 2ª pers. pl.
+SFX R r         eren      [^lñu]ir  # 3ª pers. pl.
 SFX R r         eren      [^l]lir   # 3ª pers. pl.
 SFX R ir        eren      llir      # 3ª pers. pl.
 SFX R ir        eren      ñir       # 3ª pers. pl.
+SFX R r         eren      [gq]uir   # 3ª pers. pl.
+SFX R ir        yeren     [^gq]uir  # 3ª pers. pl.
 #
 # Gerundio, terminación -ir.
 #
-SFX R r         endo      [^lñ]ir
-SFX R r         éndose    [^lñ]ir
+SFX R r         endo      [^lñu]ir
+SFX R r         éndose    [^lñu]ir
 SFX R r         endo      [^l]lir
 SFX R r         éndose    [^l]lir
 SFX R ir        endo      llir      # Alt. ortográfica
 SFX R ir        éndose    llir      # Alt. ortográfica
 SFX R ir        endo      ñir       # Alt. ortográfica
 SFX R ir        éndose    ñir       # Alt. ortográfica
+SFX R r         endo      [gq]uir
+SFX R r         éndose    [gq]uir
+SFX R ir        yendo     [^gq]uir  # Alt. ortográfica
+SFX R ir        yéndose   [^gq]uir  # Alt. ortográfica
 #
 # Presente del imperativo, terminación -ir
 #
@@ -909,7 +947,7 @@ SFX E quir      can       quir      # Alt. ortográfica.
 # Son aquellos verbos que varían en el presente del indicativo, imperativo
 # y subjuntivo, manteniéndose en los restantes tiempos la misma conjugación
 # que los regulares.
-SFX I Y 732
+SFX I Y 741
 #
 # Verbos irregulares que se conjugan como el modelo 'acertar'.
 #
@@ -1648,8 +1686,8 @@ SFX I ernir     ierne     ernir
 SFX I ernir     iernen    ernir
 SFX I ernir     ierna     ernir
 SFX I ernir     iernas    ernir
-SFX I ir        amos      [^cs]ir
-SFX I ir        áis       [^cs]ir
+SFX I ir        amos      [^csu]ir
+SFX I ir        áis       [^csu]ir
 SFX I ernir     iernan    ernir
 SFX I endir     iendo     endir     # Terminación '-endir' como 'hendir'.
 SFX I endir     iendes    endir
@@ -1697,9 +1735,21 @@ SFX I unir      únen      unir
 SFX I unir      úna       unir
 SFX I unir      únas      unir
 SFX I unir      únan      unir
+#
+# Verbos irregulares que se conjugan como el modelo 'construir'.
+#
+SFX I ir        yo        uir       # Únicamente terminación '-uir'
+SFX I ir        yes       uir
+SFX I ir        ye        uir
+SFX I ir        yen       uir
+SFX I ir        ya        uir
+SFX I ir        yas       uir
+SFX I ir        yamos     uir
+SFX I ir        yáis      uir
+SFX I ir        yan       uir
 
 # Verbos irregulares de pretéritos, condicionales y futuros.
-SFX X Y 1171
+SFX X Y 1141
 #
 # Presente de indicativo, diversas terminaciones en -er e -ir.
 #
@@ -1746,9 +1796,7 @@ SFX X er        én        [es]ver
 SFX X erir      iero      erir
 SFX X erir      ieres     erir
 SFX X erir      iere      erir
-SFX X ir        ís        [^u]ir
-SFX X ir        is        [^g]uir
-SFX X ir        ís        guir
+SFX X ir        ís        ir
 SFX X erir      ieren     erir
 SFX X ertir     ierto     ertir
 SFX X ertir     iertes    ertir
@@ -1782,10 +1830,6 @@ SFX X ir        go        enir
 SFX X enir      ienes     enir
 SFX X enir      iene      enir
 SFX X enir      ienen     enir
-SFX X ir        yo        [^g]uir
-SFX X ir        yes       [^g]uir
-SFX X ir        ye        [^g]uir
-SFX X ir        yen       [^g]uir
 SFX X üir       uyo       üir
 SFX X üir       uyes      üir
 SFX X üir       uye       üir
@@ -1957,8 +2001,6 @@ SFX X enir      ino       enir
 SFX X enir      inimos    enir
 SFX X enir      inisteis  enir
 SFX X enir      inieron   enir
-SFX X ir        yó        [^g]uir
-SFX X ir        yeron     [^g]uir
 SFX X üir       uyó       üir
 SFX X üir       uyeron    üir
 SFX X eñir      iñó       eñir
@@ -2270,11 +2312,6 @@ SFX X ir        gas       enir
 SFX X ir        gamos     enir
 SFX X ir        gáis      enir
 SFX X ir        gan       enir
-SFX X ir        ya        [^g]uir
-SFX X ir        yas       [^g]uir
-SFX X ir        yamos     [^g]uir
-SFX X ir        yáis      [^g]uir
-SFX X ir        yan       [^g]uir
 SFX X üir       uya       üir
 SFX X üir       uyas      üir
 SFX X üir       uyamos    üir
@@ -2523,16 +2560,6 @@ SFX X enir      inierais  enir
 SFX X enir      inieseis  enir
 SFX X enir      inieran   enir
 SFX X enir      iniesen   enir
-SFX X ir        yera      [^g]uir
-SFX X ir        yese      [^g]uir
-SFX X ir        yeras     [^g]uir
-SFX X ir        yeses     [^g]uir
-SFX X ir        yéramos   [^g]uir
-SFX X ir        yésemos   [^g]uir
-SFX X ir        yerais    [^g]uir
-SFX X ir        yeseis    [^g]uir
-SFX X ir        yeran     [^g]uir
-SFX X ir        yesen     [^g]uir
 SFX X üir       uyera     üir
 SFX X üir       uyese     üir
 SFX X üir       uyeras    üir
@@ -2761,11 +2788,6 @@ SFX X enir      inieres   enir
 SFX X enir      iniéremos enir
 SFX X enir      iniereis  enir
 SFX X enir      inieren   enir
-SFX X ir        yere      [^g]uir
-SFX X ir        yeres     [^g]uir
-SFX X ir        yéremos   [^g]uir
-SFX X ir        yereis    [^g]uir
-SFX X ir        yeren     [^g]uir
 SFX X üir       uyere     üir
 SFX X üir       uyeres    üir
 SFX X üir       uyéremos  üir
@@ -2870,8 +2892,6 @@ SFX X orir      uriendo    orir
 SFX X orir      uriéndose  orir
 SFX X enir      iniendo    enir
 SFX X enir      iniéndose  enir
-SFX X ir        yendo      [^g]uir
-SFX X ir        yéndose    [^g]uir
 SFX X üir       uyendo     üir
 SFX X üir       uyéndose   üir
 SFX X eñir      iñendo     eñir

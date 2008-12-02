@@ -30,7 +30,7 @@ acuartillar/RED
 acuatizar/RED
 acudir/RED
 advenir/XD
-afluir/XD
+afluir/IRD
 agamitar/RED
 ahocicar/RED
 ahoyar/RED
@@ -277,7 +277,7 @@ concurrir/RED
 condecir/X
 condescender/IRD
 conferenciar/RED
-confluir/XD
+confluir/IRD
 confraternar/RED
 confraternizar/RED
 congeniar/RED
@@ -369,7 +369,7 @@ diablear/RED
 diaconar/RED
 dialogizar/RED
 dictaminar/RED
-difluir/XD
+difluir/IRD
 diluviar/RED
 dimanar/RED
 disceptar/RED
@@ -392,7 +392,7 @@ durar/RED
 echacorvear/RED
 eclosionar/RED
 editorializar/RED
-efluir/XD
+efluir/IRD
 egresar/RED
 embarbecer/IRD
 embarnecer/IRD
@@ -475,14 +475,14 @@ flojear/RED
 florar/RED
 flotar/RED
 fluctuar/IRD
-fluir/XD
+fluir/IRD
 forcejear/RED
 fosforecer/IRD
 fosforescer/RED
 fraternizar/RED
 frezar/RED
 fructificar/RED
-fruir/XD
+fruir/IRD
 frutar/RED
 frutecer/IRD
 fucilar/RED
@@ -543,7 +543,7 @@ greguizar/RED
 grillar/RED
 grisear/RED
 groar/RED
-gruir/XD
+gruir/IRD
 gruñir/RED
 gualdrapear/RED
 guapear/RED
@@ -878,7 +878,7 @@ recular/RED
 redolar/RED
 redundar/RED
 reflorecer/IRD
-refluir/XD
+refluir/IRD
 refulgir/RED
 refunfuñar/RED
 regañir/RED

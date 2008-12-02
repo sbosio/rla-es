@@ -14,33 +14,55 @@
 # Debe haber recibido una copia de la Licencia Pública General de GNU junto
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
+acoplable/S			# Contribuida por Ricardo Goldberger
 actitudinal/S
 acultural/S
 advertible/S
+almacenable/S
+anatomoclínico/GS
+anatomopatológico/GS
 antiautoritario/GS
 anticomercial/S
+antihorario/GS
 antimonopólico/GS
 autocorrectivo/GS
 autodenominado/GS
 autodeterminado/GS
+autolubricante/S
 autosustentable/S
+bidireccional/S
 colaborativo/GS
+combinacional/S			# Contribuida por César Romé
 completísimo/GS
 contextualizado/GS
+desplazable/S
+diédrico/GS
+fenólico/GS
 finísimo/GS
 franquiciado/GS
 globalizado/GS
+hidrotérmico/GS
 inefectivo/GS
+interoperable/S			# Contribuida por Gonzalo Higuera Díaz
 larguísimo/GS
+maremotriz/S
+mareomotriz/S
+melamínico/GS
 microinformático/GS
 monopólico/GS
 multidisciplinario/GS
 oligopólico/GS
+omnidireccional/S
 participativo/GS
 patrocinante/S
 pequeñísimo/GS
+periodontal/S
 policéntrico/GS
 predictivo/GS
 prescriptor/GS
+ranurado/GS
 semiconsciente/S
+semielaborado/GS
 texturado/GS
+torsor/S
+unipolar/S
