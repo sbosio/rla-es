@@ -3,10 +3,10 @@
   **  Diccionario para corrección ortográfica en español de OpenOffice.org  **
   **                                                                        **
   ****************************************************************************
-  **  VERSIÓN LOCALIZADA PARA PUERTO RICO                                   **
+  **  VERSIÓN __LOCALE_TEXT__                      **
   ****************************************************************************
 
-                                   Versión 0.1
+                                   Versión 0.3
 
 SUMARIO
 
@@ -20,8 +20,7 @@ SUMARIO
 1. AUTOR
 
    Este diccionario ha sido desarrollado inicialmente por Santiago Bosio;
-quien actualmente coordina el desarrollo de todos los diccionarios localizados,
-y mantiene el diccionario para la localización Argentina (es_AR).
+quien actualmente coordina el desarrollo de todos los diccionarios localizados.
 
    Si desea contactar al autor, por favor envíe sus mensajes mediante correo
 electrónico a:
@@ -33,32 +32,24 @@ electrónico a:
 trabajo de Jesús Carretero y Santiago Rodríguez, ni en la versión adaptada al
 formato de MySpell por Richard Holt.
 
-   Esta versión localizada del diccionario no cuenta con un encargado de
-mantenimiento. Si quiere ofrecerse para esta tarea, contáctese con el autor,
-quien le dará más detalles sobre el trabajo a desarrollar.
-
 
 2. LICENCIA
 
    Este diccionario para corrección ortográfica, integrado por el fichero
-de afijos (es_XX.aff) y la lista de palabras (es_XX.dic) se distribuye bajo
-licencia GNU LGPL (Lesser General Public License). Puede obtener una copia de
-la licencia original (en inglés) en la siguiente dirección:
-
-	http://www.gnu.org/licenses/lgpl.txt
-
+de afijos y la lista de palabras (__LOCALE__[.aff|.dic]) se distribuye
+bajo un triple esquema de licencias disjuntas: GNU GPL versión 3 o posterior,
+GNU LGPL versión 3 o posterior, ó MPL versión 1.1 o posterior. Puede
+seleccionar libremente bajo cuál de estas licencias utilizará este diccionario.
+Encontrará copias de las licencias adjuntas en este mismo paquete.
 
 3. INSTALACIÓN
 
-   La forma recomendada de instalar sus diccionarios en OpenOffice.org 2.0, es
-utilizando el Asistente. Lo encontrará en el menú Archivo -> Asistentes, bajo
-la opción "Instalar diccionarios nuevos". Este asistente permite instalar los
-diccionarios descargándolos directamente de Internet, o utilizando un paquete
-de diccionario comprimido (en ZIP) que haya descargado previamente. El
-asistente realiza automáticamente las modificaciones en los ficheros de
-configuración.
+   En OpenOffice.org versión 3.x y superior, utilice el administrador de
+extensiones, seleccionando para instalar directamente el fichero con
+extensión ".oxt".
 
-   Si desea realizar una instalación manual siga estas instrucciones:
+   Para instalar en OpenOffice.org versión 1.x ó 2.x, deberá realizar una
+instalación manual siguiendo estas instrucciones:
 
 a) Copie el fichero de afijos y la lista de palabras en la carpeta de
    instalación de diccionarios.
@@ -180,6 +171,6 @@ creación de este diccionario. Se agradece especialmente a:
    - Carlos Dávila.
    - Román Gelbort.
    - J. Eduardo Moreno.
+   - Gonzalo Higuera Díaz.
    - y a todos los integrantes de la comunidad en español que proponen mejoras
      a este diccionario.
-

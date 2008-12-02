@@ -2,7 +2,7 @@
 #
 # make_dict.sh: Script para la creación del paquete de diccionario.
 #
-# (c) 2005, Santiago Bosio
+# Copyleft 2005-2008, Santiago Bosio
 # Este programa se distribuye bajo licencia GNU GPL.
 
 # Herramientas básicas para el script
@@ -47,6 +47,9 @@ if [ "$UNMUNCH" == "" ]; then
   fi
 fi
 
+# Por defecto hacemos un paquete de extensión para OOo 3.x
+VERSION="3"
+
 # Realizar el análisis de los parámetros de la línea de comandos
 previa=
 for opcion
@@ -70,6 +73,9 @@ do
     --rae | -r)
       RAE="SÍ" ;;
 
+    -2)
+      VERSION="2" ;;
+
     --ayuda | --help | -h)
       echo
       echo "Sintaxis del comando: $0 [opciones]."
@@ -83,6 +89,11 @@ do
       echo "--rae | -r"
       echo "    Incluir únicamente las palabras pertenecientes al"
       echo "    diccionario de la Real Academia Española."
+      echo "-2"
+      echo "    Crear un paquete ZIP de instalación manual para las"
+      echo "    versiones 1.x ó 2.x de OpenOffice.org."
+      echo "    Por defecto se crea una extensión (.oxt) para"
+      echo "    OpenOffice.org versión 3.x o superior."
       echo
       exit 0 ;;
 
@@ -153,6 +164,7 @@ else
         > /dev/null 2>&1
   ./remover_comentarios.sh < $AFFIXTMP > $AFFIX
 fi
+rm -f $AFFIXTMP
 echo "¡listo!"
 
 # La lista de palabras se conforma con los distintos grupos de palabras
@@ -233,19 +245,145 @@ nice -n +19 \
     > $DICFILE
 rm -f $WLIST
 echo "¡listo!"
-    
-echo -n "Creando paquete comprimido... "
-ZIPFILE="$MDTMPDIR/$LOCALIZACION.zip"
-$ZIP -j -q $ZIPFILE $DICFILE $AFFIX \
-    ../docs/README_$LOCALIZACION.txt \
-    ../docs/Changelog_$LOCALIZACION.txt
-echo "¡listo!"
-
-# Mover el paquete a esta carpeta y eliminar la carpeta temporal
-mv -f $ZIPFILE .
-rm -Rf $MDTMPDIR
-
-echo "¡Proceso finalizado!"
 
 # Restauramos la variable de entorno LANG
 LANG=$LANG_BAK
+
+# Crear paquete de diccionario
+case $LOCALIZACION in
+  es_AR)
+    PAIS="Argentina"
+    LOCALIZACIONES="es-AR"
+    TEXTO_LOCAL="LOCALIZADA PARA ARGENTINA               "
+    ;;
+  es_BO)
+    PAIS="Bolivia"
+    LOCALIZACIONES="es-BO"
+    TEXTO_LOCAL="LOCALIZADA PARA BOLIVIA                 "
+    ;;
+  es_CL)
+    PAIS="Chile"
+    LOCALIZACIONES="es-CL"
+    TEXTO_LOCAL="LOCALIZADA PARA CHILE                   "
+    ;;
+  es_CO)
+    PAIS="Colombia"
+    LOCALIZACIONES="es-CO"
+    TEXTO_LOCAL="LOCALIZADA PARA COLOMBIA                "
+    ;;
+  es_CR)
+    PAIS="Costa Rica"
+    LOCALIZACIONES="es-CR"
+    TEXTO_LOCAL="LOCALIZADA PARA COSTA RICA              "
+    ;;
+  es_CU)
+    PAIS="Cuba"
+    LOCALIZACIONES="es-CU"
+    TEXTO_LOCAL="LOCALIZADA PARA CUBA                    "
+    ;;
+  es_DO)
+    PAIS="República Dominicana"
+    LOCALIZACIONES="es-DO"
+    TEXTO_LOCAL="LOCALIZADA PARA REPÚBLICA DOMINICANA    "
+    ;;
+  es_EC)
+    PAIS="Ecuador"
+    LOCALIZACIONES="es-EC"
+    TEXTO_LOCAL="LOCALIZADA PARA ECUADOR                 "
+    ;;
+  es_ES)
+    PAIS="España"
+    LOCALIZACIONES="es-ES"
+    TEXTO_LOCAL="LOCALIZADA PARA ESPAÑA                  "
+    ;;
+  es_GT)
+    PAIS="Guatemala"
+    LOCALIZACIONES="es-GT"
+    TEXTO_LOCAL="LOCALIZADA PARA GUATEMALA               "
+    ;;
+  es_HN)
+    PAIS="Honduras"
+    LOCALIZACIONES="es-HN"
+    TEXTO_LOCAL="LOCALIZADA PARA HONDURAS                "
+    ;;
+  es_MX)
+    PAIS="México"
+    LOCALIZACIONES="es-MX"
+    TEXTO_LOCAL="LOCALIZADA PARA MÉXICO                  "
+    ;;
+  es_NI)
+    PAIS="Nicaragua"
+    LOCALIZACIONES="es-NI"
+    TEXTO_LOCAL="LOCALIZADA PARA NICARAGUA               "
+    ;;
+  es_PA)
+    PAIS="Panamá"
+    LOCALIZACIONES="es-PA"
+    TEXTO_LOCAL="LOCALIZADA PARA PANAMÁ                  "
+    ;;
+  es_PE)
+    PAIS="Perú"
+    LOCALIZACIONES="es-PE"
+    TEXTO_LOCAL="LOCALIZADA PARA PERÚ                    "
+    ;;
+  es_PR)
+    PAIS="Puerto Rico"
+    LOCALIZACIONES="es-PR"
+    TEXTO_LOCAL="LOCALIZADA PARA PUERTO RICO             "
+    ;;
+  es_PY)
+    PAIS="Paraguay"
+    LOCALIZACIONES="es-PY"
+    TEXTO_LOCAL="LOCALIZADA PARA PARAGUAY                "
+    ;;
+  es_SV)
+    PAIS="El Salvador"
+    LOCALIZACIONES="es-SV"
+    TEXTO_LOCAL="LOCALIZADA PARA EL SALVADOR             "
+    ;;
+  es_UY)
+    PAIS="Uruguay"
+    LOCALIZACIONES="es-UY"
+    TEXTO_LOCAL="LOCALIZADA PARA URUGUAY                 "
+    ;;
+  es_VE)
+    PAIS="Venezuela"
+    LOCALIZACIONES="es-VE"
+    TEXTO_LOCAL="LOCALIZADA PARA VENEZUELA               "
+    ;;
+  *)
+    PAIS="España y América Latina"
+    LOCALIZACIONES="es-AR es-BO es-CL es-CO es-CR es-CU es-DO es-EC es-ES es-GT es-HN es-MX es-NI es-PA es-PE es-PR es-PY es-SV es-UY es-VE"
+    TEXTO_LOCAL="GENÉRICA PARA TODAS LAS LOCALIZACIONES  "
+    ;;
+esac
+
+cat ../docs/README_base.txt | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ {s//$TEXTO_LOCAL/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/README.txt
+cp ../docs/Changelog.txt ../docs/GPLv3.txt ../docs/LGPLv3.txt ../docs/MPL-1.1.txt $MDTMPDIR
+
+if [ "$VERSION" != "2" ]; then
+  cat ../docs/dictionaries.xcu | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ {s//$TEXTO_LOCAL/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/dictionaries.xcu
+  cat ../docs/description.xml | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ {s//$TEXTO_LOCAL/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/description.xml
+  mkdir "$MDTMPDIR/META-INF"
+  cp ../docs/manifest.xml $MDTMPDIR/META-INF
+fi
+
+DIRECTORIO_TRABAJO="`pwd`"
+
+if [ "$VERSION" != "3" ]; then
+  echo -n "Creando paquete comprimido para las versiones 1.x o 2.x de OpenOffice.org... "
+  ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.zip"
+else
+  echo -n "Creando extensión para OpenOffice.org 3.x o superior (.oxt)... "
+  ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.oxt"
+fi
+
+cd $MDTMPDIR
+$ZIP -r -q $ZIPFILE *
+cd $DIRECTORIO_TRABAJO
+echo "¡listo!"
+
+# Eliminar la carpeta temporal
+rm -Rf $MDTMPDIR
+
+echo "¡Proceso finalizado!"

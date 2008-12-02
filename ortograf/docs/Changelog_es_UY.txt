@@ -1,3 +1,0 @@
-Versión 0.1:
-- Versión inicial.
-- Incluye los localismos para esta región.

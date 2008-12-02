@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <version value="0.3" />
+    <identifier value="spanish.__LOCALE__-spelling-dict" />
+
+    <display-name>
+        <name lang="en">Spelling dictionary. -- Spanish (__COUNTRY__)"</name>
+        <name lang="es">Diccionario de corrección ortográfica. -- Español (__COUNTRY__)</name>
+    </display-name>
+
+    <platform value="all" />
+
+    <dependencies>
+        <OpenOffice.org-minimal-version value="3.0" d:name="OpenOffice.org 3.0" />
+    </dependencies>
+
+    <publisher>
+        <name xlink:href="https://forja.rediris.es/projects/rla-es/" lang="es">Recursos lingüísticos abiertos</name>
+    </publisher>
+
+</description>

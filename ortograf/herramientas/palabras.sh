@@ -3,7 +3,7 @@
 # palabras.sh: Script para agregar, mover o eliminar palabras del directorio
 # general o las localizaciones.
 #
-# (c) 2005, Santiago Bosio
+# Copyleft 2005-2008, Santiago Bosio
 # Este script se distribuye bajo licencia GNU GPL.
 
 # Herramientas básicas para el script

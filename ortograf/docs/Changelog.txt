@@ -1,3 +1,13 @@
+Versión 0.3:
+- Correcciones a los ficheros de afijos para verbos mal catalogados como
+totalmente irregulares.
+- Correcciones y agregados enviados por:
+  · Gonzalo Higuera Díaz.
+  · César Romé.
+  · Ricardo Goldberger.
+  · Dylan Nicholson.
+- Eliminación de palabras poco usadas, desusadas y anticuadas.
+
 Versión 0.2:
 - Corrección de los infinitivos de verbos totalmente pronominales. Afecta
 también a la definición de los sufijos.
