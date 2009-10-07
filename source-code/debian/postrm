@@ -1,8 +1,0 @@
-#!/bin/sh
-
-dpkg-divert --package hispalabras --quiet --remove /usr/share/myspell/dicts/es_ES.aff.distrib
-dpkg-divert --package hispalabras --quiet --remove /usr/share/myspell/dicts/es_ES.dic.distrib
-
-#DEBHELPER#
-
-exit 0
