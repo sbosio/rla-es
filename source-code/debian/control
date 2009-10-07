@@ -1,0 +1,16 @@
+Source: hispalabras
+Section: utils
+Priority: optional
+XSBC-Original-Maintainer: Junta de Andalucía <packmaster@guadalinex.org>
+Maintainer: Álvaro Pinel <alvaropinel@gmail.com>
+Uploaders: Álvaro Pinel <alvaropinel@gmail.com>,
+	   David Amián <amialinux@gmail.com>
+           
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.0
+Homepage: http://forja.rediris.es/frs/?group_id=341&release_id=349
+Package: hispalabras
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Ampliación del diccionario por defecto de Gnome
+ Paquete que añade nuevas palabras españolas al diccionario por defecto de Gnome.
