@@ -2,7 +2,7 @@
 #
 # make_dict.sh: Script para la creación del paquete de diccionario.
 #
-# Copyleft 2005-2008, Santiago Bosio
+# Copyleft 2005-2010, Santiago Bosio
 # Este programa se distribuye bajo licencia GNU GPL.
 
 # Herramientas básicas para el script

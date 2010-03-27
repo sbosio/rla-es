@@ -1,12 +1,12 @@
 /*
  * convertir.c: Convierte un listado de palabras en texto plano al formato
- *              personal .dic de OpenOffice.org.
+ *              personal .dic versión 6 (binario) de OpenOffice.org.
  *
  * Para compilar el programa ejecute: "gcc -o convertir convertir.c"
  *
  * Utilización: "convertir < listado.txt > fichero.dic"
  *
- * (c) 2008, Santiago Bosio.
+ * Copyleft 2008, Santiago Bosio.
  * Este programa se distribuye bajo licencia GNU GPLv3.
  *
  */
@@ -27,12 +27,6 @@ int main (int argc, char *argv[])
     if ( fwrite (encabezado, sizeof(unsigned char), 11, stdout) < 11 )
     {
 	fprintf (stderr, "Error: No se pudo escribir en la salida estándar.\n");
-	exit (1);
-    }
-
-    if ( fgets (palabra, sizeof(palabra), stdin) == NULL )
-    {
-	fprintf (stderr, "La lista de palabras está vacía.\n");
 	exit (1);
     }
 
