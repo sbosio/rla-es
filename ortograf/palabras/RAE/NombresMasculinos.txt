@@ -6351,7 +6351,7 @@ guindal/S
 guindo/S
 guiñapo/S
 guiño/S
-guión
+guión/S
 guion/S
 guipuzcoano/S
 guirigay/S
@@ -6928,7 +6928,7 @@ invernal/S
 invierno/S
 involucro/S
 inyector/S
-iones/a
+ión/aS
 ion/S
 iridio/S
 iris/S
@@ -8498,6 +8498,8 @@ municipio/S
 muñeco/S
 muñidor/S
 muñón/S
+muón/S
+muon/S
 muradal/S
 murajes
 mural/bS
@@ -9683,6 +9685,7 @@ piñonero/S
 piñón/S
 piojo/NS
 piojuelo/S
+pión/S
 pion/S
 piorno/S
 pío/S
@@ -10096,6 +10099,8 @@ principio/S
 principote/S
 pringote/S
 prionodonte/S
+prión/S
+prion/S
 prioradgo/S
 priorato/S
 priorazgo/S

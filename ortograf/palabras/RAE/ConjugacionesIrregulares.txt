@@ -527,6 +527,10 @@ contrahaz
 contrapón
 contravén
 convén
+criais	# Monosílabos/Bisílabos (Bug #464)
+crie	# Monosílabos/Bisílabos (Bug #464)
+crieis	# Monosílabos/Bisílabos (Bug #464)
+crio	# Monosílabos/Bisílabos (Bug #464)
 da
 daba
 dábamos
@@ -1055,6 +1059,16 @@ estuvimos
 estuviste
 estuvo
 expón
+fiais	# Monosílabos/Bisílabos (Bug #464)
+fie	# Monosílabos/Bisílabos (Bug #464)
+fieis	# Monosílabos/Bisílabos (Bug #464)
+fio	# Monosílabos/Bisílabos (Bug #464)
+flui	# Monosílabos/Bisílabos (Bug #464)
+fluis	# Monosílabos/Bisílabos (Bug #464)
+friais	# Monosílabos/Bisílabos (Bug #464)
+frio	# Monosílabos/Bisílabos (Bug #464)
+frui	# Monosílabos/Bisílabos (Bug #464)
+fruis	# Monosílabos/Bisílabos (Bug #464)
 fue
 fuera
 fuéramos
@@ -1110,6 +1124,10 @@ garantirías
 garantirse
 garantís
 garantiste
+guiais	# Monosílabos/Bisílabos (Bug #464)
+guie	# Monosílabos/Bisílabos (Bug #464)
+guieis	# Monosílabos/Bisílabos (Bug #464)
+guio	# Monosílabos/Bisílabos (Bug #464)
 ha
 haber
 haberla
@@ -1326,6 +1344,8 @@ huélenos
 hueles
 huélete
 huelo
+hui	# Monosílabos/Bisílabos (Bug #464)
+huis	# Monosílabos/Bisílabos (Bug #464)
 iba
 íbamos
 iban
@@ -1462,6 +1482,10 @@ jugaste
 jugó
 jugué
 juguemos
+liais	# Monosílabos/Bisílabos (Bug #464)
+lie	# Monosílabos/Bisílabos (Bug #464)
+lieis	# Monosílabos/Bisílabos (Bug #464)
+lio	# Monosílabos/Bisílabos (Bug #464)
 llovizna
 lloviznaba
 lloviznaban
@@ -1628,6 +1652,10 @@ opón
 óyelos
 óyeme
 óyenos
+piais	# Monosílabos/Bisílabos (Bug #464)
+pie	# Monosílabos/Bisílabos (Bug #464)
+pieis	# Monosílabos/Bisílabos (Bug #464)
+pio	# Monosílabos/Bisílabos (Bug #464)
 podamos
 poded
 podemos
@@ -1814,6 +1842,8 @@ respahilar
 retén
 revé
 revén
+riais	# Monosílabos/Bisílabos (Bug #464)
+rio	# Monosílabos/Bisílabos (Bug #464)
 sal
 satisfaz
 sea

@@ -1366,6 +1366,7 @@ pincelero/GS
 pincho/GS
 pinto/GS
 pintor/GS
+pión/GS
 pionero/GS
 pipiolo/GS
 pisador/GS
@@ -1777,6 +1778,8 @@ trovador/GS
 trovero/GS
 truchero/GS
 truchimán/GS
+truhán/GS
+truhan/GS
 trujillano/GS
 tuco/GS
 tuna/S
