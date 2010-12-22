@@ -780,6 +780,7 @@ cobrear/RED
 cocar/RED
 codiciar/REDÀ
 codificar/REDÀ
+codirigir/RED
 cohechar/RED
 coheredar/RED
 cohobar/RED
@@ -893,6 +894,7 @@ coordinar/REDÀÁÄ
 copar/REDÂ
 copelar/RED
 copilar/RED
+coproducir/XDA
 coquizar/RED
 corchar/RED
 corcovar/RED

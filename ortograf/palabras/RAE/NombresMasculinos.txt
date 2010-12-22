@@ -3853,6 +3853,7 @@ cuadradillo/S
 cuadral/S
 cuadrantal/S
 cuadrante/S
+cuádriceps
 cuadrigato/S
 cuadriguero/S
 cuadrilátero/S
@@ -6866,6 +6867,7 @@ infinito/S
 informativo/S
 informe/S
 infortunio/S
+infrasonido/S
 infundio/S
 inglés/S
 inglete/S
@@ -8341,6 +8343,7 @@ monoplano/S
 monopolio/S
 monosabio/S
 monospastos
+monoteísmo/S
 monotelismo/S
 monote/S
 monotipo/S
@@ -9978,6 +9981,7 @@ pósito/gaSon
 posliminio/S
 posmeridiano/S
 posón/S
+posoperatorio/S
 posó/S
 poso/Sp
 pos/S
@@ -10051,6 +10055,7 @@ prendido/S
 prendimiento/hS
 prensado/S
 preñado/S
+preoperatorio/S
 preparamiento/S
 preparativo/S
 prepucio/S
@@ -12531,6 +12536,7 @@ tribunal/S
 tribuno/S
 tributo/aS
 tricentenario/S
+tríceps
 triciclo/S
 tricornio/S
 tridacio/S

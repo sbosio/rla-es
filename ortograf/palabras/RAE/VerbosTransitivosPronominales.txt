@@ -1753,7 +1753,7 @@ maliciar/RED
 malignar/RED
 malograr/REDÂ
 malquistar/REDñ
-maltratar/REDÁñ
+maltratar/REDÁÀñ
 malvezar/RED
 mamar/REDÃÆñ
 manchar/REDÂñò

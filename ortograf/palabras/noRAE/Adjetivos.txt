@@ -58,6 +58,7 @@ patrocinante/S
 pequeñísimo/GS
 periodontal/S
 policéntrico/GS
+postraumático/GS
 predictivo/GS
 prescriptor/GS
 ranurado/GS

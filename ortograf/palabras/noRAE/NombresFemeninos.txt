@@ -35,6 +35,8 @@ meritocracia/S
 microinformática/S
 personalización/S
 plaquita/S
+posproducción/S			# Contribuida por Sergio Medina
+preproducción/S			# Contribuida por Sergio Medina
 reinvención/S
 resiliencia/S
 sandwichera/S

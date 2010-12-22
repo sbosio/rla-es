@@ -406,6 +406,7 @@ sublimemente
 submarinamente
 sudorosamente
 sufridamente
+supuestamente		# Contribuida por Sergio Medina
 supurantemente
 susurrantemente
 táctilmente

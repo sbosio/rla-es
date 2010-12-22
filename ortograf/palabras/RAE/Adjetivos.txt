@@ -1370,6 +1370,7 @@ austero/GS
 australiano/SG
 austral/S
 austriaco/GS
+austríaco/GS
 auténtico/GS
 autista/S
 autóctono/SG
@@ -3329,6 +3330,7 @@ cuadrangular/S
 cuadrángulo/GS
 cuadrante/S
 cuadrático/GS
+cuádriceps
 cuadricular/S
 cuadriforme/S
 cuadrilátero/GS
@@ -9780,6 +9782,7 @@ positiva/nk
 positivista/S
 positivo/GSnk
 posmeridiano/GS
+posoperatorio/GS
 pospalatal/S
 pospositivo/SG
 postal/S
@@ -9872,6 +9875,7 @@ prensador/aGS
 prensil/S
 prensor/pGS
 preñado/GS
+preoperatorio/GS
 preparativo/GS
 preparatorio/GS
 preponderante/S
@@ -12234,6 +12238,7 @@ tributable/S
 tributante/S
 tributario/GS
 tricentésimo/SG
+tríceps
 tricolor/S
 tricorne/S
 tricornio/S
