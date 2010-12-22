@@ -7500,3 +7500,13 @@ SFX ú cir       zcámonos   ucir
 SFX ú uir       úyanse     uir
 SFX ú uir       úyase      uir
 SFX ú ir        yámonos    uir
+
+# Sufijo -ble: Indica posibilidad pasiva, es decir, capacidad o aptitud para
+# recibir la acción del verbo. Si el verbo es de la primera conjugación, el
+# sufijo toma la forma -able. Prorrogable. Si es de la segunda o tercera, toma
+# la forma -ible. Reconocible, distinguible.
+SFX T Y 4
+SFX T r         ble        ar
+SFX T er        ible       [^aeo]er
+SFX T er        íble       [aeo]er	# Alt. ortográfica
+SFX T r         ible       ir
