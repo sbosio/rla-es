@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
 
-    <version value="0.3" />
+    <version value="0.4" />
     <identifier value="spanish.__LOCALE__-spelling-dict" />
 
     <display-name>
-        <name lang="en">Spelling dictionary. -- Spanish (__COUNTRY__)"</name>
-        <name lang="es">Diccionario de corrección ortográfica. -- Español (__COUNTRY__)</name>
+        <name lang="es">__DESCRIPTION__</name>
     </display-name>
 
     <platform value="all" />

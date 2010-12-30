@@ -2,7 +2,7 @@
 #
 # make_dict.sh: Script para la creación del paquete de diccionario.
 #
-# Copyleft 2005-2010, Santiago Bosio
+# Copyleft 2005-2011, Santiago Bosio
 # Este programa se distribuye bajo licencia GNU GPL.
 
 # Herramientas básicas para el script
@@ -10,8 +10,6 @@ MKTEMP=`which mktemp 2>/dev/null`
 GREP=`which grep 2>/dev/null`
 FIND=`which find 2>/dev/null`
 ZIP=`which zip 2>/dev/null`
-MUNCH=`which munch 2>/dev/null`
-UNMUNCH=`which unmunch 2>/dev/null`
 
 # Abandonar si no se encuentra alguna de las herramientas
 if [ "$MKTEMP" == "" ]; then
@@ -30,25 +28,10 @@ if [ "$ZIP" == "" ]; then
   echo "No se encontró el comando 'zip'... Abortando." > /dev/stderr
   exit 1
 fi
-if [ "$MUNCH" == "" ]; then
-  if [ -x ../../MySpell-3.0/munch ]; then
-    MUNCH='../../MySpell-3.0/munch'
-  else
-    echo "No se encontró el comando 'munch'... Abortando." > /dev/stderr
-    exit 1
-  fi
-fi
-if [ "$UNMUNCH" == "" ]; then
-  if [ -x ../../MySpell-3.0/unmunch ]; then
-    UNMUNCH='../../MySpell-3.0/unmunch'
-  else
-    echo "No se encontró el comando 'unmunch'... Abortando." > /dev/stderr
-    exit 1
-  fi
-fi
 
 # Por defecto hacemos un paquete de extensión para OOo 3.x
 VERSION="3"
+COMPLETO="NO"
 
 # Realizar el análisis de los parámetros de la línea de comandos
 previa=
@@ -76,6 +59,9 @@ do
     -2)
       VERSION="2" ;;
 
+    --completo | -c)
+      COMPLETO="SÍ" ;;
+
     --ayuda | --help | -h)
       echo
       echo "Sintaxis del comando: $0 [opciones]."
@@ -89,11 +75,17 @@ do
       echo "--rae | -r"
       echo "    Incluir únicamente las palabras pertenecientes al"
       echo "    diccionario de la Real Academia Española."
+      echo
       echo "-2"
       echo "    Crear un paquete ZIP de instalación manual para las"
       echo "    versiones 1.x ó 2.x de OpenOffice.org."
       echo "    Por defecto se crea una extensión (.oxt) para"
-      echo "    OpenOffice.org versión 3.x o superior."
+      echo "    OpenOffice.org/LibreOffice versión 3.x o superior."
+      echo
+      echo "--completo | -c"
+      echo "    Integrar los diccionarios de sinónimos y de separación"
+      echo "    silábica dentro del mismo paquete (sólo para versiones 3.x"
+      echo "    o posteriores)."
       echo
       exit 0 ;;
 
@@ -214,36 +206,10 @@ fi
 
 # Generar el fichero con la lista de palabras (únicas), indicando en la
 # primera línea el número de palabras que contiene.
-sort -u < $TMPWLIST | wc -l | cut -d ' ' -f1 > $WLIST
-sort -u < $TMPWLIST >> $WLIST
-
-echo "¡listo!"
-
-# Descomprimimos la lista etiquetada para obtener un conjunto de palabras
-# únicas, de a una por línea, para alimentar al comando 'munch'.
-echo -n "Descomprimiendo la lista con 'unmunch'... "
-nice -n +19 \
-     $UNMUNCH $WLIST $AFFIX 2>/dev/null | \
-     sort -u | \
-     grep -v ^[0-9] \
-     > $TMPWLIST
-wc -l $TMPWLIST | \
-   cut -d ' ' -f1 \
-   > $WLIST
-cat $TMPWLIST >> $WLIST
-rm -f $TMPWLIST
-
-echo "¡listo!"
-
-# Pasar la lista obtenida a través de 'munch' para obtener el fichero
-# .dic final.
 DICFILE="$MDTMPDIR/$LOCALIZACION.dic"
-echo -n "Recomprimiendo la lista con 'munch' (esto puede demorar horas)... "
-nice -n +19 \
-    $MUNCH $WLIST $AFFIX 2>/dev/null | \
-    sort -u \
-    > $DICFILE
-rm -f $WLIST
+sort -u < $TMPWLIST | wc -l | cut -d ' ' -f1 > $DICFILE
+sort -u < $TMPWLIST >> $DICFILE
+rm -f $TMPWLIST
 echo "¡listo!"
 
 # Restauramos la variable de entorno LANG
@@ -362,8 +328,16 @@ cat ../docs/README_base.txt | sed -n --expression="/__/! { p; }; /__LOCALE__/ { 
 cp ../docs/Changelog.txt ../docs/GPLv3.txt ../docs/LGPLv3.txt ../docs/MPL-1.1.txt $MDTMPDIR
 
 if [ "$VERSION" != "2" ]; then
-  cat ../docs/dictionaries.xcu | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ {s//$TEXTO_LOCAL/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/dictionaries.xcu
-  cat ../docs/description.xml | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ {s//$TEXTO_LOCAL/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/description.xml
+  if [ "$COMPLETO" != "SÍ" ]; then
+     DESCRIPCION="Diccionario de verificación ortográfica -- Español ($PAIS)"
+     cat ../docs/dictionaries.xcu | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }" > $MDTMPDIR/dictionaries.xcu
+  else
+     DESCRIPCION="Diccionario de verificación ortográfica, separación silábica y sinónimos -- Español ($PAIS)"
+     cat ../docs/dictionaries_full.xcu | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }" > $MDTMPDIR/dictionaries.xcu
+     cp ../../separacion/hyph_es_ANY.dic ../../separacion/README_hyph_es_ANY.txt $MDTMPDIR
+     cp ../../sinonimos/README_th_es_ES.txt ../../sinonimos/COPYING_th_es_ES ../../sinonimos/th_es_ES_v2.* $MDTMPDIR
+  fi
+  cat ../docs/description.xml | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }" > $MDTMPDIR/description.xml
   mkdir "$MDTMPDIR/META-INF"
   cp ../docs/manifest.xml $MDTMPDIR/META-INF
 fi
@@ -374,7 +348,7 @@ if [ "$VERSION" != "3" ]; then
   echo -n "Creando paquete comprimido para las versiones 1.x o 2.x de OpenOffice.org... "
   ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.zip"
 else
-  echo -n "Creando extensión para OpenOffice.org 3.x o superior (.oxt)... "
+  echo -n "Creando extensión para OpenOffice.org/LibreOffice 3.x o superior (.oxt)... "
   ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.oxt"
 fi
 

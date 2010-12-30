@@ -1,12 +1,12 @@
   ****************************************************************************
   **                                                                        **
-  **  Diccionario para corrección ortográfica en español de OpenOffice.org  **
+  **  Patrones de separación silábica en español para OpenOffice.org        **
   **                                                                        **
   ****************************************************************************
-  **  VERSIÓN __LOCALE_TEXT__                      **
+  **  VERSIÓN GENÉRICA PARA TODAS LAS LOCALIZACIONES DEL ESPAÑOL            **
   ****************************************************************************
 
-                                   Versión 0.4
+                                 Versión 0.2
 
 SUMARIO
 
@@ -14,13 +14,13 @@ SUMARIO
 2. LICENCIA
 3. INSTALACIÓN
 4. COLABORACIÓN
-5. AGRADECIMIENTOS
 
 
 1. AUTOR
 
-   Este diccionario ha sido desarrollado inicialmente por Santiago Bosio;
-quien actualmente coordina el desarrollo de todos los diccionarios localizados.
+   Este fichero de patrones para separación silábica ha sido desarrollado
+inicialmente por Santiago Bosio; mediante el uso de la herramienta libre
+"patgen" y datos de entrenamiento etiquetados manualmente.
 
    Si desea contactar al autor, por favor envíe sus mensajes mediante correo
 electrónico a:
@@ -28,19 +28,19 @@ electrónico a:
 	sbosio <en> openoffice <punto> org
         (reemplace <en> por @ y <punto> por . al enviar su mensaje)
 
-   El diccionario es un desarrollo completamente nuevo, y NO ESTÁ BASADO en el
-trabajo de Jesús Carretero y Santiago Rodríguez, ni en la versión adaptada al
-formato de MySpell por Richard Holt.
+   El listado es un desarrollo completamente nuevo, y NO ESTÁ BASADO en el
+listado de patrones previo, elaborado por Marcelo Garrone.
 
 
 2. LICENCIA
 
-   Este diccionario para corrección ortográfica, integrado por el fichero
-de afijos y la lista de palabras (__LOCALE__[.aff|.dic]) se distribuye
-bajo un triple esquema de licencias disjuntas: GNU GPL versión 3 o posterior,
-GNU LGPL versión 3 o posterior, ó MPL versión 1.1 o posterior. Puede
-seleccionar libremente bajo cuál de estas licencias utilizará este diccionario.
-Encontrará copias de las licencias adjuntas en este mismo paquete.
+   Este listado de patrones para separación silábica, integrado por el fichero
+hyph_es_ANY.dic se distribuye bajo un triple esquema de licencias disjuntas:
+GNU GPL versión 3 o posterior, GNU LGPL versión 3 o posterior, ó MPL versión
+1.1 o posterior. Puede seleccionar libremente bajo cuál de estas licencias
+utilizará este listado.
+
+    Encontrará copias de las licencias adjuntas en este mismo paquete.
 
 3. INSTALACIÓN
 
@@ -51,11 +51,11 @@ extensión ".oxt".
    Para instalar en OpenOffice.org versión 1.x ó 2.x, deberá realizar una
 instalación manual siguiendo estas instrucciones:
 
-a) Copie el fichero de afijos y la lista de palabras en la carpeta de
-   instalación de diccionarios.
+a) Copie el fichero hyph_es_ANY.dic en la carpeta de instalación de
+   diccionarios.
 
    Si tiene permisos de administrador, puede instalar el diccionario de
-manera que esté disponible para todos los usuarios, copiando los ficheros al
+manera que esté disponible para todos los usuarios, copiando el fichero al
 directorio de diccionarios de la suite. Este directorio depende de la
 plataforma de instalación. Podrá ubicarlo si ingresa en el ítem Opciones
 del menú Herramientas. Despliegue la primer lista, etiquetada "OpenOffice.org"
@@ -64,7 +64,7 @@ denomina "ooo", y la encontrará bajo el directorio que figura en la lista de
 rutas con el tipo "Lingüística".
 
    En caso de no contar con permisos de administrador, igualmente puede
-realizar una instalación para su usuario particular, copiando los ficheros al
+realizar una instalación para su usuario particular, copiando el fichero al
 directorio que figura en la lista de rutas con el tipo "Diccionarios definidos
 por el usuario".
 
@@ -83,7 +83,7 @@ utilizando el editor de textos de su preferencia.
 diferentes: de corrección ortográfica (DICT), de sinónimos (THES) o de
 separación silábica (HYPH).
 
-   En este caso creará un nuevo ítem de tipo DICT. Para cada entrada de este
+   En este caso creará un nuevo ítem de tipo HYPH. Para cada entrada de este
 tipo, debe definir el lenguaje y la región (utilizando códigos ISO estándares),
 y especificar el nombre base de los ficheros que definen el diccionario. Para
 el español, el código ISO de lenguaje se escribe "es" (en minúsculas, sin las
@@ -104,15 +104,15 @@ siguientes:
 
    (El código de región se escribe en mayúsculas sin las comillas).
 
-   El nombre base del fichero es igual al del fichero de diccionario o al de
-afijos, sin la extensión (.dic o .aff).
+   El nombre base del fichero es igual al del fichero de patrones, sin la
+extensión (.dic).
 
-   Por ejemplo, si ha descargado el paquete localizado para Argentina
-(es_AR.zip), al descomprimirlo obtendrá los ficheros 'es_AR.dic' y
-'es_AR.aff'. Después de copiarlos en el directorio correspondiente, la nueva
-línea que deberá crear en el fichero 'dictionary.lst' es:
+   Por ejemplo, si usted tiene las opciones de lingüística configuradas para
+el idioma "Español (Argentina)", copie el fichero hyph_es_ANY.dic en el
+directorio correspondiente, y cree una línea en el fichero 'dictionary.lst'
+como la siguiente:
 
-   DICT es AR es_AR
+   HYPH es AR hyph_es_ANY
 
 c) Reinicie OpenOffice.org.
 
@@ -135,13 +135,6 @@ nuevos.
    Elija de esa lista el idioma y región que configuró en el fichero
 'dictionary.lst'. Para el ejemplo utilizado sería "Español (Argentina)".
 
-   Verifique que esta entrada de la lista aparezca con un pequeño tilde azul
-y las letras ABC a su izquierda; esto indica que existe un diccionario de
-corrección ortográfica instalado para esa localización. Si la marca no
-aparece, debe haber cometido algún error en los pasos previos (el más común es
-que haya dejado alguna ventana o el inicio rápido de OpenOffice.org
-abiertos).
-
    Si necesitara ayuda para realizar cualquiera de estos pasos, envíe un
 mensaje al encargado de mantenimiento del diccionario, o a las listas de
 correo del proyecto OpenOffice.org en español (http://es.openoffice.org/).
@@ -149,31 +142,11 @@ correo del proyecto OpenOffice.org en español (http://es.openoffice.org/).
 
 4. COLABORACIÓN
 
-   Este diccionario es resultado del trabajo colaborativo de muchas personas.
+   Este desarrollo es resultado del trabajo colaborativo de muchas personas.
 La buena noticia es que ¡usted también puede participar!
 
    ¿Tiene dudas o sugerencias? ¿Desearía ver palabras agregadas, o que se
 realizaran correcciones? Sólo debe contactar al encargado de mantenimiento de
 este diccionario, a través de su correo electrónico, quien se encargará de
 evacuar sus dudas, o de realizar las modificaciones necesarias para la próxima
-versión del diccionario.
-
-
-5. AGRADECIMIENTOS
-
-   Hay varias personas que han colaborado con aportes o sugerencias a la
-creación de este diccionario. Se agradece especialmente a:
-
-   - Richard Holt.
-   - Marcelo Garrone.
-   - Kevin Hendricks.
-   - Juan Rey Saura.
-   - Carlos Dávila.
-   - Román Gelbort.
-   - J. Eduardo Moreno.
-   - Gonzalo Higuera Díaz.
-   - Ricardo Palomares Martínez.
-   - Sergio Medina.
-   - Ismael Olea.
-   - y a todos los integrantes de la comunidad en español que proponen mejoras
-     a este diccionario.
+versión.
