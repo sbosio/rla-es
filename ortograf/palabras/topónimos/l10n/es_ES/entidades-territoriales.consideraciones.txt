@@ -1,0 +1,5 @@
+
+- editor: Ismael Olea
+- Origen: Javier de la Cueva
+- faltan los nombres españoles tradicionales, cuando difieren del nombre oficial
+- se mantiene el orden que agrupa a los topónimos por provincias
