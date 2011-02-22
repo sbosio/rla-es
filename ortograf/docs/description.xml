@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
 
-    <version value="0.4" />
-    <identifier value="spanish.__LOCALE__-spelling-dict" />
+    <version value="0.5" />
+    <identifier value="spanish.__LOCALE__.dicts.from.rla-es" />
 
     <display-name>
         <name lang="es">__DESCRIPTION__</name>
@@ -14,8 +14,12 @@
         <OpenOffice.org-minimal-version value="3.0" d:name="OpenOffice.org 3.0" />
     </dependencies>
 
+    <icon>
+        <default xlink:href="__ICON__" />
+    </icon>
+
     <publisher>
-        <name xlink:href="https://forja.rediris.es/projects/rla-es/" lang="es">Recursos lingüísticos abiertos</name>
+        <name xlink:href="https://forja.rediris.es/projects/rla-es/" lang="es">rla-es</name>
     </publisher>
 
 </description>

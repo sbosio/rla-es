@@ -6857,6 +6857,7 @@ interesado/hSG
 interesante/S
 interfecto/GS
 interino/GS
+interinstitucional/S
 interior/S
 interjectivo/GS
 interlocutorio/SG
@@ -8756,6 +8757,7 @@ obsidional/S
 obsolescente/S
 obsoleto/GS
 obstante/S
+obstétrico/GS
 obstinado/GS
 obstruccionista/S
 obstructor/GS

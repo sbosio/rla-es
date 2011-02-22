@@ -1,4 +1,4 @@
-Versión 0.4:
+Versión 0.5:
 - Uso de la opción de "twofold stripping" de Hunspell en el archivo de
   afijos.
 - Nueva bandera de sufijo "T" para palabras terminadas en ~able/~ible,
@@ -7,6 +7,11 @@ Versión 0.4:
 - Correcciones y agregados enviados por:
   · Ricardo Palomares Martínez.
   · Gonzalo Higuera Díaz.
+- Nuevos patrones de separación silábica (trabajo en preparación) que
+  adopta otro enfoque recomendado por razones de estilo.
+
+Versión 0.4:
+- Un error de configuración hacía que no funcionara. Versión suprimida.
 
 Versión 0.3:
 - Correcciones a los ficheros de afijos para verbos mal catalogados como

@@ -2433,6 +2433,7 @@ cogullada/S
 cogulla/S
 coherencia/kS
 cohesión/S
+cohibición/S
 cohorte/S
 coja/S
 cojera/S
@@ -5231,6 +5232,7 @@ hiperhidrosis
 hipermetamorfosis
 hipermetría/S
 hipersensibilidad/S
+hipertensión/S
 hipertermia/S
 hipertrofia/S
 hípica/S
@@ -8888,6 +8890,7 @@ regalicia/S
 regañina/S
 regencia/fS
 regenta/S
+regionalización/S
 región/S
 reglamentación/S
 regla/S
@@ -9413,6 +9416,7 @@ senilidad/S
 sensación/S
 sensatez/kS
 sensibilidad/kS
+sensibilización/S
 sensiblería/S
 sensitiva/S
 sensualidad/S
@@ -9669,6 +9673,7 @@ sosa/SL
 sosera/S
 sosiega/S
 sospecha/S
+sostenibilidad/S
 sotabarba/S
 sotana/SN
 sota/S

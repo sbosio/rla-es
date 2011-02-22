@@ -1,0 +1,8 @@
+Ortografía 0.5 · Separación 0.2 · Sinónimos 07/02/2011 
+
+Para notificar errores y solicitar la inclusión de nuevos términos,
+hacer clic sobre el enlace. 
+
+Esta extensión añade la compatibilidad en idioma español de __COUNTRY__
+para las herramientas de asistencia a la escritura (revisión ortográfica,
+separación silábica y sinónimos).

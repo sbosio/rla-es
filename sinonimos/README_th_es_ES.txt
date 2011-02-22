@@ -1,6 +1,6 @@
 OpenThesaurus - Separación silábica y Tesauro Español - Versión para OpenOffice.org
 Marcelo Garrone (mgarrone at users.sf.net)
-Snapshot, generado automáticamente: 2010-06-09 17:06
+Snapshot, generado automáticamente: 2011-02-07 03:23
 Homepage: http://openthes-es.berlios.de
 
 Requisitos: ==========================================================

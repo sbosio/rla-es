@@ -946,12 +946,13 @@ acelerado|3
 -|escopetado|rápido|vertiginoso|lanzado|ágil
 -|ligero|veloz|rápido|ágil|raudo|presto|pronto|presuroso|activo|diligente
 -|rabión|rápido|veloz|pronto|presuroso|apresurado|precipitado|raudo
-acelerar|5
+acelerar|6
 -|accionar|activar|manejar|manipular|gesticular|manotear|mover|estimular|avivar
 -|agilizar|avivar|aligerar|activar|apresurar|facilitar|propiciar|impulsar|estimular
 -|arrancar|poner en marcha
 -|cifrar|abreviar|compendiar|resumir|reducir|acortar|sintetizar|apresurar
 -|embalar|precipitar|lanzar|apresurarse|correr|volar
+-|lentificar
 acemilar|1
 -|caballar|ecuestre|equino|hípico|caballuno|yeguar
 acemilero|1
@@ -1416,7 +1417,8 @@ acordonar|1
 -|atar|ceñir|cercar|rodear|envolver|encerrar|circunscribir|acotar
 acorralamiento|1
 -|batida|rastreo|ojeo|acoso|búsqueda|caza|cerco|exploración|persecución|reconocimiento|seguimiento|hostigamiento|asedio
-acorralar|2
+acorralar|3
+(tr.)|acosar|acosigar|estrechar|apremiar|perseguir|buscar|rastrear|ojear|seguir
 -|cercar|rodear|arrinconar|sitiar|acosar|asediar|apabullar|intimidar|confundir|turbar
 -|embotellar|cercar|rodear
 acortamiento|1
@@ -1432,12 +1434,12 @@ acosa|1
 acosar|6
 (fig.)|importunar|molestar
 (tr.)|abacorar|acometer|sujetar
-(tr.)|acosigar|estrechar|perseguir
+(tr.)|acosigar|estrechar|apremiar|perseguir|buscar|rastrear|ojear|acorralar|seguir
 -|acorralar|cercar|rodear|arrinconar|sitiar|asediar|apabullar|intimidar|confundir|turbar
 -|asar|molestar|importunar|acribillar|abrumar|brear|freír
 -|jorobar|incomodar|jeringar|incordiar|fastidiar|irritar|molestar|joder|mortificar|vulnerar|enfadar|importunar|apabullar
 acosigar|1
-(tr.)|acosar|estrechar|perseguir
+(tr.)|acosar|estrechar|apremiar|perseguir|buscar|rastrear|ojear|acorralar|seguir
 acoso|1
 -|batida|rastreo|ojeo|búsqueda|caza|cerco|exploración|persecución|reconocimiento|seguimiento|hostigamiento|asedio|acorralamiento
 acostado|1
@@ -1486,7 +1488,8 @@ acrecer|1
 -|acrecentar
 acreditación|1
 -|justificación|confirmación|credencial|documentación
-acreditado|2
+acreditado|3
+(adj.)|influyente|prestigioso|relacionado|respetado|renombrado|destacado|poderoso|predominante|conocido
 -|autorizado|competente|calificado|facultado
 -|genuino|puro|natural|verdadero|auténtico|propio
 acreditar|5
@@ -2496,7 +2499,7 @@ aflautar|1
 aflicción|4
 -|compunción|contrición|arrepentimiento|remordimiento|pesadumbre|pesar
 -|entristecimiento|tristeza|pena|disgusto|desconsuelo|desolación|congoja|pesadumbre|abatimiento|consternación
--|lobreguez|melancolía|tristeza|pesadumbre|pesar|pena|nostalgia|añoranza|morriña
+-|lobreguez|melancolía|tristeza|pesadumbre|pesar|pena|nostalgia|añoranza|morriña|murria
 -|luto|pena|duelo|desdicha
 afligido|6
 -|acongojado|apenado|triste|cabizbajo|contrito|atribulado|angustiado|consternado|abrumado|agobiado|melancólico|abatido|alicaído|deprimido
@@ -4146,7 +4149,7 @@ allegado|2
 -|familiar|emparentado|deudo|ascendiente|descendiente
 allegar|2
 -|acercar|aproximar
--|recoger|juntar|recolectar
+-|recoger|juntar|recolectar|atropar
 allegarse|1
 -|adherirse|sumarse|incorporarse|unirse
 allende|1
@@ -5473,7 +5476,8 @@ anotar|3
 -|glosar|apostillar|aclarar|interpretar|comentar
 anómalo|1
 -|anormal|irregular|defectuoso|deforme|aberrante|raro|insólito
-anónimo|1
+anónimo|2
+(adj.)|clandestino|ilegítimo|encubierto|prohibido|ilegal|oculto|secreto|furtivo|subrepticio
 -|desconocido|ignorado|incógnito|secreto
 anquilosado|1
 -|atrofiado|agarrotado|entumecido|entumido|paralizado|inmovilizado|impedido
@@ -5621,10 +5625,11 @@ antiguamente|3
 -|antaño|ayer
 -|antes|antaño|ayer
 -|otrora|antaño|en tiempos remotos
-antiguo|5
+antiguo|6
 -|ancestral|atávico|remoto|tradicional
 -|ancestro|antepasado|remoto|tradicional
 -|antediluviano|remoto|viejo|anticuado|trasnochado|obsoleto|vetusto|arcaico
+-|inicial|original|auténtico|prístino|primero|primitivo
 -|lejano|pasado|venidero|futuro|porvenir|mañana
 -|viejo|vetusto|añoso|arcaico|remoto|añejo|envejecido|rancio
 antigüedad|5
@@ -5772,7 +5777,7 @@ añojo|2
 -|becerro|novillo|ternero
 -|borrego|cordero|ternasco
 añoranza|2
--|lobreguez|melancolía|tristeza|pesadumbre|pesar|aflicción|pena|nostalgia|morriña
+-|lobreguez|melancolía|tristeza|pesadumbre|pesar|aflicción|pena|nostalgia|morriña|murria
 -|saudade|nostalgia|morriña
 añorar|1
 -|extrañar|acordarse|echar de menos|echar en falta
@@ -6450,7 +6455,8 @@ aprehensión|1
 -|abstracción|conceptualización (NoRAE)|idealización|generalización|inducción|idea|ensimismamiento|contemplación|meditación|concepto|noción|percepción|apercepción|representación
 apremiante|1
 -|acuciante|urgente|imperioso|perentorio|ineludible|necesario
-apremiar|3
+apremiar|4
+(tr.)|acosar|acosigar|estrechar|perseguir|buscar|rastrear|ojear|acorralar|seguir
 -|acuciar|urgir|apurar|espolear|estimular|excitar
 -|aguijar|aguijonear|pinchar|fustigar|espolear|atizar|azuzar|arrear|instigar|empujar|estimular|alentar|mover
 -|obligar|exigir|forzar|compeler|conminar|imponer|empujar|mover|presionar|someter
@@ -6620,7 +6626,7 @@ aproximarse|1
 aproximativo|1
 -|aproximado|inexacto|impreciso|a ojo|más o menos
 aptitud|2
--|eficacia|efectividad|eficiencia|competencia|capacidad|validez|operatividad|fuerza|poder
+-|eficacia|efectividad|eficiencia|competencia|capacidad|validez|operatividad|fuerza|poder|rendimiento
 -|facultad|capacidad|habilidad|talento|potencial|don|destreza|genio|maña|mano|arte|posibilidades|preparación|adecuación|adaptación|idoneidad
 apto|7
 -|advertido|experto|preparado|capaz|ducho|listo|despierto|despabilado
@@ -8606,6 +8612,8 @@ atronador|1
 atronar|2
 -|aturdir|ensordecer
 -|retumbar|resonar
+atropar|1
+-|allegar|recoger|juntar|recolectar
 atropellado|1
 -|atronado|aturdido|ensordecido|alocado|irreflexivo|atolondrado|precipitado|tarambana|cabeza de chorlito
 atropellar|5
@@ -8793,7 +8801,7 @@ autentificar|1
 auténtico|8
 -|estricto|puro
 -|genuino|puro|natural|verdadero|propio|acreditado
--|inicial|original
+-|inicial|original|prístino|primero|primitivo|antiguo
 -|legítimo|cierto|genuino|legal|lícito|oficial|permitido|razonable|probado|seguro|verdadero|propio
 -|ortodoxo|conforme|legítimo|apegado|fiel
 -|real|verdadero|existente|efectivo|positivo|vivo|actual
@@ -11549,11 +11557,11 @@ bofe|1
 bofetada|4
 -|cachetada|cachete|tortazo
 -|galleta|cachete|guantazo|chuleta
--|guantazo|manotazo|guantada|bofetón|tortazo|golpe|cachete|galleta|mamporro
+-|guantazo|manotazo|guantada|bofetón|tortazo|golpe|cachete|galleta|mamporro|carrillada
 -|sopapo|guantada|bofetón|cachete|cate|chuleta|mamporro|mojicón|revés|soplamocos|tabanazo|tapaboca|torta|tortazo|galleta|guantazo|manotazo|papirotazo|pescozón|cachetón|coscorrón
 bofetón|3
 -|bofetada|sopapo|guantada|cachete|cate|chuleta|mamporro|mojicón|revés|soplamocos|tabanazo|tapaboca|torta|tortazo|galleta|guantazo|manotazo|papirotazo|pescozón|cachetón|coscorrón
--|guantazo|manotazo|guantada|bofetada|tortazo|golpe|cachete|galleta|mamporro
+-|guantazo|manotazo|guantada|bofetada|tortazo|golpe|cachete|galleta|mamporro|carrillada
 -|voleo|torta|guantazo
 boga|2
 -|bogadura (NoRAE)|remadura|singladura|ciadura (NoRAE)|chapoteo
@@ -12192,7 +12200,7 @@ bregar|3
 -|lidiar|combatir|reñir|guerrear|hostilizar|altercar|batallar|luchar|contender|pelear|pugnar|engarrar (loc.)
 breña|2
 -|escabrosidad|fragosidad|quebradura|aspereza|abruptuosidad (NoRAE)
--|zarzal|matorral|maleza|espesura
+-|zarzal|matorral|maleza|espesura|garma
 breñal|1
 -|zarzal
 brete|2
@@ -12765,7 +12773,8 @@ buscapiés|1
 -|rapapiés|petardo|cohete
 buscapleitos|1
 -|buscarruidos|alborotador|pendenciero|provocador|escandaloso
-buscar|2
+buscar|3
+(tr.)|acosar|acosigar|estrechar|apremiar|perseguir|rastrear|ojear|acorralar|seguir
 -|agenciárselas|apañarse|averiguar|despabilarse|inquirir
 -|reconocer|explorar|registrar|inspeccionar|ojear|rastrear|indagar|escudriñar|rebuscar|cachear|investigar|averiguar|inquirir|examinar|tantear|husmear|preguntar|palpar
 buscarruidos|1
@@ -13175,7 +13184,7 @@ cachete|6
 -|cachetada|bofetada|tortazo
 -|galleta|bofetada|guantazo|chuleta
 -|golpe|coscorrón|guantazo|patada|codazo
--|guantazo|manotazo|guantada|bofetón|bofetada|tortazo|golpe|galleta|mamporro
+-|guantazo|manotazo|guantada|bofetón|bofetada|tortazo|golpe|galleta|mamporro|carrillada
 -|moflete|mejilla|carrillo
 cachetear|1
 -|abofetear|sopapear|cruzar la cara|dar bofetadas|dar guantazos
@@ -13951,7 +13960,7 @@ capa|3
 capacidad|4
 -|aforo|cabida|contenido|espacio|espaciosidad|extensión|superficie
 -|alcance|inteligencia|talento|luces
--|eficacia|efectividad|eficiencia|competencia|aptitud|validez|operatividad|fuerza|poder
+-|eficacia|efectividad|eficiencia|competencia|aptitud|validez|operatividad|fuerza|poder|rendimiento
 -|facultad|aptitud|habilidad|talento|potencial|don|destreza|genio|maña|mano|arte|posibilidades|preparación|adecuación|adaptación|idoneidad
 capacitado|1
 -|habilitado|competente|preparado|adaptado|autorizado|facultado
@@ -14072,6 +14081,8 @@ carantoña|2
 -|jabón|lisonja|halago|zalamería|adulación|coba|arrumaco|lagotería|labia|agasajo
 carantoñero|1
 -|labioso|adulador|halagador|embelesador (NoRAE)|lagotero|lisonjeador|melifluo|pelotillero|zalamero|lameculos
+caravana|1
+(m.)|partida|cáfila
 caray|1
 -|zambomba|cáspita|caramba|cielos
 carácter|4
@@ -14270,6 +14281,8 @@ carretera|2
 carril|2
 -|lingote|trozo|tranca|palanca|vara|varilla|rejón|barreta|barrón|barrote|eje|hierro|riel|palote|barra|tocho
 -|rail|riel
+carrillada|1
+-|guantazo|manotazo|guantada|bofetón|bofetada|tortazo|golpe|cachete|galleta|mamporro
 carrillo|2
 -|garrucha|polea|trocla|vigota
 -|moflete|mejilla|cachete
@@ -14674,6 +14687,8 @@ cábala|3
 -|intriga|conspiración|maquinación|secreto|trama
 -|sortilegio|superstición
 -|suposición|conjetura|presunción|sospecha|cálculo
+cáfila|1
+(m.)|caravana|partida
 cálculo|7
 -|algoritmo|operación
 -|arenilla|piedra
@@ -16026,6 +16041,8 @@ clan|5
 -|gente|familia|parentela
 -|grupo|asociación|conjunto|agrupación|congregación|corro|peña|reunión|camarilla|liga|comunidad|colectividad|multitud|banda|panda|cuadrilla|facción|bandada
 -|saga|dinastía
+clandestino|1
+(adj.)|anónimo|ilegítimo|encubierto|prohibido|ilegal|oculto|secreto|furtivo|subrepticio
 claraboya|2
 -|lucerna|lumbrera
 -|lumbrera|lucerna|tragaluz|tronera
@@ -16494,7 +16511,8 @@ colmo|3
 (m.)|consumación|terminación|coronamiento|culminación|conclusión|remate|fin|término
 -|acabose|exceso|súmmum|desastre|catástrofe|ruina
 -|guinda|colofón|culmen|terminación|remate|apoteosis|broche
-colocación|2
+colocación|3
+-|establecimiento|ubicación
 -|localización|situación|emplazamiento|ubicación|enclave|posición|sitio|lugar|sede
 -|ordenación|orden|ordenamiento|distribución
 colocado|3
@@ -16713,7 +16731,7 @@ comilla|1
 comilona|1
 -|banquete|festín|convite|gaudeamus|simposia (NoRAE)|banco|ágape|banquillo
 comilón|2
--|glotón|tragón|zampón|hambrón|insacialbe|tragaldabas|voraz|zampabollos|tripero
+-|glotón|tragón|zampón|hambrón|tragaldabas|voraz|zampabollos|tripero|insaciable
 -|zampatortas|glotón|tragón
 cominero|2
 -|exigente|severo|riguroso|estricto|intolerante|quisquilloso|quisquilla|cascarrabias|chinche|puntilloso
@@ -16834,7 +16852,7 @@ compensar|6
 -|reintegrar|devolver|restituir|reponer|restablecer|pagar
 -|resarcir|indemnizar|reparar
 competencia|3
--|eficacia|efectividad|eficiencia|capacidad|aptitud|validez|operatividad|fuerza|poder
+-|eficacia|efectividad|eficiencia|capacidad|aptitud|validez|operatividad|fuerza|poder|rendimiento
 -|emulación|competición|rivalidad|pugna|lucha|porfía
 -|jurisdicción|autoridad|mando|poder|potestad|atribución|facultad
 competente|3
@@ -17690,7 +17708,8 @@ conocedro|1
 -|sabedor|enterado|entendido
 conocer|1
 -|saber|enterarse|entender|aprender|memorizar|retener|asimilar
-conocido|6
+conocido|7
+(adj.)|influyente|prestigioso|relacionado|respetado|renombrado|destacado|acreditado|poderoso|predominante
 (adj.)|público|sabido|notorio|manifiesto|divulgado
 -|batido|trillado|recorrido|frecuentado|transitado
 -|familiar|sabido|ordinario|habitual|acostumbrado|usual|común|frecuente|normal|general
@@ -21980,7 +21999,8 @@ desquitarse|2
 -|vengar|vindicar|resarcir|reparar|defender|rehabilitar
 desquite|1
 -|vendetta|venganza|revancha|represalia
-destacado|5
+destacado|6
+(adj.)|influyente|prestigioso|relacionado|respetado|renombrado|acreditado|poderoso|predominante|conocido
 -|acusado|marcado|pronunciado|acentuado|perceptible|dibujado
 -|adelantado|avanzado|aventajado|superior|precoz
 -|esclarecido|distinguido|ilustre|notable|eminente|insigne|preclaro|afamado|presticioso
@@ -23927,7 +23947,7 @@ efectista|1
 efectivamente|1
 -|realmente|positivamente|verdaderamente|en realidad
 efectividad|2
--|eficacia|eficiencia|competencia|capacidad|aptitud|validez|operatividad|fuerza|poder
+-|eficacia|eficiencia|competencia|capacidad|aptitud|validez|operatividad|fuerza|poder|rendimiento
 -|realidad|existencia|verdad|sinceridad|ingenuidad
 efectivo|5
 -|dinero|moneda|billete|cuartos|metálico|monises (NoRAE)|parné|pasta|plata|mosca|boleto|bono|vale|tarjeta|tique|cupón|cédula|volante|carta|esquela|nota|misiva
@@ -23962,7 +23982,7 @@ efervescencia|2
 efervescente|1
 -|ardoroso|bullicioso|agitado|hirviente|entusiástico|acalorado|burbujeante (NoRAE)|borboteante (NoRAE)|bullente|espumoso|espumeante
 eficacia|1
--|efectividad|eficiencia|competencia|capacidad|aptitud|validez|operatividad|fuerza|poder
+-|efectividad|eficiencia|competencia|capacidad|aptitud|validez|operatividad|fuerza|poder|rendimiento
 eficaz|5
 -|eficiente|efectivo|competente|capaz|apto|válido|valioso
 -|feliz|oportuno|acertado|atinado|adecuado
@@ -23970,7 +23990,7 @@ eficaz|5
 -|operativo|operante|activo
 -|valeroso|poderoso
 eficiencia|1
--|eficacia|efectividad|competencia|capacidad|aptitud|validez|operatividad|fuerza|poder
+-|eficacia|efectividad|competencia|capacidad|aptitud|validez|operatividad|fuerza|poder|rendimiento
 eficiente|1
 -|eficaz|efectivo|competente|capaz|apto|válido|valioso
 efigie|1
@@ -25846,7 +25866,8 @@ encuadre|1
 -|enfoque|ajuste
 encubierta|1
 -|fraude|estafa|ajuste
-encubierto|3
+encubierto|4
+(adj.)|clandestino|anónimo|ilegítimo|prohibido|ilegal|oculto|secreto|furtivo|subrepticio
 -|enmascarado|oculto|escondido|disimulado|disfrazado|tapado|velado
 -|escusado|oculto|disimulado|escondido|tapado|secreto
 -|latente|velado|escondido|disfrazado|oculto|implícito|recóndito|secreto|lógico|profundo|subyacente
@@ -28778,7 +28799,7 @@ espesura|7
 -|bálago|broza|paja|rastrojo|maleza|hojarasca|matojo|matorral|ramaje
 -|boscaje|bosque|fronda|frondosidad
 -|boscosidad (NoRAE)|frondosidad|fragosidad
--|breña|zarzal|matorral|maleza
+-|breña|zarzal|matorral|maleza|garma
 -|enramada|follaje|fronda|maleza
 -|jungla|bosque|selva|foresta|fronda|arboleda|monte|follaje|floresta|arbolado|soto|carrascal|cordillera|sierra|loma|montaña|pico|cerro|colina
 -|lozanía|frescura|verdor|frondosidad|juventud|vigor|verdura|follaje
@@ -29084,11 +29105,12 @@ establecido|4
 -|acordado|concertado|convenido|pactado|determinado|resuelto|sensato|juicioso
 -|afincado|residente
 -|limitado|circunscrito|restringido|acotado|constreñido|prohibido|condicionado|definido
-establecimiento|5
+establecimiento|6
 -|administración|oficina|despacho|agencia|delegación|sucursal|filial|dependencia|compañía|empresa
 -|asentamiento|consolidación|cimentación|arraigo|instalación|emplazamiento|plaza
 -|avecindamiento|asentamiento|asiento
 -|bazar|tienda|comercio|almacén|mercado|botica
+-|colocación|ubicación
 -|erección|levantamiento|construcción|fundación|institución
 establo|2
 -|boyera|boíl|boyeriza|corral|cuadra
@@ -29559,7 +29581,7 @@ estrechamiento|2
 -|empequeñecimiento|encogimiento|disminución|reducción|merma|acortamiento
 -|garganta|cañón|desfiladero
 estrechar|5
-(tr.)|acosar|acosigar|perseguir
+(tr.)|acosar|acosigar|apremiar|perseguir|buscar|rastrear|ojear|acorralar|seguir
 -|bloquear|asediar|sitiar|cercar|incomunicar|aislar|cerrar|circunvalar|encerrar|rodear|cortar|inmovilizar|obstruir|obstaculizar|impedir
 -|fajar|ceñir|envolver|apretar|presionar|oprimir|estrujar|comprimir|prensar|agarrotar|estrangular|despachurrar|chafar|constreñir|apretujar
 -|juntar|fusionar|unir|fundir|reunir|unificar|empalmar|acoplar|anexar|adjuntar|aunar|soldar|enlazar|atar|adosar|conectar|añadir|agregar|anudar|ligar|articular|pegar|arrimar|yuxtaponer|aglutinar
@@ -32970,7 +32992,7 @@ fuertemente|1
 fuerza|8
 -|énfasis|vigor|realce|pedantería|afectación|ceremonia|acento|intensidad|energía|vehemencia|empaque|redundancia|hincapié|ampulosidad|pomposidad
 -|ñeque|vigor|energía
--|eficacia|efectividad|eficiencia|competencia|capacidad|aptitud|validez|operatividad|poder
+-|eficacia|efectividad|eficiencia|competencia|capacidad|aptitud|validez|operatividad|poder|rendimiento
 -|hálito|energía|vigor
 -|savia|vigor|energía|vitalidad
 -|tesitura|altura|intensidad
@@ -33090,6 +33112,8 @@ furor|3
 -|vesania|furia|crueldad|cólera|rabia|violencia
 furor uterino|1
 -|ninfomanía|concupiscencia|erotomanía|lujuria|lascivia
+furtivo|1
+(adj.)|clandestino|anónimo|ilegítimo|encubierto|prohibido|ilegal|oculto|secreto|subrepticio
 fusiforme|1
 -|ahusado
 fusionado|1
@@ -33326,7 +33350,7 @@ galleta|5
 -|bizcocho|bollo|melindre|torta|bizcotela|brioche (NoRAE)|tarta|pastelillo|tortita|rosco
 -|bofetada|sopapo|guantada|bofetón|cachete|cate|chuleta|mamporro|mojicón|revés|soplamocos|tabanazo|tapaboca|torta|tortazo|guantazo|manotazo|papirotazo|pescozón|cachetón|coscorrón
 -|cachete|bofetada|guantazo|chuleta
--|guantazo|manotazo|guantada|bofetón|bofetada|tortazo|golpe|cachete|mamporro
+-|guantazo|manotazo|guantada|bofetón|bofetada|tortazo|golpe|cachete|mamporro|carrillada
 galliforme|1
 -|gallo|pollo
 gallina|2
@@ -33622,6 +33646,8 @@ garlocha|1
 -|garrocha|garfio|vara
 garlopa|1
 -|repasadera|cepillo
+garma|1
+-|breña|zarzal|matorral|maleza|espesura
 garra|3
 -|garfio|gancho
 -|mano|zarpa|uña|casco|pezuña
@@ -34351,7 +34377,7 @@ glotonería|3
 -|gula|avidez|voracidad|apetito
 -|gula|voracidad|hambronería|ansia|tragonería
 glotón|3
--|comilón|tragón|zampón|hambrón|insacialbe|tragaldabas|voraz|zampabollos|tripero
+-|comilón|tragón|zampón|hambrón|tragaldabas|voraz|zampabollos|tripero|insaciable
 -|goloso|dulcero|lameruzo|lamerón
 -|zampatortas|comilón|tragón
 glóbulo|3
@@ -34492,7 +34518,7 @@ golpe|23
 -|garrotazo|bastonazo|leñazo|varapalo|porrazo|cachiporrazo
 -|golpazo|porrazo|portazo|testarazo|zambombazo
 -|gracia|chiste|ocurrencia|burla
--|guantazo|manotazo|guantada|bofetón|bofetada|tortazo|cachete|galleta|mamporro
+-|guantazo|manotazo|guantada|bofetón|bofetada|tortazo|cachete|galleta|mamporro|carrillada
 -|hachazo|tajo|corte|golpe (fig.)
 -|impresión|sorpresa|conmoción|shock|trauma
 -|laceración|magullamiento|lesión|traumatismo|daño|herida|llaga|afección|contusión|dolencia
@@ -35431,13 +35457,13 @@ guano|1
 guantada|3
 -|bofetada|sopapo|bofetón|cachete|cate|chuleta|mamporro|mojicón|revés|soplamocos|tabanazo|tapaboca|torta|tortazo|galleta|guantazo|manotazo|papirotazo|pescozón|cachetón|coscorrón
 -|guantazo
--|guantazo|manotazo|bofetón|bofetada|tortazo|golpe|cachete|galleta|mamporro
+-|guantazo|manotazo|bofetón|bofetada|tortazo|golpe|cachete|galleta|mamporro|carrillada
 guantazo|6
 -|bofetada|sopapo|guantada|bofetón|cachete|cate|chuleta|mamporro|mojicón|revés|soplamocos|tabanazo|tapaboca|torta|tortazo|galleta|manotazo|papirotazo|pescozón|cachetón|coscorrón
 -|galleta|cachete|bofetada|chuleta
 -|golpe|coscorrón|cachete|patada|codazo
 -|guantada
--|manotazo|guantada|bofetón|bofetada|tortazo|golpe|cachete|galleta|mamporro
+-|manotazo|guantada|bofetón|bofetada|tortazo|golpe|cachete|galleta|mamporro|carrillada
 -|voleo|bofetón|torta
 guante|1
 -|manopla|guantelete|manguito|mitón
@@ -36151,7 +36177,7 @@ hambriento|1
 hambronería|1
 -|glotonería|gula|voracidad|ansia|tragonería
 hambrón|1
--|glotón|comilón|tragón|zampón|insacialbe|tragaldabas|voraz|zampabollos|tripero
+-|glotón|comilón|tragón|zampón|tragaldabas|voraz|zampabollos|tripero|insaciable
 haraganear|3
 -|apalancarse|apoltronarse|acomodarse|instalarse|repanchingarse|repantingarse|vaguear|gandulear
 -|gandulear|holgazanear|vaguear|holgar|vagar
@@ -37298,9 +37324,11 @@ igualmente|1
 -|también|todavía|asimismo|incluso|aún|además
 ilación|1
 -|nexo|trabazón|conexión|vinculo|enlace
-ilegal|1
+ilegal|2
+(adj.)|clandestino|anónimo|ilegítimo|encubierto|prohibido|oculto|secreto|furtivo|subrepticio
 (adj.)|ilícito
-ilegítimo|1
+ilegítimo|2
+(adj.)|clandestino|anónimo|encubierto|prohibido|ilegal|oculto|secreto|furtivo|subrepticio
 -|bastardo|adulterino|espurio|natural
 ileso|1
 -|salvo|indemne|incólume
@@ -38047,7 +38075,8 @@ increíble|5
 -|fabuloso|fantástico|ficticio|ilusorio|imaginario|inverosímil|sobrenatural|fantasmagórico|prodigioso|irreal|rocambolesco
 -|fantástico|inexistente|utópico|quimérico
 -|imposible|inútil|inasequible|inalcanzable|irrealizable|inverosímil|ficticio|impracticable|difícil
-incremento|4
+incremento|5
+(m. fig.)|productividad|rendimiento
 -|acrecentamiento|crecimiento|aumento|ampliación
 -|alza|subida|aumento|elevación|ascenso|acrecentamiento|encarecimiento
 -|desarrollo|crecimiento|ampliación|expansión
@@ -38510,6 +38539,8 @@ influir|1
 -|lacrar|perjudicar|dañar|deteriorar|afectar|contagiar|conmover|emocionar|impactar
 influjo|1
 -|eco|influencia
+influyente|1
+(adj.)|prestigioso|relacionado|respetado|renombrado|destacado|acreditado|poderoso|predominante|conocido
 información|4
 -|asesoría|consultoría|consultorio
 -|declaración|explicación|exposición|afirmación|enunciación|proclamación|confesión|revelación|testimonio|manifiesto|comunicación
@@ -38674,7 +38705,7 @@ iniciación|1
 inicial|3
 (adj.)|inicial
 -|anterior|previo|antecedente|precedente|preliminar|precursor|preparatorio
--|original|auténtico
+-|original|auténtico|prístino|primero|primitivo|antiguo
 iniciales|1
 -|abreviatura|sigla
 iniciar|3
@@ -38920,7 +38951,7 @@ inquirir|6
 -|buscar|agenciárselas|apañarse|averiguar|despabilarse
 -|escarbar|escudriñar|fisgar|averiguar|indagar|investigar
 -|reconocer|explorar|registrar|inspeccionar|ojear|buscar|rastrear|indagar|escudriñar|rebuscar|cachear|investigar|averiguar|examinar|tantear|husmear|preguntar|palpar
-insacialbe|1
+insaciable|1
 -|glotón|comilón|tragón|zampón|hambrón|tragaldabas|voraz|zampabollos|tripero
 insalivar|1
 -|babear|desbabar|babosear|ensalivar|escupir|espumajear|salivar
@@ -40426,7 +40457,7 @@ juntar|10
 -|acompañarse|acoplar|agrupar|amontonar|acopiar
 -|agregar|adicionar|anexar|añadir|asociar|pegar|sumar|unir|ampliar|amplificar
 -|ajuntar|unir
--|allegar|recoger|recolectar
+-|allegar|recoger|recolectar|atropar
 -|almacenar|acumular
 -|apelotonar|aglomerar|apretujar|amontonar|hacinar|apilar|agolpar|apiñar|arremolinar|acumular|reunir
 -|fusionar|unir|fundir|reunir|unificar|empalmar|acoplar|anexar|adjuntar|aunar|soldar|enlazar|atar|adosar|conectar|añadir|agregar|anudar|ligar|articular|pegar|arrimar|yuxtaponer|aglutinar|estrechar
@@ -41554,6 +41585,10 @@ lentes|5
 -|quevedos|gafas|antiparras|prismáticos|anteojos|gemelos
 lenticular|1
 -|convexo|cóncavo|combado|circular|discoidal
+lentificar|1
+-|acelerar
+lentificar, desacelerar|1
+-|lentificar, desacelerar
 lentilla|2
 -|lente de contacto
 -|lente|vidrio|cristal|lupa|telescopio|monóculo
@@ -42764,7 +42799,7 @@ lobato|1
 lobezno|1
 -|lobato
 lobreguez|2
--|melancolía|tristeza|pesadumbre|pesar|aflicción|pena|nostalgia|añoranza|morriña
+-|melancolía|tristeza|pesadumbre|pesar|aflicción|pena|nostalgia|añoranza|morriña|murria
 -|tenebrosidad
 lobulado|1
 -|escotado|ondulado
@@ -43649,7 +43684,7 @@ maletón|1
 -|baúl|arcón|arca|cofre|equipaje|valija|bulto
 maleza|4
 -|bálago|broza|paja|rastrojo|hojarasca|matojo|matorral|espesura|ramaje
--|breña|zarzal|matorral|espesura
+-|breña|zarzal|matorral|espesura|garma
 -|enramada|espesura|follaje|fronda
 -|yerbajo|mala hierba|yuyo|yerro
 maléfico|1
@@ -43795,7 +43830,7 @@ mampara|1
 -|cancel|contrapuerta|biombo|bastidor|pantalla|persiana|antipara|visera|parasol|tejadillo
 mamporro|2
 -|bofetada|sopapo|guantada|bofetón|cachete|cate|chuleta|mojicón|revés|soplamocos|tabanazo|tapaboca|torta|tortazo|galleta|guantazo|manotazo|papirotazo|pescozón|cachetón|coscorrón
--|guantazo|manotazo|guantada|bofetón|bofetada|tortazo|golpe|cachete|galleta
+-|guantazo|manotazo|guantada|bofetón|bofetada|tortazo|golpe|cachete|galleta|carrillada
 mamullar|1
 -|balbucir|barbotar|musitar|mascullar|tartajear|barbullar|farfullar
 mamut|1
@@ -44036,7 +44071,7 @@ manoseo|1
 -|abrazo|apretón|achuchón|estrujón|sobo|revolcón|arrechucho|ataque|indisposición
 manotazo|2
 -|bofetada|sopapo|guantada|bofetón|cachete|cate|chuleta|mamporro|mojicón|revés|soplamocos|tabanazo|tapaboca|torta|tortazo|galleta|guantazo|papirotazo|pescozón|cachetón|coscorrón
--|guantazo|guantada|bofetón|bofetada|tortazo|golpe|cachete|galleta|mamporro
+-|guantazo|guantada|bofetón|bofetada|tortazo|golpe|cachete|galleta|mamporro|carrillada
 manotear|2
 -|accionar|activar|manejar|manipular|gesticular|mover|estimular|acelerar|avivar
 -|gesticular|accionar|guiñar|bracear|indicar
@@ -44503,7 +44538,7 @@ matojo|2
 matorral|3
 -|arbusto|mata|matojo
 -|bálago|broza|paja|rastrojo|maleza|hojarasca|matojo|espesura|ramaje
--|breña|zarzal|maleza|espesura
+-|breña|zarzal|maleza|espesura|garma
 matón|3
 -|baladrón|charlatán|matasiete|jactancioso|bravucón|cobardón|matamoros|chulo|perdonavidas
 -|gángster|pistolero|gorila|bandido
@@ -44768,7 +44803,7 @@ mejunje|3
 -|bebistrajo|potingue|cóctel|combinación|combinado|aguachirle|pócima
 -|bodrio|bazofia|comistrajo|guisote|potingue
 melancolía|1
--|lobreguez|tristeza|pesadumbre|pesar|aflicción|pena|nostalgia|añoranza|morriña
+-|lobreguez|tristeza|pesadumbre|pesar|aflicción|pena|nostalgia|añoranza|morriña|murria
 melancólico|3
 -|acongojado|apenado|afligido|triste|cabizbajo|contrito|atribulado|angustiado|consternado|abrumado|agobiado|abatido|alicaído|deprimido
 -|misántropo|introvertido|insociable|triste|huraño|arisco|hosco|retraído
@@ -45960,7 +45995,7 @@ morralla|2
 morrena|1
 -|morrena
 morriña|2
--|lobreguez|melancolía|tristeza|pesadumbre|pesar|aflicción|pena|nostalgia|añoranza
+-|lobreguez|melancolía|tristeza|pesadumbre|pesar|aflicción|pena|nostalgia|añoranza|murria
 -|saudade|nostalgia|añoranza
 morro|5
 -|bezo|belfo|hocico
@@ -46329,6 +46364,8 @@ muro|5
 -|limitación|acotación|restricción|cortapisa|barrera|traba|obstáculo|inconveniente|valla|tapia|seto|barda|bardal|vallado|cerca|empalizada|parapeto|verja
 -|pared|tabique|tapia|albarrada|horma|hormaza
 -|pared|tapia
+murria|1
+-|lobreguez|melancolía|tristeza|pesadumbre|pesar|aflicción|pena|nostalgia|añoranza|morriña
 murta|1
 -|arrayán|mirto
 musa|1
@@ -47215,7 +47252,7 @@ noseología|1
 nosología|1
 -|patología
 nostalgia|2
--|lobreguez|melancolía|tristeza|pesadumbre|pesar|aflicción|pena|añoranza|morriña
+-|lobreguez|melancolía|tristeza|pesadumbre|pesar|aflicción|pena|añoranza|morriña|murria
 -|saudade|añoranza|morriña
 nostálgico|1
 -|melancólico|pesaroso|triste|afligido|mustio
@@ -47881,7 +47918,8 @@ ocultismo|1
 -|magia|brujería|nigromancia|ilusionismo|hechicería|encantamiento|hechizo|sortilegio|atractivo|encanto|embeleso|superstición|agorería|aruspicina|maldición
 ocultista|1
 -|médium|espiritista
-oculto|8
+oculto|9
+(adj.)|clandestino|anónimo|ilegítimo|encubierto|prohibido|ilegal|secreto|furtivo|subrepticio
 -|arcano|secreto|misterioso|reservado|remoto|recóndito|enigmático|hermético|insondable|esotérico
 -|cabalístico|esotérico|mágico|misterioso|recóndito|secreto|mago|hechicero|nigromante|brujo|fascinador|fascinante|seductor|maravilloso
 -|cifrado|criptográfico|enigmático|secreto
@@ -48056,7 +48094,8 @@ ojeada|3
 -|lectura|leída|lección|repaso|recital|recitación
 -|mirada|vistazo|examen|inspección|observación
 -|ojo|vista|vistazo|mirada|visión
-ojear|2
+ojear|3
+(tr.)|acosar|acosigar|estrechar|apremiar|perseguir|buscar|rastrear|acorralar|seguir
 -|leer|descifrar|estudiar|interpretar|repasar|analizar|deletrear
 -|reconocer|explorar|registrar|inspeccionar|buscar|rastrear|indagar|escudriñar|rebuscar|cachear|investigar|averiguar|inquirir|examinar|tantear|husmear|preguntar|palpar
 ojeo|1
@@ -48262,7 +48301,7 @@ operario|2
 -|jornalero|bracero|obrero|asalariado|peón|albañil|labrador
 -|obrero|artesano|trabajador
 operatividad|1
--|eficacia|efectividad|eficiencia|competencia|capacidad|aptitud|validez|fuerza|poder
+-|eficacia|efectividad|eficiencia|competencia|capacidad|aptitud|validez|fuerza|poder|rendimiento
 operativo|1
 -|operante|eficaz|activo
 opilar|1
@@ -48548,7 +48587,7 @@ origen|10
 original|5
 -|exótico|extraño|chocante|singular|insólito|infrecuente|extravagante|raro
 -|inefable|divino|maravilloso|sublime|genial|único
--|inicial|auténtico
+-|inicial|auténtico|prístino|primero|primitivo|antiguo
 -|llamativo|diferente|innovador|flamante
 -|moderno|flamante|novedoso|innovador|reciente|nuevo
 originalidad|1
@@ -49512,9 +49551,10 @@ particularidad|3
 -|anécdota|detalle|peculiaridad|puntualización|curiosidad
 -|especialidad|peculiaridad|singularidad|distintivo
 -|exotismo|singularidad|extravagancia|rareza|originalidad|novedad|innovación|distinción|curiosidad
-partida|9
+partida|10
 (f.)|banda|facción|cuadrilla|pandilla
 (f.)|facción|banda|cuadrilla
+(m.)|caravana|cáfila
 -|¡adiós!|despedida|marcha|separación
 -|ausencia|desaparición|marcha|abandono
 -|baza|tanto|mano
@@ -50174,7 +50214,7 @@ pena|11
 -|grima|aversión|desagrado|repugnancia|desazón|disgusto|inquietud
 -|lástima|compasión|disgusto|caridad|conmiseración|misericordia|piedad|queja|dolor|lamento|grima
 -|lacería|molestia|fatiga|trabajo
--|lobreguez|melancolía|tristeza|pesadumbre|pesar|aflicción|nostalgia|añoranza|morriña
+-|lobreguez|melancolía|tristeza|pesadumbre|pesar|aflicción|nostalgia|añoranza|morriña|murria
 -|luto|duelo|aflicción|desdicha
 -|sanción|condena|penalidad|castigo|correctivo|punición|puro|paquete
 -|zabila|áloe|aloe|acíbar|zabida|amargura|disgusto|hiel|tristeza|pesadumbre
@@ -50612,7 +50652,7 @@ persecución|2
 -|batida|rastreo|ojeo|acoso|búsqueda|caza|cerco|exploración|reconocimiento|seguimiento|hostigamiento|asedio|acorralamiento
 -|cacería|caza|montería|partida|búsqueda|cetrería
 perseguir|1
-(tr.)|acosar|acosigar|estrechar
+(tr.)|acosar|acosigar|estrechar|apremiar|buscar|rastrear|ojear|acorralar|seguir
 perseverancia|1
 -|tesón|aplicación|constancia|empecinamiento|empeño|inflexibilidad|insistencia|persistencia|tenacidad
 perseverante|4
@@ -50749,7 +50789,7 @@ pesadumbre|6
 -|entristecimiento|tristeza|pena|disgusto|desconsuelo|aflicción|desolación|congoja|abatimiento|consternación
 -|espina|peso|inquietud|desazón
 -|fatiga|penuria|dificultad|molestia|trabajo|sufrimiento|pena
--|lobreguez|melancolía|tristeza|pesar|aflicción|pena|nostalgia|añoranza|morriña
+-|lobreguez|melancolía|tristeza|pesar|aflicción|pena|nostalgia|añoranza|morriña|murria
 -|zabila|áloe|aloe|acíbar|zabida|amargura|disgusto|pena|hiel|tristeza
 pesantez|1
 -|gravedad|pesadez|gravitación
@@ -50757,7 +50797,7 @@ pesar|5
 -|agonía|sufrimiento|congoja|pena|angustia|abatimiento|tribulación|amargura
 -|compunción|contrición|arrepentimiento|remordimiento|pesadumbre|aflicción
 -|gravitar|cargar|descansar|apoyarse|estribar|cimentarse|fundamentarse|sustentarse
--|lobreguez|melancolía|tristeza|pesadumbre|aflicción|pena|nostalgia|añoranza|morriña
+-|lobreguez|melancolía|tristeza|pesadumbre|aflicción|pena|nostalgia|añoranza|morriña|murria
 -|quemazón|desazón|resquemor|resentimiento|amargura
 pesaroso|3
 -|arrepentido|contrito|compungido|dolido|sentido|apesadumbrado|afligido
@@ -51497,11 +51537,12 @@ podar|1
 podenco|1
 -|sabueso
 poder|4
--|eficacia|efectividad|eficiencia|competencia|capacidad|aptitud|validez|operatividad|fuerza
+-|eficacia|efectividad|eficiencia|competencia|capacidad|aptitud|validez|operatividad|fuerza|rendimiento
 -|facultad|autorización|licencia|atribución|concesión|prerrogativa|permiso|otorgamiento|venia|aquiescencia|aprobación
 -|grandeza|gloria|dignidad|majestad|esplendor|honor
 -|jurisdicción|autoridad|mando|potestad|atribución|facultad|competencia
-poderoso|4
+poderoso|5
+(adj.)|influyente|prestigioso|relacionado|respetado|renombrado|destacado|acreditado|predominante|conocido
 -|boyante|próspero|feliz|dichoso|acomodado|fastuoso|rico|potentado|afortunado|acaudalado
 -|burgués|adinerado|acomodado|opulento|pudiente|rico|aburguesado|capitalista
 -|godo|rico|ilustre|noble|aristócrata|linajudo
@@ -52113,6 +52154,8 @@ predio|1
 predisponer|2
 -|anteponer|preferir|priorizar|favorecer|privilegiar|distinguir|diferenciar
 -|prevenir|advertir|avisar|alertar
+predominante|1
+(adj.)|influyente|prestigioso|relacionado|respetado|renombrado|destacado|acreditado|poderoso|conocido
 predominar|1
 -|brillar|sobresalir|destacar|descollar|distinguirse
 preeminencia|1
@@ -52359,7 +52402,8 @@ prestigio|5
 -|gloria|fama|reputación|honor|renombre|celebridad|notoriedad|popularidad|éxito|triunfo|victoria
 -|lustre|renombre|fama
 -|nombradía|celebridad|consideración|fama|nombre|nota|notoriedad|renombre|popularidad|honra
-prestigioso|2
+prestigioso|3
+(adj.)|influyente|relacionado|respetado|renombrado|destacado|acreditado|poderoso|predominante|conocido
 -|glorioso|memorable|ilustre|famoso|eminente|insigne|célebre
 -|nombrado|célebre|famoso|afamado|renombrado|conocido|reputado|popular|notorio
 presto|2
@@ -52471,16 +52515,18 @@ primaveral|1
 -|vernal
 primaveras|1
 -|años|abriles
-primero|1
+primero|2
 -|frontal|anterior|delantero|exterior
+-|inicial|original|auténtico|prístino|primitivo|antiguo
 primicia|1
 -|debut|estreno|presentación|inauguración|iniciación|apertura|comienzo|inicio|première
 primitivismo|1
 -|arcaísmo|antigüedad
-primitivo|3
+primitivo|4
 -|atrasado|subdesarrollado
 -|elemental|sencillo|rudimentario|primario|superficial|ligero
 -|embrionario|incipiente|germinal|primario|rudimentario|en ciernes
+-|inicial|original|auténtico|prístino|primero|antiguo
 primor|2
 -|lindeza|guapeza|guapura|lindura|preciosidad|delicadeza|divinidad|encanto|esplendor|finura|graciosidad|magnificencia|perfección|sublimidad|beldad|hermosura|donaire|majeza
 -|virguería|floritura|filigrana|exquisitez|maravilla|preciosidad
@@ -52593,6 +52639,8 @@ privilegio|4
 -|favoritismo|preferencia|predilección|parcialidad
 -|libertad|dispensa|licencia|exención|permiso
 -|nepotismo|predilección|enchufe|favor|privanza|favoritismo|amiguismo|recomendación|enchufismo
+prístino|1
+-|inicial|original|auténtico|primero|primitivo|antiguo
 probabilístico|1
 -|estocástico
 probable|1
@@ -52695,6 +52743,8 @@ producirse|3
 -|efectuarse|cumplirse|cumplimentarse|consumarse|practicarse|perpetrarse|suceder|llevarse a cabo
 -|pasar|acontecer|ocurrir|suceder|sobrevenir|acaecer|advenir|tener lugar
 -|verificarse|cumplirse|verismo|veracidad|realismo|crudeza
+productividad|1
+(m. fig.)|rendimiento|incremento
 productivo|4
 -|fecundo|prolífico
 -|generoso|fértil|fecundo|rico
@@ -52787,7 +52837,8 @@ prohibición|3
 -|entredicho|veto|reprobación|censura|interdicto
 -|negación|negativa|denegación|oposición|repulsa
 -|veda|limitación|privación|impedimento|veto
-prohibido|1
+prohibido|2
+(adj.)|clandestino|anónimo|ilegítimo|encubierto|ilegal|oculto|secreto|furtivo|subrepticio
 -|limitado|circunscrito|restringido|acotado|constreñido|condicionado|definido|establecido
 prohibir|3
 -|denegar|desestimar|rehusar|negar|desaprobar|rechazar|impugnar|vedar|privar|impedir
@@ -54265,7 +54316,8 @@ rastra|3
 -|grada
 -|rastro|rastrillo|indicio|huella|señal|vestigio|pista
 -|recogedor|pala
-rastrear|1
+rastrear|2
+(tr.)|acosar|acosigar|estrechar|apremiar|perseguir|buscar|ojear|acorralar|seguir
 -|reconocer|explorar|registrar|inspeccionar|ojear|buscar|indagar|escudriñar|rebuscar|cachear|investigar|averiguar|inquirir|examinar|tantear|husmear|preguntar|palpar
 rastreo|2
 -|batida|ojeo|acoso|búsqueda|caza|cerco|exploración|persecución|reconocimiento|seguimiento|hostigamiento|asedio|acorralamiento
@@ -54865,7 +54917,7 @@ recogedor|2
 -|badil|pala|badila|cuchara|paleta|hurgón|hurgonero
 -|rastra|pala
 recoger|4
--|allegar|juntar|recolectar
+-|allegar|juntar|recolectar|atropar
 -|cosechar|recolectar|coger|guardar|poner en cobro|juntar|reunir|congregar|acopiar|acoger|dar asilo|retirarse|encerrarse|refugiarse|acogerse|abstraerse|ensimismarse|reconcentrarse
 -|guardar|tener|atesorar|ahorrar|economizar|retener|almacenar
 -|recolectar|cosechar
@@ -54880,7 +54932,7 @@ recolección|1
 recolecta|1
 -|vendimia
 recolectar|3
--|allegar|recoger|juntar
+-|allegar|recoger|juntar|atropar
 -|cosechar|recoger
 -|recoger|cosechar|coger|guardar|poner en cobro|juntar|reunir|congregar|acopiar|acoger|dar asilo|retirarse|encerrarse|refugiarse|acogerse|abstraerse|ensimismarse|reconcentrarse
 recolector|1
@@ -55659,6 +55711,8 @@ rejón|3
 -|dardo|venablo|saeta|arpón|flecha|aguijón|banderilla|garrocha|jabalina
 -|lanza|venablo|pica|alabarda|aguijada|bichero|garrocha|lanceta|asta|vara|gancho|cloque|puya
 -|lingote|trozo|tranca|palanca|vara|varilla|barreta|barrón|barrote|eje|hierro|riel|palote|carril|barra|tocho
+relacionado|1
+(adj.)|influyente|prestigioso|respetado|renombrado|destacado|acreditado|poderoso|predominante|conocido
 relacionar|2
 -|emparentar|entroncar|enlazar|vincular
 -|referir|enlazar|encadenar
@@ -55901,8 +55955,10 @@ rendija|3
 -|abertura|agujero|orificio|hueco|rajadura|boquete|brecha|paso|angostura|portillo|embocadura|rotura|fisura|grieta
 -|fisura|incisura|rajadura|corte|grieta|hendidura
 -|grieta|raja|corte|fisura|hendidura|resquicio|abertura|hueco
-rendimiento|5
+rendimiento|7
+(m. fig.)|productividad|incremento
 -|aprovechamiento|beneficio|conveniencia|utilización|explotación|uso|usufructo
+-|eficacia|efectividad|eficiencia|competencia|capacidad|aptitud|validez|operatividad|fuerza|poder
 -|ganancia|fruto|beneficio|lucro|provecho
 -|jugo|beneficio|utilidad|provecho|conveniencia|lucro|ventaja
 -|lucro|ganancia|provecho|utilidad|interés|beneficio
@@ -55928,7 +55984,8 @@ renglón|1
 -|línea|ristra|hilera|andana|fila|ringlera|sarta|cadena|serie|columna|cadeneta|leontina|sucesión|continuación|encadenamiento|enlace
 reniego|1
 -|juramento|palabrota|blasfemia|protesta|taco|denuesto|maldición|imprecación|insulto|dicterio|grosería|irreverencia|execración|injuria|ultraje|vituperio
-renombrado|3
+renombrado|4
+(adj.)|influyente|prestigioso|relacionado|respetado|destacado|acreditado|poderoso|predominante|conocido
 -|famoso|célebre|afamado|popular|notorio|conocido|reconocido|distinguido|insigne
 -|memorable|notable|célebre|inolvidable
 -|nombrado|célebre|famoso|afamado|conocido|reputado|prestigioso|popular|notorio
@@ -56449,7 +56506,8 @@ respetabilidad|1
 -|decencia|decoro|honor|honorabilidad|nobleza|dignidad|honra|estimación|respeto|reverencia
 respetable|1
 -|augusto|honorable|venerable|egregio|benemérito
-respetado|1
+respetado|2
+(adj.)|influyente|prestigioso|relacionado|renombrado|destacado|acreditado|poderoso|predominante|conocido
 -|valido|bienquisto|amado|querido|apreciado|estimado|reputado|considerado|recibido|creído
 respetar|5
 -|admirar|apreciar|estimar|honrar|venerar|tener en un altar
@@ -58430,7 +58488,8 @@ secreción interna|1
 -|recremento|endocrina
 secretario|1
 -|amanuense|escribiente|escribano|copista
-secreto|8
+secreto|9
+(adj.)|clandestino|anónimo|ilegítimo|encubierto|prohibido|ilegal|oculto|furtivo|subrepticio
 -|anónimo|desconocido|ignorado|incógnito
 -|arcano|misterioso|reservado|oculto|remoto|recóndito|enigmático|hermético|insondable|esotérico
 -|cábala|intriga|conspiración|maquinación|trama
@@ -58536,7 +58595,8 @@ seguidor|5
 seguimiento|2
 -|acompañamiento|compañía|cortejo|séquito|comitiva|escolta|comparsa|figurantes|extras
 -|batida|rastreo|ojeo|acoso|búsqueda|caza|cerco|exploración|persecución|reconocimiento|hostigamiento|asedio|acorralamiento
-seguir|3
+seguir|4
+(tr.)|acosar|acosigar|estrechar|apremiar|perseguir|buscar|rastrear|ojear|acorralar
 -|acompañar|escoltar|juntarse|agregar|compartir|unirse|asociarse|flanquear|anexar|adjuntar
 -|guardar|acatar|cumplir|obedecer|respetar
 -|proseguir|continuar|reanudar|permanecer
@@ -60031,6 +60091,8 @@ subordinarse|1
 subrayar|2
 -|enfatizar|exagerar|acentuar|resaltar|destacar
 -|recalcar|insistir (fig.)|repetir (fig.)|subrayar (fig.)|machacar (fig.)
+subrepticio|1
+(adj.)|clandestino|anónimo|ilegítimo|encubierto|prohibido|ilegal|oculto|secreto|furtivo
 subsidio|4
 -|asistencia|subvención|donación
 -|beca|subvención|ayuda|asignación|prebenda
@@ -61962,7 +62024,7 @@ tortazo|5
 -|bofetada|sopapo|guantada|bofetón|cachete|cate|chuleta|mamporro|mojicón|revés|soplamocos|tabanazo|tapaboca|torta|galleta|guantazo|manotazo|papirotazo|pescozón|cachetón|coscorrón
 -|cachetada|cachete|bofetada
 -|costalada|barquinazo|batacazo|costalazo|morrada|tumba|zarpazo|golpe|tumbo|porrazo|vaivén|vuelco|trastazo|bandazo
--|guantazo|manotazo|guantada|bofetón|bofetada|golpe|cachete|galleta|mamporro
+-|guantazo|manotazo|guantada|bofetón|bofetada|golpe|cachete|galleta|mamporro|carrillada
 -|leñazo|garrotazo|golpe|palo|trompazo|castañazo|leche
 tortillera|1
 -|lesbiana|lesbia|homosexual|torta
@@ -62123,7 +62185,7 @@ tragadero|2
 tragahombres|1
 -|fanfarrón|pendenciero|arrogante|ostentoso|petulante|vanidoso|orgulloso|presumido|valentón|bravucón|sietemachos (NoRAE)|espadachín|camorrista
 tragaldabas|1
--|glotón|comilón|tragón|zampón|hambrón|insacialbe|voraz|zampabollos|tripero
+-|glotón|comilón|tragón|zampón|hambrón|voraz|zampabollos|tripero|insaciable
 tragaluz|1
 -|lumbrera|lucerna|claraboya|tronera
 tragar|3
@@ -62139,7 +62201,7 @@ trago|2
 tragonería|1
 -|glotonería|gula|voracidad|hambronería|ansia
 tragón|2
--|glotón|comilón|zampón|hambrón|insacialbe|tragaldabas|voraz|zampabollos|tripero
+-|glotón|comilón|zampón|hambrón|tragaldabas|voraz|zampabollos|tripero|insaciable
 -|zampatortas|comilón|glotón
 traicionar|1
 -|vender|entregar
@@ -62663,7 +62725,7 @@ tripas|1
 tripear|1
 -|glotonear|hincharse|atiborrarse
 tripero|1
--|glotón|comilón|tragón|zampón|hambrón|insacialbe|tragaldabas|voraz|zampabollos
+-|glotón|comilón|tragón|zampón|hambrón|tragaldabas|voraz|zampabollos|insaciable
 tripudo|2
 -|barrigón|barrigudo|panzudo|gordo|obeso|abultado|atocinado
 -|gordinflón|gordinflas|rechoncho|obeso|atocinado|grueso
@@ -62686,7 +62748,7 @@ triste|12
 -|nostálgico|melancólico|pesaroso|afligido|mustio
 tristeza|3
 -|entristecimiento|pena|disgusto|desconsuelo|aflicción|desolación|congoja|pesadumbre|abatimiento|consternación
--|lobreguez|melancolía|pesadumbre|pesar|aflicción|pena|nostalgia|añoranza|morriña
+-|lobreguez|melancolía|pesadumbre|pesar|aflicción|pena|nostalgia|añoranza|morriña|murria
 -|zabila|áloe|aloe|acíbar|zabida|amargura|disgusto|pena|hiel|pesadumbre
 triturar|2
 -|moler|picar|desintegrar|pulverizar|majar|deshacer|derrengar|molturar|machacar
@@ -63016,7 +63078,8 @@ uvi|1
 -|UCI|unidad de cuidados intensivos
 ubérrimo|1
 -|fecundo|fértil|feraz|fructuoso|abundante|copioso
-ubicación|1
+ubicación|2
+-|colocación|establecimiento
 -|localización|situación|emplazamiento|colocación|enclave|posición|sitio|lugar|sede
 ubicado|1
 -|situado|sito|emplazado|enclavado
@@ -63736,7 +63799,7 @@ validar|2
 -|autentificar|autorizar|legalizar|certificar|refrendar|sancionar|aprobar|legitimar|ratificar
 -|visar|reconocer|refrendar|autorizar
 validez|1
--|eficacia|efectividad|eficiencia|competencia|capacidad|aptitud|operatividad|fuerza|poder
+-|eficacia|efectividad|eficiencia|competencia|capacidad|aptitud|operatividad|fuerza|poder|rendimiento
 valido|1
 -|bienquisto|amado|querido|apreciado|estimado|reputado|respetado|considerado|recibido|creído
 valiente|10
@@ -65394,7 +65457,7 @@ voracidad|4
 -|glotonería|gula|hambronería|ansia|tragonería
 -|gula|glotonería|avidez|apetito
 voraz|1
--|glotón|comilón|tragón|zampón|hambrón|insacialbe|tragaldabas|zampabollos|tripero
+-|glotón|comilón|tragón|zampón|hambrón|tragaldabas|zampabollos|tripero|insaciable
 vorágine|2
 -|torbellino|remolino|vórtice
 -|tumulto|barahúnda|aglomeración|desorden|confusión|caos
@@ -65768,7 +65831,7 @@ zambullirse|2
 -|buceador|nadar|sumergirse|chapuzarse|bañarse
 -|hundirse|sumergirse
 zampabollos|2
--|glotón|comilón|tragón|zampón|hambrón|insacialbe|tragaldabas|voraz|tripero
+-|glotón|comilón|tragón|zampón|hambrón|tragaldabas|voraz|tripero|insaciable
 -|zampatortas
 zampar|2
 -|embaular|engullir|devorar|embuchar|jalar|jamar
@@ -65782,7 +65845,7 @@ zampatortas|3
 zampoña|1
 -|caramillo
 zampón|1
--|glotón|comilón|tragón|hambrón|insacialbe|tragaldabas|voraz|zampabollos|tripero
+-|glotón|comilón|tragón|hambrón|tragaldabas|voraz|zampabollos|tripero|insaciable
 zanca|1
 -|pata|pierna|miembro
 zancada|1
@@ -65909,7 +65972,7 @@ zarza|1
 -|zarzamora
 zarzal|2
 -|breñal
--|breña|matorral|maleza|espesura
+-|breña|matorral|maleza|espesura|garma
 zarzamora|1
 -|zarza
 zascandil|1

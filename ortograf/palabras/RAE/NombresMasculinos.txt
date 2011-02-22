@@ -3827,6 +3827,7 @@ cromo/S
 cromosoma/S
 cronicismo/S
 crónico/SG
+cronograma/S
 cronometraje/S
 cronómetro/S
 crono/S

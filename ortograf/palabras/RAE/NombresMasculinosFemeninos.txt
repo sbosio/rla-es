@@ -117,7 +117,7 @@ anexo/GS
 anfitrión/GS
 angelino/GS
 anguilero/GS
-animador/GSg
+animador/GS
 anotador/GS
 ansarero/GS
 antártico/GS

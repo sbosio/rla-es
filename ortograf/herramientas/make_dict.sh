@@ -179,7 +179,7 @@ if [ -d "../palabras/RAE/l10n/$LOCALIZACION" ]; then
 else
   # Diccionario genérico; incluir todas las localizaciones.
   cat `$FIND ../palabras/RAE/l10n/ \
-             -iname *.txt -and ! -regex '.*/\.svn.*'` |
+             -iname "*.txt" -and ! -regex '.*/\.svn.*'` |
       ./remover_comentarios.sh \
       >> $TMPWLIST
 fi
@@ -198,7 +198,7 @@ if [ "$RAE" != "SÍ" ]; then
   else
     # Diccionario genérico; incluir todas las localizaciones.
     cat `$FIND ../palabras/noRAE/l10n/ \
-               -iname *.txt -and ! -regex '.*/\.svn.*'` | \
+               -iname "*.txt" -and ! -regex '.*/\.svn.*'` | \
         ./remover_comentarios.sh \
         >> $TMPWLIST
   fi
@@ -221,106 +221,127 @@ case $LOCALIZACION in
     PAIS="Argentina"
     LOCALIZACIONES="es-AR"
     TEXTO_LOCAL="LOCALIZADA PARA ARGENTINA               "
+    ICONO="Argentina.png"
     ;;
   es_BO)
     PAIS="Bolivia"
     LOCALIZACIONES="es-BO"
     TEXTO_LOCAL="LOCALIZADA PARA BOLIVIA                 "
+    ICONO="Bolivia.png"
     ;;
   es_CL)
     PAIS="Chile"
     LOCALIZACIONES="es-CL"
     TEXTO_LOCAL="LOCALIZADA PARA CHILE                   "
+    ICONO="Chile.png"
     ;;
   es_CO)
     PAIS="Colombia"
     LOCALIZACIONES="es-CO"
     TEXTO_LOCAL="LOCALIZADA PARA COLOMBIA                "
+    ICONO="Colombia.png"
     ;;
   es_CR)
     PAIS="Costa Rica"
     LOCALIZACIONES="es-CR"
     TEXTO_LOCAL="LOCALIZADA PARA COSTA RICA              "
+    ICONO="Costa_Rica.png"
     ;;
   es_CU)
     PAIS="Cuba"
     LOCALIZACIONES="es-CU"
     TEXTO_LOCAL="LOCALIZADA PARA CUBA                    "
+    ICONO="Cuba.png"
     ;;
   es_DO)
     PAIS="República Dominicana"
     LOCALIZACIONES="es-DO"
     TEXTO_LOCAL="LOCALIZADA PARA REPÚBLICA DOMINICANA    "
+    ICONO="República_Dominicana.png"
     ;;
   es_EC)
     PAIS="Ecuador"
     LOCALIZACIONES="es-EC"
     TEXTO_LOCAL="LOCALIZADA PARA ECUADOR                 "
+    ICONO="Ecuador.png"
     ;;
   es_ES)
     PAIS="España"
     LOCALIZACIONES="es-ES"
     TEXTO_LOCAL="LOCALIZADA PARA ESPAÑA                  "
+    ICONO="España.png"
     ;;
   es_GT)
     PAIS="Guatemala"
     LOCALIZACIONES="es-GT"
     TEXTO_LOCAL="LOCALIZADA PARA GUATEMALA               "
+    ICONO="Guatemala.png"
     ;;
   es_HN)
     PAIS="Honduras"
     LOCALIZACIONES="es-HN"
     TEXTO_LOCAL="LOCALIZADA PARA HONDURAS                "
+    ICONO="Honduras.png"
     ;;
   es_MX)
     PAIS="México"
     LOCALIZACIONES="es-MX"
     TEXTO_LOCAL="LOCALIZADA PARA MÉXICO                  "
+    ICONO="México.png"
     ;;
   es_NI)
     PAIS="Nicaragua"
     LOCALIZACIONES="es-NI"
     TEXTO_LOCAL="LOCALIZADA PARA NICARAGUA               "
+    ICONO="Nicaragua.png"
     ;;
   es_PA)
     PAIS="Panamá"
     LOCALIZACIONES="es-PA"
     TEXTO_LOCAL="LOCALIZADA PARA PANAMÁ                  "
+    ICONO="Panamá.png"
     ;;
   es_PE)
     PAIS="Perú"
     LOCALIZACIONES="es-PE"
     TEXTO_LOCAL="LOCALIZADA PARA PERÚ                    "
+    ICONO="Perú.png"
     ;;
   es_PR)
     PAIS="Puerto Rico"
     LOCALIZACIONES="es-PR"
     TEXTO_LOCAL="LOCALIZADA PARA PUERTO RICO             "
+    ICONO="Puerto_Rico.png"
     ;;
   es_PY)
     PAIS="Paraguay"
     LOCALIZACIONES="es-PY"
     TEXTO_LOCAL="LOCALIZADA PARA PARAGUAY                "
+    ICONO="Paraguay.png"
     ;;
   es_SV)
     PAIS="El Salvador"
     LOCALIZACIONES="es-SV"
     TEXTO_LOCAL="LOCALIZADA PARA EL SALVADOR             "
+    ICONO="El_Salvador.png"
     ;;
   es_UY)
     PAIS="Uruguay"
     LOCALIZACIONES="es-UY"
     TEXTO_LOCAL="LOCALIZADA PARA URUGUAY                 "
+    ICONO="Uruguay.png"
     ;;
   es_VE)
     PAIS="Venezuela"
     LOCALIZACIONES="es-VE"
     TEXTO_LOCAL="LOCALIZADA PARA VENEZUELA               "
+    ICONO="Venezuela.png"
     ;;
   *)
     PAIS="España y América Latina"
     LOCALIZACIONES="es-AR es-BO es-CL es-CO es-CR es-CU es-DO es-EC es-ES es-GT es-HN es-MX es-NI es-PA es-PE es-PR es-PY es-SV es-UY es-VE"
     TEXTO_LOCAL="GENÉRICA PARA TODAS LAS LOCALIZACIONES  "
+    ICONO="Iberoamérica.png"
     ;;
 esac
 
@@ -329,15 +350,18 @@ cp ../docs/Changelog.txt ../docs/GPLv3.txt ../docs/LGPLv3.txt ../docs/MPL-1.1.tx
 
 if [ "$VERSION" != "2" ]; then
   if [ "$COMPLETO" != "SÍ" ]; then
-     DESCRIPCION="Diccionario de verificación ortográfica -- Español ($PAIS)"
-     cat ../docs/dictionaries.xcu | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }" > $MDTMPDIR/dictionaries.xcu
+     DESCRIPCION="Español ($PAIS): Ortografía"
+     cat ../docs/dictionaries.xcu | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }; /__ICON__/ { s//$ICONO/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/dictionaries.xcu
+     cat ../docs/package-description.txt | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }; /__ICON__/ { s//$ICONO/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/package-description.txt
   else
-     DESCRIPCION="Diccionario de verificación ortográfica, separación silábica y sinónimos -- Español ($PAIS)"
-     cat ../docs/dictionaries_full.xcu | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }" > $MDTMPDIR/dictionaries.xcu
+     DESCRIPCION="Español ($PAIS): Ortografía, separación y sinónimos"
+     cat ../docs/dictionaries_full.xcu | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }; /__ICON__/ { s//$ICONO/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/dictionaries.xcu
+     cat ../docs/package-description_full.txt | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }; /__ICON__/ { s//$ICONO/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/package-description.txt
      cp ../../separacion/hyph_es_ANY.dic ../../separacion/README_hyph_es_ANY.txt $MDTMPDIR
      cp ../../sinonimos/README_th_es_ES.txt ../../sinonimos/COPYING_th_es_ES ../../sinonimos/th_es_ES_v2.* $MDTMPDIR
   fi
-  cat ../docs/description.xml | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }" > $MDTMPDIR/description.xml
+  cat ../docs/description.xml | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }; /__ICON__/ { s//$ICONO/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/description.xml
+  cp ../docs/$ICONO $MDTMPDIR
   mkdir "$MDTMPDIR/META-INF"
   cp ../docs/manifest.xml $MDTMPDIR/META-INF
 fi
