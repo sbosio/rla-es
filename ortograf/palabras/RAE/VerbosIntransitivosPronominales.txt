@@ -91,7 +91,7 @@ escolar/IRD
 escosar/RED
 estribar/RED
 esvarar/RED
-explotar/REDñò
+explotar/REDñòT
 finar/RED
 fosilizar/RED
 gallardear/RED
@@ -151,7 +151,7 @@ rilar/RED
 roncear/RED
 runrunear/RED
 salir/XDñóöú
-semejar/RED
+semejar/REDT
 sobreaguar/RED
 sonreír/XDñó
 subseguir/XD
@@ -159,7 +159,7 @@ tallecer/IRD
 tambalear/REDñò
 tardar/REDñ
 tartalear/RED
-transpirar/RED
+transpirar/REDT
 traspirar/RED
 tronar/IRD
 tropezar/IRDñò

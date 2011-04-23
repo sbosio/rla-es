@@ -16,7 +16,7 @@
 
 abajar/RED
 abjurar/RED
-abominar/RED
+abominar/REDT
 abordar/REDÀÁÂÄ
 abortar/REDÀ
 aboyar/RED
@@ -28,8 +28,8 @@ acertar/IRDÀÂ
 acodillar/RED
 aconsonantar/RED
 acopar/RED
-adorar/REDÀÁÂÄÅÆ
-advertir/XDÀÁÂÃÈÉÊË
+adorar/REDÀÁÂÄÅÆT
+advertir/XDÀÁÂÃÈÉÊËT
 aflorar/REDÀ
 aforar/REID
 agonizar/RED
@@ -54,11 +54,11 @@ añorar/REDÀÅ
 aparentar/REDÀ
 apitonar/RED
 apuñar/RED
-arbitrar/RED
+arbitrar/REDT
 arcaizar/IRD
 arengar/REDÀ
 argüir/XD
-armonizar/REDÀÄ
+armonizar/REDÀÄT
 arponear/RED
 arramplar/RED
 arrear/REDÀÂÆ
@@ -71,14 +71,14 @@ asestar/REDÁÂÆ
 asistir/REDÀÁÂÅÆ
 asonantar/RED
 asquear/RED
-atender/IRDÀÁÂÄÅÆĞÑŞ
+atender/IRDÀÁÂÄÅÆĞÑŞT
 aterrar/REIDÁÁ
 atestar/REIDÄÄ
 atinar/REDÂ
 atrabancar/RED
 aturar/RED
 babosear/REDÁ
-bailar/REDÀÁÂÄÆ
+bailar/REDÀÁÂÄÆT
 balbucear/RED
 barbarizar/RED
 barbear/RED
@@ -91,7 +91,7 @@ basquear/RED
 bastantear/RED
 bastardear/RED
 batear/REDÁÂ
-beber/REDÀÁÂÃÄÅÌ
+beber/REDÀÁÂÃÄÅÌT
 befar/RED
 binar/RED
 bizcar/RED
@@ -158,7 +158,7 @@ contribuir/IRD
 controvertir/XD
 cosechar/REDÀ
 cosquillear/REDÁÂÅÆ
-cotizar/RED
+cotizar/REDT
 cucar/RED
 cucharear/RED
 culminar/REDÀ
@@ -209,10 +209,10 @@ diptongar/RED
 discurrir/RED
 discutir/REDÀÁÂÃÄÆ
 disfrutar/REDÀÄÌÙ
-disimular/REDÀÂÄ
+disimular/REDÀÂÄT
 dogmatizar/RED
 doñear/RED
-dramatizar/REDÀ
+dramatizar/REDÀT
 driblar/RED
 dudar/REDÀÂÄ
 ejercer/REDÀÄ
@@ -278,7 +278,7 @@ fallar/REDÀÁÂÆ
 falsear/REDÀÄ
 fantasear/REDÀ
 fenecer/IRD
-fermentar/RED
+fermentar/REDT
 fichar/REDÀÁÂ
 finalizar/REDÀ
 flechar/RED
@@ -310,7 +310,7 @@ gritar/REDÀÁÂÃÄÅÆÌÛ
 guachapear/RED
 guerrear/RED
 gulusmear/RED
-gustar/REDÀÁÂÅÆÚÛ
+gustar/REDÀÁÂÅÆÚÛT
 habitar/REDÀÄÅ
 hachear/RED
 hambrear/RED
@@ -328,7 +328,7 @@ hozar/RED
 huchear/RED
 husmear/REDÀÂÆ
 idolatrar/REDÄ
-importar/REDÀÁÂÄÅÆ
+importar/REDÀÁÂÄÅÆT
 influir/IRDÀÁÂÈ
 ingresar/REDÀÁÂ
 inhalar/REDÀÄ
@@ -379,7 +379,7 @@ menguar/RED
 menudear/RED
 merecer/IRDÀÁÂÃÄ
 metrificar/RED
-ministrar/RED
+ministrar/REDT
 misionar/RED
 modular/REDÀ
 mosconear/RED
@@ -390,11 +390,11 @@ musitar/REDÆ
 nausear/RED
 navegar/RED
 necesitar/REDÀÁÂÅ
-negociar/REDÀ
+negociar/REDÀT
 nevar/IRD
 nortear/RED
 novelar/RED
-obedecer/IRDÀ
+obedecer/IRDÀT
 objetar/REDÂ
 oblicuar/IRD
 obrar/RED
@@ -441,13 +441,13 @@ precisar/REDÀ
 predominar/RED
 preludiar/RED
 prescribir/REDÂ
-presumir/REDÂ
+presumir/REDÂT
 primar/RED
 principiar/RED
 profesar/REDÆ
 profundizar/REDÀÄ
 promediar/RED
-proseguir/XD
+proseguir/XDT
 prosperar/RED
 protestar/RED
 provocar/REDÀÁ
@@ -471,7 +471,7 @@ razonar/REDÂ
 recapacitar/RED
 recorrer/REDÀÁÆ
 recudir/RED
-recurrir/REDÀ
+recurrir/REDÀT
 refitolear/RED
 reflexionar/RED
 reflotar/REDÀ
@@ -482,7 +482,7 @@ reingresar/RED
 relatar/REDÁÃÅ
 relingar/RED
 renegar/IRD
-rentar/REDÂ
+rentar/REDÂT
 reñir/XDÂÈÊ
 repastar/RED
 repatear/RED
@@ -527,7 +527,7 @@ sermonear/RED
 silabear/RED
 silbar/RED
 silgar/RED
-simbolizar/RED
+simbolizar/REDT
 sinalefar/RED
 sintonizar/REDÄ
 sisear/RED

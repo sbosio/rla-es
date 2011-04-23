@@ -14,11 +14,8 @@
 # Debe haber recibido una copia de la Licencia Pública General de GNU junto
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
-acoplable/S			# Contribuida por Ricardo Goldberger
 actitudinal/S
 acultural/S
-advertible/S
-almacenable/S
 anatomoclínico/GS
 anatomopatológico/GS
 antiautoritario/GS
@@ -35,7 +32,6 @@ colaborativo/GS
 combinacional/S			# Contribuida por César Romé
 completísimo/GS
 contextualizado/GS
-desplazable/S
 diédrico/GS
 fenólico/GS
 finísimo/GS

@@ -16,7 +16,7 @@
 
 agendar/REDÀ			# Contribuida por Ricardo Goldberger
 deshabilitar/RED		# Contribuida por Gonzalo Higuera Díaz
-dimensionar/RED
+dimensionar/REDT
 ranurar/RED
 reasignar/RED
 recapturar/RED

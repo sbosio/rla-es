@@ -405,7 +405,7 @@ SFX T Y 4
 SFX T r         ble/S         ar
 SFX T er        ible/S        [^aeo]er
 SFX T er        íble/S        [aeo]er	# Alt. ortográfica
-SFX T r         ible/S        ir
+SFX T r         ble/S         r
 
 ###############################################################################
 #                                                                             #

@@ -125,7 +125,7 @@ bienvivir/RED
 bigardear/RED
 bizarrear/RED
 bizcornear/RED
-blasfemar/RED
+blasfemar/REDT
 blincar/RED
 bobear/RED
 bocear/RED
@@ -388,7 +388,7 @@ divagar/RED
 divergir/RED
 donjuanear/RED
 dormitar/RED
-durar/RED
+durar/REDT
 echacorvear/RED
 eclosionar/RED
 editorializar/RED
@@ -473,7 +473,7 @@ flirtear/RED
 flocular/RED
 flojear/RED
 florar/RED
-flotar/RED
+flotar/REDT
 fluctuar/IRD
 fluir/IRD
 forcejear/RED
@@ -767,7 +767,7 @@ pendenciar/RED
 pender/RED
 pendonear/RED
 perchonar/RED
-perdurar/RED
+perdurar/REDT
 peregrinar/RED
 periclitar/RED
 perifrasear/RED
@@ -958,7 +958,7 @@ roscar/RED
 rosear/RED
 rotar/RED
 ruchar/RED
-rugir/RED
+rugir/REDT
 rusticar/RED
 rutilar/RED
 sabatizar/RED

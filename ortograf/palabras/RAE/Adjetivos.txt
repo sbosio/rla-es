@@ -23,7 +23,6 @@ abarcado/GS
 abarcador/GS
 abarquillado/GS
 abastecedor/GS
-abatible/S
 abdicativo/GS
 abdominal/S
 abductor/GS
@@ -48,15 +47,12 @@ abocinado/SG
 abofeteador/GS
 abolicionista/S
 abombado/GS
-abominable/S
-abonable/S
 abonado/GS
 abonador/GS
 abordable/kS
 abordador/GS
 aborigen/S
 aborrecedor/GS
-aborrecible/S
 abortista/S
 abortivo/GS
 abotinado/GS
@@ -81,7 +77,6 @@ absoluto/GS
 absolutorio/GS
 absolvedor/GS
 absorbente/GS
-absorbible/S
 absorto/GS
 abstemio/GS
 abstencionista/S
@@ -124,7 +119,6 @@ acariciador/GS
 acarreadizo/SG
 acarreador/SG
 acastorado/GS
-acatable/S
 acataléctico/S
 acatalecto/S
 acaudalado/SG
@@ -163,7 +157,6 @@ acertador/SG
 acético/GS
 acetoso/GS
 acezante/S
-achacable/S
 achacoso/GS
 achampanado/GS
 achampañado/GS
@@ -187,7 +180,6 @@ aclarador/GS
 aclaratorio/GS
 acodado/GS
 acometedor/GS
-acomodable/S
 acomodada/h
 acomodadizo/GS
 acomodado/hGS
@@ -198,7 +190,6 @@ acompasado/SG
 acondicionador/SG
 acondroplásico/GS
 acongojador/GS
-aconsejable/S
 aconsejador/GS
 aconsejado/SG
 acontecedero/SG
@@ -236,11 +227,9 @@ acuciante/S
 acucioso/GS
 ácueo/SG
 acuífero/SG
-acumulable/S
 acumulador/GS
 acumulativo/GS
 acuoso/GS
-acusable/S
 acusada/f
 acusado/GfS
 acusador/GS
@@ -281,7 +270,6 @@ adjutor/GS
 administrador/GS
 administrado/SG
 administrativo/GS
-admirable/S
 admirador/GS
 admirativo/SG
 admisible/kS
@@ -294,14 +282,12 @@ adoptable/kS
 adoptador/GS
 adoptante/S
 adoptivo/GS
-adorable/S
 adorador/SG
 adoratriz/S
 adormecedor/GS
 adornador/SG
 adosado/GS
 adquirente/S
-adquirible/S
 adquiriente/S
 adquisidor/GS
 adquisitivo/GS
@@ -388,13 +374,11 @@ agalbanado/SG
 agareno/GS
 agarrado/GS
 agarrador/GS
-agasajable/S
 agasajado/GS
 agasajador/GS
 agatino/GS
 agente/S
 ágil/S
-agitable/S
 agitado/GS
 agitador/GS
 aglomerante/S
@@ -433,7 +417,6 @@ agridulce/S
 agrio/SG
 agrisado/GS
 agropecuario/SG
-agrupable/S
 agrupador/SG
 aguacate/S
 aguada/S
@@ -462,7 +445,6 @@ ahogadero/SG
 ahogadizo/SG
 ahogado/hSG
 ahogador/SG
-ahorcable/S
 ahorquillado/GS
 ahorrador/SG
 ahorrativo/SG
@@ -479,7 +461,6 @@ aislante/S
 ajedrezado/GS
 ajeno/GS
 ajobero/GS
-ajustable/S
 ajustado/GS
 ajustador/SG
 alabador/GS
@@ -631,7 +612,6 @@ alpestre/S
 alpina/u
 alpinista/S
 alpino/uSG
-alquilable/S
 alquímico/GS
 alquimista/S
 alsaciano/GS
@@ -735,7 +715,6 @@ amigo/SG
 amiláceo/GS
 amistoso/GS
 amniótico/GS
-amoldable/S
 amoldador/GS
 amollador/GS
 amonestador/GS
@@ -755,7 +734,6 @@ amotinado/GS
 amotinador/GS
 amovible/kS
 amparador/GSh
-ampliable/S
 ampliador/GS
 ampliativo/SG
 ampliatorio/SG
@@ -852,7 +830,6 @@ animal/S
 anímico/GS
 animoso/GS
 aniñado/GS
-aniquilable/S
 aniquilador/GS
 anisado/GS
 anisodonte/S
@@ -931,7 +908,6 @@ antuerpiense/S
 anual/S
 anudador/GS
 anuente/S
-anulable/S
 anulador/GS
 anular/S
 anulativo/GS
@@ -984,7 +960,6 @@ aperitivo/GS
 aperturista/S
 apestoso/GS
 apetecedor/GS
-apetecible/S
 apetitivo/GS
 apetitoso/GS
 apezonado/SG
@@ -1033,7 +1008,6 @@ apretador/GS
 apriorístico/GS
 apropiable/kS
 apropiador/GS
-aprovechable/S
 aprovechada/k
 aprovechado/kGS
 aprovechador/SG
@@ -1055,7 +1029,6 @@ aquillado/GS
 árabe/S
 arabesco/GS
 arábigo/SG
-arable/S
 aráceo/SG
 arácnido/GS
 aracnoides
@@ -1066,7 +1039,6 @@ arameo/GS
 arancelario/SG
 arañero/GS
 araucano/GS
-arbitrable/S
 arbitrador/SG
 arbitral/S
 arbitrario/SG
@@ -1128,7 +1100,6 @@ armenio/GS
 armónica/ik
 armónico/GiSk
 armonioso/GS
-armonizable/S
 armoricano/GS
 aromático/GS
 arpado/GS
@@ -1153,7 +1124,6 @@ arreglada/h
 arreglado/GSh
 arreglador/GS
 arremangado/GS
-arrendable/S
 arrendador/GS
 arrendatario/GS
 arrendaticio/GS
@@ -1219,7 +1189,6 @@ ascoso/SG
 aseada/h
 aseado/GSh
 asediador/GS
-asegurable/S
 asegurador/GS
 asegurado/SG
 asequible/Sk
@@ -1233,9 +1202,7 @@ asfixiante/S
 así
 asiático/GS
 asiduo/GS
-asignable/S
 asilvestrado/SG
-asimilable/S
 asimilado/GS
 asimilativo/GS
 asimilista/S
@@ -1247,7 +1214,6 @@ asistido/GS
 asmático/GS
 asnal/S
 asno/S
-asociable/S
 asociado/GS
 asociativo/GS
 asolador/SG
@@ -1329,7 +1295,6 @@ atravesado/GS
 atravesador/GS
 atrayente/S
 atrevido/GS
-atribuible/S
 atributivo/GS
 atropellado/GS
 atropellador/SG
@@ -1352,7 +1317,6 @@ augustal/S
 augusto/GS
 áulico/GS
 aullador/GS
-aumentable/S
 aumentador/GS
 aumentativo/GS
 aurelianense/S
@@ -1387,7 +1351,6 @@ autonomista/S
 autónomo/SG
 autopropulsado/GS
 autoritario/GS
-autorizable/S
 autorizado/SG
 auxiliador/GS
 auxiliar/S
@@ -1396,7 +1359,6 @@ avaricioso/GS
 avariento/GS
 avaro/GS
 avasallador/GS
-avenible/S
 aventado/GS
 aventador/GS
 aventajado/SG
@@ -1436,7 +1398,6 @@ azimutal/S
 azoico/GS
 azoláceo/GS
 azoleo/GS
-azotable/S
 azotador/GS
 azotado/SG
 azteca/S
@@ -1473,7 +1434,6 @@ badulaque/S
 baenero/GS
 baezano/GS
 baída/S
-bailable/S
 bailador/GS
 bailante/S
 bailarín/GS
@@ -1594,7 +1554,6 @@ bebedero/GS
 bebedizo/GS
 bebedor/iSG
 bebestible/S
-bebible/S
 bebido/SG
 becerril/S
 becqueriano/GS
@@ -1720,7 +1679,6 @@ blando/GS
 blanqueador/GS
 blanquecino/SG
 blanquinoso/SG
-blasfemable/S
 blasfemador/GS
 blasfemante/S
 blasfematorio/GS
@@ -1954,7 +1912,6 @@ calcáreo/GS
 calcedonio/SG
 calcetero/SG
 cálcico/GS
-calcinable/S
 calcinador/GS
 calculable/kS
 calculador/SG
@@ -2043,7 +2000,6 @@ canadiense/S
 cana/jg
 canalada/a
 canalado/GaS
-canalizable/S
 canallesco/SG
 cananeo/GS
 canariense/S
@@ -2063,11 +2019,9 @@ canicular/S
 cánido/SG
 canijo/SG
 canino/GS
-canjeable/S
 cano/jGgS
 canonical/S
 canónico/GS
-canonizable/S
 canoro/SG
 canoso/GS
 cansada/h
@@ -2101,7 +2055,6 @@ capilludo/GS
 capirotado/GS
 capirote/S
 capitalista/S
-capitalizable/S
 capital/S
 capitulante/S
 capitular/S
@@ -2414,7 +2367,6 @@ cerrador/SiG
 cerrero/GS
 cerril/S
 certero/GS
-certificable/S
 certificador/GS
 certificado/SG
 certificatorio/GS
@@ -2655,7 +2607,6 @@ clueco/SG
 cluniacense/S
 cluniense/S
 cnidario/S
-coagulable/S
 coagulador/SG
 coagulante/S
 coaguloso/GS
@@ -2677,10 +2628,8 @@ cochino/SG
 cocinero/GS
 coclear/S
 codal/S
-codiciable/S
 codiciador/GS
 codicioso/SG
-codificable/S
 codificador/GSgh
 coercible/kS
 coercitivo/GS
@@ -2753,7 +2702,6 @@ comanditario/GS
 comarcal/S
 comatoso/GS
 comba/S
-combatible/S
 combatiente/S
 combativo/SG
 combinable/kS
@@ -2817,7 +2765,6 @@ componible/kS
 compositivo/GS
 compositor/GS
 compostelano/GS
-comprable/S
 comprador/SG
 comprehensivo/GS
 comprensible/kS
@@ -2826,7 +2773,6 @@ compresible/kS
 compresivo/SG
 compresor/GS
 comprimido/SG
-comprobable/S
 comprobante/S
 comprobatorio/SG
 comprometedor/SG
@@ -2836,7 +2782,6 @@ compromisorio/SG
 compuesta/h
 compuesto/hSG
 compulsivo/GS
-computable/S
 computador/SG
 comulgante/S
 comunal/hS
@@ -2853,7 +2798,6 @@ común/S
 cóncavo/SG
 concebible/kS
 concejil/S
-concentrable/S
 concentrador/GS
 concepcionista/S
 conceptista/S
@@ -2892,11 +2836,9 @@ concurrente/S
 concurrido/SG
 concursante/S
 condal/S
-condenable/S
 condenado/GS
 condenador/GS
 condenatorio/GS
-condensable/S
 condensador/GS
 condensativo/GS
 condescendiente/S
@@ -2905,7 +2847,6 @@ condicionado/kaSG
 condicional/kS
 condicionante/S
 conducente/kS
-conducible/S
 conductible/S
 conducticio/S
 conductor/tGqS
@@ -2917,8 +2858,8 @@ conexa/k
 conexo/kSG
 confeccionador/SG
 confederado/GS
-confesable/Sk
 confesa/k
+confesable/Sk
 confesante/S
 confesional/S
 confesionista/S
@@ -2933,7 +2874,6 @@ confín/S
 confirmador/SG
 confirmativo/GS
 confirmatorio/GS
-confiscable/S
 confiscatorio/GS
 confitado/SG
 conflictivo/GS
@@ -2949,7 +2889,6 @@ confundible/kS
 confundidor/GS
 confusionista/S
 confuso/GS
-congelable/S
 congelado/GS
 congelador/GS
 congénere/S
@@ -2969,9 +2908,7 @@ coniforme/S
 conimbricense/S
 conirrostro/S
 conivalvo/SG
-conjeturable/S
 conjetural/S
-conjugable/S
 conjugado/GS
 conjuntivo/SG
 conmemoratorio/GS
@@ -2996,7 +2933,6 @@ conquiforme/S
 conquistable/Sk
 conquistador/pGS
 consaburense/S
-consagrable/S
 consagratorio/GS
 consciente/kSs
 consecuente/kS
@@ -3007,7 +2943,6 @@ conservante/S
 conservativo/GS
 conservatorio/GS
 conservero/GS
-considerable/S
 considerada/hk
 considerado/GSkh
 consiguiente/kS
@@ -3036,13 +2971,11 @@ constructivo/pSG
 constructor/SG
 consuetudinario/GS
 consular/oS
-consultable/S
 consultante/S
 consultivo/GS
 consultor/GS
 consumado/SG
 consumativo/GS
-consumible/S
 consumido/GS
 consumidor/GS
 consumista/S
@@ -3226,7 +3159,6 @@ cosario/GS
 cosechador/GS
 cosechero/GS
 cosetano/GS
-cosible/S
 cosmético/GS
 cósmico/GS
 cosmopolita/S
@@ -3239,10 +3171,8 @@ costero/GS
 costoso/GS
 costroso/GS
 costumbrista/S
-cotejable/S
 cotidiano/GS
 cotilla/S
-cotizable/S
 cotizado/GS
 coxal/S
 coyuntural/S
@@ -3298,7 +3228,6 @@ cristaloideo/SG
 cristiana/c
 cristiano/cGS
 cristino/GS
-criticable/S
 criticador/GS
 crítico/SG
 croata/S
@@ -3429,8 +3358,8 @@ cúprico/GS
 cuprífero/SG
 cuproso/SG
 curable/kS
-curador/GoS
 curado/SG
+curador/GoS
 curativo/GS
 curdo/GS
 curialesco/SG
@@ -3515,7 +3444,6 @@ decrépito/GS
 decumbente/S
 dedicativo/GS
 dedicatorio/GS
-deducible/S
 defecador/GS
 defectible/kS
 defectuoso/GS
@@ -3544,13 +3472,11 @@ deiforme/S
 deitano/GS
 dejado/GS
 delantero/GS
-delatable/S
 delatador/GS
 delator/SG
 deleble/kS
 delegado/GS
 delegatorio/GS
-deleitable/S
 deleitoso/SG
 deletéreo/GS
 deletreador/GS
@@ -3617,7 +3543,6 @@ dentivano/GS
 dentoalveolar/S
 dentón/GS
 dentudo/GS
-denunciable/S
 denunciador/SG
 denunciante/S
 denunciatorio/GS
@@ -3626,7 +3551,6 @@ departidor/GS
 dependiente/G
 dependientes/k
 depilatorio/GS
-deplorable/S
 depopulador/GS
 deportista/S
 deportiva/c
@@ -3691,7 +3615,6 @@ descacharrante/S
 descafeinado/GS
 descalostrado/GS
 descalzo/GS
-descapotable/S
 descarado/GS
 descaudalado/GS
 descendente/S
@@ -3713,13 +3636,11 @@ descubridor/SG
 descuidado/GS
 descuidero/GS
 descumbrado/GS
-desdeñable/S
 desdeñoso/GS
 desdichado/GS
 deseable/kS
 deseador/SG
 desecativo/GS
-desechable/S
 desemparentado/GS
 desempleado/GS
 desencadenante/S
@@ -3756,7 +3677,6 @@ desinfectante/S
 desjuiciado/SG
 deslechugador/GS
 deslenguado/GS
-deslizable/S
 deslizadero/SG
 deslizante/Sc
 deslumbrador/SG
@@ -3773,12 +3693,10 @@ desmedido/GS
 desmedrado/GS
 desmembrador/SG
 desmentidor/SG
-desmenuzable/S
 desmenuzador/GS
 desmesurado/GS
 desmirlado/GS
 desmolado/GS
-desmontable/S
 desmoronadizo/GS
 desmotador/GS
 desnudador/GS
@@ -3800,7 +3718,6 @@ desparramado/GS
 desparramador/SG
 despectivo/GS
 despedazador/GS
-despegable/S
 despegador/GS
 despejado/GS
 despeñadero/GS
@@ -3813,11 +3730,9 @@ despilfarrador/SG
 despinzador/SG
 despistado/SG
 despitorrado/GS
-desplegable/S
 despojador/GS
 despolarizador/GS
 despótico/GS
-despreciable/S
 despreciativo/SG
 desprendido/GS
 despreocupado/GS
@@ -3830,12 +3745,10 @@ destacado/GS
 destartalado/GS
 desternillante/S
 desterrado/GS
-destilable/S
 destilador/GS
 destilatorio/GS
 destinado/GS
 destiranizado/GS
-destituible/S
 destituidor/GS
 destitulado/SG
 destripador/SG
@@ -3843,7 +3756,6 @@ destrozador/GS
 destructible/kS
 destructivo/GS
 destructor/GS
-destruible/S
 desvaído/S
 desvalido/GS
 desvalijador/GS
@@ -3854,7 +3766,6 @@ desviacionista/S
 desviador/GS
 desyerbador/GS
 detallista/S
-detectable/S
 detectivesco/GS
 detenedor/GS
 detenido/GS
@@ -3864,7 +3775,6 @@ determinada/k
 determinado/GSk
 determinista/S
 detersorio/GS
-detestable/S
 detonador/GS
 detonante/cS
 detractor/SG
@@ -3965,11 +3875,9 @@ digital/S
 digitiforme/S
 digitígrado/SG
 digna/fk
-dignificable/S
 dignificante/S
 digno/fGkS
 dilapidador/GS
-dilatable/S
 dilatado/GS
 dilatador/GS
 dilatativo/GS
@@ -4016,11 +3924,8 @@ directorio/SG
 director/SG
 directriz/S
 dirigente/S
-dirigible/S
 dirimente/S
-dirimible/S
 discapacitado/GS
-discernible/S
 discernidor/GS
 disciplinable/kS
 disciplinada/k
@@ -4048,7 +3953,6 @@ discursivo/GS
 discusivo/GS
 discutible/kS
 discutidor/SG
-disecable/S
 disecador/GS
 diseminador/SG
 disertador/SG
@@ -4062,14 +3966,11 @@ disgustado/SG
 disgustoso/GS
 disidente/S
 disimétrico/GS
-disimulable/S
 disimulado/GS
 disimulador/GS
-disipable/S
 disipador/GS
 disléxico/GS
 disminuido/GS
-disociable/S
 disociador/GS
 disoluble/Sk
 disolutivo/GS
@@ -4089,7 +3990,6 @@ disperso/GS
 dispersor/GS
 displicente/S
 disponedor/GS
-disponible/S
 dispositivo/GS
 dispuesta/k
 dispuesto/kGS
@@ -4131,11 +4031,9 @@ divisivo/GS
 divisor/GS
 divisorio/SG
 divo/GS
-divulgable/S
 divulgador/GS
 divulgativo/GS
 doblado/GS
-doblegable/S
 doblegadizo/GS
 doble/SG
 dobles/j
@@ -4154,7 +4052,6 @@ dócil/kS
 docta/k
 docto/kGS
 doctoral/S
-doctrinable/S
 doctrinador/GS
 doctrinal/S
 doctrinario/GS
@@ -4176,7 +4073,6 @@ doloroso/GS
 doloso/GS
 domable/kS
 dombenitense/S
-domeñable/S
 domesticable/kS
 doméstico/GS
 domiciliario/GS
@@ -4210,7 +4106,6 @@ dormitivo/GS
 dorsal/nS
 dosalbo/GS
 doscientos
-dosificable/S
 dosificador/SG
 dos/k
 dotada/tk
@@ -4220,7 +4115,6 @@ dotal/S
 draconiano/GS
 dragontino/SG
 dramático/SG
-dramatizable/S
 drástico/SG
 dravídico/SG
 drogadicto/GS
@@ -4256,7 +4150,6 @@ dupla/s
 duplicativo/SG
 dúplice/SG
 duplo/GSs
-durable/S
 duradero/GS
 durativo/GS
 durmiente/S
@@ -4275,7 +4168,6 @@ ecijano/GS
 ecléctico/SG
 eclesial/S
 eclesiástico/GS
-eclipsable/S
 ecoico/GS
 ecológico/GS
 ecologista/S
@@ -4298,7 +4190,6 @@ edificatorio/GS
 edilicio/GS
 editor/GS
 editorial/S
-educable/S
 educacional/S
 educada/k
 educado/GkS
@@ -4331,7 +4222,6 @@ egocéntrico/GS
 egoísta/S
 egregio/GS
 eidético/GS
-ejecutable/S
 ejecutante/S
 ejecutivo/GS
 ejecutor/GS
@@ -4340,7 +4230,6 @@ ejemplar/S
 ejercido/GS
 ejercitador/GS
 ejercitante/S
-elaborable/S
 elaborado/GS
 elaborador/GS
 elamita/S
@@ -4353,7 +4242,6 @@ electorero/SG
 elector/SG
 electricista/S
 eléctrico/GS
-electrizable/S
 electrizador/SG
 electroacústico/SG
 electrodinámico/GS
@@ -4372,14 +4260,12 @@ elefancíaco/GS
 elefantino/SG
 elegante/kS
 elegíaco/SG
-elegible/S
 elementado/SG
 elemental/S
 eleusino/GS
 elevado/GS
 elevador/GS
 eligible/S
-elijable/S
 eliminador/GS
 eliminatorio/GS
 elipsoidal/S
@@ -4389,7 +4275,6 @@ elíseo/GS
 elisio/GS
 elitista/S
 elocuente/S
-elogiable/S
 elogiador/GS
 elogioso/GS
 eluctable/Sk
@@ -4482,7 +4367,6 @@ empujador/SG
 empurpurado/GS
 emulador/GS
 emulsivo/GS
-enajenable/S
 enajenado/GS
 enajenador/GS
 enajenante/S
@@ -4508,7 +4392,6 @@ encarecedor/GS
 encarnadino/GS
 encarnado/GS
 encarnativo/GS
-encasillable/S
 encastillador/GS
 encencerrado/GS
 encendedor/GS
@@ -4523,7 +4406,6 @@ encobertado/GS
 encochado/GS
 encogido/GS
 encolerizado/GS
-encomendable/S
 encomiador/GS
 encomiástico/GS
 enconado/GS
@@ -4533,7 +4415,6 @@ encontrado/GS
 encorchador/SG
 encornado/GS
 encrespador/GS
-encuadernable/S
 encubierto/SG
 encubridizo/GS
 encubridor/GS
@@ -4545,7 +4426,6 @@ enderezado/GS
 endevotado/GS
 endilgador/GS
 endocrino/GS
-endosable/S
 endovenoso/SG
 endrino/GS
 endurador/SG
@@ -4579,7 +4459,6 @@ engarrafador/SG
 engarzador/GS
 engatusador/GS
 engazador/GS
-engendrable/S
 engendrador/SG
 engestado/SG
 englandado/SG
@@ -4598,15 +4477,12 @@ enhiesto/GS
 enigmático/GS
 enjalbegador/SG
 enjoyelado/SG
-enjuiciable/S
 enjundioso/GS
 enjuto/GS
 enlabiador/GS
-enlazable/S
 enlazador/GS
 enlechuguillado/GS
 enloquecedor/GS
-enmendable/S
 enmendador/GS
 ennoblecedor/GS
 enojadizo/SG
@@ -4633,7 +4509,6 @@ ensordecedor/SG
 ensuciador/GS
 entada/g
 entado/gGS
-entallable/S
 enteco/GS
 entelerido/GS
 entendedor/GS
@@ -4672,7 +4547,6 @@ envejecido/GS
 envenenador/GS
 enviajado/SG
 envidador/GS
-envidiable/S
 envidioso/SG
 envilecedor/GS
 envirotado/SG
@@ -4706,7 +4580,6 @@ equilibrista/S
 equinoccial/S
 equinodermo/S
 equino/GS
-equiparable/S
 equipolente/S
 equis
 equisetíneo/GS
@@ -4750,7 +4623,6 @@ esbelto/SG
 escabioso/GS
 escabroso/GS
 escacado/GS
-escalable/S
 escalado/GS
 escalador/GS
 escalar/S
@@ -4840,7 +4712,6 @@ esférico/SGq
 esferoidal/S
 esforzador/GS
 esforzado/SG
-esguazable/S
 eslabonador/SG
 eslavo/GS
 eslovaco/GS
@@ -4858,7 +4729,6 @@ espacioso/gGS
 espaldar/S
 espalditendido/GS
 espaldudo/GS
-espantable/S
 espantadizo/GS
 espantador/GS
 espantoso/GS
@@ -5038,7 +4908,6 @@ estúpido/GS
 etario/GS
 etéreo/SG
 eternal/S
-eternizable/S
 eterno/GS
 ético/GS
 etimológico/SG
@@ -5066,7 +4935,6 @@ evaluador/GS
 evanescente/S
 evangélico/GS
 evangelizador/GS
-evaporable/S
 evaporador/GS
 evaporatorio/GS
 evasivo/GS
@@ -5075,7 +4943,6 @@ eventual/S
 evidente/S
 evitable/kS
 eviterno/GS
-evocable/S
 evocador/GS
 evolucionista/S
 evolutiva/g
@@ -5102,13 +4969,11 @@ excéntrico/GS
 excepcional/S
 excepto/GS
 excesivo/GS
-excitable/S
 excitador/GS
 excitante/S
 excitativo/SG
 exclamativo/SG
 exclamatorio/GS
-excluible/S
 excluidor/GS
 exclusivista/S
 exclusivo/GS
@@ -5125,7 +4990,6 @@ excusable/kS
 excusado/GS
 excusador/SG
 excusa/S
-execrable/S
 execrador/GS
 execrativo/SG
 exegético/GS
@@ -5139,7 +5003,6 @@ exhortativo/SG
 exhortatorio/GS
 exhumador/GS
 exigente/S
-exigible/S
 exiguo/GS
 eximente/S
 eximio/GS
@@ -5174,16 +5037,13 @@ explicable/Sk
 explicador/GS
 explicativo/GS
 explícito/GS
-explorable/S
 explorador/GS
 exploratorio/GS
 explosivo/GS
-explotable/S
 explotador/GS
 expoliador/GS
 exponencial/S
 exponente/S
-exportable/S
 exportador/GS
 expositivo/SG
 expositor/GS
@@ -5211,14 +5071,12 @@ extenso/SGk
 extenuante/S
 extenuativo/GS
 exterior/S
-exterminable/S
 exterminador/GS
 externo/SG
 extinguible/Sk
 extintivo/GS
 extinto/GS
 extintor/GS
-extirpable/S
 extirpador/SG
 extorsionista/S
 extractador/GS
@@ -5346,7 +5204,6 @@ febroniano/GS
 fecal/S
 fecha/S
 feculento/GS
-fecundable/S
 fecundador/GS
 fecunda/k
 fecundativo/GS
@@ -5379,7 +5236,6 @@ feraz/S
 ferial/S
 feriante/S
 ferino/SG
-fermentable/S
 fermentador/SG
 fermentativo/GS
 feroz/S
@@ -5391,7 +5247,6 @@ ferrovial/S
 ferroviario/GS
 ferrugiento/GS
 ferruginoso/SG
-fertilizable/S
 fertilizador/SG
 fertilizante/S
 fértil/S
@@ -5461,7 +5316,6 @@ finolis
 fino/pSGjt
 firmante/fS
 firme/SG
-fiscalizable/S
 fiscalizador/SG
 fiscal/S
 fisgador/GS
@@ -5504,7 +5358,6 @@ floreciente/S
 florentino/SG
 florero/GS
 florido/GS
-flotable/S
 flotador/GS
 flotante/S
 fluctuante/S
@@ -5584,7 +5437,6 @@ fotográfico/SG
 fotométrico/SG
 fotosensible/S
 fotovoltaico/GS
-fraccionable/S
 fraccionario/GS
 fragante/S
 frágil/S
@@ -5774,7 +5626,6 @@ garzo/GS
 gasajoso/GS
 gascón/GS
 gaseoso/GS
-gastable/S
 gastado/GS
 gastador/iSG
 gasterópodo/S
@@ -5801,10 +5652,8 @@ gemoso/SG
 gencianáceo/GS
 gencianeo/GS
 genealógico/SG
-generable/S
 generacional/S
 generador/GpS
-generalizable/S
 generalizador/SG
 general/S
 generativa/g
@@ -5876,7 +5725,6 @@ global/S
 globoso/GS
 globular/S
 globuloso/SG
-glorificable/S
 glorificador/SG
 glorioso/GS
 glosador/GS
@@ -5918,7 +5766,6 @@ graciado/ahGS
 graciano/GS
 grácil/S
 gracioso/GS
-graduable/S
 graduado/GS
 gradual/S
 gráfica/m
@@ -6017,7 +5864,6 @@ guapo/GS
 guapote/GS
 guaraní
 guaraníes
-guardable/S
 guardado/GS
 guardador/GS
 guardoso/GS
@@ -6054,7 +5900,6 @@ gurrumino/GS
 gusaniento/GS
 gusanoso/GS
 gusarapiento/SG
-gustable/S
 gustativo/GS
 gustoso/SG
 gutífero/SG
@@ -6136,7 +5981,6 @@ hediento/GS
 hediondo/GS
 hedonista/S
 hegeliano/SG
-helable/S
 heladero/GS
 heladizo/GS
 helado/GS
@@ -6164,7 +6008,6 @@ hemorroidal/S
 hemostático/SG
 henchidor/GS
 hendedor/GS
-hendible/S
 hendido/GS
 hepático/GS
 heptagonal/S
@@ -6192,7 +6035,6 @@ herido/rGS
 heridor/GS
 heril/S
 hermafrodita/S
-hermanable/S
 hermenéutico/GS
 hermético/GS
 hermoseador/GS
@@ -6265,7 +6107,6 @@ hipogeo/GS
 hipogloso/GS
 hiposo/GS
 hiposulfuroso/S
-hipotecable/S
 hipotecario/GS
 hipotético/GS
 hippie/S
@@ -6320,14 +6161,12 @@ hongoso/GS
 honorable/S
 honorario/GS
 honorífico/GS
-honrable/S
 honradero/SG
 honrado/GS
 honrosa/h
 honroso/GSh
 hontanal/S
 horaciano/GS
-horadable/S
 horadador/GS
 horario/GS
 horcada/a
@@ -6401,7 +6240,6 @@ humorista/S
 humorístico/SG
 humoroso/GS
 humoso/GS
-hundible/S
 húngaro/SG
 huno/GS
 huraño/SG
@@ -6430,7 +6268,6 @@ idealizador/GS
 ideal/S
 idea/S
 idéntico/GS
-identificable/S
 identificador/GS
 identificativo/GS
 ideológico/GS
@@ -6517,16 +6354,12 @@ implícito/GS
 implorador/GS
 implosivo/GS
 implume/S
-imponible/S
-importable/S
 importuno/GS
 imposibilitado/SG
 impostergable/S
 impostor/GS
 imprecatorio/GS
-impregnable/S
 impremeditado/GS
-impresionable/S
 impresionante/S
 impresionista/S
 impresor/GS
@@ -6539,13 +6372,11 @@ improviso/GS
 improvisto/GS
 impúber/GS
 impudente/S
-impugnable/S
 impugnador/GS
 impugnativo/GS
 impulsivo/GS
 impulsor/GS
 impune/S
-imputable/S
 imputado/GS
 imputador/SG
 inacceso/GS
@@ -6580,7 +6411,6 @@ incesto/S
 incestuoso/GS
 incidental/S
 incidente/fSp
-incinerable/S
 incinerador/GS
 incipiente/S
 incircunscripto/GS
@@ -6718,7 +6548,6 @@ inflacionista/S
 inflamable/kS
 inflamador/GS
 inflamatorio/GS
-influenciable/S
 informante/S
 informático/SG
 informe/S
@@ -6793,7 +6622,6 @@ inquisidor/GS
 inquisitivo/GS
 inquisitorial/S
 inquisitorio/GS
-inscribible/S
 insecable/S
 insecticida/S
 insectívoro/GS
@@ -6867,7 +6695,6 @@ internista/S
 interno/S
 interpersonal/S
 interpolador/SG
-interpretable/S
 interpretador/GS
 interpretativo/SG
 interrogante/S
@@ -6909,7 +6736,6 @@ invernizo/SG
 inversionista/S
 inverso/GS
 inversor/GS
-investigable/S
 investigador/GS
 inveterado/GS
 invicto/GS
@@ -6918,7 +6744,6 @@ invito/GS
 invocador/GS
 invocatorio/GS
 involucionista/S
-inyectable/S
 inyectivo/GS
 iracundo/GS
 iranio/GS
@@ -6937,7 +6762,6 @@ irremunerado/SG
 irrepetible/S
 irreprimible/S
 irrisorio/GS
-irritable/S
 irritador/GS
 irritante/S
 írrito/GS
@@ -6966,7 +6790,6 @@ italiano/GS
 itálica/S
 italicense/S
 italorrománico/GS
-iterable/S
 iterativa/p
 iterativo/GSp
 itinerante/S
@@ -7172,7 +6995,6 @@ lambrucio/GS
 lameculos
 lamedor/GS
 lamelibranquio/S
-lamentable/S
 lamentador/GS
 lamentoso/SG
 laminado/GS
@@ -7238,12 +7060,10 @@ latitudinario/SG
 lato/GS
 latoso/GS
 latvio/GS
-laudable/S
 laudatorio/GS
 lauráceo/GS
 lauretano/SG
 laurino/GS
-lavable/S
 lavador/GS
 lavativo/GS
 laxante/S
@@ -7366,7 +7186,6 @@ lícita/k
 lícito/kSG
 licnobio/GS
 licoroso/GS
-licuable/S
 licuefactible/S
 licuefactivo/SG
 licurgo/GS
@@ -7389,7 +7208,6 @@ liliputiense/S
 limado/GS
 limador/GS
 limícola/S
-limitable/S
 limitada/k
 limitado/GSk
 limitativo/GS
@@ -7422,7 +7240,6 @@ lioso/eGS
 lipemaniaco/GS
 lipídico/SG
 lipoideo/GS
-liquidable/S
 liquidador/GS
 líquido/GS
 lirado/GS
@@ -7477,7 +7294,6 @@ llovedizo/GS
 llovioso/GS
 llueca/S
 lluvioso/GS
-loable/S
 loador/GS
 lobado/GS
 lobero/GS
@@ -7486,7 +7302,6 @@ loboso/GS
 lóbrego/GS
 lobulado/GS
 lobuno/GS
-localizable/S
 local/S
 locativo/GS
 loco/GS
@@ -7535,7 +7350,6 @@ lucense/S
 lucero/GS
 luchador/GS
 lucianesco/GS
-lucible/S
 lucida/hi
 lúcida/u
 lucido/GShi
@@ -7627,7 +7441,6 @@ magistral/S
 magnánimo/GS
 magnesiano/GS
 magnético/GS
-magnetizable/S
 magnetofónico/SG
 magnificador/GS
 magnificente/S
@@ -7668,7 +7481,6 @@ maldecidor/GS
 maldiciente/S
 maldispuesto/SG
 maldito/GS
-maleable/S
 maleante/S
 maléfico/SG
 maleolar/S
@@ -7866,7 +7678,6 @@ masilio/GS
 masilo/GS
 masivo/GS
 masoquista/S
-masticable/S
 masticador/GS
 masticatorio/GS
 mastieno/GS
@@ -7925,7 +7736,6 @@ mediano/GS
 mediata/k
 mediático/GS
 mediato/kGS
-medicable/S
 medicamentoso/SG
 medicinal/S
 medicinante/S
@@ -7996,7 +7806,6 @@ menique/S
 menonita/S
 menor/S
 menoscabador/SG
-menospreciable/S
 menospreciador/GS
 menospreciativo/GS
 mensajero/SG
@@ -8082,7 +7891,6 @@ metodológico/GS
 métrico/GS
 metropolitano/GS
 mexicano/GS
-mezclable/S
 mezquino/GS
 mi
 microbiano/SG
@@ -8132,7 +7940,6 @@ mingitorio/SG
 miniado/GS
 mínimo/SG
 ministerial/S
-ministrable/S
 ministrador/sSG
 ministrante/S
 minorativo/SG
@@ -8235,7 +8042,6 @@ moledor/gGS
 mole/GS
 molestador/GS
 molesto/GS
-molificable/S
 molificativo/GS
 molinero/GS
 molinista/S
@@ -8426,7 +8232,6 @@ multimillonario/GS
 multinacional/S
 múltipla/s
 múltiple/SG
-multiplicable/S
 multiplicador/GS
 multiplicando/S
 multiplicativo/GS
@@ -8502,7 +8307,6 @@ narigón/GS
 narigudo/GS
 narigueto/GS
 narizón/GS
-narrable/S
 narrador/SG
 narrativo/GS
 narratorio/GS
@@ -8563,7 +8367,6 @@ negador/pGS
 negado/SGp
 negativo/GS
 negligente/S
-negociable/S
 negociador/GS
 negociante/S
 negocioso/GS
@@ -8671,7 +8474,6 @@ norteño/GS
 noruego/GS
 nostálgico/GS
 nostras
-notable/S
 notariado/SG
 notarial/S
 noticiero/SG
@@ -8722,7 +8524,6 @@ nutritivo/SG
 nutriz/S
 ñoño/GS
 obedecedor/GS
-obedecible/S
 obediente/hSk
 obeso/SG
 obispal/S
@@ -8761,7 +8562,6 @@ obstétrico/GS
 obstinado/GS
 obstruccionista/S
 obstructor/GS
-obtenible/S
 obturador/GS
 obtuso/SG
 obvio/SG
@@ -8893,7 +8693,6 @@ opinable/Sk
 opinante/nS
 opíparo/GS
 oponente/S
-oponible/S
 oportuna/k
 oportunista/S
 oportuno/GkS
@@ -9202,7 +9001,6 @@ parturienta/S
 parvífico/GS
 parvo/SG
 párvulo/GS
-pasable/S
 pasada/b
 pasadero/GS
 pasador/SG
@@ -9351,7 +9149,6 @@ pelotillero/GS
 peludo/GS
 pelviano/GS
 pelvi/S
-penable/S
 penachudo/GS
 penado/GS
 penalista/S
@@ -9412,7 +9209,6 @@ perdiguero/SG
 perdonable/kS
 perdonador/GS
 perdulario/GS
-perdurable/S
 perecedera/k
 perecedero/GSk
 peregrino/GS
@@ -9654,7 +9450,6 @@ playero/GS
 plebeyo/GS
 plebiscitario/SG
 plectognato/S
-plegable/S
 plegadizo/SG
 plegador/GS
 pleistoceno/GS
@@ -9715,7 +9510,6 @@ poltrón/GS
 poluta/k
 poluto/GSk
 polvoriento/SG
-polvorizable/S
 polvoroso/SG
 pomerano/GS
 pompeyano/SG
@@ -9842,7 +9636,6 @@ precoz/S
 precursor/GS
 predador/gGS
 predecible/kS
-predicable/S
 predicador/GS
 predicante/S
 predicativo/GS
@@ -9852,7 +9645,6 @@ preestablecido/SG
 preexcelso/GS
 preexistente/S
 prefabricado/GS
-preferible/S
 pregonero/SG
 preguntador/GS
 preguntón/GS
@@ -9906,7 +9698,6 @@ prestatario/GS
 prestigiador/GS
 prestigioso/GS
 presto/S
-presumible/S
 presumido/GS
 presuntivo/SG
 presunto/GS
@@ -9984,7 +9775,6 @@ proclive/S
 procordado/S
 prodigioso/SG
 pródigo/SG
-producible/S
 productiva/kp
 productivo/kSGp
 productor/pGS
@@ -9998,7 +9788,6 @@ proficiente/S
 profiláctico/GS
 prófugo/SG
 profuso/GS
-programable/S
 programador/GS
 progresista/S
 progresivo/GS
@@ -10032,7 +9821,6 @@ propicio/GS
 propietario/GS
 propincuo/GS
 propio/kGS
-proporcionable/S
 proporcionada/h
 proporcionado/hSG
 proporcional/S
@@ -10042,7 +9830,6 @@ propulsor/SG
 prorrogable/kS
 prosaico/GS
 proscriptor/GS
-proseguible/S
 proselitista/S
 prosificador/SG
 prosimio/S
@@ -10131,7 +9918,6 @@ pulpero/SG
 pulposo/SG
 pulsador/GS
 pulsativo/GS
-pulverizable/S
 pulverulento/GS
 pundonoroso/SG
 pungitivo/SG
@@ -10153,7 +9939,6 @@ puñetero/SG
 pupilar/S
 puposo/GS
 pura/k
-purgable/S
 purgador/SG
 purgante/S
 purgativo/GS
@@ -10280,7 +10065,6 @@ radioso/GS
 radiotelefónico/GS
 rahez/S
 raído/GS
-rajable/S
 rajadizo/GS
 rallador/GS
 ralo/GS
@@ -10343,7 +10127,6 @@ rebuznador/SG
 recabita/S
 recalcitrante/S
 recalvastro/GS
-recargable/S
 recatón/GS
 recaudatorio/GS
 recela/S
@@ -10356,7 +10139,6 @@ rechinador/GS
 rechoncho/GS
 recibidero/SG
 recibidor/GS
-reciclable/S
 reciente/S
 recio/SG
 recipiente/S
@@ -10366,7 +10148,6 @@ recluso/GS
 recocho/GS
 recogido/GS
 recoleto/GS
-recomendable/S
 recomendante/S
 recóndito/SG
 reconocible/kS
@@ -10379,7 +10160,6 @@ recta/f
 rectal/S
 rectangular/S
 rectángulo/GS
-rectificable/S
 rectificador/GS
 rectificativo/GS
 rectilíneo/GS
@@ -10390,7 +10170,6 @@ recuperable/Sk
 recuperador/GS
 recuperativo/GS
 recurrente/S
-recurrible/S
 recusable/kS
 recusante/S
 redactor/GS
@@ -10408,12 +10187,9 @@ reducido/GS
 reductible/kS
 reductor/GS
 redundante/S
-reelegible/S
-reembolsable/S
 reemplazable/kS
 reemplazante/S
 referente/S
-referible/S
 refez/S
 refinado/GS
 refinador/GS
@@ -10471,7 +10247,6 @@ regocijado/SG
 regoldano/SG
 regordete/SG
 regresivo/GS
-regulable/S
 regulado/GS
 regulador/SG
 regularizador/SG
@@ -10502,7 +10277,6 @@ reluctante/S
 remachador/GS
 remangado/SG
 rematado/GS
-remedable/S
 remedador/GS
 remediable/Sk
 remendón/GS
@@ -10525,10 +10299,8 @@ rencoroso/SG
 rendido/GS
 renegrido/GS
 renitente/S
-renovable/S
 renovador/GS
 renqueante/S
-rentable/S
 rentero/GS
 rentosa/f
 rentoso/GS
@@ -10544,7 +10316,6 @@ repartidor/GS
 repelente/S
 repentino/GS
 repercusivo/GS
-repetible/S
 repetidor/GS
 repetitivo/GS
 repipi/S
@@ -10566,7 +10337,6 @@ reprochable/kS
 reprochador/GS
 reptil/S
 republicano/GS
-repudiable/S
 repulsivo/GS
 reputado/GS
 requemado/GS
@@ -10574,17 +10344,14 @@ requeridor/GS
 requirente/S
 requisitorio/GS
 resabiado/GS
-resarcible/S
 resbaladero/GS
 resbaladizo/SG
 resbalador/GS
 resbaloso/GS
 rescatador/GS
-rescindible/S
 rescisorio/SG
 rescriptorio/SG
 resequido/GS
-reservable/S
 reservado/GS
 reservativo/GS
 reservista/S
@@ -10605,7 +10372,6 @@ resoluto/kSG
 resolutorio/GS
 resolvente
 respectivo/GS
-respetable/S
 respetador/GS
 respetuosa/k
 respetuoso/kSG
@@ -10622,13 +10388,11 @@ resquebrajoso/SG
 restante/S
 restaurador/SG
 restaurativo/GS
-restituible/S
 restituidor/SG
 restitutorio/GS
 restrictivo/GS
 restricto/GS
 restringente/S
-restringible/S
 resucitador/GS
 resultante/S
 resurtivo/GS
@@ -10663,14 +10427,11 @@ reumático/GcS
 reusense/S
 revanchista/S
 revejido/GS
-revelable/S
-reverenciable/S
 reverenciador/GS
 reverencial/S
 reverendo/SG
 reverente/kS
 reversible/Sk
-revisable/S
 revisionista/S
 revisor/GS
 revocable/kS
@@ -10812,7 +10573,6 @@ rotular/S
 rotuliano/GS
 rotundo/GS
 roturador/GS
-rozable/S
 rozagante/S
 ruano/SG
 rubescente/S
@@ -10829,7 +10589,6 @@ rudimentario/GS
 rudo/GS
 rufianesco/SG
 rufo/GS
-rugible/S
 rugidor/GS
 ruginoso/GS
 rugoso/GS
@@ -10925,7 +10684,6 @@ sálico/GS
 salidero/GS
 salido/GS
 saliente/Sr
-salificable/S
 salinero/GS
 salino/SG
 salio/GS
@@ -10946,12 +10704,10 @@ salobre/S
 salomónico/GS
 salso/GS
 salsoláceo/GS
-saltable/S
 saltadizo/GS
 saltado/GS
 saltador/GSa
 salubre/kS
-saludable/S
 saludador/SG
 salvable/kS
 salva/C
@@ -10977,7 +10733,6 @@ sanador/SG
 sana/k
 sanativo/GS
 sanchopancesco/SG
-sancionable/S
 sancionador/GS
 sancionatorio/GS
 sandalino/SG
@@ -11011,7 +10766,6 @@ santero/GS
 santiaguero/SG
 santiaguino/SG
 santiaguista/S
-santificable/S
 santificador/GS
 santificativo/GS
 santísimo/GS
@@ -11023,7 +10777,6 @@ santurrón/GS
 sañudo/GS
 sapiencial/S
 sapindáceo/GS
-saponificable/S
 sapotáceo/GS
 saprofito/GS
 saqueador/GS
@@ -11053,7 +10806,6 @@ satisfactoria/k
 satisfactorio/kGS
 satisfecha/k
 satisfecho/kGS
-saturable/S
 saturado/GS
 saturnal/S
 saturnino/SG
@@ -11104,7 +10856,6 @@ seductor/GS
 sefardí
 sefardíes
 sefardita/S
-segable/S
 segadero/GS
 segador/SG
 seglar/S
@@ -11143,7 +10894,6 @@ semántico/SG
 semblante/S
 sembradío/GS
 sembrador/GS
-semejable/S
 semejante/Sg
 semental/S
 sementino/SG
@@ -11311,7 +11061,6 @@ silvestre/S
 silvoso/GS
 simbionte/S
 simbólico/GS
-simbolizable/S
 simétrica/a
 simétrico/aGS
 simiesco/GS
@@ -11323,7 +11072,6 @@ simpatizador/SG
 simpatizante/S
 simple/S
 simplicista/S
-simplificable/S
 simplificador/SG
 simplista/S
 simplón/SG
@@ -11335,7 +11083,6 @@ sincero/GSk
 sinclinal/S
 sincopado/SG
 sincrónico/GS
-sindicable/S
 sindicador/GS
 sindicalista/S
 sindical/S
@@ -11355,7 +11102,6 @@ sinovial/S
 sintáctico/GS
 sintagmático/GS
 sintético/GS
-sintetizable/S
 sintetizador/SG
 sintomático/GS
 sintónico/GS
@@ -11459,7 +11205,6 @@ somero/SG
 somnífero/GS
 somnoliento/GS
 somontano/GS
-sonable/S
 sonado/GS
 sonador/pGS
 sonámbulo/GS
@@ -11483,14 +11228,12 @@ soporoso/GS
 soportable/kS
 soportador/GS
 sorbedor/SG
-sorbible/S
 sórdido/SG
 sordomudo/GS
 sordo/SG
 sorianense/S
 soriano/GS
 sorprendente/S
-sorteable/S
 sorteador/SG
 sortílego/SG
 sosegado/GS
@@ -11501,7 +11244,6 @@ soso/GS
 sospechable/Sk
 sospechoso/SG
 sostenedor/GS
-sostenible/S
 sostenido/GS
 soterrano/GS
 soterraño/GS
@@ -11513,7 +11255,6 @@ suave/kS
 suavizador/GS
 suavizante/S
 subclavio/GS
-subdelegable/S
 subdesarrollado/GS
 súbdito/GS
 suberoso/GS
@@ -11528,7 +11269,6 @@ subliminal/S
 subordinado/GS
 subordinante/S
 subranquial/S
-subrayable/S
 subrepticio/GS
 subsahariano/GS
 subsecuente/S
@@ -11536,14 +11276,12 @@ subsidiario/GS
 subsistente/kS
 substancial/fSk
 substancioso/GS
-substituible/S
 substitutivo/SG
 subterráneo/GS
 suburbicario/SG
 suburense/S
 subversivo/GS
 subversor/GS
-subyugable/S
 subyugador/GS
 subyugante/S
 sucedáneo/SG
@@ -11580,7 +11318,6 @@ sufrido/GS
 sufridor/GS
 sugerente/S
 sugeridor/GS
-sugestionable/S
 sugestionador/GS
 sugestivo/GS
 suizo/GS
@@ -11598,7 +11335,6 @@ sumario/GS
 sumarísimo/GS
 sumergible/kS
 sumergido/SG
-suministrable/S
 suministrador/GS
 sumisa/k
 sumiso/GkS
@@ -11620,7 +11356,6 @@ superno/GS
 supersticioso/GS
 supervisor/SG
 supino/SG
-suplantable/S
 suplantador/GS
 suplementario/GS
 suplente/S
@@ -11660,7 +11395,6 @@ sustancial/fSk
 sustancioso/SG
 sustantivo/SG
 sustenido/GS
-sustentable/S
 sustentador/GS
 sustentante/S
 sustituible/kS
@@ -11791,7 +11525,6 @@ tembloso/GS
 temedero/GS
 temerario/GS
 temeroso/GS
-temible/S
 temoso/GS
 temperamental/S
 temperante/aSk
@@ -11854,7 +11587,6 @@ terenciano/GS
 teresa/S
 teresiano/GS
 terete/S
-tergiversable/S
 tergiversador/GS
 teridofito/GS
 termal/S
@@ -12082,7 +11814,6 @@ traductor/GS
 traedizo/GS
 trafalmeja/S
 traficante/S
-tragable/S
 tragador/GS
 tragante/S
 tragicómico/SG
@@ -12112,9 +11843,7 @@ transcontinental/S
 transeúnte/S
 transferible/Sk
 transferidor/GS
-transfigurable/S
 transfijo/GS
-transformable/S
 transformacional/S
 transformista/S
 transfretano/GS
@@ -12140,10 +11869,8 @@ transmutatorio/SG
 transpadano/GS
 transparente/GS
 transparentes/q
-transpirable/S
 transpirenaico/SG
 transpolar/S
-transportable/S
 transportador/GS
 transportista/S
 transpositivo/GS
@@ -12173,7 +11900,6 @@ trasgresor/GS
 trashoguero/GS
 trashumante/S
 trasijado/GS
-trasladable/S
 trasladador/GS
 traslaticio/GS
 traslativo/GS
@@ -12182,7 +11908,6 @@ trasmerano/GS
 trasnochador/GS
 trasojado/GS
 traspadano/GS
-traspasable/S
 traspasador/SG
 trasplantado/SG
 trasquilimocho/GS
@@ -12190,7 +11915,6 @@ trastabillante/S
 trasteador/GS
 trastejador/SG
 trastero/GS
-trastornable/S
 trastornador/GS
 trasversal/S
 trasverso/GS
@@ -12200,7 +11924,6 @@ tratante/Sf
 travesero/GS
 travesío/SG
 travieso/GS
-trazable/S
 trazado/GS
 trazador/GS
 treceavo/GS
@@ -12236,7 +11959,6 @@ triángulo/S
 tribal/S
 tribual/S
 tribunicio/SG
-tributable/S
 tributante/S
 tributario/GS
 tricentésimo/SG
@@ -12279,7 +12001,6 @@ tripudo/SG
 trisemanal/S
 triste/S
 trisulco/GS
-triturable/S
 triturador/GS
 triunfador/GS
 triunfalista/S
@@ -12415,7 +12136,6 @@ undoso/GS
 unguiculado/GS
 ungulado/GS
 ungular/S
-unible/S
 unicaule/S
 unicelular/S
 unicolor/S
@@ -12475,7 +12195,6 @@ usurpador/GS
 uterino/SG
 uticense/S
 utilitario/GS
-utilizable/S
 útil/kS
 utópico/SG
 utopista/S
@@ -12606,12 +12325,10 @@ vendedor/pGS
 vendible/kS
 veneciano/GS
 venenoso/GS
-venerable/S
 venerador/GS
 venerando/SG
 venéreo/GS
 venezolano/SG
-vengable/S
 vengador/SG
 vengativo/SG
 venial/S
@@ -12731,7 +12448,6 @@ vinagroso/GS
 vinario/GS
 vinar/S
 vinatero/GS
-vinculable/S
 vinculante/S
 vincular/S
 vindicador/GS
@@ -12784,9 +12500,7 @@ vitando/GS
 vitelino/GS
 vitoriano/GS
 vítreo/GS
-vitrificable/S
 vitrocerámico/GS
-vituperable/S
 vituperador/GS
 viudal/S
 viudo/GS
@@ -12821,7 +12535,6 @@ volador/GS
 volandero/GS
 volante/S
 volantón/GS
-volatilizable/S
 volátil/S
 volcánico/GS
 volitivo/GS

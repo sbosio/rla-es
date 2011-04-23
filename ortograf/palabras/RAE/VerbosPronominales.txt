@@ -455,7 +455,7 @@ ufanar/REDñò
 univocar/RED
 vanagloriar/REDñ
 virilizar/RED
-volatilizar/RED
+volatilizar/REDT
 volquear/RED
 zocatear/RED
 zullar/RED
