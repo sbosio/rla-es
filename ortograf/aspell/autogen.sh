@@ -5,7 +5,7 @@
 
 # generamos el diccionario, por ahora sólo el de español «internacional»
 pushd ../herramientas/
- ./make_dict.sh
+ ./make_dict.sh -2
 popd
 
 # extraemos los contenidos del diccionario para integrarlo en aspell

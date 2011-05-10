@@ -2747,7 +2747,7 @@ nombrar/REDюабдеф
 nominar/REDю
 noquear/REDюа
 normalizar/REDюа
-notar/REDюабделT
+notar/REDюабделTЬ
 noticiar/REDю
 notificar/REDюабцдефгы
 novar/REDш

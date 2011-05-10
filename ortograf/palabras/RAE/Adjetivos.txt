@@ -6680,6 +6680,7 @@ intensivo/GS
 intento/GS
 interceptor/GS
 intercesor/GS
+intercultural/S
 interesada/h
 interesado/hSG
 interesante/S
@@ -8230,6 +8231,7 @@ multiforme/S
 multilateral/S
 multimillonario/GS
 multinacional/S
+multípara/S
 múltipla/s
 múltiple/SG
 multiplicador/GS

@@ -3288,6 +3288,7 @@ clip/S
 clisé/S
 clister/S
 clítoris
+clon/S
 clorato/S
 clorhidrato/S
 cloroformo/S
@@ -8446,6 +8447,7 @@ motil/S
 motín/S
 motivo/S
 motón/S
+motociclismo/S
 motorismo/S
 moto/S
 móvil/Sd
@@ -12530,6 +12532,7 @@ tres/N
 tresnal/S
 trestanto/S
 triache/S
+trial/S
 triángulo/S
 triario/S
 tribunado/S
@@ -12969,6 +12972,7 @@ victo/fS
 victoriato/S
 videoclip/S
 videoclub/S
+videojuego/S
 vídeo/S
 vidriado/S
 vidrio/S

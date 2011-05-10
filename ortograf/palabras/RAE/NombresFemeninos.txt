@@ -1293,6 +1293,7 @@ billa/S
 bimba/S
 binadura/S
 binza/S
+bioestadística/S
 biografía/dS
 biología/S
 biopsia/S
@@ -3955,6 +3956,7 @@ escrupulosidad/S
 escuadra/NS
 escuadría/S
 escualidez/S
+escudería/S
 escudilla/S
 escuela/dS
 escultura/S
@@ -6467,6 +6469,7 @@ mantenencia/S
 mantenida/S
 mantequera/S
 mantisa/S
+manualidad/S
 manucodiata/S
 manuela/S
 manuella/S
@@ -7214,6 +7217,7 @@ nema/S
 nemotecnia/S
 nenia/S
 neomenia/S
+neonatología/S
 neoplasia/S
 nequicia/S
 nereida/S
@@ -10827,6 +10831,7 @@ yerbera/S
 yes
 yesca/S
 yesera/S
+yincana/S
 yubarta/S
 yuca/S
 yugada/S

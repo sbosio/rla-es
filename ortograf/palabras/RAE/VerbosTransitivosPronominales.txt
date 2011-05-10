@@ -1555,6 +1555,7 @@ fisionar/RED
 flagelar/REDÁÄñ
 fletar/RED
 flexibilizar/REDÀ
+focalizar/RED
 foguear/REDÀñ
 follar/REIDÀÁÃÅÇÌÃÇñòñò
 forjar/REDÀÁÂñ
@@ -1768,7 +1769,7 @@ maquillar/REDñòô
 marañar/RED
 maravillar/REDÁñ
 marchitar/RED
-marginar/REDñ
+marginar/REDñA
 martillar/RED
 martirizar/REDÀÄÅñò
 mascar/RED
@@ -2114,7 +2115,7 @@ salar/REDÀÌ
 santificar/REDÀT
 santiguar/REDñ
 sarpullir/RED
-saturar/REDñT
+saturar/REDñTA
 sazonar/REDÀÌ
 secar/REDÁÂÄÅÇÙñòôø
 secularizar/REDÄ
