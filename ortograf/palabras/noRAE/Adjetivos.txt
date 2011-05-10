@@ -32,6 +32,7 @@ colaborativo/GS
 combinacional/S			# Contribuida por César Romé
 completísimo/GS
 contextualizado/GS
+desarrollador/GS
 diédrico/GS
 fenólico/GS
 finísimo/GS

@@ -9805,6 +9805,7 @@ prolongador/GS
 prometedor/GS
 prominente/S
 promisorio/SG
+promocional/S
 promulgador/GS
 prono/GS
 pronosticador/GS
@@ -10154,6 +10155,7 @@ recomendante/S
 recóndito/SG
 reconocible/kS
 recopilado/GS
+recopilatorio/GS
 recordable/Sk
 recordador/GS
 recordativo/GS

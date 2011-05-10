@@ -6113,7 +6113,7 @@ gazpacho/S
 gel/S
 gemelo/SG
 gemido/S
-gen
+gen/S
 gendarme/S
 generador/S
 generalato/S
@@ -9954,6 +9954,7 @@ portamonedas
 portanario/S
 portante/NS
 portaobjeto/S
+portapapeles
 portapliegos
 portaplumas
 portaventanero/S
@@ -10560,6 +10561,7 @@ reconcentramiento/S
 reconcomio/S
 recontamiento/S
 recontento/S
+recopilatorio/S
 récord
 recordativo/S
 recordatorio/S
@@ -12475,6 +12477,7 @@ trasluz/S
 trasmallo/S
 trasmundo/S
 traspasamiento/S
+traspaso/S
 traspecho/S
 traspié/S
 trasportamiento/S

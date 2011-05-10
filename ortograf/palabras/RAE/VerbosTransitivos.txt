@@ -2496,7 +2496,7 @@ irreverenciar/RED
 irrigar/RED
 irritar/REDÀÁÂÄÅT
 irruir/IRD
-iterar/REDT
+iterar/REDTA
 izar/REDÀÁÄ
 jabalconar/RED
 jabalonar/RED
@@ -3033,7 +3033,7 @@ radiografiar/IRD
 radiotelegrafiar/IRD
 raer/IRDÂ
 rafear/RED
-ralentizar/RED
+ralentizar/REDA
 rallar/REDÀ
 rapiñar/RED
 raptar/REDÀÁÂÍ
