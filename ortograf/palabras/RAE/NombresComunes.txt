@@ -15,7 +15,7 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 abencerraje/S
-abertale/S
+abertzale/S
 ablandabrevas
 abortista/S
 academicista/S
