@@ -30,6 +30,7 @@ abarrotar/RED
 abastionar/RED
 abatanar/RED
 abdicar/RED
+abducir/IRD
 abeldar/IRD
 abemolar/RED
 abinar/RED
@@ -2411,7 +2412,7 @@ incurvar/RED
 incusar/RED
 indagar/REDÀ
 indexar/RED
-indicar/REDÀÁÂÄÅÆÌÍ
+indicar/REDÀÁÂÄÅÆÌÍÙ
 indiciar/RED
 indilgar/RED
 individualizar/REDÀÁÄ

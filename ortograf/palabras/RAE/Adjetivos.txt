@@ -28,6 +28,7 @@ abdominal/S
 abductor/GS
 aberrante/S
 abertal/S
+abertzale/S
 abestiado/GS
 abestializado/GS
 abetunado/GS
@@ -687,6 +688,7 @@ amberino/GS
 ambicioso/GS
 ambidextro/GS
 ambiental/S
+ambientalista/S
 ambiente/SG
 ambiguo/GS
 ambivalente/S
@@ -866,13 +868,17 @@ antibalas
 antibiótico/SG
 anticariense/S
 anticarro
+anticelulítico/GS
 anticipador/GS
 anticipante/S
 anticlinal/S
 anticongelante/S
+anticrisis
 anticuado/GS
 antidepresivo/GS
 antidroga/S
+antiespañol/GS
+antiestrés
 antiguo/SG
 antihistamínico/GS
 antihelmíntico/GS
@@ -1843,6 +1849,7 @@ bullanguero/SG
 bullente/S
 bullicioso/SG
 bullidor/GS
+buñueliano/GS
 burdeos
 burdo/GS
 burgalés/SG
@@ -3343,6 +3350,7 @@ culto/qkGS
 cultor/GS
 cultual/S
 cultural/S
+cultureta/S
 cumanagoto/GS
 cumplida/k
 cumplidero/SG
@@ -5253,6 +5261,7 @@ fértil/S
 ferviente/S
 fervoroso/GS
 festival/S
+festivalero/GS
 festivo/GS
 festoneado/GS
 fetal/S

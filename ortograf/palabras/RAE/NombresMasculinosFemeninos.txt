@@ -123,6 +123,7 @@ ansarero/GS
 antártico/GS
 antecesor/GS
 anticuario/GS
+antiespañol/GS
 apagador/GS
 aparador/GS
 aparcero/GS
@@ -805,6 +806,7 @@ favorito/GS
 feligrés/GS
 fénix
 ferretero/GS
+festivalero/GS
 fiador/GS
 fidalgo/GS
 fiduciario/GS

@@ -1476,7 +1476,7 @@ esterar/RED
 esterilizar/REDÀñ
 estilizar/REDÄ
 estimar/REDÀÁÃÄñ
-estimular/REDÀÁÂÄÆñ
+estimular/REDÀÁÂÄÆñA
 estragar/RED
 estrangular/REDÀÁÂÄñ
 estratificar/RED

@@ -984,6 +984,7 @@ antejo/S
 anteojero/S
 antepasado/S
 ante/S
+anticelulítico/S
 anticipamiento/S
 anticongelante/S
 anticorrosivo/S
@@ -2070,6 +2071,7 @@ bonito/S
 bonizo/S
 bono/aS
 bonote/S
+bonus
 bonzo/S
 boñigar/S
 boom
@@ -3974,6 +3976,7 @@ cupo/S
 cupulino/S
 cuquero/S
 curadillo/S
+curalotodo/S
 curasao/S
 curato/S
 curazao/S
@@ -7122,6 +7125,7 @@ juzgado/S
 káiser/S
 kan/S
 kantismo/S
+karaoke/S
 karma/S
 kelvin
 kermes
@@ -7983,6 +7987,7 @@ melojar/S
 melojo/S
 melolonta/S
 melonar/S
+meloncete/S
 meloncillo/S
 melón/NS
 melote/S
@@ -8776,6 +8781,7 @@ obrador/S
 obrajero/S
 obraje/S
 obrerismo/S
+obrón/S
 obscurantismo/S
 obscurecimiento/S
 obsequio/S
@@ -12643,6 +12649,7 @@ truncamiento/S
 truquero/S
 truque/S
 truquiflor/S
+tsunami/S
 tubérculo/S
 tubo/S
 tuciorismo/S
@@ -13205,7 +13212,9 @@ zumacal/S
 zumaque/S
 zumbel/S
 zumbido/S
+zum
 zumo/SN
+zums
 zuncho/S
 zurcido/S
 zuro/S

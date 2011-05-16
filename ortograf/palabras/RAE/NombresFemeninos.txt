@@ -3047,6 +3047,7 @@ culminación/S
 culpabilidad/kS
 culpa/S
 cultura/kS
+cultureta/S
 cumbia/S
 cumbre/S
 cuna/S
@@ -9910,6 +9911,7 @@ telaraña/S
 telas/j
 telecabina/S
 telecomunicación/S
+teleconferencia/S
 telefonía/S
 telegrafía/S
 tele/GS
@@ -10812,6 +10814,7 @@ vulnerabilidad/Sk
 vulpeja/S
 vulva/S
 web
+webs
 xenofobia/S
 xi
 xíes

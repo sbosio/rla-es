@@ -15,6 +15,7 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 abencerraje/S
+abertale/S
 ablandabrevas
 abortista/S
 academicista/S
@@ -47,6 +48,7 @@ alópata/S
 alpinista/S
 amante/S
 amanuense/S
+ambientalista/S
 ambulante/S
 americanista/S
 anacoreta/S
@@ -118,6 +120,7 @@ bolsista/S
 botanista/S
 bozal/S
 brigada/S
+bróker/S
 broncista/S
 budista/S
 bullebulle/S
@@ -254,6 +257,8 @@ cronista/S
 cronologista/S
 cuchareta/S
 cuentista/S
+cultureta/S
+curalotodo/S
 cursillista/S
 declarante/S
 delineante/S
