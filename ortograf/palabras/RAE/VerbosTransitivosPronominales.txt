@@ -532,7 +532,7 @@ circunscribir/REÁñò
 ciscar/RED
 citar/REDÀÂÄÆñò
 civilizar/REDñ
-clasificar/REDÄñò
+clasificar/REDÀÄñòT
 clavar/REDÀÁÃÍñòô
 clisterizar/RED
 coadunar/RED
@@ -1152,7 +1152,7 @@ embullar/RED
 embutir/REDÂÄ
 emocionar/REDÀÁÂñò
 empachar/RED
-empadronar/RED
+empadronar/REDÀÁÂñò
 empalagar/RED
 empanar/RED
 empandar/RED
@@ -1849,7 +1849,7 @@ omitir/REDÀ
 oponer/XÀÁñóT
 ordenar/REDÀÄñò
 orear/REDñ
-organizar/REDÀÂñòô
+organizar/REDÀÂÄñòô
 orientar/REDÄñòô
 originar/REDÀø
 ornar/RED
@@ -1892,7 +1892,7 @@ popularizar/RED
 portear/RED
 poseer/REDÄÅñò
 posesionar/REDñ
-posponer/X
+posponer/XÀÁÄñò
 postrar/REDñò
 precaver/REDñ
 preciar/RED

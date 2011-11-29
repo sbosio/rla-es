@@ -876,6 +876,7 @@ anticongelante/S
 anticrisis
 anticuado/GS
 antidepresivo/GS
+antidisturbios
 antidroga/S
 antiespañol/GS
 antiestrés
@@ -3236,7 +3237,8 @@ cristiana/c
 cristiano/cGS
 cristino/GS
 criticador/GS
-crítico/SG
+crítico/GS
+criticón/GS
 croata/S
 crocante/S
 cromática/a
@@ -3676,6 +3678,7 @@ deshojador/GS
 deshollinador/GS
 deshonrador/GS
 deshuesador/GS
+deshumanizador/GS
 desiderable/S
 desiderativo/SG
 desidioso/GS
@@ -3974,6 +3977,7 @@ disgustado/SG
 disgustoso/GS
 disidente/S
 disimétrico/GS
+disímil/S
 disimulado/GS
 disimulador/GS
 disipador/GS
@@ -4853,6 +4857,7 @@ estético/GS
 estevado/GS
 estigio/SG
 estigmatizador/GS
+estilístico/GS
 estilita/S
 estilográfico/GS
 estimable/kS

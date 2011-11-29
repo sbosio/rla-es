@@ -63,6 +63,7 @@ prescriptor/GS
 ranurado/GS
 semiconsciente/S
 semielaborado/GS
+sexualizado/GS
 texturado/GS
 torsor/S
 unipolar/S

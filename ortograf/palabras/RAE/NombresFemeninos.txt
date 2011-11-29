@@ -1306,6 +1306,7 @@ birretina/S
 birria/S
 bisagra/S
 bisector/S
+bixexualidad/S
 bismutina/S
 bisutería/S
 bitácora/S
@@ -3519,6 +3520,7 @@ drupa/S
 drusa/S
 dualidad/S
 duba/S
+dubitación/S		# Contribuida por Gonzalo Higuera Díaz
 ducha/S
 ductilidad/S
 ductriz/S
@@ -4127,6 +4129,7 @@ esteva/S
 estiba/Sh
 estibia/S
 estibina/S
+estilística
 estilográfica/S
 estimabilidad/Sk
 estimación/S
@@ -8947,6 +8950,7 @@ renuencia/S
 renuncia/S
 reparación/S
 repasata/S
+repetitividad/S
 réplica/S
 repostería/S
 represalia/S
@@ -9481,6 +9485,7 @@ severidad/S
 sexta/NS
 sextina/S
 sexualidad/S
+sexualización/S
 sibila/S
 sicalipsis
 sicosis

@@ -3009,7 +3009,7 @@ provechar/RED
 providenciar/RED
 puar/IRD
 publicar/REDÀÁÂÄ
-publicitar/RED
+publicitar/REDÀÁÂÄ
 pudelar/RED
 puentear/RED
 pulimentar/RED
@@ -3271,7 +3271,7 @@ resecar/REDÀ
 resegar/IRD
 reseguir/XD
 resembrar/IRD
-reseñar/REDÀ
+reseñar/REDÀT
 residenciar/RED
 resinar/RED
 resisar/RED

@@ -205,7 +205,10 @@ acri-bi-llé
 acris-ta-la-bais
 acro-ma-ti-za-ra
 ac-ti-vos
+ac-tual
+ac-tua-les
 ac-tua-li-za-ción
+ac-tua-li-za-cio-nes
 acuan-tian-do
 acuan-tia-re
 acuar-te-le
@@ -2055,8 +2058,8 @@ coim-bri-cen-se
 coi-me
 coi-mea-das
 coi-meá-ra-mos
-co-in-ci-den-cias
-co-in-ci-di-ríais
+coin-ci-den-cias
+coin-ci-di-ríais
 co-in-qui-li-nas
 co-in-qui-nar
 coi-ta-do
@@ -6393,6 +6396,7 @@ na-ve-ga-bles
 na-vi-dad
 na-za-re-nas
 ne-cea-re
+ne-ce-sa-rio
 ne-ce-se-res
 ne-ga-da
 ne-grean

@@ -989,6 +989,7 @@ anticipamiento/S
 anticongelante/S
 anticorrosivo/S
 antidepresivo/S
+antidisturbios
 antidotario/S
 antídoto/S
 antifaz/S
@@ -1624,6 +1625,7 @@ baguio/S
 baharí/S
 bailable/S
 bailadero/S
+bailecito/S
 baile/S
 bajalato/S
 bajamanero/S

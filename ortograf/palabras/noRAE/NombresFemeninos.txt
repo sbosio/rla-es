@@ -31,6 +31,7 @@ cumplimentación/S
 ferroaleación/S
 fundamentación/S
 interoperatividad/S		# Contribuida por Gonzalo Higuera Díaz
+medallita/S			# Contribuida por Gonzalo Higuera Díaz
 meritocracia/S
 microinformática/S
 personalización/S

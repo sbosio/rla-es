@@ -16,6 +16,7 @@
 
 alnico/S
 autodesarrollo/S
+bailecillo/S
 causalismo/S
 cibercafé/S
 datáfono/S
@@ -33,7 +34,9 @@ poliestireno/S
 polímetro/S
 portabroca/S
 punzonado/S
+ratito/S
 ranurado/S
 rebarbado/S
 refrentado/S
 renting
+swing

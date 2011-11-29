@@ -555,6 +555,7 @@ serenar/REDñôø
 servir/XDÀÁÂÈÉÔáâñóö
 significar/REDÀÁñò
 sobresaltar/REDÄñò
+somatizar/REDÀÁÄñò
 somorgujar/RED
 sonar/IRDÁÂñõT
 sonorizar/RED
