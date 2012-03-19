@@ -1871,7 +1871,7 @@ zambo/GS
 zancudo/GS
 zángano/GS
 zangolotino/GS
-zapatero/GS
+zapatero/GLS
 zapatillero/GS
 zarandero/GS
 zocato/GS
