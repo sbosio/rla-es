@@ -4256,7 +4256,6 @@ excusa/S
 execración/S
 exención/S
 exequias
-exhalación/S
 exhibición/S
 exhortación/S
 exigencia/S
@@ -4594,7 +4593,6 @@ fragaria/S
 fraga/S
 fragata/S
 fragilidad/S
-fragmentación/S
 fragosidad/S
 fragua/S
 frailada/S

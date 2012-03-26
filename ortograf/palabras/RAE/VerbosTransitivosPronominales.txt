@@ -1514,7 +1514,7 @@ exculpar/REDÀÁÂñ
 excusar/REDÀÁÂÅÍÚñò
 exentar/RED
 exfoliar/RED
-exhalar/REDÀ
+exhalar/AREDÀ
 exhibir/REDÀÁÄñò
 exiliar/REDÀÁñ
 eximir/REDÀÁÂÆñ
@@ -1566,7 +1566,7 @@ fortificar/REDÄ
 forzar/IRDÀÁÂÄÅÆñò
 fraccionar/REDÀÄT
 fracturar/REDÀÂ
-fragmentar/REDÀÁñ
+fragmentar/AREDÀÁñ
 franquear/REDÀÂÆñô
 frenetizar/RED
 frotar/REDÀÁÂÃÄÅÆÇÙñòø
