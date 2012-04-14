@@ -675,7 +675,8 @@ abultamiento|2
 -|juanete|callo|deformidad|hueso
 abultar|1
 -|abombar|ahuecar|combar|alabera (NoRAE)|arquear|abombarse|engrosar|hinchar|engordar|exagerar
-abundancia|8
+abundancia|9
+(m. fig.)|productividad|rendimiento|incremento
 -|beatitud|felicidad|dicha|satisfacción|bienestar|comodidad|fortuna|confort|riqueza|paz|placer|tranquilidad|ventura|conveniencia|regalo|suerte
 -|bendición|dicha|favor|suerte|aprobación|congratulación|gracia|prosperidad|fortuna
 -|jauja|momio|riqueza|exuberancia|edén|paraíso|ganga
@@ -1599,7 +1600,7 @@ actualización|2
 -|modernización|aggiornamento (NoRAE)|puesta al día
 actualizar|2
 -|exhumar|recordar|recuperar|desempolvar
--|modernizar|renovar|desempolvar|refrescar|poner al día
+-|modernizar|renovar|desempolvar|refrescar|poner al día|renacer
 actualmente|1
 -|hoy|hogaño|ahora
 actuar|5
@@ -1714,9 +1715,9 @@ adaptado|3
 adaptar|5
 -|aclimatar|habituar|acomodar|acostumbrar|ambientar|hacerse|enmarcar|encuadrar|situar|contextualizar
 -|acondicionar|preparar|disponer|acomodar|adecuar|arreglar|habilitar|aclimatar|capacitar
--|ahormar|ajustar|amoldar|moldear
 -|amoldar|adecuar|acomodar|conformarse|someterse|plegarse|avenirse|aceptar|consentir|resignarse
 -|naturalizar|aclimatar|habituar
+-|personalizar|ahormar|ajustar|amoldar|moldear
 adaraja|1
 -|endejas|enjarje
 adarga|1
@@ -3175,8 +3176,8 @@ ahorcar|2
 (tr.)|colgar
 -|guindar
 ahormar|2
--|adaptar|ajustar|amoldar|moldear
 -|convencer|persuadir
+-|personalizar|adaptar|ajustar|amoldar|moldear
 ahorquillarse|1
 -|diverger (NoRAE)|divergir|apartarse|alejarse|bifurcarse|separarse|dividirse|desviarse|ramificarse (NoRAE)|escindirse (NoRAE)
 ahorrador|2
@@ -3218,10 +3219,11 @@ ahuyentar|1
 -|alejar|espantar|echar|expulsar|apartar|rechazar|asustar|atemorizar
 aindiado|1
 -|amestizado|mestizo|achinado
-airado|3
+airado|4
 -|cabreado|enfadado|enojado|colérico|iracundo
 -|desmedido (fig.)|rabioso|rabiosa|hidrófobo|colérico|furioso|vehemente (fig.)|excesivo (fig.)
 -|encolerizado|enojado|irritado|enfurecido|enfadado|crispado|exasperado|cabreado
+-|negro|irritado|molesto|enfadado|enojado|indignado|cabreado|frito
 airar|4
 -|agriar|irritar|exasperar|excitar|amargar|exacerbar|exaltar|encolerizar|enfadar
 -|embravecer|irritar|encolerizar|exasperar|sulfurar|alterar
@@ -3341,12 +3343,12 @@ ajustador|1
 ajustar|8
 -|acompasar|compasar|sincronizar
 -|acoplar|encajar|ensamblar|casar|engranar|articular|unir|imbricar|situar
--|ahormar|adaptar|amoldar|moldear
 -|armonizar|harmonizar|conciliar|avenir|concertar|aproximar|acercar|arreglar|coordinar|combinar|pegar|ir|entonar|acoplar
 -|bastar|alcanzar|llegar|convenir|adecuar
 -|enfocar|encuadrar
 -|graduar|regular|acomodar|medir|acoplar
 -|liquidar|rebajar|saldar|abaratar|malvender
+-|personalizar|ahormar|adaptar|amoldar|moldear
 ajustarse|1
 -|limitarse|ceñirse|atenerse|someterse|amoldarse|circunscribirse|sujetarse|remitirse
 ajuste|5
@@ -3582,7 +3584,7 @@ alborotador|8
 -|guerrero|enredador|liante
 -|jaranero|bullicioso|festivo|follonero|juerguista|marchoso|parrandero|cachondo|vividor|animado|entretenido
 -|ladrador|aullador|inquieto|escandaloso|amenazador
--|levantisco|subversivo|díscolo|indócil|revoltoso|turbulento|indómito|insurrecto|insumiso|rebelde
+-|levantisco|subversivo|díscolo|indócil|revoltoso|turbulento|indómito|insurrecto|insumiso|rebelde|irredento
 alborotar|5
 -|alarmar|asustar|atemorizar|inquietar|intranquilizar|preocupar|sobresaltar
 -|escandalizar|gritar|chillar|vocear|vociferar|enciscar (loc.)
@@ -4062,7 +4064,7 @@ alimentario|1
 alimenticio|1
 -|alimentario|comestible|nutritivo|nutricio|nutriente
 alimento|4
--|alpiste|sustento|manutención
+-|alpiste|sustento|manutención|pan
 -|bocado|comida|trozo|cacho|pedazo|porción|sección|fragmento|parte|ración|tajada
 -|nutrición|alimentación|sustento|sostenimiento|mantenimiento|ingestión|manutención|avituallamiento
 -|yantar|comida|vianda|sustento|manjar|comestible|colación|manduca
@@ -4291,7 +4293,7 @@ alpinista|1
 alpino|1
 -|montañoso|montaraz|escarpado
 alpiste|2
--|alimento|sustento|manutención
+-|alimento|sustento|manutención|pan
 -|bebida|alcohol|vino|trinque|pimple
 alquería|2
 -|cortijo|granja|finca|caserío|masía|rancho|estancia
@@ -4749,7 +4751,7 @@ ambigüedad|2
 -|anfibología|imprecisión|confusión|equívoco|doble sentido
 -|vaguedad|imprecisión
 ambos|1
--|entreambos|los dos|uno y otro
+-|entreambos
 ambrosía|1
 -|licor|brabaje (NoRAE)|refresco|consumición|agua|caldo|jugo|líquido|zumo|bebida|elixir|néctar|esquisitez|manjar de dioses
 ambulante|3
@@ -4887,7 +4889,7 @@ amoldamiento|1
 -|adaptación|habilitación|acondicionamiento|acomodo|adecuación|aclimatación
 amoldar|2
 -|adaptar|adecuar|acomodar|conformarse|someterse|plegarse|avenirse|aceptar|consentir|resignarse
--|ahormar|adaptar|ajustar|moldear
+-|personalizar|ahormar|adaptar|ajustar|moldear
 amoldarse|2
 -|allanarse|resignarse|conformarse|avenirse|aguantarse|ceder
 -|limitarse|ceñirse|ajustarse|atenerse|someterse|circunscribirse|sujetarse|remitirse
@@ -6747,11 +6749,15 @@ arañar|2
 arañazo|2
 -|rasguño|raspadura|raspón|rasgadura|raya|rayajo|rozadura
 -|uñada|rasguño|zarpazo
+arañón|1
+(f.)|arán|endrina
 arar|2
 -|binar|cavar|edrar|labrar|remover|repetir
 -|labrar|roturar|cavar|plantar|sembrar|barbechar|surcar
 arábigo|1
 -|agareno|árabe|mahometano|musulmán|moro|islamita|islámico|sarraceno|ismaelita
+arán|1
+(f.)|arañón|endrina
 arándano|1
 -|arándano
 arbitraje|1
@@ -6913,10 +6919,9 @@ argolla|4
 -|brazal|brazalete|tira|distintivo|cinta|banda|faja|ajorca|esclava|pulsera|aro|manilla|muñequera
 -|grilletes|cepo|esposas|hierros|cadenas|prisiones
 -|llavero|cadena
-argot|3
+argot|2
 -|germanía|jerga|dialecto|jerigonza|lenguaje
 -|jerga|jerigonza|germanía|galimatías
--|lengua|dialecto|lenguaje|idioma|habla|jerga|germanía|jerigonza
 argucia|3
 -|amaño|apaño|treta|triquiñuela|ardid|truco|artimaña|engaño|estratagema|martingala|manipulación|componenda|falsificación|adulteración|fraude|pucherazo
 -|baruca|embrollo|enredo|artificio|impedimento|tejemaneje|truco|obstáculo|trampa
@@ -8810,7 +8815,7 @@ auténtico|8
 autillo|1
 -|úlula|zumaya
 auto|2
-(m.)|carro|carreta|carromato|carruaje|coche|automóvil|plaustro|forcaz
+(m.)|carro|carreta|carromato|carruaje|coche|automóvil|forcaz
 -|automóvil|coche|utilitario
 autobiografía|1
 -|memorias|confesiones|diario
@@ -8862,7 +8867,7 @@ automovilismo|1
 automovilista|1
 -|conductor|piloto|chófer
 automóvil|3
-(m.)|carro|carreta|carromato|carruaje|coche|auto|plaustro|forcaz
+(m.)|carro|carreta|carromato|carruaje|coche|auto|forcaz
 -|auto|coche|utilitario
 -|vagón|coche|furgón
 automóvil de carreras|1
@@ -9033,7 +9038,7 @@ avejentarse|1
 avellana|1
 -|beige|tostado|ocre|color café con leche
 avellanador|1
--|barrena|berbiquí|taladro|broca|fresa|cincel|escariador|escobina|escoplo|lezna|punzón|sacabocados|trépano
+-|barrena|berbiquí|taladro|broca|fresa|cincel|escariador|escobina|escoplo|lezna|punzón|sacabocados|trépano|mecha
 avenar|1
 -|desaguar|drenar|desecar
 avenencia|3
@@ -10298,7 +10303,7 @@ barreduras|2
 -|despojos|basuras|escombros|inmundicias|residuos|restos|desperdicios
 barrena|2
 -|berbiquí|broca|taladro|fresa|sacabocados
--|berbiquí|taladro|broca|fresa|cincel|escariador|escobina|escoplo|lezna|punzón|sacabocados|avellanador|trépano
+-|berbiquí|taladro|broca|fresa|cincel|escariador|escobina|escoplo|lezna|punzón|sacabocados|avellanador|trépano|mecha
 barrenador|1
 -|barrenero|barrenista (NoRAE)|dinamitero
 barrenar|3
@@ -10934,7 +10939,7 @@ beque|1
 berberisco|1
 -|beréber|cabileño
 berbiquí|2
--|barrena|taladro|broca|fresa|cincel|escariador|escobina|escoplo|lezna|punzón|sacabocados|avellanador|trépano
+-|barrena|taladro|broca|fresa|cincel|escariador|escobina|escoplo|lezna|punzón|sacabocados|avellanador|trépano|mecha
 -|broca|taladro|fresa|sacabocados|barrena
 berenjenal|1
 -|barullo|enredo|embrollo|atolladero|camorra|alboroto|confusión|desorden|follón|jaleo|lío|maraña|riña|trapatiesta|tumulto
@@ -11654,7 +11659,9 @@ bollar|1
 -|abollonar|repujar|marchamar|sellar|marcar
 bollería|1
 -|panadería|pastelería|confitería|repostería
-bollo|4
+bollo|6
+(m.)|cruasán|croissant (NoRAE)|medialuna
+(m.)|mollete|panecillo
 -|abolladura|prominencia|aplastamiento|chichón
 -|bizcocho|galleta|melindre|torta|bizcotela|brioche (NoRAE)|tarta|pastelillo|tortita|rosco
 -|factura
@@ -12319,7 +12326,7 @@ brío|6
 broa|1
 -|abra|ensenada|cala|bahía|caleta|rada|refugio|abrigo|fiordo|anconada
 broca|2
--|barrena|berbiquí|taladro|fresa|cincel|escariador|escobina|escoplo|lezna|punzón|sacabocados|avellanador|trépano
+-|barrena|berbiquí|taladro|fresa|cincel|escariador|escobina|escoplo|lezna|punzón|sacabocados|avellanador|trépano|mecha
 -|berbiquí|taladro|fresa|sacabocados|barrena
 brocado|1
 -|guadamecí|bordado|briscado|brochado|recamado
@@ -12431,7 +12438,7 @@ brumoso|2
 -|borroso|confuso|vago|imprescindible|difícil|enmarañado
 -|nublado|nebuloso|neblinoso|caliginoso|oscuro|sombrío
 bruno|2
--|moreno|oscuro|negro
+-|endrino|moreno|oscuro|negro|prieto
 -|negro|sable
 bruñido|1
 -|lustroso|refulgente|brillante|resplandeciente|reluciente|centelleante|deslumbrante|fulgente|rutilante|pulido|abrillantado|enlucido|lustrado
@@ -12826,7 +12833,7 @@ cd-rom|1
 ch3oh|1
 -|metanol|alcohol metílico|CH3OH (NoRAE)
 cpu|2
-(f.)|procesadora|computador|ordenador|CPU (NoRAE)|PC (NoRAE)|computadora
+(f.)|procesadora|computador|ordenador|PC|computadora
 -|microprocesador|procesador|chip|CPU (NoRAE)|microcontrolador|semiconductor
 creador|4
 -|Yahvé|Jehová|Dios|Señor|Altísimo|Padre|Todopoderoso
@@ -13027,8 +13034,9 @@ cabina|2
 -|locutorio|compartimiento|garita|cámara|cuartucho|carlinga|habitáculo
 cabizbajo|1
 -|acongojado|apenado|afligido|triste|contrito|atribulado|angustiado|consternado|abrumado|agobiado|melancólico|abatido|alicaído|deprimido
-cable|1
+cable|2
 -|barloa|soga|amarra|calabrote|cuerda|maroma|cabo|alambre|sirga|estrinque|jarcia
+-|tirolina|tirolesa|cuerda
 cablegrama|1
 -|telegrama|telefonema|comunicación
 cabo|9
@@ -13048,7 +13056,7 @@ cabra|1
 cabreado|4
 -|encolerizado|enojado|irritado|enfurecido|enfadado|crispado|airado|exasperado
 -|enfadado|enojado|colérico|iracundo|airado
--|negro|irritado|molesto|enfadado|enojado|indignado|frito
+-|negro|irritado|molesto|enfadado|enojado|indignado|frito|airado
 -|quemado|enfadado|descontento|harto|molesto|mosca|mosqueado|hasta las narices|hasta la coronilla
 cabreante|2
 -|enervante|irritante|exasperante|enloquecedor|indignante
@@ -13368,8 +13376,6 @@ caja|10
 -|joyero|estuche|cofrecillo (NoRAE)|guardajoyas
 -|neceser|maletín|estuche|bolsa de aseo
 -|urna|arca|arqueta|cobre|fanal|sarcófago
-caja tonta|1
-(f.)|televisión|tele|TV
 cajetín|1
 -|estampilla|sello
 cajiga|1
@@ -13727,7 +13733,7 @@ campo|4
 campo de acción|1
 -|área|ámbito|dominio|radio
 can|1
--|perro|cusco|chucho|gozque
+-|perro|chucho|gozque
 canal|5
 -|acanaladura|estría|surco|muesca
 -|acequia|cacera|reguera|zanja
@@ -14271,7 +14277,7 @@ carrera|5
 -|línea|recta|raya|lista|estría|crencha|partidura|término|límite|linde|confín|frontera
 -|licenciatura|estudios|diploma|doctorado
 carreta|1
-(m.)|carro|carromato|carruaje|coche|auto|automóvil|plaustro|forcaz
+(m.)|carro|carromato|carruaje|coche|auto|automóvil|forcaz
 carrete|2
 -|madeja|cadejo|ovillo|bobina|rollo|devanadera|canilla|embrollo|lío|maraña
 -|parranda|jolgorio|fiesta|jarana|juerga|farra|bulla|bullicio|cachondeo|jaleo|holgorio|marcha
@@ -14289,11 +14295,11 @@ carrillo|2
 carrilludo|1
 -|cachetudo|mofletudo
 carro|1
-(m.)|carreta|carromato|carruaje|coche|auto|automóvil|plaustro|forcaz
+(m.)|carreta|carromato|carruaje|coche|auto|automóvil|forcaz
 carromato|1
-(m.)|carro|carreta|carruaje|coche|auto|automóvil|plaustro|forcaz
+(m.)|carro|carreta|carruaje|coche|auto|automóvil|forcaz
 carruaje|2
-(m.)|carro|carreta|carromato|coche|auto|automóvil|plaustro|forcaz
+(m.)|carro|carreta|carromato|coche|auto|automóvil|forcaz
 -|landó|coche
 carrusel|1
 -|caballitos|tiovivo
@@ -14851,6 +14857,8 @@ celuloide|1
 -|negativo|placa|imagen|película|filme|cinta
 cementerio|1
 -|necrópolis|enterramientos
+cemento|1
+(m.)|concreto
 cenagal|3
 -|ñanga|ciénaga|barrizal|estero
 -|barrero|fangal|lodazal|tremedal|lamedal|leganal|tembladal|barrizal|ciénaga
@@ -15652,7 +15660,7 @@ chuchería|5
 -|bujería|nadería|baratija|fruslería|bagatela
 -|golosina|dulce|caramelo|bombón|pastel|chocolatina|gollería
 chucho|1
--|can|perro|cusco|gozque
+-|can|perro|gozque
 chuchurrido|1
 -|agostado|seco|abrasado|quemado|mustio|marchito|árido
 chueco|1
@@ -15849,7 +15857,7 @@ cimitarra|1
 cinabrio|1
 -|bermellón|encarnado|rojo|colorado|granate|carmesí
 cincel|2
--|barrena|berbiquí|taladro|broca|fresa|escariador|escobina|escoplo|lezna|punzón|sacabocados|avellanador|trépano
+-|barrena|berbiquí|taladro|broca|fresa|escariador|escobina|escoplo|lezna|punzón|sacabocados|avellanador|trépano|mecha
 -|buril|graneador|punzón|cortafrío|escoplo|gubia
 cincelado|1
 -|labrado|grabado|adornado|recamado|bordado|tallado|repujado
@@ -16243,7 +16251,7 @@ cochambre|2
 -|bafea|desecho|porquería|bascosidad|desperdicio|suciedad|inmundicia|despojo|asquerosidad
 -|desperdicios|basura|despojos|barreduras|bazofia|desechos|estiércol|impureza|inmundicia|restos|sobras|excremento|mugre|porquería|sedimento|suciedad
 coche|5
-(m.)|carro|carreta|carromato|carruaje|auto|automóvil|plaustro|forcaz
+(m.)|carro|carreta|carromato|carruaje|auto|automóvil|forcaz
 -|auto|automóvil|utilitario
 -|berlina|cupé|vagón|departamento
 -|landó|carruaje
@@ -16380,10 +16388,9 @@ cojones|1
 -|agallas|valentía|coraje|arrojo|valor|audacia|osadía|bravura|redaños
 col|1
 -|berza|repollo|lombarda|brécol|brecolera|nabicol
-cola|3
+cola|2
 -|goma|adhesivo|pegamento
 -|nalgas|culo|posaderas|pan dulce|trasero|huesito dulce (NoRAE)
--|rabo
 colaboración|1
 -|asistencia|socorro|auxilio|amparo|protección|cooperación
 colaborador|1
@@ -17062,9 +17069,9 @@ compungido|3
 compungirse|1
 -|arrepentirse|lamentar|sentir|dolerse|apesadumbrarse|deplorar|tener remordimientos
 computador|1
-(f.)|procesadora|ordenador|CPU (NoRAE)|PC (NoRAE)|computadora
+(f.)|procesadora|ordenador|PC|CPU|computadora
 computadora|1
-(f.)|procesadora|computador|ordenador|CPU (NoRAE)|PC (NoRAE)
+(f.)|procesadora|computador|ordenador|PC|CPU
 comulgatorio|1
 -|barandilla|baranda|pasamanos|barandal|antepecho|balaustrada
 comunicación|5
@@ -17237,7 +17244,8 @@ concreción|1
 -|especificación|explicación|aclaración|determinación|definición|delimitación|precisión|observación
 concretar|1
 -|definir|precisar|constreñir|explicar|detallar|especificar|aclarar|puntualizar|delimitar|fijar|determinar
-concreto|1
+concreto|2
+(m.)|cemento
 -|declarado|manifiesto|notorio|público|claro|evidente|obvio|ostensible|patente
 concubina|1
 -|amante|querido|amigo|barragana|lío|apaño
@@ -19002,6 +19010,8 @@ croché|1
 -|ganchillo|encaje|labor
 crocitar|1
 -|graznar|crascitar|gaznar|voznar
+croissant|1
+(m.)|cruasán|croissant (NoRAE)|medialuna|bollo
 cromar|1
 -|galvanizar|platear|recubrir|dorar|sobredorar
 cromo|2
@@ -19019,6 +19029,8 @@ crónica|3
 -|anales|fastos|memorias|anuario|agenda|efemérides|diario
 -|gacetilla|artículo|noticia
 -|informe|documentación|mensaje
+cruasán|1
+(m.)|croissant (NoRAE)|medialuna|bollo
 cruce|2
 -|bifurcación|desvío|ramal|ramificación|derivación|divergencia|escisión|separación|división
 -|encuentro|concurrencia
@@ -19252,7 +19264,7 @@ cuento|6
 -|relato|descripción|historia|relación|explicación|exposición
 cuentón|1
 -|chismoso|cuentista|murmurador|cizañero|hablador|indiscreto|cotilla|alcahuete|parlero|correveidile|metomentodo
-cuerda|8
+cuerda|9
 -|baga|soga|ronzal
 -|barloa|soga|cable|amarra|calabrote|maroma|cabo|alambre|sirga|estrinque|jarcia
 -|bramante|cordelejo|cordeta|cordón|cordoncillo|guindaleta|hilo|cordel|guita
@@ -19261,6 +19273,7 @@ cuerda|8
 -|lía|soga|cabo
 -|línea|radio|eje|diámetro|bisectriz|tangente|secante|segmento|recta|semirrecta
 -|lazo|lazada|nudo|atadura|ligadura|cordón|traílla
+-|tirolina|tirolesa|cable
 cuerdo|1
 -|juicioso|prudente|reflexivo|sensato|grave
 cuerno|1
@@ -19514,8 +19527,6 @@ curvilíneo|1
 curvo|2
 -|ganchudo|arqueado|curvado
 -|ondulante|curvilíneo|serpenteante|sinuoso
-cusco|1
--|can|perro|chucho|gozque
 cuscurro|1
 -|mendrugo|corrusco
 custodia|2
@@ -21287,7 +21298,7 @@ desempeñar|1
 desempeñarse|1
 -|actuar|comportarse|desempeñarse (NoRAE)
 desempolvar|2
--|actualizar|modernizar|renovar|refrescar|poner al día
+-|actualizar|modernizar|renovar|refrescar|poner al día|renacer
 -|exhumar|recordar|actualizar|recuperar
 desencajado|2
 -|alterado|trastornado|inquieto|afectado|alborotado|sofocado|perturbado|desquiciado|desfigurado
@@ -22392,7 +22403,7 @@ diagnóstico|1
 -|diagnosis|dictamen
 dialecto|2
 -|germanía|jerga|argot|jerigonza|lenguaje
--|lengua|lenguaje|idioma|habla|jerga|argot|germanía|jerigonza
+-|lengua|lenguaje|idioma|habla|jerga
 dialéctica|1
 -|lógica|deducción|razonamiento|método
 dialéctico|1
@@ -23338,7 +23349,7 @@ dígito|1
 -|guarismo|cifra|número|cantidad|símbolo|notación|puntuación
 díscolo|2
 -|empecatado|desobediente|indomable|indócil
--|levantisco|subversivo|alborotador|indócil|revoltoso|turbulento|indómito|insurrecto|insumiso|rebelde
+-|levantisco|subversivo|alborotador|indócil|revoltoso|turbulento|indómito|insurrecto|insumiso|rebelde|irredento
 djuto|1
 -|edecán|ayudante|asistente|auxiliar|adlátere|acólito
 do ut des|1
@@ -25993,6 +26004,10 @@ endovenoso|1
 -|intravenoso
 endógeno|1
 -|interno|interior
+endrina|1
+(f.)|arañón|arán
+endrino|1
+-|bruno|moreno|oscuro|negro|prieto
 endulzado|1
 -|edulcorado|azucarado|dulzón
 endulzamiento|1
@@ -26067,7 +26082,7 @@ enfadadizo|1
 enfadado|4
 -|cabreado|enojado|colérico|iracundo|airado
 -|encolerizado|enojado|irritado|enfurecido|crispado|airado|exasperado|cabreado
--|negro|irritado|molesto|enojado|indignado|cabreado|frito
+-|negro|irritado|molesto|enojado|indignado|cabreado|frito|airado
 -|quemado|descontento|harto|molesto|cabreado|mosca|mosqueado|hasta las narices|hasta la coronilla
 enfadar|11
 -|agriar|irritar|exasperar|excitar|amargar|exacerbar|exaltar|airar|encolerizar
@@ -26686,7 +26701,7 @@ enojado|4
 -|bravo|fiero|feroz|embravecido|impetuoso|irritado|salvaje|colérico
 -|cabreado|enfadado|colérico|iracundo|airado
 -|encolerizado|irritado|enfurecido|enfadado|crispado|airado|exasperado|cabreado
--|negro|irritado|molesto|enfadado|indignado|cabreado|frito
+-|negro|irritado|molesto|enfadado|indignado|cabreado|frito|airado
 enojar|9
 -|airar|enfurecer|encolerizar|exasperar|enardecer|indignar|enfadar|irritar|alterar|cabrear
 -|amohinar|enfadar|irritar|contrariar
@@ -27211,7 +27226,7 @@ entreabrir|1
 entreacto|1
 -|descanso|pausa
 entreambos|1
--|ambos|los dos|uno y otro
+-|ambos
 entrebarrera|1
 -|callejón
 entrecano|1
@@ -28032,7 +28047,7 @@ escardar|2
 escardillar|1
 -|escardar|desbrozar|deshebrar|desyerbar|sachar
 escariador|1
--|barrena|berbiquí|taladro|broca|fresa|cincel|escobina|escoplo|lezna|punzón|sacabocados|avellanador|trépano
+-|barrena|berbiquí|taladro|broca|fresa|cincel|escobina|escoplo|lezna|punzón|sacabocados|avellanador|trépano|mecha
 escarlata|2
 -|grana|rojo
 -|sanguíneo|sangriento|rojo
@@ -28185,7 +28200,7 @@ escobillón|2
 -|barredera|cepillo|escoba|escobón
 -|brocha|pincel|cepillo|brochón|escobilla|escobeta
 escobina|1
--|barrena|berbiquí|taladro|broca|fresa|cincel|escariador|escoplo|lezna|punzón|sacabocados|avellanador|trépano
+-|barrena|berbiquí|taladro|broca|fresa|cincel|escariador|escoplo|lezna|punzón|sacabocados|avellanador|trépano|mecha
 escobón|2
 -|barredera|cepillo|escoba|escobillón
 -|lampazo|bayeta|estropajo|trapo
@@ -28262,7 +28277,7 @@ escopetazo|2
 -|contrariedad|golpe|palo|jarro de agua fría
 -|disparo|tiro
 escoplo|2
--|barrena|berbiquí|taladro|broca|fresa|cincel|escariador|escobina|lezna|punzón|sacabocados|avellanador|trépano
+-|barrena|berbiquí|taladro|broca|fresa|cincel|escariador|escobina|lezna|punzón|sacabocados|avellanador|trépano|mecha
 -|buril|cincel|graneador|punzón|cortafrío|gubia
 escorar|1
 -|ladear|sesgar|inclinar|torcer|terciar|doblar|soslayar|desplazar|arrinconar|perfilar
@@ -32486,7 +32501,7 @@ foráneo|6
 -|exterior|extranjero
 -|externo|extranjero|forastero
 forcaz|1
-(m.)|carro|carreta|carromato|carruaje|coche|auto|automóvil|plaustro
+(m.)|carro|carreta|carromato|carruaje|coche|auto|automóvil
 forcejear|2
 -|bracear|nadar|luchar
 -|debatir|combatir|batallar|luchar|pelear
@@ -32813,7 +32828,7 @@ frente a|2
 -|ante|delante|en presencia de
 -|versus|contra
 fresa|3
--|barrena|berbiquí|taladro|broca|cincel|escariador|escobina|escoplo|lezna|punzón|sacabocados|avellanador|trépano
+-|barrena|berbiquí|taladro|broca|cincel|escariador|escobina|escoplo|lezna|punzón|sacabocados|avellanador|trépano|mecha
 -|berbiquí|broca|taladro|sacabocados|barrena
 -|lima|escofina|limatón|mediacaña|listón
 fresar|1
@@ -32852,7 +32867,7 @@ frisar|1
 friso|1
 -|basa|apoyo|pedestal|cimiento|basamento|podio|base|zócalo|fundamento|plinto|sostén|peana
 frito|1
--|negro|irritado|molesto|enfadado|enojado|indignado|cabreado
+-|negro|irritado|molesto|enfadado|enojado|indignado|cabreado|airado
 frivolidad|3
 -|bagatela|nimiedad|nadería|friolera|futilidad|futesa|fruslería|necedad|nonada|pamplina|chuchería|baratija|insignificancia|puerilidad|tontería|minucia|menudencia
 -|liviandad|ligereza|volubilidad|deshonestidad
@@ -34061,10 +34076,9 @@ geriatría|1
 gerifalte|2
 -|halcón
 -|mandamás|jefazo|jefe|líder|dirigente|cabecilla
-germanía|3
+germanía|2
 -|jerga|argot|dialecto|jerigonza|lenguaje
 -|jerga|jerigonza|argot|galimatías
--|lengua|dialecto|lenguaje|idioma|habla|jerga|argot|jerigonza
 germano|1
 -|alemán|germánico|teutónico|teutón|tudesco|ario
 germánico|2
@@ -34726,7 +34740,7 @@ gozoso|2
 -|dichoso|feliz|afortunado|alborozado|complacido|encantado|radiante|alegre|jubiloso
 -|jubiloso|alborozado|alegre|radiante|contento|satisfecho|jovial|festivo
 gozque|1
--|can|perro|cusco|chucho
+-|can|perro|chucho
 góndola|2
 -|autobús|ómnibus|guagua
 -|embarcación|barca
@@ -35983,7 +35997,7 @@ habituar|4
 habla|4
 -|deje|acento
 -|lenguaje|idioma|lengua|jerga|jerigonza|verbo|estilo
--|lengua|dialecto|lenguaje|idioma|jerga|argot|germanía|jerigonza
+-|lengua|dialecto|lenguaje|idioma|jerga
 -|palabra|voz
 hablado|1
 -|oral|verbal|vocal
@@ -36729,6 +36743,8 @@ hogar|3
 -|nido|techo|conejera|nidal|madriguera|ponedero|residencia|cavidad|vivienda|morada|casa|refugio|hueco|pajarera
 hogareño|1
 -|familiar|casero|íntimo
+hogaza|1
+(f.)|pan
 hoguera|1
 -|candela|vela|cirio|lumbre|brasa|fuego|llama|ascua|rescoldo|carbón
 hoja|3
@@ -37232,7 +37248,7 @@ idéntico|3
 -|par|equivalente|parejo|similar
 idioma|2
 -|lenguaje|lengua|habla|jerga|jerigonza|verbo|estilo
--|lengua|dialecto|lenguaje|habla|jerga|argot|germanía|jerigonza
+-|lengua|dialecto|lenguaje|habla|jerga
 idiota|6
 -|babieca|memo|bobo|pasmado|pazguato|papanatas|tontaina|bobalicón|estúpido|majadero|simple|tonto|patoso|imbécil|tarado
 -|burro|torpe|necio|ignorante|inculto|rudo|adoquín|tonto|imbécil|zote|zopenco|zoquete
@@ -38076,7 +38092,7 @@ increíble|5
 -|fantástico|inexistente|utópico|quimérico
 -|imposible|inútil|inasequible|inalcanzable|irrealizable|inverosímil|ficticio|impracticable|difícil
 incremento|5
-(m. fig.)|productividad|rendimiento
+(m. fig.)|productividad|rendimiento|abundancia
 -|acrecentamiento|crecimiento|aumento|ampliación
 -|alza|subida|aumento|elevación|ascenso|acrecentamiento|encarecimiento
 -|desarrollo|crecimiento|ampliación|expansión
@@ -38260,7 +38276,7 @@ indigesto|2
 indigna|1
 -|rastrera (fig.)|baja (fig.)|vil (fig.)|despreciable (fig.)|indigna (fig.)|abyecta (fig.)
 indignado|1
--|negro|irritado|molesto|enfadado|enojado|cabreado|frito
+-|negro|irritado|molesto|enfadado|enojado|cabreado|frito|airado
 indignante|1
 -|enervante|irritante|exasperante|enloquecedor|cabreante
 indignar|3
@@ -38341,11 +38357,11 @@ indomable|3
 -|zahareño|rebelde|arisco|cerril|rudo|tosco|intratable|insociable|montaraz
 indócil|3
 -|empecatado|desobediente|díscolo|indomable
--|levantisco|subversivo|alborotador|díscolo|revoltoso|turbulento|indómito|insurrecto|insumiso|rebelde
+-|levantisco|subversivo|alborotador|díscolo|revoltoso|turbulento|indómito|insurrecto|insumiso|rebelde|irredento
 -|rebelde|sublevado|insurgente|insurrecto|desobediente|indisciplinado|reacio
 indómito|2
 -|bravío|feroz|salvaje|fiero|bravo|cerril|cimarrón|montaraz|indomable|inflexible|abestiado|agreste|áspero|silvestre|campestre|arisco
--|levantisco|subversivo|alborotador|díscolo|indócil|revoltoso|turbulento|insurrecto|insumiso|rebelde
+-|levantisco|subversivo|alborotador|díscolo|indócil|revoltoso|turbulento|insurrecto|insumiso|rebelde|irredento
 inducción|2
 -|abstracción|conceptualización (NoRAE)|idealización|generalización|idea|ensimismamiento|contemplación|meditación|concepto|noción|percepción|apercepción|aprehensión|representación
 -|magnetismo|fascinación|hechizo|atracción|sugestión
@@ -39195,7 +39211,7 @@ insulto|3
 -|fango|vergüenza|deshonra|vilipendio|descrédito|humillación|degradación|calumnia|ofensa|injuria
 -|juramento|palabrota|blasfemia|protesta|reniego|taco|denuesto|maldición|imprecación|dicterio|grosería|irreverencia|execración|injuria|ultraje|vituperio
 insumiso|1
--|levantisco|subversivo|alborotador|díscolo|indócil|revoltoso|turbulento|indómito|insurrecto|rebelde
+-|levantisco|subversivo|alborotador|díscolo|indócil|revoltoso|turbulento|indómito|insurrecto|rebelde|irredento
 insuperable|1
 -|irresistible|arrollador|incontenible|irreprimible|insoportable|inaguantable|invencible|invicto|encantador|atrayente|atractivo
 insurgente|1
@@ -39205,7 +39221,7 @@ insurreccionarse|1
 insurrección|1
 -|rebelión|alzamiento|levantamiento|sublevación
 insurrecto|2
--|levantisco|subversivo|alborotador|díscolo|indócil|revoltoso|turbulento|indómito|insumiso|rebelde
+-|levantisco|subversivo|alborotador|díscolo|indócil|revoltoso|turbulento|indómito|insumiso|rebelde|irredento
 -|rebelde|sublevado|insurgente|desobediente|indócil|indisciplinado|reacio
 insustancial|5
 -|baladí|insignificante|intrascendente|nimio|pueril|superficial|trivial|despreciable
@@ -39692,6 +39708,8 @@ irrebatible|1
 -|axiomático|evidente|incuestionable|indiscutible|incontrovertible|seguro|probado
 irreconciliable|1
 -|antagónico|antagonista|opuesto|contrario|incompatible|dispar
+irredento|1
+-|levantisco|subversivo|alborotador|díscolo|indócil|revoltoso|turbulento|indómito|insurrecto|insumiso|rebelde
 irreflexión|1
 -|ligereza|inconstancia|trivialidad|futilidad
 irreflexivo|7
@@ -39768,7 +39786,7 @@ irritación|4
 irritado|3
 -|bravo|fiero|feroz|embravecido|impetuoso|salvaje|colérico|enojado
 -|encolerizado|enojado|enfurecido|enfadado|crispado|airado|exasperado|cabreado
--|negro|molesto|enfadado|enojado|indignado|cabreado|frito
+-|negro|molesto|enfadado|enojado|indignado|cabreado|frito|airado
 irritante|4
 -|cabreante|enojoso|molesto|fastidioso
 -|enervante|exasperante|enloquecedor|indignante|cabreante
@@ -40134,17 +40152,16 @@ jerga|6
 -|jerigonza|argot|germanía|galimatías
 -|léxico|glosario|diccionario|lexicón|vocabulario|terminología|lenguaje
 -|lenguaje|idioma|lengua|habla|jerigonza|verbo|estilo
--|lengua|dialecto|lenguaje|idioma|habla|argot|germanía|jerigonza
+-|lengua|dialecto|lenguaje|idioma|habla
 jergón|2
 -|colchón|colchoneta|camastro|somier
 -|yacija|cama|camastro|catre|lecho|piltra|tálamo|hamaca|litera
 jerifalte|1
 -|jerarca|jefe|dignatario|mandatario|personaje|figurón
-jerigonza|4
+jerigonza|3
 -|germanía|jerga|argot|dialecto|lenguaje
 -|jerga|argot|germanía|galimatías
 -|lenguaje|idioma|lengua|habla|jerga|verbo|estilo
--|lengua|dialecto|lenguaje|idioma|habla|jerga|argot|germanía
 jeringa|3
 -|cánula|jeringuilla|inyección|lavativa
 -|jeringuilla
@@ -41530,7 +41547,7 @@ lene|2
 -|vago|indeterminado|leve|ligero|vaporoso|ingrávido|liviano|sutil|tenue|etéreo
 lengua|5
 -|cabo|promontorio|angla
--|dialecto|lenguaje|idioma|habla|jerga|argot|germanía|jerigonza
+-|dialecto|lenguaje|idioma|habla|jerga
 -|franja|tierra|unión
 -|lenguaje|idioma|habla|jerga|jerigonza|verbo|estilo
 -|sinhueso
@@ -41538,7 +41555,7 @@ lenguaje|4
 -|germanía|jerga|argot|dialecto|jerigonza
 -|idioma|lengua|habla|jerga|jerigonza|verbo|estilo
 -|léxico|glosario|diccionario|lexicón|vocabulario|terminología|jerga
--|lengua|dialecto|idioma|habla|jerga|argot|germanía|jerigonza
+-|lengua|dialecto|idioma|habla|jerga
 lenguarada|2
 -|lengüetada|lamedura
 -|lengüetada|lamida|lametón|lengüetazo|lamedura
@@ -41722,7 +41739,7 @@ levantarse|1
 levante|1
 -|oriente|este|saliente|naciente
 levantisco|1
--|subversivo|alborotador|díscolo|indócil|revoltoso|turbulento|indómito|insurrecto|insumiso|rebelde
+-|subversivo|alborotador|díscolo|indócil|revoltoso|turbulento|indómito|insurrecto|insumiso|rebelde|irredento
 levar|1
 -|izar|elevar|alzar|levantar
 levar anclas|1
@@ -41777,7 +41794,7 @@ leyente|1
 leyes|1
 -|abogacía|derecho|jurisprudencia
 lezna|2
--|barrena|berbiquí|taladro|broca|fresa|cincel|escariador|escobina|escoplo|punzón|sacabocados|avellanador|trépano
+-|barrena|berbiquí|taladro|broca|fresa|cincel|escariador|escobina|escoplo|punzón|sacabocados|avellanador|trépano|mecha
 -|subilla|alezna|punzón
 légamo|2
 -|fango|lodo|barro|cieno|limo
@@ -42958,8 +42975,6 @@ loro|3
 -|guacamayo|papagayo|cotorra|cacatúa
 -|locuaz|charlatán
 -|papagayo
-los dos|1
--|ambos|entreambos|uno y otro
 losa|6
 -|abismo|precipicio|sima|talud|barranco|despeñadero|barranca|torrentera|cauce|descolgadero (NoRAE)|quebrada|rambla|ramblazo|rehoyo|atolladero|bancal|vacío
 -|adoquín|piedra
@@ -44151,7 +44166,7 @@ manumiso|1
 manumitir|1
 -|autonomizar|independizar|emancipar|desvincular|separar|liberar|soltar
 manutención|2
--|alpiste|alimento|sustento
+-|alpiste|alimento|sustento|pan
 -|nutrición|alimentación|sustento|sostenimiento|mantenimiento|ingestión|avituallamiento|alimento
 manzana|1
 -|barrio|alfoz|distrito|arrabal|barriada|suburbio|ciudadela|ensanche|extrarradio|intramuros|judería|morería
@@ -44671,6 +44686,8 @@ mecer|4
 -|balancear|equilibrar|bambolear|contonear|menear|mover|ondular|oscilar|igualar|columpiar|dudar|titubear|vacilar|tambalearse|fluctuar
 -|brizar|cunear|acunar|columpiar
 -|ondear|ondular|flamear|flotar|agitar|sacudir
+mecha|1
+-|barrena|berbiquí|taladro|broca|fresa|cincel|escariador|escobina|escoplo|lezna|punzón|sacabocados|avellanador|trépano
 mechar|1
 -|rellenar
 mechero|1
@@ -44690,6 +44707,8 @@ mediado|1
 -|incompleto|inconcluso
 mediador|1
 -|juez|magistrado|árbitro|enjuiciador (NoRAE)|sentenciador|togado
+medialuna|1
+(m.)|cruasán|croissant (NoRAE)|bollo
 mediana del arado|1
 -|barzón|arzón|coyunda
 mediano|1
@@ -45566,7 +45585,7 @@ moderar|1
 modernización|1
 -|actualización|aggiornamento (NoRAE)|puesta al día
 modernizar|1
--|actualizar|renovar|desempolvar|refrescar|poner al día
+-|actualizar|renovar|desempolvar|refrescar|poner al día|renacer
 moderno|5
 -|flamante|novedoso|innovador|reciente|nuevo|original
 -|neo|nuevo|reciente
@@ -45654,7 +45673,7 @@ mojón|2
 molde|1
 -|paradigma|ejemplo|arquetipo|dechado|modelo|muestra|pauta|prototipo|canon|ideal|tipo
 moldear|1
--|ahormar|adaptar|ajustar|amoldar
+-|personalizar|ahormar|adaptar|ajustar|amoldar
 moldura|2
 -|bocel|saliente|resalto|listón|estría
 -|listón|listel|tabla
@@ -45701,7 +45720,7 @@ molesto|8
 -|incómodo|embarazado|fastidioso|pesado|desagradable|inaguantable|amargo|disgustado|enojoso|enfadoso
 -|latoso|pesado|plúmbeo|plomo|rollo|petardo|incordiante (NoRAE)|pelma|cargante|chinche
 -|maloliento (NoRAE)|apestoso|fétido|hediondo|insoportable
--|negro|irritado|enfadado|enojado|indignado|cabreado|frito
+-|negro|irritado|enfadado|enojado|indignado|cabreado|frito|airado
 -|quemado|enfadado|descontento|harto|cabreado|mosca|mosqueado|hasta las narices|hasta la coronilla
 molestoso|1
 -|empachoso|empalagoso|meloso|pegajoso|cargante|estomagante|fastidioso
@@ -45719,6 +45738,8 @@ mollera|3
 -|azotea|cabeza|chola|tarro|torrado|coco
 -|magín|cabeza|mente|entendimiento|imaginación|ingenio|inteligencia|talento|juicio|cerebro|caletre|cacumen|sesera|seso|meollo|chispa|agudeza|perspicacia
 -|testuz|cabeza|cerviz|cogote|testa|coco|cráneo|chola|molondro|sesera|cholla|coca|casco|calabaza|tiesto|morra|molondra|testera
+mollete|1
+(m.)|bollo|panecillo
 molondra|1
 -|testuz|cabeza|cerviz|cogote|testa|coco|cráneo|chola|molondro|mollera|sesera|cholla|coca|casco|calabaza|tiesto|morra|testera
 molondro|1
@@ -45954,7 +45975,7 @@ mordisco|1
 mordisquear|1
 -|rumiar|pensar|considerar|triturar|estudiar|reflexionar|meditar|urdir|masticar|examinar|tramar|mascar|desmenuzar
 moreno|2
--|bruno|oscuro|negro
+-|endrino|bruno|oscuro|negro|prieto
 -|pardo|bronceado|oscuro|tostado|atezado|dorado|quemado
 morería|2
 -|barrio|alfoz|distrito|arrabal|barriada|suburbio|ciudadela|ensanche|extrarradio|intramuros|judería|manzana
@@ -46860,10 +46881,10 @@ negrero|2
 -|abusón|explotador|déspota|logrero|tirano|opresor
 -|vampiro|sanguijuela|explotador|usurero|aprovechado
 negro|5
--|bruno|moreno|oscuro
 -|bruno|sable
 -|desfavorable|desafortunado|desventurado|adverso|infeliz|infausto|aciago|sombrío|triste
--|irritado|molesto|enfadado|enojado|indignado|cabreado|frito
+-|endrino|bruno|moreno|oscuro|prieto
+-|irritado|molesto|enfadado|enojado|indignado|cabreado|frito|airado
 -|oscuro|sombrío|umbrío|umbroso|umbrátil|sombreado|tenebroso
 negror|1
 -|negrura|opacidad|turbiedad|oscuridad
@@ -47662,6 +47683,8 @@ obnubilar|2
 -|nublar|enturbiar|velar|cegar|confundir|perturbar|trastornar|ofuscar
 obnubilarse|1
 -|atocinarse|aturdirse|ofuscarse|cegarse|obcecarse|obstinarse
+oboe|1
+-|oboe
 obra|5
 -|acción|actividad|acto|energía|influencia|batalla|argumento|bono|movimiento|hecho|entusiasmo|evento|acontecimiento
 -|arquitectura|edificación|construcción|cimentación|edificio|inmueble|bloque|casa
@@ -48454,7 +48477,7 @@ ordenado|2
 -|organizado|metódico|regular
 ordenador|2
 (adj.)|organizador|catalogador|coordinador|reformador|regulador|orientador|desorganizador (Antï¿½nimo)
-(f.)|procesadora|computador|CPU (NoRAE)|PC (NoRAE)|computadora
+(f.)|procesadora|computador|PC|CPU|computadora
 ordenamiento|3
 -|ordenación|orden|colocación|distribución
 -|ordenanza|reglamento|estatuto|norma|decreto
@@ -48770,7 +48793,7 @@ oscuro|9
 -|bizantino|enredoso|enrevesado|sutil|intrincado|embrollado|enmarañado|lioso|confuso|complicado|caótico
 -|borroso|turbio|velado|confuso|ininteligible|nebuloso|opaco|impreciso
 -|brumoso|nublado|nebuloso|neblinoso|caliginoso|sombrío
--|bruno|moreno|negro
+-|endrino|bruno|moreno|negro|prieto
 -|moreno|pardo|bronceado|tostado|atezado|dorado|quemado
 -|negruzco|renegrido
 -|obscuro
@@ -48938,7 +48961,7 @@ paliar|2
 paraíso|5
 -|cielo|Gloria
 pc|1
-(f.)|procesadora|computador|ordenador|CPU (NoRAE)|PC (NoRAE)|computadora
+(f.)|procesadora|computador|ordenador|CPU|computadora
 pelota|2
 -|Balón|esférico|bola|canica|globo
 perplejidad|3
@@ -49162,6 +49185,9 @@ pamplina|1
 -|bagatela|nimiedad|nadería|frivolidad|friolera|futilidad|futesa|fruslería|necedad|nonada|chuchería|baratija|insignificancia|puerilidad|tontería|minucia|menudencia
 pamplinas|1
 -|garambainas|sandeces|tonterías|bobadas
+pan|2
+(f.)|hogaza
+-|alpiste|alimento|sustento|manutención
 pan dulce|1
 -|cola|nalgas|culo|posaderas|trasero|huesito dulce (NoRAE)
 panacea|1
@@ -49189,7 +49215,8 @@ pandilla|4
 (prnl.)|lechigada|cuadrilla|banda|grupo
 -|facción|bando|bandería|grupo|partido|camarilla|valía|parcialidad
 -|gavilla|cuadrilla
-panecillo|1
+panecillo|2
+(m.)|bollo|mollete
 -|bocadillo|emparedado|sándwich|medianoche|bocata
 panegírico|3
 -|apología|alabanza|elogio|encomio|loa|loor|encarecimiento|enaltecimiento|defensa
@@ -50645,7 +50672,7 @@ perra|2
 (f.)|pereza|gandulería|poltronería|desidia|galbana|ignavia (p. us.)|pigricia (p. us.)|haronía (p. us.)|holgazanería|chucha|negligencia
 -|zorrón|prostituta|ramera|fulana|pelandusca|zorra|puta
 perro|1
--|can|cusco|chucho|gozque
+-|can|chucho|gozque
 perro policía|1
 -|alsaciano|ovejero|manto negro|pastor alemán|ovejero alemán|Deutscher Scháferhund (NoRAE)
 persecución|2
@@ -50691,6 +50718,8 @@ personalismo|1
 -|exclusivismo|partidismo|parcialidad|fanatismo
 personalista|1
 -|exclusivista|partidista|parcial|fanático
+personalizar|1
+-|ahormar|adaptar|ajustar|amoldar|moldear
 personarse|2
 (tr.)|presentar|acudir
 -|acudir|comparecer|presentarse|asistir|ir|venir|aparecer
@@ -51393,8 +51422,6 @@ plausible|3
 -|creíble|verosímil|veraz|factible|probable|posible
 -|laudable|loable|elogiable|meritorio|encomiable|admirable|ejemplar
 -|loable|encomiable|laudable|ensalzable (NoRAE)
-plaustro|1
-(m.)|carro|carreta|carromato|carruaje|coche|auto|automóvil|forcaz
 playa|1
 -|litoral|costa|ribera|orilla|margen
 playboy|1
@@ -51673,7 +51700,7 @@ poner a la defensiva|1
 poner al corriente|1
 -|enterar|informar|notificar|comunicar|contar|explicar|instruir
 poner al día|1
--|actualizar|modernizar|renovar|desempolvar|refrescar
+-|actualizar|modernizar|renovar|desempolvar|refrescar|renacer
 poner en cobro|1
 -|recoger|cosechar|recolectar|coger|guardar|juntar|reunir|congregar|acopiar|acoger|dar asilo|retirarse|encerrarse|refugiarse|acogerse|abstraerse|ensimismarse|reconcentrarse
 poner en marcha|1
@@ -52503,7 +52530,8 @@ previsión|1
 préstamo|2
 -|anticipo|pago
 -|empréstito|crédito
-prieto|2
+prieto|3
+-|endrino|bruno|moreno|oscuro|negro
 -|entallado|ceñido|ajustado
 -|estrecho|angosto|ajustado|apretado|ceñido
 primario|2
@@ -52687,7 +52715,7 @@ procesado|1
 procesador|1
 -|microprocesador|chip|CPU (NoRAE)|microcontrolador|semiconductor
 procesadora|1
-(f.)|computador|ordenador|CPU (NoRAE)|PC (NoRAE)|computadora
+(f.)|computador|ordenador|PC|CPU|computadora
 procesal|3
 -|judicial|legal|jurídico|contencioso|sumarial|legislativo
 -|jurídico|legal|judicial|forense|sumarial
@@ -52744,7 +52772,7 @@ producirse|3
 -|pasar|acontecer|ocurrir|suceder|sobrevenir|acaecer|advenir|tener lugar
 -|verificarse|cumplirse|verismo|veracidad|realismo|crudeza
 productividad|1
-(m. fig.)|rendimiento|incremento
+(m. fig.)|rendimiento|incremento|abundancia
 productivo|4
 -|fecundo|prolífico
 -|generoso|fértil|fecundo|rico
@@ -53512,7 +53540,7 @@ punzar|2
 -|barrenar|agujerear|taladrar|atravesar|calar|trepanar|horadar|fresar|perforar
 -|chutarse (NoRAE)|chinchar|atravesar|herir|apuñalar|instigar|incitar|picar|agujerear|acuciar|provocar|drogarse|fastidiar|clavar
 punzón|3
--|barrena|berbiquí|taladro|broca|fresa|cincel|escariador|escobina|escoplo|lezna|sacabocados|avellanador|trépano
+-|barrena|berbiquí|taladro|broca|fresa|cincel|escariador|escobina|escoplo|lezna|sacabocados|avellanador|trépano|mecha
 -|buril|cincel|graneador|cortafrío|escoplo|gubia
 -|lezna|subilla|alezna
 puñado|1
@@ -53987,8 +54015,7 @@ rabisalsera|1
 -|verdulera|descarada|ordinaria|grosera|vulgar|rabanera
 rabí|1
 -|rabino
-rabo|2
--|cola
+rabo|1
 -|verga|pene|falo|miembro viril|pito|polla|picha|minga|cipote|carajo|miembro|instrumento|plátano|pepino|pistola (fig.)|manubrio|pilila|pinchila (NoRAE)|banana|mástil
 racha|1
 -|ráfaga|jugada|destello
@@ -54576,7 +54603,7 @@ rebelarse|1
 rebelde|8
 -|alzado|sublevado|amotinado|faccioso|sedicioso
 -|contumaz
--|levantisco|subversivo|alborotador|díscolo|indócil|revoltoso|turbulento|indómito|insurrecto|insumiso
+-|levantisco|subversivo|alborotador|díscolo|indócil|revoltoso|turbulento|indómito|insurrecto|insumiso|irredento
 -|opuesta|refractaria|contraria
 -|reacio|reacia|desobediente|inobediente|remiso|renuente|reluctante
 -|refractario|contrario|opuesto
@@ -55431,7 +55458,7 @@ refrendo|2
 -|testimonio|afirmación|certificación|declaración|evidencia|prueba|testificación
 refrescar|4
 (tr.)|abrevar|regar|remojar|saciar|trasegar
--|actualizar|modernizar|renovar|desempolvar|poner al día
+-|actualizar|modernizar|renovar|desempolvar|poner al día|renacer
 -|beber|tragar|tomar|libar|succionar|absorber|ingerir|copear|escanciarse (NoRAE)|pimplar|soplar|chingar|trincar|paladear|sorber|chupar|catar
 -|enfriar|refrigerar
 refresco|4
@@ -55937,6 +55964,8 @@ remunerar|3
 -|gratificar|pagar|retribuir|premiar|indemnizar|recompensar|galardonar
 -|pagar|abonar|satisfacer|retribuir|fertilizar|enriquecer|acreditar|avalar|respaldar|sufragar
 -|recompensar|compensar|retribuir|premiar|galardonar
+renacer|1
+-|actualizar|modernizar|renovar|desempolvar|refrescar|poner al día
 renacuajo|1
 -|cabezudo
 renal|1
@@ -55956,7 +55985,7 @@ rendija|3
 -|fisura|incisura|rajadura|corte|grieta|hendidura
 -|grieta|raja|corte|fisura|hendidura|resquicio|abertura|hueco
 rendimiento|7
-(m. fig.)|productividad|incremento
+(m. fig.)|productividad|incremento|abundancia
 -|aprovechamiento|beneficio|conveniencia|utilización|explotación|uso|usufructo
 -|eficacia|efectividad|eficiencia|competencia|capacidad|aptitud|validez|operatividad|fuerza|poder
 -|ganancia|fruto|beneficio|lucro|provecho
@@ -55998,7 +56027,7 @@ renovador|2
 -|avanzado|progresista|liberal|innovador|reformista
 -|innovador|reformador|progresista
 renovar|1
--|actualizar|modernizar|desempolvar|refrescar|poner al día
+-|actualizar|modernizar|desempolvar|refrescar|poner al día|renacer
 renta|3
 -|capital|haber|caudal|hacienda
 -|jubilación|subsidio|pensión|subvención|compensación
@@ -56905,7 +56934,7 @@ revoltoso|4
 -|bullanguero|bullicioso|pendenciero|alborotador|escandaloso|inquieto|juerguista|jaranero|parrandero|bochinchero
 -|bullebulle|alocado|entremetido|inquieto|irreflexivo|vivaracho|travieso
 -|enredador|juguetón|travieso|retozón|bullicioso|inquieto|trasto
--|levantisco|subversivo|alborotador|díscolo|indócil|turbulento|indómito|insurrecto|insumiso|rebelde
+-|levantisco|subversivo|alborotador|díscolo|indócil|turbulento|indómito|insurrecto|insumiso|rebelde|irredento
 revolucionario|2
 -|jacobino|exaltado|violento|radical|completo (fig.)|total (fig.)|extremado (fig.)|extremista (fig.)|extremo
 -|vanguardista|moderno|actual
@@ -57692,7 +57721,7 @@ saburra|1
 saca|1
 -|saco|costal|talego
 sacabocados|2
--|barrena|berbiquí|taladro|broca|fresa|cincel|escariador|escobina|escoplo|lezna|punzón|avellanador|trépano
+-|barrena|berbiquí|taladro|broca|fresa|cincel|escariador|escobina|escoplo|lezna|punzón|avellanador|trépano|mecha
 -|berbiquí|broca|taladro|fresa|barrena
 sacacorchos|1
 -|descorchador|tirabuzón
@@ -60131,7 +60160,7 @@ subvención|3
 subversión|1
 -|golpismo
 subversivo|1
--|levantisco|alborotador|díscolo|indócil|revoltoso|turbulento|indómito|insurrecto|insumiso|rebelde
+-|levantisco|alborotador|díscolo|indócil|revoltoso|turbulento|indómito|insurrecto|insumiso|rebelde|irredento
 subvertir|1
 -|trastornar
 subyacente|1
@@ -60564,7 +60593,7 @@ sustentar|2
 sustentarse|1
 -|gravitar|cargar|descansar|apoyarse|estribar|pesar|cimentarse|fundamentarse
 sustento|4
--|alpiste|alimento|manutención
+-|alpiste|alimento|manutención|pan
 -|arrimadero|arrimo|amparo|auxilio|sostén|favor|apoyo|protección|cobijo|consuelo|báculo
 -|nutrición|alimentación|sostenimiento|mantenimiento|ingestión|manutención|avituallamiento|alimento
 -|yantar|comida|vianda|alimento|manjar|comestible|colación|manduca
@@ -60617,7 +60646,7 @@ todopoderoso|3
 -|Dios|Jehová|Altísimo|Alá
 -|Yahvé|Jehová|Dios|Señor|Altísimo|Creador|Padre
 tv|1
-(f.)|televisión|tele|caja tonta
+(f.)|televisión|tele
 taba|1
 -|astrágalo
 tabaco|1
@@ -60747,7 +60776,7 @@ talabartero|1
 taladrar|1
 -|barrenar|agujerear|atravesar|calar|trepanar|punzar|horadar|fresar|perforar
 taladro|3
--|barrena|berbiquí|broca|fresa|cincel|escariador|escobina|escoplo|lezna|punzón|sacabocados|avellanador|trépano
+-|barrena|berbiquí|broca|fresa|cincel|escariador|escobina|escoplo|lezna|punzón|sacabocados|avellanador|trépano|mecha
 -|barreno|orificio|agujero
 -|berbiquí|broca|fresa|sacabocados|barrena
 talante|4
@@ -61048,7 +61077,7 @@ tela|3
 telamón|1
 -|atlante
 tele|1
-(f.)|televisión|TV|caja tonta
+(f.)|televisión|TV
 telediario|1
 -|noticias|noticiario|noticiero|parte|informativo
 teledifusión|1
@@ -61066,7 +61095,7 @@ telescopio|2
 -|anteojo|catalejo
 -|lente|vidrio|cristal|lupa|lentilla|monóculo
 televisión|1
-(f.)|tele|TV|caja tonta
+(f.)|tele|TV
 telilla|1
 -|binza|laminilla|película|membrana|cutícula
 telón|1
@@ -61676,6 +61705,10 @@ tiroideo|1
 -|glandular|excretor|endocrino|glanduloso|sebáceo|suprarrenal
 tiroides|1
 -|glándula|folículo|órgano|hígado|mama|páncreas|bazo|riñón|amígdala|próstata|testículo|ovario
+tirolesa|1
+-|tirolina|cuerda|cable
+tirolina|1
+-|tirolesa|cuerda|cable
 tirotear|2
 -|abalear|balear|balacear|disparar
 -|ametrallar|acribillar|balear|balacear
@@ -62664,7 +62697,7 @@ treta|7
 -|lilaila|truhanería|bribonada|granujada|picardía|rufianería|vileza|astucia|bellaquería
 -|tinglado|embrollo|enredo|añagaza|intriga|lío|maquinación|artimaña|ardid|trampa|artificio|engaño|embeleco
 trépano|1
--|barrena|berbiquí|taladro|broca|fresa|cincel|escariador|escobina|escoplo|lezna|punzón|sacabocados|avellanador
+-|barrena|berbiquí|taladro|broca|fresa|cincel|escariador|escobina|escoplo|lezna|punzón|sacabocados|avellanador|mecha
 tribu|2
 -|cabila|clan
 -|familia|comunidad|clan|grupo
@@ -63025,7 +63058,7 @@ turbina|1
 turbio|1
 -|borroso|velado|confuso|ininteligible|nebuloso|oscuro|opaco|impreciso
 turbulento|2
--|levantisco|subversivo|alborotador|díscolo|indócil|revoltoso|indómito|insurrecto|insumiso|rebelde
+-|levantisco|subversivo|alborotador|díscolo|indócil|revoltoso|indómito|insurrecto|insumiso|rebelde|irredento
 -|lluvioso|borrascoso|pluvioso|tormentoso|tempestuoso|inclemente|huracanado|riguroso|proceloso
 turca|1
 -|bimba|sombrero|chistera|hongo|borrachera (fig.)|melopea (fig.)|curda (fig.)|mona (fig.)|embriaguez|ebriedad|merluza (fig.)|tajada|cogorza|moña|llorona|tranca|tablón|juma|jumera|pea|pítima|manta|pedal|pedo|cuelgue
@@ -63308,8 +63341,6 @@ unívoco|1
 uno|2
 -|individuo|individualidad|unidad|singular
 -|indiviso|inseparable|distinto|simple|único
-uno y otro|1
--|ambos|entreambos|los dos
 untadura|1
 -|untamiento|untura|unto|ungüento
 untamiento|1
