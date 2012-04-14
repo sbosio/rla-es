@@ -6,7 +6,7 @@
   **  VERSIÓN __LOCALE_TEXT__                      **
   ****************************************************************************
 
-                                   Versión 0.5
+                                   Versión 0.6
 
 SUMARIO
 
@@ -25,7 +25,7 @@ quien actualmente coordina el desarrollo de todos los diccionarios localizados.
    Si desea contactar al autor, por favor envíe sus mensajes mediante correo
 electrónico a:
 
-	sbosio <en> openoffice <punto> org
+	santiago.bosio <en> gmail <punto> com
         (reemplace <en> por @ y <punto> por . al enviar su mensaje)
 
    El diccionario es un desarrollo completamente nuevo, y NO ESTÁ BASADO en el
@@ -175,5 +175,11 @@ creación de este diccionario. Se agradece especialmente a:
    - Ricardo Palomares Martínez.
    - Sergio Medina.
    - Ismael Olea.
+   - Alejandro Moreno.
+   - Alexandro Colorado.
+   - Andrés Sánchez.
+   - Juan Rafael Fernández García.
+   - KNTRO
+   - Ricardo Berlasso.
    - y a todos los integrantes de la comunidad en español que proponen mejoras
      a este diccionario.

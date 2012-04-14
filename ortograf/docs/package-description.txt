@@ -1,4 +1,4 @@
-Ortografía 0.5 
+Ortografía 0.6 
 
 Para notificar errores y solicitar la inclusión de nuevos términos,
 hacer clic sobre el enlace. 

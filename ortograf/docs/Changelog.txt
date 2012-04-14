@@ -1,3 +1,9 @@
+Versión 0.6:
+- Modificaciones en los ficheros de afijos.
+- Agregado de lemas faltantes, gracias a los aportes de varios miembros de la
+  comunidad en español que se han sumado al proyecto.
+- Actualización del tesauro proporcionado por el proyecto OpenThes-ES.
+
 Versión 0.5:
 - Uso de la opción de "twofold stripping" de Hunspell en el archivo de
   afijos.
