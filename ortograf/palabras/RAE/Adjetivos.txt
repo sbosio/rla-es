@@ -4860,6 +4860,7 @@ estigmatizador/GS
 estilístico/GS
 estilita/S
 estilográfico/GS
+estiloso/GS
 estimable/kS
 estimador/GhS
 estimativo/SG
@@ -10214,6 +10215,7 @@ refinador/GS
 refitolero/SG
 reflector/GS
 reflejo/GS
+réflex
 reflexiva/k
 reflexivo/kGS
 reformable/kS
@@ -10537,7 +10539,7 @@ roído/GS
 rojal/S
 rojeto/SG
 rojizo/SG
-rojo/GS
+rojo/GNS
 rollizo/GS
 romaico/GS
 romana/n
