@@ -1,5 +1,5 @@
 # Lista de lemas: Adjetivos.txt
-# Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
+# Copyright (C) 2004-2012 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
 # conforme a los términos de la Licencia Pública General de GNU, publicada
@@ -673,10 +673,14 @@ amaricado/GS
 amarilidáceo/GS
 amarillejo/GS
 amarillento/GS
+amarillista/S
+amarillismo/S
 amarillo/GS
 amariposado/G
 amarrado/GS
 amasador/GS
+amateur
+amateurs
 amatista/S
 amativo/GS
 amatorio/GS
@@ -2064,6 +2068,7 @@ capirotado/GS
 capirote/S
 capitalista/S
 capital/S
+capitalino/GS
 capitulante/S
 capitular/S
 capón/SG
@@ -3066,6 +3071,7 @@ convicto/GS
 convidador/GS
 convincente/S
 convocador/GS
+convocante/S
 convocatorio/GS
 convolvuláceo/SG
 convulsionante/S
@@ -5012,6 +5018,7 @@ exhalador/GS
 exhausta/k
 exhaustivo/SG
 exhausto/kGS
+exhibidor/GS
 exhortador/GS
 exhortativo/SG
 exhortatorio/GS
@@ -5562,6 +5569,7 @@ fusiforme/S
 fusilero/GS
 fustigador/GS
 fútil/S
+futurista/S
 futuro/SG
 gabacho/GS
 gacho/GS
@@ -6523,6 +6531,7 @@ indumentario/GS
 industrialista/S
 industrial/S
 industrioso/GS
+inédito/GS
 inefable/S
 inenarrable/S
 inepto/GS
@@ -7319,6 +7328,7 @@ lóbrego/GS
 lobulado/GS
 lobuno/GS
 local/S
+localizador/S
 locativo/GS
 loco/GS
 locomotor/GS
@@ -11363,6 +11373,7 @@ sumo/GS
 suntuario/GS
 suntuosa/n
 suntuoso/GnS
+súper
 superable/kS
 superador/GS
 superante
