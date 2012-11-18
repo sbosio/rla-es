@@ -279,7 +279,7 @@ ambicionar/RED
 amechar/RED
 amedrantar/RED
 amelgar/RED
-amenizar/RED
+amenizar/REDÌ
 amenorar/RED
 ametrallar/REDÀÁÄÆ
 amillarar/RED
@@ -685,6 +685,7 @@ cartografiar/IRDÀ
 casar/REDÀÁÂÅ
 cascamajar/RED
 caseificar/RED
+catalizar/REDÌ
 catalogar/REDÀÁÄÆ
 catapultar/REDÀ
 catar/REDÀ
@@ -3597,6 +3598,7 @@ tipificar/REDÀ
 tiranizar/RED
 tironear/REDÄÅÆ
 titularizar/RED
+titulizar/RED
 toar/RED
 toldar/RED
 tolerar/REDÀÁÂ

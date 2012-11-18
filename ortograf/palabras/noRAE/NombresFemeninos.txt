@@ -1,5 +1,5 @@
 # Lista de lemas: NombresFemeninos.txt
-# Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
+# Copyright (C) 2004-2012 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
 # conforme a los términos de la Licencia Pública General de GNU, publicada
@@ -24,7 +24,6 @@ autoconfianza/S
 autodisciplina/S
 autoprotección/S		# Contribuida por César Romé
 contabilización/S
-coquilla/S			# Contribuida por César Romé
 criolita/S
 cromita/S
 cumplimentación/S
@@ -49,3 +48,4 @@ subrutina/S
 sumatoria/S
 temporalización/S
 totalización/S
+vocalía/S

@@ -2792,6 +2792,7 @@ coplona/S
 copropiedad/S		# Contribuida por Dylan Nicholson
 cópula/S
 coquetería/S
+coquilla/S		# Contribuida por César Romé
 coquina/S
 corajina/S
 coralina/S
@@ -5581,6 +5582,7 @@ insistencia/S
 insolación/S
 insolencia/S
 inspección/S
+inspectoría/S
 inspiración/S
 instalación/S
 instancia/S

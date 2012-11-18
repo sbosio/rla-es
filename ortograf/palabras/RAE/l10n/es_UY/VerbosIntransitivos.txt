@@ -1,5 +1,5 @@
 # Lista de lemas: VerbosIntransitivos.txt
-# Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
+# Copyright (C) 2004-2012 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
 # conforme a los términos de la Licencia Pública General de GNU, publicada
@@ -19,6 +19,7 @@ antipatizar/RED
 apolillar/RED
 arisquear/RED
 asuntar/RED
+boludear/RED
 bostear/RED
 camorrear/RED
 carretear/RED
@@ -45,6 +46,7 @@ pallar/RED
 pampear/RED
 paquetear/RED
 payar/RED
+pelotudear/RED
 prosear/RED
 relajar/RED
 rumbear/RED
