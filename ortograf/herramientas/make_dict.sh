@@ -151,7 +151,7 @@ else
   # Copiar la versión genérica del fichero de afijos y parcharlo con las
   # diferencias de la localización solicitada.
   cp ../afijos/afijos.txt $AFFIXTMP
-  patch $AFFIXTMP \
+  patch --ignore-whitespace $AFFIXTMP \
         ../afijos/l10n/$LOCALIZACION/afijos_$LOCALIZACION-diffs.patch \
         > /dev/null 2>&1
   ./remover_comentarios.sh < $AFFIXTMP > $AFFIX
