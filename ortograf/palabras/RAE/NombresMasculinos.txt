@@ -1,5 +1,5 @@
 # Lista de lemas: NombresMasculinos.txt
-# Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
+# Copyright (C) 2004-2012 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
 # conforme a los términos de la Licencia Pública General de GNU, publicada
@@ -1493,6 +1493,7 @@ auto/NOS
 autoritarismo/S
 autorizamiento/S
 auxilio/S
+avambrazo/S
 avance/S
 avanzo/S
 avasallamiento/S
@@ -1996,6 +1997,7 @@ ble/S
 blindaje/S
 bloc
 blocao/S
+blog/S
 bloqueo/S
 bloque/S
 blues
@@ -2522,7 +2524,7 @@ camuflaje/S
 canalete/S
 canaleto/S
 canalón/S
-canal/S
+canal/NS
 canapé/S
 canasto/SN
 canastro/S
@@ -3188,6 +3190,7 @@ cigarro/SN
 cigoñal/S
 cigoñino/S
 cigoto/S
+cilantro/S
 ciliado/S
 cilicio/S
 cilindro/qS
@@ -3640,6 +3643,7 @@ cooperario/S
 cooperativismo/S
 coordinamiento/S
 copayero/S
+copero/S
 copete/S
 copón/S
 copo/S
@@ -6011,6 +6015,7 @@ gabrieles
 gacel/S
 gachó/S
 gafete/S
+gais		# Plural de gay
 gaje/hS
 gajo/pS
 galafate/S
@@ -6110,7 +6115,6 @@ gavilán/NS
 gavillar/S
 gavillero/S
 gay
-gays
 gazapatón/S
 gazapo/S
 gaznate/HS
@@ -6564,6 +6568,7 @@ hidrógeno/S
 hidromasaje/S
 hidromel/S
 hidrometeoro/S
+hidromiel/S
 hidroplano/S
 hidrosilicato/S
 hidróxido/S
@@ -6593,7 +6598,7 @@ hilado/SN
 hilemorfismo/S
 hilero/pS
 hilomorfismo/S
-hilo/S
+hilo/NS
 hilván/S
 himeneo/S
 himenóptero/S
@@ -7303,6 +7308,7 @@ lecho/rS
 lechuguino/S
 lectisternio/S
 lectorado/S
+led/S
 legador/S
 legado/S
 legajo/S
@@ -7311,9 +7317,10 @@ legendario/S
 legisperito/S
 leima/S
 lejos
+lema/S
 lembario/S
 lembo/S
-leme/GS
+leme/S
 lemnisco/S
 lemosín/S
 lempira/S	# Contribuida por Alonso González Cuchillo
@@ -9376,6 +9383,7 @@ pedal/S
 pedáneo/S
 pedante/OS
 pedantismo/S
+pedazo/NS
 pederasta/S
 pedernal/S
 pedestal/S
@@ -9673,6 +9681,7 @@ pimiento/S
 pimpido/S
 pimpollar/S
 pimpollo/S
+pimpón
 pináculo/S
 pinar/S
 pinastro/S

@@ -3158,6 +3158,7 @@ delineación/S
 demagogia/S
 demarcación/S
 demencia/S
+demo/S
 democracia/S
 demografía/S
 demolición/S

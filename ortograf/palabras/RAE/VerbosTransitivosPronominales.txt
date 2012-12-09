@@ -1804,7 +1804,7 @@ mocar/RED
 modelar/REDÄñ
 moderar/RED
 modernizar/REDñôø
-modificar/REDñ
+modificar/REDÀñ
 modorrar/RED
 mohecer/IRD
 molestar/REDÀÁÂÄÅÌÍÎñò

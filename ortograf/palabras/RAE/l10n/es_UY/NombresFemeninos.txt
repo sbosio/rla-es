@@ -19,6 +19,7 @@ acreencia/S
 amansadora/S
 azua/S
 banana/S
+boludez/S
 bombacha/S
 calilla/S
 calla/S
