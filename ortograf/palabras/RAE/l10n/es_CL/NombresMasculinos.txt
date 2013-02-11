@@ -45,8 +45,11 @@ chiche/S
 ciruelillo/S
 cochayuyo/S
 cóguil/S
-coicoy/S
+coicóis		# Plural de coicoy
+coicoy
 coipo/S
+colliguáis	# Plural de colliguay
+colliguay
 coloniaje/S
 comercial/S
 conguito/S
@@ -58,8 +61,10 @@ coscacho/S
 cuadrillazo/S
 cuerazo/S
 cui/S
+cuicúis		# Plural de cuicuy
+cuicuy
 cunchu
-cuy/S
+cuy		# Su plural es cuis
 despilaramiento/S
 diarismo/S
 dinacho/S
@@ -125,6 +130,10 @@ puntaje/S
 queule/S
 quiebre/S
 quijo/S
+quilláis	# Plural de quillay
+quillay
+quilmáis	# Plural de quilmay
+quilmay
 quiltro/S
 quinchihue/S
 quique/S

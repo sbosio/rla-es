@@ -26,12 +26,14 @@ bulón/S
 cacalote/S
 cachimbo/S
 cachumbo/S
+cais		# Plural de cay
 caluro/S
 camarotero/S
 camote/S
 carángano/S
 carato/S
 carpidor/S
+cay
 celular/S
 chiche/S
 chile/S
@@ -74,7 +76,7 @@ nagual/S
 narango/S
 nevado/S
 noticioso/S
-ño
+ño/S
 olote/S
 overol/S
 padrote/S

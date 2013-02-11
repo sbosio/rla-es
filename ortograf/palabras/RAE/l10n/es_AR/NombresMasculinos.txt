@@ -42,6 +42,7 @@ cabildante/S
 cachimbo/S
 cachumbo/S
 caí/S
+cais		# Plural de cay
 cajetilla/S
 camarotero/S
 camote/S
@@ -49,6 +50,7 @@ campana/S
 carángano/S
 carato/S
 carpidor/S
+cay
 celular/S
 chiche/S
 chumbo/S
@@ -71,7 +73,9 @@ cuando
 cuerazo/S
 cui/S
 cunchu
-cuy/S
+curupáis		# Plural de curupay
+curupay
+cuy			# Su plural es cuis
 despilaramiento/S
 diarismo/S
 draque/S
@@ -115,7 +119,7 @@ multifamiliar/S
 naco/S
 nevado/S
 noticioso/S
-ño
+ño/S
 overol/S
 papal/S
 parlante/S
@@ -129,7 +133,9 @@ porsiacaso/S
 pucho/S
 puntaje/S
 quijo/S
+quilláis	# Plural de quillay
 quillango/S
+quillay
 quinchihue/S
 quique/S
 quirquincho/S
@@ -173,7 +179,15 @@ traspatio/S
 tropero/S
 tuco/S
 tui/S
+urundáis		# Plural de urunday
+urunday
+urundéis		# Plural de urundey
+urundey
 uveral/S
+vacaráis		# Plural de vacaray
+vacaray
 vasito/S
 vuelto/S
+yatáis			# Plural de yatay
+yatay
 zapallo/S

@@ -42,6 +42,8 @@ celular/S
 chiche/S
 chivillo/S
 choloque/S
+chuchúis	# Plural de chuchuy
+chuchuy
 cocacho/S
 cochayuyo/S
 coloniaje/S
@@ -50,8 +52,9 @@ conguito/S
 conscripto/S
 convertible/S
 cuerazo/S
+cuis		# Plural de cuy
 cunchu
-cuy/S
+cuy
 despilaramiento/S
 diarismo/S
 draque/S
@@ -127,6 +130,8 @@ traspatio/S
 tuco/S
 ulluco/S
 uveral/S
+vacaráis		# Plural de vacaray
+vacaray
 video/S
 vuelto/S
 zapallo/S

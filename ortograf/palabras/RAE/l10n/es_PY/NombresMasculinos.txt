@@ -46,8 +46,9 @@ conguito/S
 conscripto/S
 convertible/S
 cuerazo/S
+cuis		# Plural de cuy
 cunchu
-cuy/S
+cuy
 despilaramiento/S
 diarismo/S
 draque/S

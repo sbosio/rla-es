@@ -31,6 +31,8 @@ ara/S
 arrollado/S
 atorrante/S
 atrenzo/S
+bacaráis		# Plural de bacaray
+bacaray
 bulón/S
 balero
 barbijo/S
@@ -62,7 +64,9 @@ cotorro/S
 cuerazo/S
 cui/S
 cunchu
-cuy/S
+curupáis		# Plural de curupay
+curupay
+cuy			# Su plural es cuis
 despilaramiento/S
 diarismo/S
 draque/S
@@ -98,7 +102,7 @@ multifamiliar/S
 naco/S
 nevado/S
 noticioso/S
-ño
+ño/S
 ojito/S
 overol/S
 palito/S
@@ -143,9 +147,15 @@ traspatio/S
 tropero/S
 tuco/S
 uveral/S
+vacaráis		# Plural de vacaray
+vacaray
 vasito/S
 video/S
 vuelto/S
+yatáis			# Plural de yatay
+yatay
+yoqueis			# Plural de yoquey
+yóquey
 zanahoria/S
 zapallo/S
 zorrillo/S

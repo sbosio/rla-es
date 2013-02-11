@@ -58,7 +58,7 @@ cuadrillazo/S
 cuerazo/S
 cui/S
 cunchu
-cuy/S
+cuy		# Su plural es cuis
 despilaramiento/S
 diarismo/S
 draque/S
@@ -106,6 +106,8 @@ polvillo/S
 poroto/S
 pucho/S
 quijo/S
+quilláis	# Plural de quillay
+quillay
 quiltro/S
 quinchihue/S
 quique/S
@@ -126,6 +128,8 @@ tamal/S
 tambo/S
 tata/S
 teruteru
+timbóis		# Plural de timboy
+timboy
 tijeral/S
 tincazo/S
 tlaco/S
@@ -139,6 +143,8 @@ tuco/S
 ulluco/S
 uslero/S
 uveral/S
+vacaráis		# Plural de vacaray
+vacaray
 video/S
 vuelto/S
 zapallo/S

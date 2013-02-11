@@ -50,6 +50,8 @@ comercial/S
 conguito/S
 conuco/S
 convertible/S
+copéis		# Plural de copey
+copey
 cuerazo/S
 cunchu
 cuyá/S
@@ -85,7 +87,8 @@ majarete/S
 malojero/S
 matahambre/S
 montuno/S
-morrocoy/S
+morrocóis		# Plural de morrocoy
+morrocoy
 muleque/S
 multifamiliar/S
 naco/S

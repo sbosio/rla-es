@@ -61,8 +61,9 @@ conscripto/S
 convertible/S
 coralito/S
 cuerazo/S
+cuis		# Plural de cuy
 cunchu
-cuy/S
+cuy
 desechable/S
 despilaramiento/S
 diarismo/S
@@ -158,6 +159,8 @@ totumo/S
 traspatio/S
 turmequé/S
 uveral/S
+vacaráis		# Plural de vacaray
+vacaray
 video/S
 vuelto/S
 zamuro/S

@@ -34,7 +34,8 @@ cachumbo/S
 camacero/S
 camarotero/S
 camote/S
-caney/S
+canéis		# Plural de caney
+caney
 caparro/S
 caranegra/S
 carángano/S
@@ -47,7 +48,8 @@ clavado/S
 cochayuyo/S
 cocoliso/S
 cogollero/S
-coicoy/S
+coicóis		# Plural de coicoy
+coicoy
 coloniaje/S
 comercial/S
 conguito/S
@@ -55,9 +57,12 @@ conscripto/S
 contrafuego/S
 conuco/S
 convertible/S
+copéis		# Plural de copey
+copey
 cuerazo/S
+cuis		# Plural de cuy
 cunchu
-cuy/S
+cuy
 despilaramiento/S
 diarismo/S
 draque/S

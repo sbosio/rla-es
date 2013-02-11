@@ -87,6 +87,10 @@ tata/S
 tlaco/S
 traspatio/S
 tuco/S
+urundéis		# Plural de urundey
+urundey
 uveral/S
+vacaráis		# Plural de vacaray
+vacaray
 video/S
 vuelto/S

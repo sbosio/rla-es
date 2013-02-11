@@ -383,6 +383,7 @@ aguardiente/S
 aguardo/S
 aguarrás/S
 aguaviento/S
+aguay
 aguazo/S
 aguazul/S
 agudo/S
@@ -799,6 +800,8 @@ amainador/S
 amalgamador/S
 amalgamamiento/S
 amamantamiento/S
+amancáis		# Plural de amancay
+amancay
 amanecer/S
 amaneramiento/S
 amansamiento/S
@@ -1657,6 +1660,7 @@ balasto/S
 balastro/S
 balate/S
 balaustre/S
+balay
 balazo/S
 balboa/S
 balbuceo/S
@@ -2489,7 +2493,8 @@ cambiador/S
 cambiamiento/S
 cambiante/S
 cambio/lS
-cambray/S
+cambráis		# Plural de cambray
+cambray
 cambur/S
 camelete/S
 camelio/S
@@ -2652,7 +2657,8 @@ carapico/S
 cara/S
 carate/S
 caravanero/S
-caray/S
+caráis		# Plural de caray
+caray
 carbonato/Se
 carboncillo/S
 carboneo/S
@@ -2686,10 +2692,11 @@ cardo/NS
 cardón/S
 car/dS
 carecimiento/iS
+caréis		# Plural de carey
 carenero/S
 carenote/S
 careo/S
-carey/S
+carey
 cargadero/Sh
 cargamento/S
 cargo/iSph
@@ -3355,6 +3362,7 @@ cohesor/S
 cohetero/S
 cohete/S
 coime/S
+cois		# Plural de coy
 coito/S
 cojinete/S
 cojín/S
@@ -3549,6 +3557,8 @@ conocimiento/pSh
 conoide/S
 cono/iS
 conque/S
+contráis		# Plural de contray
+contray
 consecuente/S
 consejo/S
 consenso/S
@@ -3785,7 +3795,7 @@ coturno/S
 coulomb
 coxis
 coyote/S
-coy/S
+coy
 coyuntero/aS
 crack
 crac/S
@@ -4067,6 +4077,7 @@ degollado/S
 degüello/S
 deicidio/S
 deíctico/S
+deis		# Plural de dey
 dejamiento/S
 dejo/NS
 delantal/S
@@ -4328,6 +4339,7 @@ devenir/S
 devisero/S
 devocionario/S
 dextro/S
+dey
 diabeto/S
 diablo/SN
 diaconado/S
@@ -4444,6 +4456,8 @@ disparatorio/S
 disparo/S
 dispendio/S
 dispensario/S
+displáis		# Plural de display
+display
 dispondeo/S
 disponedor/S
 disquete/S
@@ -4974,6 +4988,7 @@ enrollado/S
 enrollamiento/S
 enronquecimiento/S
 enroscamiento/S
+ensáis			# Plural de ensay
 ensalzamiento/S
 ensamblador/S
 ensamblado/S
@@ -4985,7 +5000,7 @@ ensangrentamiento/S
 ensañamiento/S
 ensaye
 ensayismo/S
-ensay/S
+ensay
 ensilado/S
 ensilaje/S
 ensimismamiento/S
@@ -5141,6 +5156,7 @@ escabro/S
 escabullimiento/S
 escafandro/S
 escafoides
+escáis			# Plural de escay
 escajocote/S
 escajo/S
 escalaborne/S
@@ -5197,6 +5213,7 @@ escarpiador/S
 escarpidor/S
 escarramán/S
 escarzador/S
+escay
 escenario/S
 escepticismo/S
 escirro/S
@@ -5302,6 +5319,7 @@ espadín/S
 espadón/S
 espadrapo/S
 espagueti/S
+espáis			# Plural de espay
 espaldarcete/S
 espaldar/HS
 espalder/S
@@ -5331,6 +5349,7 @@ esparver/S
 espasmo/S
 espato/S
 espaviento/S
+espay
 espécimen
 especímenes
 espectáculo/S
@@ -5389,6 +5408,8 @@ esporidio/S
 esporozoo/S
 esportillero/S
 esportillo/S
+espráis
+espray
 espulgadero/S
 espumaje/S
 espumajo/S
@@ -5450,7 +5471,7 @@ estatuderato/S
 estatúder/S
 estatus
 estatuto/S
-estay/S
+estay		# Su plural es estáis que se reconoce como forma correcta por el verbo estar
 estebar/S
 estelo/S
 estema/S
@@ -6241,6 +6262,7 @@ graduador/S
 gradual/S
 grafito/S
 grafo/S
+grais			# Plural de gray
 grajo/S
 gramaje/S
 gramil/S
@@ -6265,7 +6287,6 @@ graso/GS
 grátil/S
 gravamen/S
 gray
-grays
 graznido/S
 gredal/S
 green/S
@@ -6366,7 +6387,8 @@ guiño/S
 guión/S
 guion/S
 guipuzcoano/S
-guirigay/S
+guirigáis		# Plural de guirigay
+guirigay
 guirlache/S
 guisado/S
 guisantal/S
@@ -6738,6 +6760,8 @@ hoto/S
 hoyo/S
 hoyuelo/S
 hozadero/S
+huacatáis		# Plural de huacatay
+huacatay
 huachache/S
 huairuro/S
 huango/S
@@ -7191,6 +7215,7 @@ lagunajo/S
 lagunar/S
 lagunazo/S
 laicismo/S
+lais		# Plural de lay
 lama/S
 lambel/S
 lambeo/S
@@ -7286,7 +7311,7 @@ lave/CS
 laxamiento/S
 laxante/S
 laxismo/S
-lay/S
+lay
 lazareto/S
 lazarillo/S
 lazarista/S
@@ -8565,7 +8590,7 @@ nabar/S
 nabato/S
 nabo/S
 nácar/S
-Naciente
+naciente
 nacimiento/Sp
 nacionalismo/lS
 nacional/OS
@@ -8774,6 +8799,8 @@ nutrimento/S
 nutrimiento/S
 ñame/S
 ñandú/S
+ñandubáis		# Plural de ñandubay
+ñandubay
 ñaque/S
 oasis
 obedecimiento/S
@@ -9017,6 +9044,8 @@ pabellón/S
 pabilo/S
 pábilo/S
 pábulo/S
+pacáis		# Plural de pacay
+pacay
 pachón/S
 pacifismo/S
 pacto/S
@@ -9036,7 +9065,7 @@ pagel/S
 pago/Sk
 pagro/S
 paico/S
-paipáis
+paipáis		# Plural de paipay
 paipay
 país
 paisaje/S
@@ -9203,8 +9232,9 @@ paradislero/S
 parador/S
 paragón/S
 parágrafo/S
+paraguáis		# Plural de paraguay
 paraguas
-paraguay/S
+paraguay
 parahúso/S
 paraíso/S
 paraje/O
@@ -9923,6 +9953,8 @@ ponche/S
 poncho/S
 ponedero/S
 ponedor/S
+póney			# Su plural es ponéis
+poni/S
 poniente/S
 ponimiento/S
 ponleví/S
@@ -10756,7 +10788,8 @@ renegado/S
 rengle/S
 renglón/S
 reno/S
-rentoy/S
+rentóis		# Plural de rentoy
+rentoy
 renuevo/S
 renunciamiento/S
 renvalso/S
@@ -11243,6 +11276,8 @@ sambenito/S
 samblaje/iS
 samovar/S
 sampsuco/S
+samurái/S
+samuray
 sanalotodo/S
 sanatorio/S
 sanchete/S
@@ -11560,6 +11595,8 @@ simplismo/S
 simposio/S
 simulacro/S
 simulador/S
+sinamáis		# Plural de sinamay
+sinamay
 sinapismo/S
 sinario/S
 síncope/S
@@ -11757,11 +11794,9 @@ soto/S
 sotuer/S
 soviet/S
 sóviet/S
-spray
-sprays
 stand
 stands
-stock/S
+stock
 suarismo/S
 suavizador/S
 suavizante/S
@@ -12012,7 +12047,7 @@ tarangallo/S
 tararí/S
 tarasco/GS
 tarayal/S
-taray/S
+taray
 tarazanal/S
 tardanaos
 tardío/S
@@ -13146,6 +13181,8 @@ yo
 yodoformo/S
 yodo/S
 yogur/S
+yoqueis			# Plural de yóquey
+yóquey
 yugo/S
 yuguero/S
 yuntero/S
