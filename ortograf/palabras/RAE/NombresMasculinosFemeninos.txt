@@ -1303,7 +1303,7 @@ pariente/GS
 parlamentario/GS
 parroquiano/GS
 partero/GS
-parte/S
+parte/Sv
 partido/GS
 partiquino/GS
 pasadero/GS

@@ -192,6 +192,13 @@ PFX u 0         tra       s
 PFX u 0         tras      [^es]
 PFX u e         tras      e[^s]
 
+# Prefijo contra-: Significa 'opuesto'.
+# Si se antepone a una palabra que empieza por r, esta se duplica: contraréplica.
+PFX v Y 1
+PFX v 0         contra      .
+
+
+
 #
 #
 ###############################################################################
@@ -2854,7 +2861,7 @@ SFX G ós        osas      ós            # semidiós/osas
 # Nombres/adjetivos masculinos y femeninos que aceptan plural
 SFX S Y 32
 SFX S 0         s         [aceéfgiíkoóptuúw] # ábaco/s, abecé/s, etc.
-SFX S 0         es        [bdhíjlmrúy]   # abad/es, ababol/es, etc.
+SFX S 0         es        [bdhíjlmrúxy]   # abad/es, ababol/es, etc.
 SFX S á         aes       á              # guaraná/aes
 SFX S 0         es        [^áeéíóú]n     # can/es
 SFX S 0         es        [^áéíóú]s      # as/es

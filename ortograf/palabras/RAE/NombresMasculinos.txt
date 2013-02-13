@@ -227,6 +227,7 @@ acristalamiento/S
 acrobatismo/S
 acromion
 acrómiones
+acrónimo/S
 actinio/OS
 actinismo/S
 actinomices
@@ -1529,6 +1530,7 @@ avillanamiento/S
 avión/S
 avío/S
 avisacoches
+avistamiento/S
 aviso
 avispero/S
 avispón/S
@@ -1539,7 +1541,7 @@ avizor/S
 avocamiento/S
 avugo/S
 avuguero/S
-axe/S
+ax/S
 axioma/S
 axis
 axón/S
@@ -2279,6 +2281,7 @@ burí/S
 burladero/S
 burlador/S
 burlete/S
+burofax/S
 burrajo/S
 burrero/S
 burro/NS
@@ -3309,6 +3312,7 @@ cloroformo/S
 cloro/S
 cloruro/S
 club/S
+clubs
 cnidario/S
 coadyutor/S
 coagente/S
@@ -4482,6 +4486,7 @@ divieso/S
 divisorio/S
 divisor/S
 divorcio/S
+dix/S
 diyambo/S
 dizque/S
 dobladillo/S
@@ -5740,7 +5745,7 @@ fauno/S
 fausto/S
 favoritismo/S
 favor/S
-fax
+fax/S
 febrero
 fechador/S
 fecha/S
@@ -5867,7 +5872,7 @@ fluido/S
 flujo/Skap
 flúor
 fluorescente/S
-flux
+flux/S
 foco/S
 fogaje/S
 fogonero/S
@@ -7579,7 +7584,7 @@ lustre/S
 lutecio/S
 luteranismo/S
 luto/S
-lux
+lux/S
 luz/S
 mabolo/S
 macaco/S
@@ -9712,6 +9717,7 @@ pimpido/S
 pimpollar/S
 pimpollo/S
 pimpón
+pimpones
 pináculo/S
 pinar/S
 pinastro/S
@@ -10462,6 +10468,7 @@ radio/S
 radiotelegrama/S
 radiotransmisor/S
 radón
+raid/S
 rafe/S
 raíl/S
 raimiento/S
@@ -10743,9 +10750,10 @@ relativo/S
 relato/fS
 relax
 relé/S
-releje
+releje/S
 relej/S
 relente/S
+relevo/S
 relicario/S
 relieve/S
 relinchido/S

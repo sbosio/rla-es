@@ -1254,6 +1254,7 @@ asturiano/GS
 asturicense/S
 astur/S
 astuto/GS
+asumible/S
 asuncionista/S
 asurcado/GS
 asustadizo/SG
@@ -8257,6 +8258,7 @@ multimillonario/GS
 multinacional/S
 multípara/S
 múltipla/s
+multiplataforma/S
 múltiple/SG
 multiplicador/GS
 multiplicando/S

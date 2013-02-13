@@ -1384,6 +1384,8 @@ bombona/S
 bonanza/S
 bondad/S
 bonga/S
+bonificación
+bonificaciones
 bonina/S
 bonitera/S
 boñiga/S
@@ -3238,7 +3240,6 @@ deshiladura/S
 deshinchadura/S
 deshojadura/S
 deshollinadera/S
-deshonra
 desidia/S
 designación/S
 desinencia/S
@@ -5302,8 +5303,8 @@ honestidad/Sh
 hongarina/S
 honorabilidad/S
 honradez/S
-honra/NS
-honras/h
+honra/gNS
+honras/gh
 hontana/S
 hopalanda/S
 hoploteca/S
@@ -9527,6 +9528,7 @@ silva/S
 silvicultura/S
 sima/S
 simbiosis
+simbología/S
 simetría/S
 simia/S
 simiente/S
@@ -10384,6 +10386,7 @@ trosas
 trotaconventos
 troupe/S
 trova/S
+trox/S
 trucha/S
 truchuela/S
 truculencia/S
@@ -10523,6 +10526,7 @@ vaginitis
 vagoneta/S
 vaguada/S
 vaguedad/S
+vaguería/S
 vainica/S
 vainilla/S
 vainiquera/S
