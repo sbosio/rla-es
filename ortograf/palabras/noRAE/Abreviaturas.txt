@@ -1,28 +1,160 @@
 # Lista de lemas: Abreviaturas.txt
-# Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
+# Copyright (C) 2004-2012 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
-# conforme a los tÈrminos de la Licencia P˙blica General de GNU, publicada
-# por la Free Software Foundation, ya sea la versiÛn 3 de la Licencia,
-# o una versiÛn posterior (a su elecciÛn).
+# conforme a los t√©rminos de la Licencia P√∫blica General de GNU, publicada
+# por la Free Software Foundation, ya sea la versi√≥n 3 de la Licencia,
+# o una versi√≥n posterior (a su elecci√≥n).
 
-# Este listado se distribuye con el deseo que le resulte ˙til, pero
-# SIN GARANTÕAS DE NING⁄N TIPO; ni siquiera con las garantÌas implÌcitas
-# de COMERCIABILIDAD o APTITUD PARA UN PROP”SITO DETERMINADO. Para m·s
-# informaciÛn consulte el texto de la licencia respectiva seleccionada.
+# Este listado se distribuye con el deseo que le resulte √∫til, pero
+# SIN GARANTAS DE NING√öN TIPO; ni siquiera con las garant√≠as impl√≠citas
+# de COMERCIABILIDAD o APTITUD PARA UN PROP√ìSITO DETERMINADO. Para m√°s
+# informaci√≥n consulte el texto de la licencia respectiva seleccionada.
 
-# Debe haber recibido una copia de la Licencia P˙blica General de GNU junto
-# con este listado. Si no es asÌ, visite <http://www.gnu.org/licenses/>
+# Debe haber recibido una copia de la Licencia P√∫blica General de GNU junto
+# con este listado. Si no es as√≠, visite <http://www.gnu.org/licenses/>
 
+adm√≥n
+adv
+afmo/G
+ap
+apdo
+Arq
+art
+atte
+atto/G
+av
+avd
+avda
+ayto
+Bco
+bibl
+blv
+bs
+bv
+caj
+cap
+Cdad
+cent/S
+c√©nt/S
+cgo
+C√≠a
+cit
+cl
 cm
-gr/S
+c√≥d
+col
+coord
+cta
+cte
+ctvo
+dcho/G
+del
+depto
+diag
+dicc
+dir
+D√±a
+dpto
+Dr/G
+dto
+dupdo
+ed
+edit
+ef
 ej
+entlo
 etc
+Excmo/G
+fca
+Fdo
+fig
+fol
+fra
+geneal
+geogr
+geom
+gob
+gral
+gta
+hno/GS
+ib
+ib√≠d
+√≠d
+Ilmo/G
+Iltre
+imp
+impr
+impto
+incl
+ing
+inst
+izq
+izqdo/G
+jhs
 km
-Lic
-m·x
-mm
-N∫
-ns
-Prof
-seg
+ldo/G
+lic
+loc
+ltdo/G
+Magfco/G
+m√°x
+m√≠n
+Mons
+ms
+mtro
+NIF
+nro
+Ntra
+n√∫m
+ob
+op
+p√°g/S
+p√°r
+pat
+pbro
+pdta
+pdte
+pg
+pl
+plza
+pol
+pp
+ppal
+pral
+prof
+pr√≥l
+prov
+pta/S
+pts
+pza
+rdo
+reg
+rel
+rep
+rev
+rte
+rvd
+rvdo
+sdad
+sig
+soc
+sr/GS
+srta
+ss
+sto/G
+tel
+tel√©f
+tfno
+t√≠t
+tpo
+trad
+Ud/S
+univ
+Vdo/G
+Vd/S
+vid
+vol
+vs
+vto/G
+xto
