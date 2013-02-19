@@ -41,6 +41,7 @@ correntoso/GS
 cotorro/GS
 coyotero/GS
 cuate/GS
+diariero/GS
 disparador/GS
 droguero/GS
 dundo/GS

@@ -93,6 +93,7 @@ guindado/S
 hembraje/S
 huaco/S
 jeringatorio/S
+laburo/S
 leuco/S
 maguey/S
 martillero/S
@@ -106,7 +107,7 @@ noticioso/S
 ojito/S
 overol/S
 palito/S
-papal/S
+papelerí­o/S
 parlante/S
 patrullero/S
 pitanguero/S
@@ -118,6 +119,7 @@ primus
 pucho/S
 puntaje/S
 quijo/S
+quilombo/S
 quinchihue/S
 quique/S
 quirquincho/S
@@ -156,6 +158,7 @@ yatáis			# Plural de yatay
 yatay
 yoqueis			# Plural de yoquey
 yóquey
+yuyo/S
 zanahoria/S
 zapallo/S
 zorrillo/S

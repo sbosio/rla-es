@@ -772,6 +772,7 @@ altímetro/S
 altiplano/S
 altísimo/S
 alto/NS
+altorelieve/S
 altozano/S
 altramuz/S
 altruismo/S
@@ -1116,6 +1117,7 @@ apretón/S
 aprieto/S
 apriorismo/S
 aprobado/S
+aproches/u
 aprontamiento/S
 aprovechamiento/hS
 aprovisionamiento/S
@@ -1531,7 +1533,7 @@ avión/S
 avío/S
 avisacoches
 avistamiento/S
-aviso
+aviso/Su
 avispero/S
 avispón/S
 avituallamiento/S
@@ -2004,7 +2006,7 @@ blindaje/S
 bloc
 blocao/S
 blog/S
-bloqueo/S
+bloqueo/Su
 bloque/S
 blues
 boalar/CS
@@ -3599,11 +3601,8 @@ contestador/S
 continente/S
 contingente/S
 continuo/S
-contraaproches
 contraataque/S
-contraaviso/S
 contrabando/S
-contrabloqueo/S
 contrabranque/S
 contracambio/S
 contracodaste/S
@@ -4432,6 +4431,7 @@ diplodoco/S
 diploma/S
 dipolo/S
 díptero/S
+díptico/S
 diptongo/S
 dique/S
 directorio/S
@@ -9463,6 +9463,7 @@ pelagianismo/qS
 pelagoscopio/S
 pelaire/S
 pelambrero/S
+pelamen
 pelargonio/S
 peldaño/S
 pelecho/S
@@ -9938,6 +9939,7 @@ polisacárido/S
 polispasto/S
 politeísmo/S
 politicastro/S
+politraumatismo/S
 polizón/S
 polizonte/S
 pollancón/S
@@ -12323,7 +12325,7 @@ tito/S
 titubeo/S
 titulillo/S
 titulización/S
-título/S
+título/Ss
 tiufado/S
 tiznajo/S
 tizne/S
@@ -12647,6 +12649,7 @@ triple/S
 triplicado/S
 trípode/S
 trípoli/S
+tríptico/S
 triptongo/S
 trique/S
 triquete/S

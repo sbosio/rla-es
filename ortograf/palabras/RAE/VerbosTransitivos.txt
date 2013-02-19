@@ -3756,8 +3756,8 @@ volear/RED
 voltejear/RED
 vomitar/REDÀÁÂÄ
 vosear/RED
-vulcanizar/RED
-vulnerar/REDÀ
+vulcanizar/REDA
+vulnerar/REDAÀ
 xerocopiar/RED
 xerografiar/IRD
 yermar/RED

@@ -110,6 +110,7 @@ hembraje/S
 huaco/S
 jeringatorio/S
 jote/S
+laburo/S
 ladero/S
 maguey/S
 martillero/S
@@ -121,7 +122,7 @@ nevado/S
 noticioso/S
 ño/S
 overol/S
-papal/S
+papelerío/S
 parlante/S
 patrullero/S
 pitanguero/S
@@ -136,6 +137,7 @@ quijo/S
 quilláis	# Plural de quillay
 quillango/S
 quillay
+quilombo/S
 quinchihue/S
 quique/S
 quirquincho/S
@@ -190,4 +192,5 @@ vasito/S
 vuelto/S
 yatáis			# Plural de yatay
 yatay
+yuyo/S
 zapallo/S

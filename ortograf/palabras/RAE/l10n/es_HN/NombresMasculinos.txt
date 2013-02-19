@@ -115,7 +115,7 @@ pacayal/S
 padrote/S
 palito/S
 papalote/S
-papal/S
+papelerí­o/S
 paste/S
 pegue/S
 pejibaye/S
@@ -131,6 +131,7 @@ pucho/S
 puntaje/S
 quijongo/S
 quijo/S
+quilombo/S
 rollito/S
 romerillo/S
 rompenueces

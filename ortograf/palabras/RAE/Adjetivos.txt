@@ -2815,8 +2815,7 @@ concejil/S
 concentrador/GS
 concepcionista/S
 conceptista/S
-conceptiva/c
-conceptivo/SGc
+conceptivo/SGcv
 conceptualista/S
 conceptual/S
 conceptuoso/GS
@@ -3026,7 +3025,6 @@ continuativo/GS
 continuo/kGSh
 contrabandista/S
 contrachapado/GS
-contraconceptivo/S
 contráctil/S
 contractivo/GS
 contractual/S
@@ -5316,6 +5314,7 @@ filiforme/S
 filipense/S
 filipino/GS
 filisteo/GS
+filmador/GS
 fílmico/GS
 filológico/GS
 filosofador/SG
@@ -5492,6 +5491,7 @@ fricativo/GS
 frígido/SG
 frigio/SG
 frigorífico/SG
+friki/S
 frío/GS
 friolento/GS
 friolero/GS
@@ -6096,6 +6096,7 @@ hidroeléctrico/SG
 hidrográfico/GS
 hidrológico/GS
 hidrópico/GS
+hidrostático/GS
 hiemal/S
 hierático/GS
 hierosolimitano/GS
@@ -7492,6 +7493,7 @@ malagueño/GS
 malandante/S
 malandrín/GS
 malar/S
+malasangre/S
 malasio/GS
 malato/GS
 malavenido/SG
@@ -8961,6 +8963,7 @@ parafraseador/GS
 paraguayo/GS
 paraláctico/SG
 paralelo/GS
+paralímpico/GS
 paralítico/GS
 paralizador/GS
 paralizante/S
@@ -9953,6 +9956,8 @@ pungitivo/SG
 punible/S
 púnico/GS
 punitivo/GS
+punk/S
+punki/S
 punta/S
 puntero/GS
 puntiagudo/GS
@@ -11039,6 +11044,7 @@ sexagenario/GS
 sexagesimal/S
 sexagésimo/GS
 sexcentésimo/SG
+sexis
 sexista/S
 sextantario/SG
 sexto/SG

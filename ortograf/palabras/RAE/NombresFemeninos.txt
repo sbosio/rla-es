@@ -3983,6 +3983,7 @@ esencia/nS
 ese/S
 esfera/qS
 esfericidad/S
+esfinge/S
 esgrima/S
 esgrimidura/S
 eslinga/S
@@ -10774,7 +10775,7 @@ viscosa/S
 viscosidad/S
 visera/S
 visibilidad/Snk
-visión/pSon
+visión/Snopt
 visitación/S
 visita/pS
 víspera/S

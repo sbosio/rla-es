@@ -28,7 +28,7 @@ cebador/GS
 cholo/GS
 cogotudo/GS
 coyotero/GS
-desocupado/GS
+diariero/GS
 entrador/GS
 facho/GS
 ferrocarrilero/GS

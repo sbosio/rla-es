@@ -115,6 +115,7 @@ emboquera/S
 entenga/S
 envueltas
 enza/S
+equipación/S
 ería/S
 escampilla/S
 escanilla/S

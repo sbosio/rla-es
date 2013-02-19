@@ -81,7 +81,7 @@ noticioso/S
 ño
 overol/S
 palito/S
-papal/S
+papelerí­o/S
 parlante/S
 pizarrón/S
 platón/S
@@ -89,6 +89,7 @@ polvillo/S
 poroto/S
 pucho/S
 quijo/S
+quilombo/S
 quinchihue/S
 quique/S
 quirquincho/S
@@ -113,4 +114,5 @@ tropero/S
 uveral/S
 video/S
 vuelto/S
+yuyo/S
 zapallo/S

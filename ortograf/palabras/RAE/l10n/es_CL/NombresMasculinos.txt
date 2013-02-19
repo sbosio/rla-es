@@ -114,7 +114,7 @@ nuco/S
 overol/S
 pangue/S
 panque/S
-papal/S
+papelerío/S
 parlante/S
 peneca/S
 pichiruche/S
@@ -132,6 +132,7 @@ quiebre/S
 quijo/S
 quilláis	# Plural de quillay
 quillay
+quilombo/S
 quilmáis	# Plural de quilmay
 quilmay
 quiltro/S
@@ -172,4 +173,5 @@ uveral/S
 video/S
 vuelto/S
 yeco/S
+yuyo/S
 zapallo/S

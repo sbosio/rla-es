@@ -32,8 +32,8 @@ cholo/GS
 cogotudo/GS
 coyotero/GS
 cucarachero/GS
-desocupado/GS
 despenador/GS
+diariero/GS
 entrador/GS
 envenenado/GS
 escombrero/GS

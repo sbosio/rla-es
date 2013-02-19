@@ -90,7 +90,7 @@ noticioso/S
 overol/S
 pacayal/S
 pacayar/S
-papal/S
+papelerí­o/S
 parlante/S
 picarón/S
 pizarrón/S
@@ -134,4 +134,5 @@ vacaráis		# Plural de vacaray
 vacaray
 video/S
 vuelto/S
+yuyos
 zapallo/S

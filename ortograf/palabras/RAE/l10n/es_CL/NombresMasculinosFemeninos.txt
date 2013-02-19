@@ -28,8 +28,8 @@ cholo/GS
 cogotudo/GS
 coyotero/GS
 demoroso/GS
-desocupado/GS
 despachero/GS
+diariero/GS
 entrador/GS
 ferrocarrilero/GS
 guaso/GS

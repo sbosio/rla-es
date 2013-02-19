@@ -96,7 +96,7 @@ nevado/S
 noticioso/S
 ño
 overol/S
-papal/S
+papelerío/S
 parlante/S
 patrullero/S
 pichiruche/S
@@ -108,6 +108,7 @@ pucho/S
 quijo/S
 quilláis	# Plural de quillay
 quillay
+quilombo/S
 quiltro/S
 quinchihue/S
 quique/S
@@ -147,4 +148,5 @@ vacaráis		# Plural de vacaray
 vacaray
 video/S
 vuelto/S
+yuyo/S
 zapallo/S

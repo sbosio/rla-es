@@ -118,7 +118,7 @@ noticioso/S
 ocumo/S
 overol/S
 padrote/S
-papal/S
+papelerí­o/S
 parlante/S
 pasote/S
 patrullero/S
@@ -129,6 +129,7 @@ poroto/S
 porsiacaso/S
 pucho/S
 quijo/S
+quilombo/S
 quinchihue/S
 quique/S
 quirquincho/S
