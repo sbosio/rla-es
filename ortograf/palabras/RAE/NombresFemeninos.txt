@@ -6276,7 +6276,7 @@ lútea/S
 lutria/S
 luvia/S
 luxación/S
-luz/NSU
+luz/SU
 macaca/S
 macagua/S
 macana/S
@@ -7168,7 +7168,7 @@ nares
 nariguera/S
 narigueta/S
 nariguilla/S
-nariz/NSU
+nariz/SU
 narración/S
 narrativa/S
 narria/S
@@ -8032,7 +8032,6 @@ petulancia/S
 petunia/S
 pezolada/S
 pezonera/S
-pez/S
 pezuña/S
 pi
 piamadre/S

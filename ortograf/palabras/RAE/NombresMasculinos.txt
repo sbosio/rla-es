@@ -9653,7 +9653,7 @@ petrel/S
 petróleo/S
 peyote/S
 pezón/S
-pez/S
+pez/NS
 pezuelo/S
 pianoforte/S
 piano/S
