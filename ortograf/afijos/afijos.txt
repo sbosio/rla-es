@@ -414,6 +414,28 @@ SFX T er        ible/S        [^aeo]er
 SFX T er        íble/S        [aeo]er	# Alt. ortográfica
 SFX T r         ble/S         ir
 
+# Sufijo -ito (-ita): Asociado generalmente a la forma apreciativa
+# diminutiva. Relaciona sustantivos y adjetivos con sustantivos.
+SFX U Y 18
+SFX U a         ita/S       [bdfhjlmnprstv]a
+SFX U o         ito/S       [bdhjlmnprstv]o
+SFX U 0         cita/S      ve
+SFX U za        cita/S      za
+SFX U 0         ecita/S     d
+SFX U ón        oncito/S    ón
+SFX U 0         cito/S      or
+SFX U zo        cito/S      zo
+SFX U 0         cito/S      [djlnu]e
+SFX U z         cecita/S    z
+SFX U 0         ecito/S     ur
+SFX U e         ito/S       [cpt]e
+SFX U 0         ito/S       [ls]
+SFX U 0         ito/S       [^ou]r
+SFX U co        quito/S     co
+SFX U go        guito/S     go
+SFX U ca        quita/S     ca
+SFX U ga        guita/S     ga
+
 ###############################################################################
 #                                                                             #
 #                      SUFIJOS RELACIONADOS CON VERBOS                        #
