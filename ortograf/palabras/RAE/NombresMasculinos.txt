@@ -772,7 +772,7 @@ altímetro/S
 altiplano/S
 altísimo/S
 alto/NS
-altorelieve/S
+altorrelieve/S
 altozano/S
 altramuz/S
 altruismo/S
@@ -1117,7 +1117,7 @@ apretón/S
 aprieto/S
 apriorismo/S
 aprobado/S
-aproches/u
+aproches/v
 aprontamiento/S
 aprovechamiento/hS
 aprovisionamiento/S
@@ -1533,7 +1533,7 @@ avión/S
 avío/S
 avisacoches
 avistamiento/S
-aviso/Su
+aviso/Snv
 avispero/S
 avispón/S
 avituallamiento/S
@@ -2006,7 +2006,7 @@ blindaje/S
 bloc
 blocao/S
 blog/S
-bloqueo/Su
+bloqueo/Sv
 bloque/S
 blues
 boalar/CS
