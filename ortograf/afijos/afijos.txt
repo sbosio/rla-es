@@ -194,8 +194,9 @@ PFX u e         tras      e[^s]
 
 # Prefijo contra-: Significa 'opuesto'.
 # Si se antepone a una palabra que empieza por r, esta se duplica: contraréplica.
-PFX v Y 1
-PFX v 0         contra      .
+PFX v Y 2
+PFX v 0         contra      [^r]
+PFX v 0         contrar     r
 
 
 
