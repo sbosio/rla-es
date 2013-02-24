@@ -8956,7 +8956,7 @@ renuncia/S
 reparación/S
 repasata/S
 repetitividad/S
-réplica/S
+réplica/Sv
 repostería/S
 represalia/S
 representanta/S
