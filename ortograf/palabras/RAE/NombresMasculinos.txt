@@ -11806,7 +11806,6 @@ soviet/S
 sóviet/S
 stand
 stands
-stock
 suarismo/S
 suavizador/S
 suavizante/S
