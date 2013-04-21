@@ -686,7 +686,7 @@ casar/REDÀÁÂÅ
 cascamajar/RED
 caseificar/RED
 catalizar/REDÌ
-catalogar/REDÀÁÄÆ
+catalogar/hREDÀÁÄÆ
 catapultar/REDÀ
 catar/REDÀ
 catear/REDÄ
@@ -819,7 +819,7 @@ compeler/REDÀ
 compendiar/RED
 compilar/REDÀ
 completar/REDÀÁÂÄÌ
-comprar/REDÀÂÃÄÅÆÇÍT
+comprar/REDÀÁÂÃÄÅÆÇÍT
 comprobar/IRDÀÁÂÄĞİT
 compulsar/REDÀ
 computadorizar/RED

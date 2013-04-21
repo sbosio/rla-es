@@ -844,7 +844,7 @@ quesear/RED
 quimerizar/RED
 rabear/RED
 rabiar/RED
-racanear/RED
+racanear/REDÁ
 rachear/RED
 raciocinar/RED
 ramalear/RED

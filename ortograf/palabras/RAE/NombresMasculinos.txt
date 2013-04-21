@@ -1455,6 +1455,7 @@ atramuz/S
 atrapamoscas
 atraso/S
 atrevimiento/S
+atrezo/S
 atril/S
 atrincheramiento/S
 atrio/S
@@ -5188,6 +5189,7 @@ escandalar/S
 escandallo/S
 escándalo/S
 escandelar/S
+escáner/S
 escantillón/S
 escaño/S
 escaparate/S
