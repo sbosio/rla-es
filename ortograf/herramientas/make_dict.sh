@@ -358,7 +358,7 @@ if [ "$VERSION" != "2" ]; then
      cat ../docs/dictionaries_full.xcu | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }; /__ICON__/ { s//$ICONO/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/dictionaries.xcu
      cat ../docs/package-description_full.txt | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }; /__ICON__/ { s//$ICONO/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/package-description.txt
      cp ../../separacion/hyph_es_ANY.dic ../../separacion/README_hyph_es_ANY.txt $MDTMPDIR
-     cp ../../sinonimos/README_th_es_ES.txt ../../sinonimos/COPYING_th_es_ES ../../sinonimos/th_es_ES_v2.* $MDTMPDIR
+     cp ../../sinonimos/palabras/README_th_es_ES.txt ../../sinonimos/palabras/COPYING_th_es_ES ../../sinonimos/palabras/th_es_ES_v2.* $MDTMPDIR
   fi
   cat ../docs/description.xml | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }; /__ICON__/ { s//$ICONO/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/description.xml
   cp ../docs/$ICONO $MDTMPDIR
