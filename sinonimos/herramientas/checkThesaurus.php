@@ -47,41 +47,59 @@ function cmp($a, $b) {
 function fixEncoding($text) {
   // print "fixEncoding input: $text - ";
 
-  // Replace ã¡ with "á"
-  $text = str_replace(chr(0xE3) .chr(0xA1), "á", $text);
-
   // Replace Ã¡ with "á"
-  $text = str_replace("Ã¡", "á", $text);
+  $text = str_replace(chr(0xC3) .chr(0xA1), chr(0xE1), $text);
+
+  // Replace ã¡ with "á"
+  $text = str_replace(chr(0xE3) .chr(0xA1), chr(0xE1), $text);
 
   // Replace Ã© with "é"
-  $text = str_replace("Ã©", "é", $text);
+  $text = str_replace(chr(0xC3) .chr(0xA9), chr(0xE9), $text);
 
-  // Replace í© with "é"
-  $text = str_replace(chr(0xE3) .chr(0xA9), "é", $text);
+  // Replace ã© with "é"
+  $text = str_replace(chr(0xE3) .chr(0xA9), chr(0xE9), $text);
 
-  // Replace Ã with "í"
-  $text = str_replace("Ã", "í", $text);
+  // Replace Ã¨ with "è"
+  $text = str_replace(chr(0xC3) .chr(0xA8), chr(0xE8), $text);
 
-  // Replace ã with "í"
-  $text = str_replace("ã", "í", $text);
+  // Replace ã¨ with "è"
+  $text = str_replace(chr(0xE3) .chr(0xA8), chr(0xE8), $text);
 
-  // Replace í³ with "ó"
-  $text = str_replace("í³", "ó", $text);
+  // Replace Ã  with "í"
+  $text = str_replace(chr(0xC3) .chr(0xAD), chr(0xED), $text);
 
-  // Replace íº with "ú"
-  $text = str_replace("íº", "ú", $text);
+  // Replace ã  with "í"
+  $text = str_replace(chr(0xE3) .chr(0xAD), chr(0xED), $text);
 
-  // Replace í¼ with "ü"
-  $text = str_replace("í¼", "ü", $text);
+  // Replace Ã³ with "ó"
+  $text = str_replace(chr(0xC3) .chr(0xB3), chr(0xF3), $text);
 
-  // Replace í± with "ñ"
-  $text = str_replace("í±", "ñ", $text);
+  // Replace ã³ with "ó"
+  $text = str_replace(chr(0xE3) .chr(0xB3), chr(0xF3), $text);
+
+  // Replace Ãº with "ú"
+  $text = str_replace(chr(0xC3) .chr(0xBA), chr(0xF3), $text);
+
+  // Replace ãº with "ú"
+  $text = str_replace(chr(0xE3) .chr(0xBA), chr(0xFA), $text);
+
+  // Replace Ã. with "ü"
+  $text = str_replace(chr(0xC3) .chr(0xBC), chr(0xFC), $text);
+
+  // Replace ã. with "ü"
+  $text = str_replace(chr(0xE3) .chr(0xBC), chr(0xFC), $text);
+
+  // Replace Ã± with "ñ"
+  $text = str_replace(chr(0xC3) .chr(0xB1), chr(0xF1), $text);
+
+  // Replace ã± with "ñ"
+  $text = str_replace(chr(0xE3) .chr(0xB1), chr(0xF1), $text);
 
   // Replace Â¡ with "¡"
-  $text = str_replace("Â¡", "¡", $text);
+  $text = str_replace(chr(0xC2) .chr(0xA1), chr(0xA1), $text);
 
   // Replace â¡ with "¡"
-  $text = str_replace("â¡", "¡", $text);
+  $text = str_replace(chr(0xE2) .chr(0xA1), chr(0xA1), $text);
 
   // Replace  with " "
   // $text = str_replace(" ", " ", $text);
