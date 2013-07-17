@@ -3,6 +3,10 @@
  * This script is intended to run on the directory where the synonym files live. E.g.:
  * palabras$ php -f ../herramientas/checkThesaurus.php
  *
+ * This script is encoded in ISO-8859-1. Due to PHP way of handling encoding, the script file
+ * encoding determines the encoding of the strings the script uses. Thus, DON'T CHANGE THIS
+ * SCRIPT ENCODING UNLESS THE THESAURUS FILES ENCODING CHANGES TO OTHER ENCODING.
+ *
  * This script DOES NOT replace the original files. Instead, it creates new files with the
  * the same name than the corresponding originals, appending ".new" to them.
  *
@@ -31,6 +35,59 @@ function cmp($a, $b) {
     $first_parts = preg_split("/\|/", $a);
     $second_parts = preg_split("/\|/", $b);
     return(strcmp($first_parts[0], $second_parts[0]));
+}
+
+/**
+ * Apparently, the file at http://openthes-es.berlios.de/ has the
+ * encoding broken. It advertises itself as ISO-8859-1 but it uses
+ * sequences similar to UTF-8, so this function will try to handle
+ * all mangled enconding sequences replacing them with the simple
+ * ISO-8859-1 encoding character
+ */
+function fixEncoding($text) {
+  // print "fixEncoding input: $text - ";
+
+  // Replace ã¡ with "á"
+  $text = str_replace(chr(0xE3) .chr(0xA1), "á", $text);
+
+  // Replace Ã¡ with "á"
+  $text = str_replace("Ã¡", "á", $text);
+
+  // Replace Ã© with "é"
+  $text = str_replace("Ã©", "é", $text);
+
+  // Replace í© with "é"
+  $text = str_replace(chr(0xE3) .chr(0xA9), "é", $text);
+
+  // Replace Ã with "í"
+  $text = str_replace("Ã", "í", $text);
+
+  // Replace ã with "í"
+  $text = str_replace("ã", "í", $text);
+
+  // Replace í³ with "ó"
+  $text = str_replace("í³", "ó", $text);
+
+  // Replace íº with "ú"
+  $text = str_replace("íº", "ú", $text);
+
+  // Replace í¼ with "ü"
+  $text = str_replace("í¼", "ü", $text);
+
+  // Replace í± with "ñ"
+  $text = str_replace("í±", "ñ", $text);
+
+  // Replace Â¡ with "¡"
+  $text = str_replace("Â¡", "¡", $text);
+
+  // Replace â¡ with "¡"
+  $text = str_replace("â¡", "¡", $text);
+
+  // Replace  with " "
+  // $text = str_replace(" ", " ", $text);
+
+  // print "output: $text\n";
+  return $text;
 }
 
 /**
@@ -189,12 +246,12 @@ function dumpOneEntry($newDatFHandle, $mainTerm, $entryList) {
     // Count of synonyms
     $counter = count($entryList[$mainTerm]['SYNONYM_LIST']);
     
-    // Escribimos el tÃ©rmino anterior al que acabamos de alcanzar
-    fwrite($newDatFHandle, $mainTerm ."|" .$counter ."\n");
+    // Escribimos el término anterior al que acabamos de alcanzar
+    fwrite($newDatFHandle, fixEncoding($mainTerm) ."|" .$counter ."\n");
     
-    // E imprimimos cada sinÃ³nimo detectado
+    // E imprimimos cada sinónimo detectado
     foreach($entryList[$mainTerm]['SYNONYM_LIST'] as $sinonimo) {
-        fwrite($newDatFHandle, $sinonimo);
+        fwrite($newDatFHandle, fixEncoding($sinonimo));
     } // foreach
 }
 
@@ -235,7 +292,7 @@ function rebuildIndex($newDatFile, $encoding) {
         $rec = $linesArray[$i];
         $rl = strlen($rec) + 1;
         $parts = split("\|", $rec);
-        $entry = $parts[0];
+        $entry = fixEncoding($parts[0]);
         if(!isset($parts[1])) {
             $i++;
             continue;
