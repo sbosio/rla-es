@@ -2,6 +2,7 @@ Versión 0.7:
 - Más modificaciones en los ficheros de afijos (prefijo contra-).
 - Agregado de lemas faltantes, gracias a Alejandro Moreno y KNTRO.
 - Revisión de la lista de abreviaturas.
+- Corrección de archivos de sinónimos y creación de script asociado.
 
 Versión 0.6:
 - Modificaciones en los ficheros de afijos.
