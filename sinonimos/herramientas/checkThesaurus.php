@@ -5,7 +5,7 @@
  *
  * This script is encoded in ISO-8859-1. Due to PHP way of handling encoding, the script file
  * encoding determines the encoding of the strings the script uses. Thus, DON'T CHANGE THIS
- * SCRIPT ENCODING UNLESS THE THESAURUS FILES ENCODING CHANGES TO OTHER ENCODING.
+ * SCRIPT ENCODING UNLESS THE THESAURUS FILES ENCODING CHANGES TO A DIFFERENT ONE.
  *
  * This script DOES NOT replace the original files. Instead, it creates new files with the
  * the same name than the corresponding originals, appending ".new" to them.
@@ -45,8 +45,6 @@ function cmp($a, $b) {
  * ISO-8859-1 encoding character
  */
 function fixEncoding($text) {
-  // print "fixEncoding input: $text - ";
-
   // Replace Ã¡ with "á"
   $text = str_replace(chr(0xC3) .chr(0xA1), chr(0xE1), $text);
 
@@ -78,7 +76,7 @@ function fixEncoding($text) {
   $text = str_replace(chr(0xE3) .chr(0xB3), chr(0xF3), $text);
 
   // Replace Ãº with "ú"
-  $text = str_replace(chr(0xC3) .chr(0xBA), chr(0xF3), $text);
+  $text = str_replace(chr(0xC3) .chr(0xBA), chr(0xFA), $text);
 
   // Replace ãº with "ú"
   $text = str_replace(chr(0xE3) .chr(0xBA), chr(0xFA), $text);
@@ -142,9 +140,8 @@ function buildEntryList($datFile) {
                 $entryList[$mainTerm]['SYNONYM_COUNT']++;
                 break;
             default:
-                // separate left side and synonym count
+                // Separate left side and synonym count
                 $mainTerm = substr($readLine, 0, strpos($readLine, "|"));
-                // print $mainTerm ."\n";
                 if (array_key_exists($mainTerm, $entryList)) {
                     $entryList[$mainTerm]['APPEARANCES']++;
                 } else {
@@ -174,10 +171,12 @@ function buildEntryList($datFile) {
  * Re-reads the original dat file, creating a new file with no duplicate main terms
  */
 function dumpEntries($datFile, $newDatFile, $entryList) {
+    global $encoding;
+
     // One main term (the one that is followed by synonyms)
     $mainTerm = "";
     
-    // line just read from input dat file
+    // Line just read from input dat file
     $readLine = "";
     
     // Left side of the read line (everything to the left of "|")
@@ -206,7 +205,7 @@ function dumpEntries($datFile, $newDatFile, $entryList) {
     while (!feof($datFHandle)) {
         $leftSide = substr($readLine, 0, strpos($readLine, "|"));
         $rightSide = substr($readLine, strpos($readLine, "|") + 1);
-        
+		
         switch ($leftSide) {
             case "-":
             case "(m.)":
@@ -251,6 +250,7 @@ function dumpEntries($datFile, $newDatFile, $entryList) {
         $readLine = fgets($datFHandle);
     }
     
+    $entryList[$mainTerm]['SYNONYM_LIST'] = array_merge($entryList[$mainTerm]['SYNONYM_LIST'], $linesArray);
     dumpOneEntry($newDatFHandle, $mainTerm, $entryList);
     
     fclose($datFHandle);
@@ -264,10 +264,10 @@ function dumpOneEntry($newDatFHandle, $mainTerm, $entryList) {
     // Count of synonyms
     $counter = count($entryList[$mainTerm]['SYNONYM_LIST']);
     
-    // Escribimos el término anterior al que acabamos de alcanzar
+    // Write the main term with the number of occurrences
     fwrite($newDatFHandle, fixEncoding($mainTerm) ."|" .$counter ."\n");
     
-    // E imprimimos cada sinónimo detectado
+    // And, after that, each and every registered synonim line for it
     foreach($entryList[$mainTerm]['SYNONYM_LIST'] as $sinonimo) {
         fwrite($newDatFHandle, fixEncoding($sinonimo));
     } // foreach
@@ -279,9 +279,10 @@ function dumpOneEntry($newDatFHandle, $mainTerm, $entryList) {
  * Some variables have been renamed and comments have been thrown here and
  * there to make easier reading it
  */
-function rebuildIndex($newDatFile, $encoding) {
+function rebuildIndex($newDatFile) {
     global $newIdxFile;
-    
+    global $encoding;
+
     $newDatFHandle = fopen($newDatFile, "r");
     $newIdxFHandle = fopen($newIdxFile, "w");
     
@@ -343,5 +344,5 @@ function rebuildIndex($newDatFile, $encoding) {
 
 $entryList = buildEntryList($datFile);
 dumpEntries($datFile, $newDatFile, $entryList);
-rebuildIndex($newDatFile, $encoding);
+rebuildIndex($newDatFile);
 
