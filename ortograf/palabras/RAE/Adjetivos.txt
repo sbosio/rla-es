@@ -4816,6 +4816,7 @@ esquilador/GS
 esquilimoso/GS
 esquimal/S
 esquinado/GS
+esquinero/GS
 esquirol/S
 esquistoso/GS
 esquivo/SG

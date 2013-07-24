@@ -16,7 +16,6 @@
 
 abarrederas
 abetuna/S
-adoba/S
 agachadera/S
 agosta/S
 aguilonia/S
@@ -142,6 +141,7 @@ garrotera/S
 gavera/S
 gayata/S
 gorrilla/S
+gracieta/S
 granillera/S
 guarrilla/S
 hambrina/S

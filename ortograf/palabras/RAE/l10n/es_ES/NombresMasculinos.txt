@@ -136,6 +136,7 @@ ganchero/S
 garcía/S
 garullo/S
 gatunero/S
+gayumbos
 gazpachero/S
 gazpachuelo/S
 genial/S
@@ -187,7 +188,6 @@ miruello/S
 mitadenco/S
 mocete/S
 mojete/S
-molón/S
 monovolumen/S
 morcacho/S
 morenito/S
