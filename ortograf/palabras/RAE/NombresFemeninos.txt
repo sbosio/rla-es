@@ -990,6 +990,7 @@ automática/S
 automatización/S
 autonomía/S
 autopsia/S
+autoría/S
 autoridad/S
 autorización/hS
 avalancha/S

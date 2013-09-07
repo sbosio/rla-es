@@ -277,7 +277,7 @@ anular/REDÀÁÄñT
 añejar/RED
 añudar/RED
 apacentar/IRD
-apaciguar/REDÂñ
+apaciguar/REDÂÀñ
 apadrinar/RED
 apagar/REDÁÃÌñ
 apalancar/REDÁñ
@@ -415,11 +415,11 @@ atormentar/REDÀÄÅñò
 atornillar/REDÄ
 atortolar/RED
 atosigar/REDÁÂñò
-atraer/XDÁÃÈÉñó
+atraer/XDÁÃÀÈÉñó
 atragantar/REDñ
 atraillar/IRD
 atrampar/RED
-atravesar/IRDÄÆñò
+atravesar/IRDÄÀÆñò
 atribuir/IRDÀÁÂÃÈËñóT
 atribular/RED
 atrincherar/REDñ

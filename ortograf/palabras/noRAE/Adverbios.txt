@@ -21,6 +21,7 @@ abarrotadamente
 aberrantemente
 abismalmente
 abrumadoramente		# Contribuida por Ricardo Goldberger
+abruptamente
 abultadamente
 abundosamente
 acarameladamente
@@ -71,6 +72,7 @@ asoladoramente
 astutamente
 atentadamente
 atentísimamente
+aterradoramente
 atolondradamente
 atontadamente
 atrozmente
