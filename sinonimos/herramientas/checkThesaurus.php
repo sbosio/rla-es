@@ -45,6 +45,9 @@ function cmp($a, $b) {
  * ISO-8859-1 encoding character
  */
 function fixEncoding($text) {
+
+  utf8_decode( $text );
+/*
   // Replace รก with "แ"
   $text = str_replace(chr(0xC3) .chr(0xA1), chr(0xE1), $text);
 
@@ -102,6 +105,7 @@ function fixEncoding($text) {
   // Replace  with " "
   // $text = str_replace(" ", " ", $text);
 
+  */
   // print "output: $text\n";
   return $text;
 }
@@ -141,7 +145,7 @@ function buildEntryList($datFile) {
                 break;
             default:
                 // Separate left side and synonym count
-                $mainTerm = substr($readLine, 0, strpos($readLine, "|"));
+                $mainTerm = $leftSide;
                 if (array_key_exists($mainTerm, $entryList)) {
                     $entryList[$mainTerm]['APPEARANCES']++;
                 } else {
