@@ -48,4 +48,5 @@ subrutina/S
 sumatoria/S
 temporalización/S
 totalización/S
+vinoteca/S
 vocalía/S
