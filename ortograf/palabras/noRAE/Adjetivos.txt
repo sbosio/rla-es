@@ -1,5 +1,5 @@
 # Lista de lemas: Adjetivos.txt
-# Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
+# Copyright (C) 2004-2012 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
 # conforme a los términos de la Licencia Pública General de GNU, publicada
@@ -14,11 +14,8 @@
 # Debe haber recibido una copia de la Licencia Pública General de GNU junto
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
-acoplable/S			# Contribuida por Ricardo Goldberger
 actitudinal/S
 acultural/S
-advertible/S
-almacenable/S
 anatomoclínico/GS
 anatomopatológico/GS
 antiautoritario/GS
@@ -35,7 +32,7 @@ colaborativo/GS
 combinacional/S			# Contribuida por César Romé
 completísimo/GS
 contextualizado/GS
-desplazable/S
+desarrollador/GS
 diédrico/GS
 fenólico/GS
 finísimo/GS
@@ -43,6 +40,7 @@ franquiciado/GS
 globalizado/GS
 hidrotérmico/GS
 inefectivo/GS
+inspectorial/S
 interoperable/S			# Contribuida por Gonzalo Higuera Díaz
 larguísimo/GS
 maremotriz/S
@@ -66,7 +64,7 @@ prescriptor/GS
 ranurado/GS
 semiconsciente/S
 semielaborado/GS
+sexualizado/GS
 texturado/GS
 torsor/S
 unipolar/S
-vigorizante/S
