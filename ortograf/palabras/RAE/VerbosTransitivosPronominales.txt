@@ -471,7 +471,7 @@ banderizar/RED
 bañar/REDÀÁÄÅÆÌñòôø
 basar/REDÁñò
 beneficiar/REDÂÄÅñò
-besar/REDÁÂÃÄÇÌñòô
+besar/REDÀÁÂÃÄÇÌÍñòô
 bienquistar/RED
 bizmar/RED
 bloquear/REDÀÁÂÄñ
