@@ -183,7 +183,7 @@ componer/XÀÁÂÈñöú
 comulgar/RED
 comunicar/REDÀÁÂÃÄÅÆÇÍÙÚÛÜñòôø
 concertar/IRDÀÁÂñ
-conducir/XDÀÁÂÈÉÊÕñóT
+conducir/XDÀÁÂÈÉÊÕÌñóT
 conectar/REDÀÁÂÄÅÆÙñòT
 confiar/IRDÀÁÂÃÅÆÑŞñòõT
 confinar/REDÀÁÄÅñò
@@ -198,7 +198,7 @@ continuar/IRDÀÂÄ
 correr/REDÀÁÄñòôø
 corresponder/REDÀÂñ
 corromper/REDÀñ
-cortar/REDÀÁÃÄÅÌÙñòôø
+cortar/REDÀÁÃÄÅÂÌÙñòôø
 crecer/IRDÀÅÆñò
 creer/REDÀÁÂÃÄÅÌÎÏÙÚÜñòø
 cristalizar/RED

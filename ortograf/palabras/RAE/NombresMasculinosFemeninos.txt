@@ -476,6 +476,7 @@ collazo/GS
 colmenero/GS
 colono/GS
 color/S
+comadrón/GS
 comediante/GS
 comediógrafo/GS
 comentador/GS

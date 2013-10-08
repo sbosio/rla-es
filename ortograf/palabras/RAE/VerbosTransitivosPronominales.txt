@@ -533,7 +533,7 @@ ciscar/RED
 citar/REDÀÂÄÆñò
 civilizar/REDñ
 clasificar/REDÀÄñòT
-clavar/REDÀÁÃÍñòô
+clavar/REDÀÁÃÂÆÍñòô
 clisterizar/RED
 coadunar/RED
 coagular/REDT

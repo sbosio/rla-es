@@ -2354,7 +2354,7 @@ cachiporrazo/S
 cachirulo/S
 cachivache/S
 cachizo/S
-cachorro/NS
+cachorro/NSU
 cacho/S
 cachuchero/S
 cachucho/S
@@ -2607,6 +2607,7 @@ cañón/HS
 caño/S
 cañuto/SN
 caolín/S
+caos
 capacete/S
 capacho/S
 capador/S

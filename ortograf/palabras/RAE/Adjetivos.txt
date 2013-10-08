@@ -2837,6 +2837,7 @@ concoideo/GS
 concoide/S
 concomitante/S
 concordador/SG
+concordante/S
 concordatario/GS
 concordativo/GS
 concorde/S
@@ -3082,6 +3083,7 @@ cooperativo/GS
 coordinador/GS
 coordinado/SG
 copartidario/GS
+copero/NS
 copiador/GSa
 copilador/GS
 copioso/GS
