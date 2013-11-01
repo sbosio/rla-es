@@ -636,10 +636,10 @@ decalcificar/RED
 decantar/REDÀÁñ
 decentar/RED
 decepcionar/REDÀÁñ
-decidir/REDñòôø
+decidir/REDÀñòôø
 decolorar/RED
 dedicar/REDÀÁÂÃÄÅÆÇÌÍÎÏÙÚÛÜñòôø
-defender/IRDÄĞñòõù
+defender/IRDÀÄĞñòõù
 definir/REDÁñò
 deformar/REDÄ
 degradar/REDñ
@@ -954,7 +954,7 @@ desocupar/RED
 desojar/RED
 desolar/IRD
 desoldar/IRD
-desollar/IRD
+desollar/IRDÀ
 desopilar/RED
 desorbitar/RED
 desordenar/RED
@@ -976,7 +976,7 @@ despechugar/RED
 despedazar/REDñ
 despedir/XDÀÁÉÊñóöú
 despeinar/REDÁñò
-despellejar/REDñò
+despellejar/REDÀñò
 despeluchar/RED
 despeluzar/RED
 despeñar/REDñ
@@ -1057,7 +1057,7 @@ dibujar/REDÀÁÂÄÌÍñ
 difractar/RED
 difuminar/REDÀÄÇ
 difundir/REDÀÄ
-dignificar/REDÀT
+dignificar/REDAÀT
 dilacerar/RED
 dilatar/REDÀÂÄñT
 diluir/IRDÀÁÈñ

@@ -210,7 +210,7 @@ cumplir/REDÀñø
 curar/REDÀÁÂñòôø
 decir/XÀÁÂÃÈÉÊËÏáâãäñóú
 declarar/REDÀÂÄñò
-dejar/REDÀÁÂÃÄÅÌÍÎÏÙÚÛÜñòôø
+dejar/REDÀÁÂÃÄÅÆÌÍÎÏÙÚÛÜñòôø
 demorar/REDÀÁÅñò
 derivar/REDÀÄ
 derrotar/REDÀÁÄñ
@@ -223,7 +223,7 @@ desayunar/REDÁñ
 desbabar/RED
 desbaratar/REDÀ
 desbocar/REDñô
-desbordar/REDñ
+desbordar/REDÀñ
 desbravar/RED
 descabezar/RED
 descargar/REDÀÄñ
@@ -259,7 +259,7 @@ disparar/REDÀÁÄÅñò
 disponer/XÀÈÉñóöúT
 disputar/REDÆñò
 doblar/REDÀÁÂÄÙñ
-dominar/REDÂÄñ
+dominar/REDÀÂÄñ
 dormir/XDÁÂÉñóöú
 echar/REDÀÁÂÃÄÅÆÇñò
 embalar/RED

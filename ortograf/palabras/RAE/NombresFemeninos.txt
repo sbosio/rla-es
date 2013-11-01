@@ -3304,6 +3304,7 @@ diabla/S
 diablesa/S
 diablura/S
 diaconisa/S
+diadema/S
 diafanidad/S
 diaforesis/a
 diagnosis

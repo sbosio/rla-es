@@ -527,6 +527,7 @@ contrahaz
 contrapón
 contravén
 convén
+córtale
 criais	# Monosílabos/Bisílabos (Bug #464)
 crie	# Monosílabos/Bisílabos (Bug #464)
 crieis	# Monosílabos/Bisílabos (Bug #464)
@@ -536,8 +537,11 @@ daba
 dábamos
 daban
 dabas
+dad
 dada
 dadas
+dadles
+dadme
 dado
 dados
 dala
