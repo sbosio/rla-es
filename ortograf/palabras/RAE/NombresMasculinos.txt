@@ -12682,6 +12682,7 @@ trol/Sf
 trombo/S
 trompetazo/S
 trompicadero/S
+trompicón/S
 trompis
 trompo/HNS
 troncho/HS

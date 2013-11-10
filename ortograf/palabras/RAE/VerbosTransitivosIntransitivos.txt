@@ -543,7 +543,7 @@ sudar/RED
 suponer/XÀÈ
 taconear/RED
 tamborilear/RED
-tantear/REDÀÁÂ
+tantear/REDÀÁÂÆ
 tañer/XD
 tarifar/RED
 teclear/RED

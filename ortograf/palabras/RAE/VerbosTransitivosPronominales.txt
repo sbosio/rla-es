@@ -1689,7 +1689,6 @@ interponer/Xñ
 intimidar/REDÀÁÂñ
 intitular/RED
 intoxicar/REDÁñ
-intranquilizar/REDÀÁñ
 intricar/RED
 intrincar/RED
 introducir/XDÀÁÂÊñóú
@@ -2214,7 +2213,7 @@ trabucar/RED
 traer/XDÀÁÂÃÈÉÊÔÕÖØáâäñóöú
 traicionar/REDÀÁÂÄÅÆñò
 trajear/RED
-tranquilizar/REDÀÁÂÄÅÆñòôø
+tranquilizar/kREDÀÁÂÄÅÆÎñòôø
 transbordar/RED
 transfigurar/REDÀÄT
 transformar/REDÀÁÂÄÅÆñòT
