@@ -11162,6 +11162,7 @@ sisador/GS
 sísmico/GS
 sisón/SG
 sistemático/GS
+sistémico/GS
 sitiado/GS
 sitiador/GS
 sitibundo/GS

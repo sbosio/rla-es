@@ -1004,10 +1004,11 @@ subintrar/RED
 subsistir/RED
 subvenir/XD
 subyacer/IRD
-suceder/RED
+suceder/REDÁÂÅ
 sucumbir/RED
 superabundar/RED
 supervenir/XD
+supurar/RED
 surdir/RED
 surgir/RED
 suspirar/RED

@@ -437,7 +437,6 @@ artesonar/RED
 artigar/RED
 artillar/RED
 aruñar/RED
-asacar/RED
 asaetar/RED
 asaetear/REDÂÅ
 asainetear/RED
@@ -1883,7 +1882,6 @@ enrodar/IRD
 enrodrigar/RED
 enrodrigonar/RED
 enrugar/RED
-ensacar/RED
 ensalmar/RED
 ensambenitar/RED
 ensamblar/REDÀ
@@ -1942,7 +1940,6 @@ entrenzar/RED
 entreoír/XD
 entrepunzar/RED
 entrerrenglonar/RED
-entresacar/REDÂÄ
 entretejer/RED
 entretelar/RED
 entreuntar/RED
@@ -3261,7 +3258,6 @@ requerir/XDÀÂÉÊ
 requintar/RED
 requisar/REDÁ
 resaber/XD
-resacar/RED
 resallar/RED
 resaludar/RED
 resanar/RED

@@ -2104,7 +2104,7 @@ rugar/RED
 ruinar/RED
 rusificar/RED
 saborear/REDÀ
-sacar/REDÀÁÂÃÄÅÇÍÎÙÚÛñòôø
+sacar/aijpREDÀÁÂÃÄÅÇÌÍÎÙÚÛñòôø
 saciar/REDÀÁñ
 sacramentar/RED
 sacrificar/REDÀÄñò

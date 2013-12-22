@@ -11187,7 +11187,7 @@ sacasillas
 sacatrapos
 sacerdocio/S
 sacomano/S
-saco/S
+saco/SU
 sacramento/S
 sacre/S
 sacrificadero/S
@@ -11919,6 +11919,7 @@ susto/S
 sustraendo/S
 sustrato/S
 susurrido/S
+susurro/S
 tabacal/S
 tabaco/S
 tabanazo/S
