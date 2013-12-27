@@ -491,7 +491,7 @@ quebrajar/RED
 quebrar/IRDÀñ
 quedar/REDÂÃÅÆÜñòôø
 quemar/REDÁÅÌÙñò
-rajar/REDÀÆñT
+rajar/REDÀÂÃÆñT
 rebalsar/RED
 rebosar/REDÀ
 rebotar/RED
@@ -499,7 +499,7 @@ recalar/RED
 recalcar/REDÀÄÆ
 recargar/REDñòT
 reclamar/REDÀÃÄÅÆÜñò
-recordar/IRDÀÄÅÇÓİŞßñòõù
+recordar/IRDÀÄÅÇÏÓİŞßñòõù
 recrecer/IRD
 redoblar/RED
 reducir/XDÀÁÈñóú
@@ -512,7 +512,7 @@ rehuir/IRDÀÁÂÈñ
 reír/XDÁÉÊñóöú
 rejuvenecer/IRDÀñ
 relevar/REDÀñ
-rematar/REDñ
+rematar/REDĞñ
 remitir/REDÀÁÂÄÅñòø
 remolinear/RED
 remontar/REDÀÂñòø

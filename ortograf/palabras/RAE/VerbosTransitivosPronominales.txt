@@ -1986,7 +1986,7 @@ recostar/IRDÀÄñòõù
 recrear/REDÀÄñòôø
 recriminar/REDÁÂÆñò
 rectificar/REDÀÁñT
-recuperar/REDÁÄñòô
+recuperar/REDÁÄĞñòô
 redimir/REDÀÁÄñ
 redondear/RED
 reembarcar/RED
@@ -2041,7 +2041,7 @@ remudar/RED
 rendir/XDÀÁÊËñ
 renovar/IRDÀÂñT
 reorganizar/REDÀñ
-repartir/REDÁÄÅÌñòô
+repartir/REDÁÄÅĞÌñòô
 repintar/RED
 repizcar/RED
 replegar/IRDñ

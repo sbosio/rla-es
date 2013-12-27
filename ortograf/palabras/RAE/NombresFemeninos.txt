@@ -9065,7 +9065,7 @@ riñonera/S
 riolada/S
 riqueza/S
 risada/S
-risa/S
+risa/SU
 risibilidad/S
 risotada/S
 ristra/S
