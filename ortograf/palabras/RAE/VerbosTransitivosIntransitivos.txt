@@ -428,7 +428,7 @@ piar/IRD
 pifiar/RED
 pingar/RED
 pipetear/RED
-pisar/REDÀÄÅ
+pisar/REDÀÄÅÆ
 pitar/REDÂ
 planear/REDÀ
 plantear/REDÀÁÆ
@@ -436,7 +436,7 @@ platicar/REDÀÂÍ
 poetizar/RED
 potrear/RED
 practicar/REDÀÄ
-preceder/REDÂ
+preceder/REDÂÆ
 precisar/REDÀ
 predominar/RED
 preludiar/RED

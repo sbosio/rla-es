@@ -1003,7 +1003,6 @@ despolvar/RED
 despopularizar/RED
 desportillar/RED
 desposar/REDÁñ
-desposeer/REDÀ
 desprender/REDÄñò
 desprestigiar/REDÁñ
 despresurizar/RED
@@ -1868,7 +1867,7 @@ perfeccionar/REDñ
 perfilar/RED
 perjudicar/REDÀÆñò
 perlar/RED
-permitir/REDÀÁÂÃñòôø
+permitir/REDÀÁÂÃÌñòôø
 perniquebrar/IRD
 perpetuar/IRDñ
 persignar/REDñô
@@ -1889,7 +1888,7 @@ plegar/IRDñT
 politizar/REDÀ
 popularizar/RED
 portear/RED
-poseer/REDÄÅñò
+poseer/hREDÀÄÅÌñò
 posesionar/REDñ
 posponer/XÀÁÄñò
 postrar/REDñò
@@ -1902,11 +1901,11 @@ preguntar/REDÀÁÂÃÄÆÌÍÎÏÛñòôø
 prendar/RED
 preocupar/REDÁÂñòôø
 preparar/REDÀÁÂÃÄÅÆÚñòôø
-presentar/REDÀÃÄÆÌñòôø
+presentar/REDÀÂÃÄÆÌÍñòôø
 preservar/REDÀÁÄÆñ
 preternaturalizar/RED
 prevenir/XDÀÁÈñ
-proclamar/REDÁÂñ
+proclamar/REDÁÂÄñ
 procurar/REDÂÃÄÆñø
 prodigar/REDñ
 producir/XDÀÁÈÉñóT

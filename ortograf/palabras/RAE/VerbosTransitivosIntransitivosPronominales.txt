@@ -455,7 +455,7 @@ paladear/RED
 palatalizar/RED
 palmear/REDÀÂò
 parar/REDÀÂÅñòôø
-partir/REDÀÌÙñò
+partir/REDÀÂÃÌÎÙñò
 pasar/REDÀÃÄÅÇÌÏÙÛñòôøT
 pasear/REDÁÅñò
 pasmar/REDÁñôø

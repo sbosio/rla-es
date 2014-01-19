@@ -3803,7 +3803,6 @@ entraña/S
 entrecanal/S
 entrega/S
 entrepalmadura/S
-entrepierna/S
 entretela
 entriega/S
 entronización/S
@@ -7567,6 +7566,7 @@ paila/S
 paisana/S
 paja/NS
 pajarera/S
+pajarería/S
 pajarilla/S
 pajarita/S
 pajarota/S
@@ -8064,7 +8064,8 @@ picuda/NS
 piedad/Sok
 piedra/S
 piel/S
-pierna/S
+pierna/jSU
+piernecita/S
 pieza/S
 piezoelectricidad/S
 pigmentación/S
@@ -8208,6 +8209,7 @@ plegadera/S
 plegadura/hS
 plegaria/S
 pleita/Si
+pleitesía/S
 plenamar/S
 plena/S
 plenipotencia/S
