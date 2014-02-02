@@ -6636,7 +6636,7 @@ meca/S
 mecedura/S
 mecha/S
 mechera/S
-medalla/S
+medalla/SU
 mediacaña/S
 mediación/Skl
 medialuna/S
@@ -8160,7 +8160,7 @@ pizca/S
 pizpita/S
 pizza/S
 placabilidad/kS
-placa/S
+placa/SU
 placenta/S
 placibilidad/S
 placidez/S
@@ -8352,6 +8352,7 @@ posición/ktoSlnabpg
 positura/nS
 posmodernidad/S
 pospierna/S
+posproducción/S			# Contribuida por Sergio Medina
 postal/S
 postdata/S
 postema/S
@@ -8981,6 +8982,7 @@ resfriadura/S
 residencia/S
 resignación/S
 resigna/S
+resiliencia/S
 resina/S
 resistencia/S
 resistividad/S

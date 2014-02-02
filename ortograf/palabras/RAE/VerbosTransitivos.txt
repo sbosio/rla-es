@@ -859,7 +859,7 @@ constreñir/XDÀ
 construir/IRDÀÁÂÈ
 consultar/REDÀÁÂÃÄÅÆÌÎÙÚÛT
 consumar/REDÀÌ
-contabilizar/REDÀ
+contabilizar/AREDÀ
 contemperar/RED
 contemplar/REDÀÁÂÄÅÆ
 contextualizar/RED
@@ -946,7 +946,7 @@ cuestionar/REDÀÁÂÅ
 cultivar/REDÀÁÄ
 culturar/RED
 culturizar/RED
-cumplimentar/REDÀÁÂ
+cumplimentar/AREDÀÁÂ
 cunar/RED
 cuñar/RED
 cursar/REDÀÂÆ
@@ -2251,7 +2251,7 @@ frisar/RED
 frivolizar/RED
 fulminar/REDÀÁÂÄÅ
 fumigar/REDÀ
-fundamentar/REDÀÄ
+fundamentar/AREDÀÄ
 fusilar/REDÀÁÂÄÚ
 fustigar/RED
 gafar/RED

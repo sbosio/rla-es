@@ -15,7 +15,6 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 acupresión/S			# Contribuida por Ricardo Goldberger
-aislación/S
 amigdalectomía/S
 apendicectomía/S
 autocompasión/S
@@ -23,29 +22,22 @@ autoconciencia/S
 autoconfianza/S
 autodisciplina/S
 autoprotección/S		# Contribuida por César Romé
-contabilización/S
 criolita/S
 cromita/S
 cumplimentación/S
 ferroaleación/S
 fundamentación/S
 interoperatividad/S		# Contribuida por Gonzalo Higuera Díaz
-medallita/S			# Contribuida por Gonzalo Higuera Díaz
 meritocracia/S
 microinformática/S
 personalización/S
-plaquita/S
-posproducción/S			# Contribuida por Sergio Medina
 preproducción/S			# Contribuida por Sergio Medina
 reinvención/S
-resiliencia/S
 sandwichera/S
-similaridad/S
 sobreutilización/S
 subcultura/S
 subfamilia/S
 subrutina/S
-sumatoria/S
 temporalización/S
 totalización/S
 vinoteca/S
