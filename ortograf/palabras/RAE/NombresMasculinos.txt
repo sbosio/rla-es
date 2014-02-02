@@ -6998,7 +6998,8 @@ istmo/S
 italianismo/S
 italiano/S
 italorrománico/S
-ítem/S
+ítem
+ítems
 iterbio/S
 itinerario/S
 itrio/S
