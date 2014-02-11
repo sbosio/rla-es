@@ -2219,7 +2219,6 @@ catafórico/GS
 catalán/GS
 catalanista/S
 catalítico/GS
-catalogador/GS
 catarral/S
 catarrino/S
 catarroso/SG

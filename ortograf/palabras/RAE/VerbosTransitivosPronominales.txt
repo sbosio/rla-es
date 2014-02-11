@@ -1824,7 +1824,7 @@ mutilar/RED
 nacionalizar/RED
 narcotizar/RED
 naturalizar/RED
-negar/IRDÁÇĞñòõù
+negar/IRDÁÃÇĞñòõù
 neutralizar/REDñ
 nivelar/REDÀñ
 nominalizar/RED
@@ -1842,7 +1842,7 @@ ofender/REDÂñò
 ofrecer/IRDÁÂÃÅÆßñòõù
 ofuscar/RED
 olivar/RED
-olvidar/REDÁÂÌñòôø
+olvidar/REDÀÁÂÌñòôø
 omitir/REDÀ
 oponer/XÀÁñóT
 ordenar/REDÀÄñò
