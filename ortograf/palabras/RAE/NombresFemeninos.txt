@@ -7056,6 +7056,7 @@ mostacera/S
 mostaza/SN
 mostela/S
 mostelera/S
+mota/S
 motacila/S
 motilidad/S
 motivación/S

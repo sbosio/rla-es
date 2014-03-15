@@ -7623,6 +7623,7 @@ manufacturero/SG
 manuscrito/GS
 manzanero/GS
 manzanil/S
+mañanero/GS
 mañero/GS
 maño/GS
 mañoso/SG
@@ -8211,7 +8212,6 @@ mostrador/gGS
 mostrativa/g
 mostrativo/gGS
 mostrenco/GS
-mota/p
 motero/GS
 motivador/GS
 motivo/GS
@@ -8258,6 +8258,7 @@ multicopista/S
 multifloro/GS
 multiforme/S
 multilateral/S
+multimedia/S
 multimillonario/GS
 multinacional/S
 multípara/S

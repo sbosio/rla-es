@@ -425,7 +425,7 @@ mancar/RED
 mandar/REDÀÁÂÃÄÅÌÍÙñòô
 marcar/REDÀÂÄÅñòø
 marear/REDÁñ
-matar/REDÀÄÅÆÌñòô
+matar/REDÀÄÅÆÌÎñòôp
 matear/RED
 mear/REDÂñòô
 medir/XDÀÈÊñóöú
@@ -440,7 +440,7 @@ monoptongar/RED
 montar/REDÀÁÂÃÅñòôø
 moralizar/RED
 morir/XÁñóöú
-mover/IRDÁİñòõù
+mover/IRDÄÁİñòõù
 mudar/REDÁñò
 multiplicar/REDÀÄñòôøT
 ociar/RED
@@ -512,7 +512,6 @@ rehuir/IRDÀÁÂÈñ
 reír/XDÁÉÊñóöú
 rejuvenecer/IRDÀñ
 relevar/REDÀñ
-rematar/REDĞñ
 remitir/REDÀÁÂÄÅñòø
 remolinear/RED
 remontar/REDÀÂñòø

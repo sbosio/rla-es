@@ -1762,7 +1762,7 @@ mancomunar/RED
 manejar/REDÄñòô
 mangar/RED
 manifestar/IRDñò
-mantener/XDÀÅÉñóöú
+mantener/XDÂÀÅÉÖñóöú
 maquillar/REDñòô
 marañar/RED
 maravillar/REDÁñ
@@ -1813,7 +1813,7 @@ morigerar/RED
 morrear/RED
 mortificar/REDÀÁÄñò
 mosquear/REDÁñ
-mostrar/IRDÀÁÂÃÄÑÇİŞßàñòõù
+mostrar/IRDÀÁÂÃÄÑÒÇİŞßàñòõù
 motivar/REDÀÁÂñò
 motorizar/RED
 movilizar/REDÁñò
