@@ -1713,7 +1713,7 @@ justificar/REDÀÁÄñò
 lacrar/RED
 lamer/REDÄñò
 lancinar/RED
-lanzar/REDÌñòôø
+lanzar/REDÆÌñòôø
 lapidificar/RED
 largar/REDñòôø
 lastimar/REDñò
@@ -1723,7 +1723,7 @@ lavotear/RED
 laxar/RED
 lesionar/REDñ
 leudar/RED
-levantar/REDÁÄñòôø
+levantar/REDÁÀÄÂÌñòôø
 lexicalizar/RED
 liar/IRDñòõ
 liberalizar/RED
@@ -1733,7 +1733,7 @@ librear/RED
 licenciar/REDñ
 licuar/REDT
 lignificar/RED
-limpiar/REDÀÂÄÆÇñòôø
+limpiar/REDÀÂÄÆÃÇñòôø
 liquidar/REDñT
 lisiar/RED
 lisonjear/REDÁñ
@@ -2026,7 +2026,6 @@ relajar/REDÄÅÙñòôø
 relamer/RED
 relimpiar/RED
 rellanar/RED
-rellenar/REDÀ
 remangar/RED
 remecer/RED
 remediar/REDÀÂ

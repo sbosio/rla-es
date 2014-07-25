@@ -415,9 +415,9 @@ librar/REDÀÂסעפר
 lidiar/REDÀ
 ligar/REDÀÁÄÌס
 limitar/REDÀÅסעפרT
-llamar/REDÀÁÂÃÄÅÆÌÍÚסעפר
+llamar/REDÀÁÂÃÄÅÆÇÏÌÍÚסעפר
 llegar/REDÀÂÎסעפ
-llenar/REDÀÃÄÅÌÍסער
+llenar/pREDÀÃÄÅÂÌÍÏÎסער
 llover/IRDÁס
 lucir/IRDÀÅסעT
 malcasar/RED

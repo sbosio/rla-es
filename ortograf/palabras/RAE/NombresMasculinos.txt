@@ -7391,6 +7391,7 @@ levador/S
 levantamiento/S
 levante/S
 levente/S
+leviatán/S
 levirato/S
 levita/S
 levítico/S

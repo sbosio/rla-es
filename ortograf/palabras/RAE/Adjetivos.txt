@@ -6974,6 +6974,7 @@ labradoresco/GS
 labrador/SG
 labrantío/GS
 labrero/GS
+lacado/GS
 lacayo/GS
 lacayuno/GS
 lacedemonio/GS
