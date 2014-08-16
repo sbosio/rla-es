@@ -2599,7 +2599,7 @@ condena/S
 condensabilidad/S
 condensación/S
 condestablesa/S
-condición/S
+condición/nS
 condrila/S
 condritis
 conducción/S
