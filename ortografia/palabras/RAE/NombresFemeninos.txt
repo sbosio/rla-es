@@ -200,6 +200,7 @@ afectación/S
 afectividad/S
 afectuosidad/S
 afeitadora/S
+aféresis
 afición/S
 afiladera/S
 afiladura/S
@@ -209,6 +210,7 @@ afirmativa/S
 aflicción/S
 afonía/S
 aforisma/S
+aforística/S
 afrenta/S
 afta/S
 afuera/S
@@ -430,8 +432,10 @@ alimaña/S
 alimentación/S
 aliseda/S
 alisma/S
+aliteración/S
 aljaba/S
 aljama/S
+aljamía/S
 aljofaina/S
 aljuba/S
 almáciga/S
@@ -566,10 +570,15 @@ anacardiácea/S
 anacardina/S
 anaconda/S
 anacora/S
+anacreóntica/S
+anacronía/S
 anadina/S
+anadiplosis
 anafalla/S
 anafilaxia/S
 anafilaxis
+anáfora/S
+anagnórisis
 analectas
 analgesia/S
 analítica/S
@@ -675,8 +684,10 @@ antífona/S
 antífrasis
 antigualla/S
 antigüedad/S
+antilogía/S
 antimonita/S
 antinomia/S
+antinovela/S
 antipara/S
 antipartícula/S
 antipatía/S
@@ -875,10 +886,13 @@ aserradura
 asesoría/S
 asestadura/S
 asfixia/S
+asibilación/S
 asiduidad/S
 asimetría/S
 asimétricas
+asincronía/S
 asíntota/S
+asíndeton/S
 asistencia/hkS
 asistenta/S
 asistolia/S
@@ -956,6 +970,7 @@ austeridad/S
 autarquía/S
 auténtica/S
 autenticidad/S
+autentificación/S
 autoafirmación/S
 autoclave/S
 autocompasión/S
@@ -1166,6 +1181,7 @@ barricada/S
 barrica/S
 barriga/S
 barriguera/S
+barroquización/S
 basada/S
 basanita/S
 basa/S
@@ -1203,6 +1219,8 @@ bayuca/S
 baza/S
 bazofia/S
 be
+beatería/S
+beatificación/S
 beatilla/S
 beatitud/S
 becacina/S
@@ -1237,6 +1255,7 @@ beodez/S
 berberidácea/S
 berenjena/S
 bergamota/S
+berlanga/S
 berlina/S
 berma/S
 bermudina/S
@@ -1524,6 +1543,7 @@ burrada/S
 burra/S
 busca/pS
 buscarla/S
+buscona/S
 búsqueda/S
 butaca/S
 butifarra/S
@@ -1738,6 +1758,7 @@ caninez/S
 canoa/S
 canonesa/S
 canónica/S
+canóniga/S
 canonización/S
 canonjía/S
 cansera/S
@@ -1968,6 +1989,7 @@ casucha/S
 casulla/S
 catacumbas
 catadura/S
+catáfora/S
 catalanidad/S
 catalepsia/S
 catalina/S
@@ -2191,6 +2213,7 @@ charlatanería/S
 charnela/S
 charretera/S
 chatarra/S
+chatarrería/S
 chaveta/S
 chequera/S
 che/S
@@ -2311,6 +2334,7 @@ cinema/S
 cinemática/S
 cinematografía/S
 cineraria/S
+cinésica/S
 cinética/S
 cinoglosa/S
 cintagorda/S
@@ -2387,6 +2411,7 @@ clerofobia/S
 clienta/S
 clientela/S
 climatología/S
+clímax
 clínica/S
 cloaca/S
 clonación/S
@@ -2644,7 +2669,7 @@ connivencia/S
 conquista/pS
 consagración/S
 consanguinidad/S
-consciencia/ksS
+consciencia/dksS
 consecución/S
 consecuencia/kS
 conseja/S
@@ -3131,8 +3156,9 @@ deducción/S
 defecación/S
 defección/S
 defectibilidad/kS
+defensa/dS
 deferencia/S
-definición/S
+definición/dS
 definitiva/S
 deflación/S
 deflagración/S
@@ -5024,6 +5050,7 @@ gráfica/S
 gragea/S
 graja/S
 grama/NS
+gramaticalidad/aS
 gramática/S
 gramínea/S
 gramola/S

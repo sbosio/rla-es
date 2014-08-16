@@ -116,6 +116,7 @@ americano/GS
 amigo/GS
 amortajador/GS
 ampliador/GS
+anárquico/GS
 anatómico/GS
 ancho/GS
 anciano/GS
@@ -306,6 +307,7 @@ buitrero/GS
 burgués/GS
 burgundio/GS
 burlón/GS
+buscón/GS
 butifarrero/GS
 cabecero/GS
 cabezalero/GS
@@ -316,6 +318,7 @@ cabrero/GS
 cabritero/GS
 cabrito/GS
 cabrón/GS
+cacereño/GS
 cacharrero/GS
 cachazudo/GS
 cacique/GS
@@ -385,6 +388,7 @@ carillo/GS
 cario/GS
 carismático/GS
 carnicero/GS
+carolingio/GS
 carolino/GS
 carpintero/GS
 carraco/GS

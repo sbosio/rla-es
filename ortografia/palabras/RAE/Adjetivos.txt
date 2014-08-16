@@ -108,6 +108,7 @@ abudabí/S
 abuhado/GS
 abuhardillado/GS
 abulense/S
+abúlico/GS
 abultado/GS
 abundancial/S
 abundante/tS
@@ -236,6 +237,7 @@ acrílico/SG
 acrisolador/GS
 acristalado/GS
 acrobático/GS
+acróstico/GS
 actancial/S
 actinomorfo/GS
 actitudinal/S
@@ -320,6 +322,7 @@ adquisidor/GS
 adquisitivo/GS
 adrenal/S
 adriático/SG
+adscribible/S
 aduanero/GS
 aductor/GS
 adulador/GS
@@ -386,6 +389,7 @@ afín/S
 afirmador/SG
 afirmativo/SG
 aflictivo/SG
+aforístico/GS
 afortunada/h
 afortunado/hSG
 afrentador/GS
@@ -411,6 +415,7 @@ agente/S
 agitado/GS
 agitador/GS
 aglomerante/S
+aglutinador/GS
 aglutinante/S
 agobiante/S
 agónico/SG
@@ -582,6 +587,7 @@ alfabetizable/S
 alfanumérico/GS
 alfar/S
 alfonsino/SG
+alfonsí/S
 alforjero/GS
 algarero/GS
 algebraico/GS
@@ -606,6 +612,7 @@ alicantino/GS
 alícuota/S
 alienable/kS
 alienante/S
+alienígeno/GS
 alienista/S
 alifático/GS
 alijador/GS
@@ -620,6 +627,7 @@ alirrojo/GS
 alisado/GS
 alisador/GS
 aliviador/GS
+aljamiado/GS
 allanador/GS
 allegadizo/GS
 allegador/GS
@@ -639,6 +647,7 @@ almohade/GS
 almohadillado/SG
 almorávide/S
 alocado/GS
+alófono/GS
 alópata/S
 alopático/GS
 alotrópico/GS
@@ -792,6 +801,7 @@ anabaptista/S
 anacanto/S
 anacardiáceo/GS
 anacardino/GS
+anacreóntico/GS
 anacrónico/GS
 anafórico/SG
 anagramático/GS
@@ -803,6 +813,7 @@ analizador/GS
 analógico/SG
 análogo/SG
 anal/S
+anárquico/GS
 anarquista/S
 anarquizante/S
 anatematizador/GS
@@ -960,6 +971,7 @@ antónimo/SG
 antoniniano/GS
 antonino/GS
 antozoo/S
+antropocéntrico/GS
 antropófago/GS
 antropoideo/SG
 antropoide/S
@@ -1052,6 +1064,7 @@ apodíctico/GS
 apolinar/S
 apolíneo/SG
 apologético/GS
+apólogo/GS
 aporcador/SG
 aporreador/SG
 aposentador/GS
@@ -1169,6 +1182,7 @@ armoricano/GS
 aromático/GS
 arpado/GS
 arqueológico/SG
+arquetípico/GS
 arquiepiscopal/S
 arquitectónico/GS
 arquitectural/S
@@ -1226,6 +1240,7 @@ articular/lS
 articulatorio/SG
 artificial/S
 artificiosa/k
+artificiosidad/S
 artificioso/kSG
 artillero/SG
 artiodáctilo/S
@@ -1239,6 +1254,7 @@ asadero/SG
 asado/SG
 asalariado/GS
 asaltante/S
+asambleario/GS
 asardinado/GS
 asativo/SG
 asaz/S
@@ -1301,6 +1317,7 @@ astral/S
 astrictivo/GS
 astringente/S
 astrofísico/GS
+astrológico/GS
 astrólogo/GS
 astronáutico/GS
 astronómico/GS
@@ -1309,6 +1326,7 @@ astroso/GhS
 asturiano/GS
 asturicense/S
 astur/S
+asturleonés/GS
 astuto/GS
 asumible/S
 asuncionista/S
@@ -1322,6 +1340,7 @@ atador/hGS
 atajador/GS
 atalayador/GS
 atávico/SG
+atemporal/S
 atendible/hS
 ateneo/GS
 ateniense/S
@@ -1419,7 +1438,6 @@ autónomo/SG
 autopropulsado/GS
 autoritario/GS
 autorizado/SG
-autosuficiente/S
 auxiliador/GS
 auxiliar/S
 avanzado/GS
@@ -1454,6 +1472,7 @@ avivador/GS
 avolcanado/GS
 axial/fS
 axilar/S
+axiológico/GS
 axiomático/GS
 ayudador/GS
 ayudado/SG
@@ -1742,6 +1761,7 @@ bisalta/S
 bisayo/SG
 bisector/S
 bisectriz/S
+bisílabo/GS
 bisojo/SG
 bisoño/GS
 bisurco/S
@@ -1950,6 +1970,7 @@ burro/SG
 bursátil/S
 burundés/GS
 buscador/GpS
+buscón/GS
 butanés/GS
 cabalístico/GS
 caballar/S
@@ -1977,6 +1998,7 @@ cabrito/GS
 cabrón/GS
 cabruno/GS
 cacareador/GS
+cacereño/GS
 cachas/S
 cachazudo/GS
 cachetudo/GS
@@ -2017,6 +2039,7 @@ calculatorio/GS
 calculista/S
 calculoso/GS
 caldeo/GS
+calderoniano/GS
 caldoso/GS
 caledonio/SG
 calefactor/GS
@@ -2110,6 +2133,7 @@ cancerígeno/GS
 canceroso/SG
 cáncer/S
 cancilleresco/GS
+cancioneril/S
 candeal/S
 candente/S
 cándido/GS
@@ -2330,7 +2354,7 @@ catenario/GS
 catenular/S
 catilinaria/S
 catódico/GS
-católico/SG
+católico/cGS
 catoniano/GS
 catorceavo/GS
 catorceno/GS
@@ -6299,7 +6323,7 @@ herniado/GS
 herniario/GS
 hernioso/GS
 herodiano/GS
-heroico/GS
+heroico/cGS
 herramental/S
 herrial/S
 herrumbroso/SG
@@ -7482,7 +7506,7 @@ leyendario/SG
 lezne/GS
 libanés/GS
 liberador/GS
-liberal/kS
+liberal/ckS
 liberatorio/GS
 liberiano/GS
 libertador/GS
@@ -10717,7 +10741,7 @@ regoldano/SG
 regordete/SG
 regresivo/GS
 regulado/GS
-regulador/SG
+regulador/dGS
 regularizador/SG
 regular/kS
 regulativo/GS
@@ -11825,7 +11849,7 @@ sueco/GS
 suelta/p
 suelto/pGS
 sueroso/SG
-suficiente/Sk
+suficiente/dkS
 sufijo/SG
 sufí/S
 sufista/S

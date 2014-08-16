@@ -245,6 +245,7 @@ acrobatismo/S
 acromion
 acrómiones
 acrónimo/S
+acróstico/S
 actinio/OS
 actinismo/S
 actinomices
@@ -311,6 +312,7 @@ adorno/S
 adral/S
 adrizamiento/S
 ADSL
+adstrato/S
 aduar/S
 adulterio/S
 advenimiento/S
@@ -353,6 +355,7 @@ aforismo/S
 aforo/O
 afrailamiento/S
 afrancesamiento/S
+africanismo/S
 áfrico/S
 afrikáans
 afronitro/S
@@ -765,6 +768,8 @@ alodio/S
 áloe/S
 alojado/S
 alojamiento/hS
+alófono/S
+alomorfo/S
 alón/S
 alopecuro/S
 alpamato/S
@@ -1046,6 +1051,7 @@ antozoo/S
 antropocentrismo/S
 antropomorfismo/S
 antropomorfo/S
+antropónimo/S
 antro/S
 antruejo/S
 antuzano/S
@@ -1105,6 +1111,7 @@ aperador/S
 apercibimiento/hS
 aperitivo/S
 apersonamiento/S
+aperturismo/S
 apetito/S
 apiaradero/S
 ápice/S
@@ -1127,6 +1134,7 @@ apodo/S
 ápodo/S
 apogeo/S
 apolo/S
+apólogo/S
 apoltronamiento/S
 aporisma/S
 aporreamiento/S
@@ -1211,6 +1219,7 @@ arcedo/S
 arcén/S
 arce/S
 archero/S
+archidiácono/S
 archiducado/S
 archiduque/S
 archimandrita/S
@@ -1253,6 +1262,7 @@ arilo/S
 arísaro/S
 aristarco/S
 aristino/S
+aristocratismo/S
 aristotelismo/S
 arlequín/S
 armadijo/S
@@ -1437,6 +1447,7 @@ astrolabio/S
 astrolito/S
 astro/S
 asturianismo/S
+asturleonés
 asueto/S
 asunto/S
 atabalero/S
@@ -1534,7 +1545,6 @@ austro/S
 autismo/S
 autobombo/S
 autobús
-autocontrol/S
 autodidactismo
 autoestop
 autoestopes
@@ -1930,6 +1940,7 @@ beduino/S
 beduro/S
 befo/S
 be/H
+behaviorismo/S
 béisbol/S
 bejín/S
 bejuco/S
@@ -2043,6 +2054,7 @@ bis
 biselador/S
 bisel/S
 bisiesto/S
+bisílabo/S
 bismuto/S
 bisonte/S
 bistec/S
@@ -2189,6 +2201,7 @@ bosquejo/S
 bosque/S
 bosquete/S
 bosquimán/S
+bostezo/S
 botador/iS
 botafuego/S
 botafumeiro/S
@@ -2226,6 +2239,7 @@ bragazas
 braguero/S
 braguillas
 brahmanismo/S
+braille
 bramante/S
 bramido/S
 brancal/S
@@ -2305,6 +2319,7 @@ buceo/S
 bucero/S
 buche/S
 bucle/S
+bucolismo/S
 buco/S
 buda/OS
 budín/S
@@ -2533,6 +2548,7 @@ calientaplatos
 califa/S
 califato/S
 calificativo/S
+caligrama/S
 calimaco/S
 calimote/S
 cáliz/S
@@ -3286,6 +3302,7 @@ cielo/rS
 ciempiés
 cieno/S
 cientificismo/S
+cientifismo/S
 ciento/S
 cierne/S
 cierre/S
@@ -3379,6 +3396,7 @@ clarín/HS
 clarión/S
 claror/S
 claroscuro/S
+clasema/S
 clasicismo/S
 clásico/SG
 clasificador/S
@@ -3401,6 +3419,7 @@ clic/S
 clientelismo/S
 clima/S
 climaterio/S
+clímax/c
 clinopodio/S
 clip/S
 clisé/S
@@ -3745,7 +3764,7 @@ contravalor/S
 contravapor/S
 contraveneno/S
 contra/S
-control/hS
+control/dhS
 contubernio/S
 convencionalismo/S
 convencional/SO

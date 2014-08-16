@@ -36,6 +36,7 @@ cemita/S
 cepillada/S
 chachalaca/S
 chaperona/S
+chinita/S
 cigarrería/S
 contesta/S
 contraloría/S
