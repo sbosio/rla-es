@@ -16,8 +16,6 @@
 
 abatanado/GS
 aborlonado/GS
-alfabeto/aSG
-alfabeto/GS
 alhaja/S
 alón/SG
 aplazado/GS

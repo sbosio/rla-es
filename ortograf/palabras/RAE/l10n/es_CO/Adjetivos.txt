@@ -17,8 +17,6 @@
 abatanado/GS
 aborlonado/GS
 agrandado/GS
-alfabeto/aSG
-alfabeto/GS
 alón/SG
 aplazado/GS
 araguato/GS

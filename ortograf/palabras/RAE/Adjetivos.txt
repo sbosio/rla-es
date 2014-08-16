@@ -758,6 +758,7 @@ anacardino/GS
 anacrónico/GS
 anafórico/SG
 anagramático/GS
+analfabeto/GS
 analgésico/GS
 analítico/SG
 analizable/Sk

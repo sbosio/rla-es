@@ -15,7 +15,6 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 abombado/GS
-alfabeto/GS
 alojado/GS
 aplazado/GS
 arrimado/GS

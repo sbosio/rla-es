@@ -16,7 +16,6 @@
 
 abombado/GS
 agrandado/GS
-alfabeto/GS
 alojado/GS
 aplazado/GS
 arrimado/GS
