@@ -5784,7 +5784,7 @@ gongorino/GS
 gonocócico/GS
 gordal/S
 gordinflón/GS
-gordo/SG
+gordo/GSU
 gorgojoso/GS
 gorrino/GS
 gorrista/S

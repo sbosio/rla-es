@@ -887,7 +887,7 @@ golilla/S
 golillero/GS
 goloso/GS
 gomero/GS
-gordo/GS
+gordo/GSU
 gorrero/GS
 grabador/GS
 gracioso/GS
