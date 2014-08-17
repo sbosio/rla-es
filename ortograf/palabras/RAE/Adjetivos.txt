@@ -1649,6 +1649,7 @@ bigotudo/GS
 bilbilitano/GS
 biliario/GS
 biliar/S
+billonario/GS
 bimano/GS
 bimembre/S
 bimestral/S
@@ -1656,6 +1657,7 @@ bimestre/S
 bimetalista/S
 binario/GS
 binocular/S
+bioclimático/GS
 biográfica/d
 biográfico/GdS
 biológico/GS
@@ -4127,6 +4129,7 @@ dosalbo/GS
 doscientos
 dosificador/SG
 dos/k
+dotacional/S
 dotada/tk
 dotador/S
 dotado/tkGS
@@ -4360,6 +4363,7 @@ empachoso/GS
 empalagoso/GS
 empampirolado/SG
 empanado/GS
+empático/GS
 emparedado/GS
 empastador/SG
 empavesado/SG
@@ -4454,6 +4458,7 @@ eneasílabo/GS
 enemigo/GS
 energético/GS
 enérgico/GS
+energizante/S
 enervador/SG
 enervante/S
 enésimo/GS
@@ -5114,6 +5119,7 @@ extraoficial/S
 extraordinario/SG
 extraplano/SG
 extra/S
+extrasalarial/S
 extrasensorial/S
 extraterrestre/S
 extraterritorial/S
@@ -5766,6 +5772,7 @@ gobernante/S
 gobernativo/GS
 godesco/GS
 godo/GS
+golfístico/GS
 golfo/GS
 goloso/GS
 golpeador/GS
@@ -5940,6 +5947,7 @@ hábil/kS
 habillado/GS
 habiloso/GS
 habitable/Sk
+habitacional/S
 habitador/GS
 habitante/S
 habitual/S
@@ -6432,6 +6440,7 @@ incapacitado/GS
 inca/S
 incasable/S
 incendiario/GS
+incentivador/GS
 incentivo/GS
 incesable/S
 incesto/S
@@ -6713,6 +6722,7 @@ interesada/h
 interesado/hSG
 interesante/S
 interfecto/GS
+intergeneracional/S
 interino/GS
 interinstitucional/S
 interior/S
@@ -7924,6 +7934,7 @@ metodológico/GS
 métrico/GS
 metropolitano/GS
 mexicano/GS
+mexica/S
 mezquino/GS
 mi
 microbiano/SG
@@ -8668,6 +8679,7 @@ ojival/S
 ojizaino/GS
 ojizarco/GS
 ojoso/iGS
+okupa/S
 oleáceo/GS
 oleado/GS
 oleaginoso/GS
@@ -8773,6 +8785,7 @@ orgánico/kSG
 organizador/hGpS
 organizado/SG
 organizativo/GS
+orgásmico/GS
 orgiástico/GS
 orgulloso/GS
 orientable/GS
@@ -10210,6 +10223,7 @@ recuperable/Sk
 recuperador/GS
 recuperativo/GS
 recurrente/S
+recursivo/GS
 recusable/kS
 recusante/S
 redactor/GS

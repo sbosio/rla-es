@@ -493,6 +493,7 @@ meteorologista/S
 metepatas
 metomentodo/S
 metrista/S
+mexica/S
 microscopista/S
 miembro/S
 mierda/S
@@ -536,6 +537,7 @@ oculista/S
 ocultista/S
 oficial/sS
 oficinista/S
+okupa/S
 operista/S
 oposicionista/S
 orate/S
@@ -649,6 +651,7 @@ reo/S
 repentista/S
 reportista/S
 representante/S
+rescatista/S
 reserva/S
 residente/S
 responsable/S

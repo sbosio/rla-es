@@ -244,6 +244,7 @@ benjamín/GS
 bibliotecario/GS
 bigardo/GS
 billetero/GS
+billonario/GS
 biógrafo/GS
 biólogo/GS
 bioquímico/GS
@@ -444,6 +445,7 @@ cipote/GS
 cirujano/GS
 cisma/S
 citano/GS
+citricultor/GS
 ciudadano/fGS
 clac/S
 claro/GS
@@ -1694,6 +1696,7 @@ técnico/GS
 teja/S
 tejedor/GS
 tejero/GS
+teletrabajador/GS
 tema/S
 tembladero/GS
 temblador/GS

@@ -402,6 +402,7 @@ embustir/RED
 emerger/RED
 emigrar/RED
 empalidecer/IRD
+empatizar/RED
 empelar/RED
 emplumecer/IRD
 encalvecer/IRD

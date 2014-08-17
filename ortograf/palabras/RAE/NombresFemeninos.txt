@@ -1920,6 +1920,7 @@ carroza/S
 carrucha/S
 carta/NS
 cartela/S
+cartelería/S
 cartera/S
 carteta/S
 cartivana/S
@@ -3166,6 +3167,7 @@ demo/S
 democracia/S
 demografía/S
 demolición/S
+demonización/S
 demonología/S
 demonomancia/S
 demora/S
@@ -5473,6 +5475,7 @@ inanidad/S
 inauguración/S
 incandescencia/S
 incendaja/S
+incentivación/S
 incidencia/pSf
 incineración/S
 incisión/S
@@ -6853,6 +6856,7 @@ minera/LS
 minerva/S
 minga/S
 miniatura/S
+minicadena/S
 minifalda/S
 minina/S
 ministración/S
@@ -7496,7 +7500,7 @@ organización/pS
 organogenia/S
 organza/S
 orgía/S
-orientación/hS
+orientación/hpS
 oriflama/S
 originalidad/S
 orilla/S
@@ -8361,6 +8365,7 @@ posteridad/S
 posterioridad/S
 posteta/S
 postilla/aS
+postproducción/S
 postración/S
 postulanta/S
 postura/aSk
@@ -8729,6 +8734,7 @@ racionabilidad/kS
 racionalidad/Sk
 racionalización/S
 ración/S
+racor/S
 rada/aS
 radiación/kS
 radiactividad/S
@@ -8873,6 +8879,7 @@ rectoral/S
 recuarta/S
 recua/S
 recuperación/S
+recursividad/S
 redacción/S
 redada/S
 redaya/S
@@ -10290,6 +10297,7 @@ transpiración/S
 transportación/S
 transposición/S
 transustanciación/S
+transversalidad/S
 tranzadera/S
 trapa/S
 trapatiesta/S
@@ -10449,6 +10457,7 @@ turronada/S
 tusa/S
 tutela/S
 tutía/S
+tutorización/S
 tuya/S
 u
 ubicación/S

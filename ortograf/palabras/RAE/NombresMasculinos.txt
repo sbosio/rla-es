@@ -1208,6 +1208,7 @@ argonauta/S
 argón/S
 argos
 argot/S
+argumentario/S
 argumento/S
 árido/S
 arienzo/S
@@ -1936,6 +1937,7 @@ bezaar/S
 bezar/S
 bezoar/S
 biberón/S
+bicampeonato/S
 bicentenario/S
 bichero/S
 bicho/S
@@ -3077,6 +3079,7 @@ chascarro/SN
 chasco/S
 chasis
 chasquido/S
+chat
 chauvinismo/S
 chavetero/S
 chavo/S
@@ -4789,6 +4792,7 @@ empireuma/S
 empirismo/S
 emplastamiento/S
 emplasto/S
+emplatado/S
 emplazador/S
 emplazamiento/S
 empleo/hS
@@ -4903,6 +4907,7 @@ enebral/S
 enebro/S
 eneldo/S
 enema/S
+energizante/S
 enero
 enervamiento/S
 enfadamiento/S
@@ -10463,6 +10468,8 @@ racional/SO
 racionamiento/S
 racionero/S
 racismo/S
+racord
+rácord
 radar/S
 radiador/S
 radicalismo/S
@@ -11655,6 +11662,7 @@ sitacismo/S
 sitial/S
 sitio/S
 situado/S
+SMS
 sobaco/S
 sobadero/S
 sobado/S
@@ -11845,6 +11853,7 @@ sudadero/S
 sudario/S
 sudeste/S
 sudoeste/S
+sudoku/S
 sudor/pS
 sudsudeste/S
 sudsudoeste/S
@@ -11988,6 +11997,7 @@ talento/S
 talio/S
 talismán/S
 tallado/S
+tallaje/S
 talle/gS
 taller/S
 tallo/S
@@ -12776,6 +12786,8 @@ ucraniano/S
 ujier/S
 ulema/S
 ultimátum
+ultraderechismo/S
+ultraizquierdismo/S
 ultraje/S
 ultramar/S
 ultramicroscopio/S
@@ -12814,6 +12826,7 @@ uro/aS
 urodelo/S
 urogallo/S
 usagre/S
+USB
 usier/S
 uso/CS
 usos/h

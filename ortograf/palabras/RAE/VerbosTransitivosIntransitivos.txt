@@ -226,6 +226,7 @@ embrocar/RED
 emparentar/REID¿¡¿¡
 empavorecer/IRD
 empezar/IRD¿¡¬
+emplatar/RED¿
 emplumar/RED
 empollar/RED¿
 encantar/RED¿¡¬
@@ -400,6 +401,7 @@ oblicuar/IRD
 obrar/RED
 obviar/RED¿
 oficiar/RED
+okupar/RED
 oliscar/RED
 ondear/RED
 ondular/RED

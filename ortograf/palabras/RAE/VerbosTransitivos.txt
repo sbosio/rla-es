@@ -2175,6 +2175,7 @@ extirpar/REDÀÁÂÃÄT
 extornar/RED
 extorsionar/REDÀÁÂ
 extractar/REDÀ
+extradir/REDÀÂ
 extraditar/REDÀÂ
 extraer/XDÀÁÂÃÈÊ
 extrapolar/REDÀ
@@ -3617,6 +3618,7 @@ traillar/IRD
 tramitar/REDÀÁÂÃÄ
 trancar/RED
 tranquilar/RED
+transaccionar/RED
 transcribir/REÀÂ
 transferir/XDÀÁÂÈÊ
 transflorar/RED
@@ -3700,6 +3702,7 @@ turrar/RED
 tusturrar/RED
 tutelar/RED
 tutorar/RED
+tutorizar/RED
 ultimar/REDÀ
 ultrajar/REDÀÁ
 umbralar/RED
