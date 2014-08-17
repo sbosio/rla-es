@@ -299,6 +299,7 @@ enfiteuta/S
 enigmatista/S
 ensayista/S
 entremesista/S
+eón/S
 epigrafista/S
 epigramatista/S
 epigramista/S

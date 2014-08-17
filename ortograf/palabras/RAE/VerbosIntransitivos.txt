@@ -455,7 +455,7 @@ estridular/RED
 evolucionar/RED
 excretar/RED
 existir/RED
-expirar/RED
+expirar/REDA
 exuberar/RED
 exultar/RED
 fachendear/RED

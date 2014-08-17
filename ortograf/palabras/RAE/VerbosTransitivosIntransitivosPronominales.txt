@@ -261,7 +261,7 @@ disputar/REDÆñò
 doblar/REDÀÁÂÄÙñ
 dominar/REDÀÂÄñ
 dormir/XDÁÂÉñóöú
-echar/REDÀÁÂÃÄÅÆÇñò
+echar/REDÀÁÂÃÄÅÆÇÌñò
 embalar/RED
 embarcar/REDÀÂñô
 embarrancar/RED
@@ -329,7 +329,7 @@ ensanchar/RED
 ensordecer/IRDñ
 entablar/RED
 entallar/REDT
-entender/IRDÀÁÃÄĞÑñòù
+entender/IRDÀÁÃÄÂĞÑñòù
 entonar/REDñ
 entontecer/IRD
 entrar/REDÁÂÅÆñò

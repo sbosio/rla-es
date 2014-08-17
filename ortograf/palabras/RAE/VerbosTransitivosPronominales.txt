@@ -849,7 +849,6 @@ desenmohecer/IRD
 desenojar/RED
 desenredar/REDñ
 desenrollar/RED
-desenroscar/RED
 desenrudecer/IRD
 desensamblar/RED
 desensañar/RED
@@ -1358,7 +1357,7 @@ enrolar/REDñ
 enrollar/REDÀÁÄÌÙñô
 enromar/RED
 enroñar/RED
-enroscar/RED
+enroscar/REDÄh
 enrubiar/RED
 enrudecer/IRD
 ensabanar/RED
