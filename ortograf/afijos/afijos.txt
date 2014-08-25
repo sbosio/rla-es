@@ -3485,7 +3485,7 @@ SFX Ë ír        yéndooslos    oír
 # Verbos regulares en imperativo, con clíticos de objeto directo en
 # 3ª persona, singular y plural; en posición enclítica.
 #
-SFX Ì Y 384
+SFX Ì Y 388
 SFX Ì abar      ábala    abar
 SFX Ì abar      ábalas   abar
 SFX Ì abar      ábalo    abar
@@ -3870,6 +3870,10 @@ SFX Ì utar      útalas   utar
 SFX Ì utar      útala    utar
 SFX Ì utar      útalos   utar
 SFX Ì utar      útalo    utar
+SFX Ì uzar      úzalas   uzar
+SFX Ì uzar      úzala    uzar
+SFX Ì uzar      úzalos   uzar
+SFX Ì uzar      úzalo    uzar
 
 # Verbos regulares en imperativo, con clíticos de objeto directo o indirecto
 # en 1ª y 2ª persona, singular y plural; en posición enclítica.
@@ -6847,7 +6851,7 @@ SFX ó r         éndote       ucir
 # Verbos regulares que aceptan conjugación pronominal, en imperativo; con
 # pronombre personal reflexivo en posición enclítica.
 #
-SFX ô Y 136
+SFX ô Y 138
 SFX ô abar      ábate    abar
 SFX ô r         te       [aei]r    # 2ª pers. singular (vos)
 SFX ô r         os       r
@@ -6893,6 +6897,7 @@ SFX ô azar      ázate    azar
 SFX ô ear       éate     ear
 SFX ô ecar      écate    ecar
 SFX ô echar     échate   echar
+SFX ô ectar     éctate   ectar
 SFX ô edar      édate    edar
 SFX ô egar      égate    egar
 SFX ô eger      égete    eger
@@ -6935,6 +6940,7 @@ SFX ô intar     íntate   intar
 SFX ô irar      írate    irar
 SFX ô ir        íos      ir
 SFX ô istar     ístate   istar
+SFX ô istrar    ístrate  istrar
 SFX ô itar      ítate    itar
 SFX ô itir      ítete    itir
 SFX ô izar      ízate    izar

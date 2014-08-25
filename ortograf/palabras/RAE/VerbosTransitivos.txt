@@ -3147,7 +3147,7 @@ reedificar/RED
 reeditar/REDÀ
 reeducar/REDÀÁÂ
 reelegir/XDÀÁT
-reemplazar/REDÀÁÂÄ
+reemplazar/REDÀÁÂÄÌ
 reencuadernar/RED
 reengendrar/RED
 reensayar/RED

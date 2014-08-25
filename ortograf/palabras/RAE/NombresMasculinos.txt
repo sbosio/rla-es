@@ -1085,6 +1085,7 @@ apitonamiento/S
 aplacamiento/S
 aplanamiento/S
 aplastamiento/S
+aplauso/S
 aplazamiento/S
 aplique/S
 aplomo
@@ -13063,6 +13064,7 @@ victo/fS
 victoriato/S
 videoclip/S
 videoclub/S
+videograbador/S
 videojuego/S
 vídeo/S
 vidriado/S

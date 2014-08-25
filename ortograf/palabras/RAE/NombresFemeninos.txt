@@ -1634,6 +1634,7 @@ calcicosis
 calcinación/S
 calcina/S
 calcita/S
+calcomanía/S
 calcopirita/S
 calcotipia/S
 calda/S
@@ -10457,6 +10458,7 @@ turronada/S
 tusa/S
 tutela/S
 tutía/S
+tutoría/S
 tutorización/S
 tuya/S
 u

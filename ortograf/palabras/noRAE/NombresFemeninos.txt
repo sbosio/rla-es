@@ -40,5 +40,6 @@ subfamilia/S
 subrutina/S
 temporalización/S
 totalización/S
+usabilidad/S
 vinoteca/S
 vocalía/S

@@ -1,5 +1,5 @@
-# Lista de lemas: NombresComunes.txt
-# Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
+# Lista de lemas: VerbosIntransitivos.txt
+# Copyright (C) 2004-2014 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
 # conforme a los términos de la Licencia Pública General de GNU, publicada
@@ -14,6 +14,4 @@
 # Debe haber recibido una copia de la Licencia Pública General de GNU junto
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
-internauta/S
-ninja/S
-patrocinante/S
+interactuar/IRD

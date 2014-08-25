@@ -184,7 +184,7 @@ comulgar/RED
 comunicar/REDÀÁÂÃÄÅÆÇÍÙÚÛÜñòôø
 concertar/IRDÀÁÂñ
 conducir/XDÀÁÂÈÉÊÕÌñóT
-conectar/REDÀÁÂÄÅÆÙñòT
+conectar/REDÀÁÂÄÅÆÙñòôT
 confiar/IRDÀÁÂÃÅÆÑŞñòõT
 confinar/REDÀÁÄÅñò
 conformar/REDÀÁÄÅñòôø

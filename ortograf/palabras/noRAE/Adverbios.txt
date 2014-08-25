@@ -223,6 +223,7 @@ enternecedoramente
 entretenidamente
 entusiastamente
 ergonómicamente
+erráticamente
 escatológicamente
 esclarecidamente
 espartanamente
@@ -419,6 +420,7 @@ susurrantemente
 táctilmente
 tajantemente
 tambaleantemente
+tangencialmente
 tangiblemente
 tartamudeantemente
 temblorosamente

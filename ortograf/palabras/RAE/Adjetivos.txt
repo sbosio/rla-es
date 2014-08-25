@@ -2751,6 +2751,7 @@ comparable/kS
 comparada/k
 comparado/kGS
 comparativo/SG
+compartible/S
 compasiva/k
 compasivo/SGk
 compatible/Sk
@@ -6092,6 +6093,7 @@ heteroscio/GS
 heterosexual/S
 hético/GS
 hexacoralario/S
+hexadecimal/S
 hexagonal/S
 hexágono/SG
 hialino/GS

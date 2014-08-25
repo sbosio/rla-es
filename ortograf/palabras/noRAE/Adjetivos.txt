@@ -28,6 +28,7 @@ autodeterminado/GS
 autolubricante/S
 autosustentable/S
 bidireccional/S
+booleano/GS
 colaborativo/GS
 combinacional/S			# Contribuida por César Romé
 completísimo/GS
