@@ -1633,7 +1633,7 @@ incomodar/REDÀÁÂñ
 incomunicar/REDÀ
 incorporar/REDÀÁÂÄÅÆÌÎÙñòôø
 incrementar/REDÀÁÄñ
-incrustar/REDÀÁÂñ
+incrustar/hREDAÀÁÂñ
 inculcar/REDÁÂÃÆñ
 indemnizar/REDÀÁÂñ
 independizar/REDÀÁñ

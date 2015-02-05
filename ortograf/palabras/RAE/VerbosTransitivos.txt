@@ -1312,7 +1312,6 @@ designar/REDÀÁÂÃÄÆ
 desimaginar/RED
 desimponer/X
 desincentivar/RED
-desincrustar/RED
 desinformar/RED
 desinsacular/RED
 desinsectar/RED
@@ -2451,7 +2450,7 @@ inseminar/RED
 inserir/XD
 insidiar/RED
 insonorizar/RED
-inspeccionar/REDÀÂÄÅ
+inspeccionar/REDÀÂÄÅÌ
 instaurar/REDÀÂ
 instigar/RED
 instilar/RED
