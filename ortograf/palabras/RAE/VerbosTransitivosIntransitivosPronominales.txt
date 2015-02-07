@@ -490,7 +490,7 @@ purgar/REDÁñT
 quebrajar/RED
 quebrar/IRDÀñ
 quedar/REDÂÃÅÆÜñòôø
-quemar/REDÁÅÌÙñò
+quemar/pREDÁÀÅÌÙñò
 rajar/REDÀÂÃÆñT
 rebalsar/RED
 rebosar/REDÀ
@@ -499,7 +499,7 @@ recalar/RED
 recalcar/REDÀÄÆ
 recargar/REDñòT
 reclamar/REDÀÃÄÅÆÜñò
-recordar/IRDÀÄÅÇÏÓİŞßñòõù
+recordar/IRDÀÄÃÅÇÏÓİŞßñòõù
 recrecer/IRD
 redoblar/RED
 reducir/XDÀÁÈñóú
@@ -562,7 +562,6 @@ soplar/REDÂÄÅÍñò
 sosegar/IRDÂÒñõù
 subir/REDÀÁÂÃÄÆÍñòôø
 sufrir/REDÀÌ
-supurar/RED
 surtir/REDÁÄñ
 suspender/REDÀÁÄñ
 susurrar/REDÀÁÂÆñò
