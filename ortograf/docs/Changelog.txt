@@ -1,3 +1,7 @@
+Versión 0.8:
+- Muchos términos nuevos correspondientes al bug 682 en Forja.rediris.es.
+- Migrado el proyecto a GitHub (https://github.com/sbosio/rla-es).
+
 Versión 0.7:
 - Más modificaciones en los ficheros de afijos (prefijo contra-).
 - Agregado de lemas faltantes, gracias a Alejandro Moreno y KNTRO.
