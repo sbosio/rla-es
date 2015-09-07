@@ -9,11 +9,6 @@
 # Distribuido bajo la licencia 'GNU Lesser General Public License' (LGPL),
 # publicada por la Free Software Foundation.
 #
-# IMPORTANTE:
-# Este fichero sólo se usa para el diccionario genérico por lo que si se 
-# añade alguna regla que también aplica a alguna localización se debe 
-# añadir también dicha regla en los ficheros de afijos de las localizaciones
-# afectadas.
 #
 # Utilizamos la codificación ISO-8859-1
 SET ISO8859-1
@@ -199,9 +194,8 @@ PFX u e         tras      e[^s]
 
 # Prefijo contra-: Significa 'opuesto'.
 # Si se antepone a una palabra que empieza por r, esta se duplica: contraréplica.
-PFX v Y 2
-PFX v 0         contra      [^r]
-PFX v 0         contrar     r
+PFX v Y 1
+PFX v 0         contra      .
 
 
 

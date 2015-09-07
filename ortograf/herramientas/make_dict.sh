@@ -2,7 +2,7 @@
 #
 # make_dict.sh: Script para la creación del paquete de diccionario.
 #
-# Copyleft 2005-2011, Santiago Bosio
+# Copyleft 2005-2015, Santiago Bosio
 # Este programa se distribuye bajo licencia GNU GPL.
 
 # Herramientas básicas para el script
@@ -136,27 +136,20 @@ fi
 MDTMPDIR="`$MKTEMP -d /tmp/makedict.XXXXXXXXXX`"
 
 # Para el fichero de afijos encadenamos los distintos segmentos (encabezado,
-# prefijos y sufijos) de la localización seleccionada, removiendo los
+# prefijos y sufijos) de la localización seleccionada, eliminando los
 # comentarios y espacios innecesarios.
-AFFIXTMP="$MDTMPDIR/$LOCALIZACION.aff.tmp"
 AFFIX="$MDTMPDIR/$LOCALIZACION.aff"
 echo -n "Creando el fichero de afijos... "
 
-if [ ! -d ../afijos/l10n/$LOCALIZACION ]; then
+if [ ! -f ../afijos/l10n/$LOCALIZACION/afijos.txt ]; then
   # Si se solicitó un diccionario genérico, o la localización no ha
   # definido sus propias reglas para los afijos, utilizamos la versión
   # genérica de los ficheros.
   ./remover_comentarios.sh < ../afijos/afijos.txt > $AFFIX
 else
-  # Copiar la versión genérica del fichero de afijos y parcharlo con las
-  # diferencias de la localización solicitada.
-  cp ../afijos/afijos.txt $AFFIXTMP
-  patch --ignore-whitespace $AFFIXTMP \
-        ../afijos/l10n/$LOCALIZACION/afijos_$LOCALIZACION-diffs.patch \
-        > /dev/null 2>&1
-  ./remover_comentarios.sh < $AFFIXTMP > $AFFIX
+  # Se usa la versión de la localización solicitada.
+  ./remover_comentarios.sh < ../afijos/l10n/$LOCALIZACION/afijos.txt > $AFFIX
 fi
-rm -f $AFFIXTMP
 echo "¡listo!"
 
 # La lista de palabras se conforma con los distintos grupos de palabras
