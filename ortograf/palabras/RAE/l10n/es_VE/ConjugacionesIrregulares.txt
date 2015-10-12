@@ -2,43 +2,43 @@
 # Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
-# conforme a los términos de la Licencia Pública General de GNU, publicada
-# por la Free Software Foundation, ya sea la versión 3 de la Licencia,
-# o una versión posterior (a su elección).
+# conforme a los tÃ©rminos de la Licencia PÃºblica General de GNU, publicada
+# por la Free Software Foundation, ya sea la versiÃ³n 3 de la Licencia,
+# o una versiÃ³n posterior (a su elecciÃ³n).
 
-# Este listado se distribuye con el deseo que le resulte útil, pero
-# SIN GARANTÍAS DE NINGÚN TIPO; ni siquiera con las garantías implícitas
-# de COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO DETERMINADO. Para más
-# información consulte el texto de la licencia respectiva seleccionada.
+# Este listado se distribuye con el deseo que le resulte Ãºtil, pero
+# SIN GARANTÃAS DE NINGÃšN TIPO; ni siquiera con las garantÃ­as implÃ­citas
+# de COMERCIABILIDAD o APTITUD PARA UN PROPÃ“SITO DETERMINADO. Para mÃ¡s
+# informaciÃ³n consulte el texto de la licencia respectiva seleccionada.
 
-# Debe haber recibido una copia de la Licencia Pública General de GNU junto
-# con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
+# Debe haber recibido una copia de la Licencia PÃºblica General de GNU junto
+# con este listado. Si no es asÃ­, visite <http://www.gnu.org/licenses/>
 
-garúa
+garÃºa
 garuaba
 garuaban
 garuada
 garuadas
 garuado
 garuados
-garúan
+garÃºan
 garuando
 garuar
 garuara
-garuará
+garuarÃ¡
 garuaran
-garuarán
+garuarÃ¡n
 garuare
 garuaren
-garuaría
-garuarían
+garuarÃ­a
+garuarÃ­an
 garuaron
 garuarse
 garuase
 garuasen
-garúe
-garúen
-garuó
+garÃºe
+garÃºen
+garuÃ³
 harinea
 harineaba
 harineaban
@@ -50,17 +50,17 @@ harinean
 harineando
 harinear
 harineara
-harineará
+harinearÃ¡
 harinearan
-harinearán
+harinearÃ¡n
 harineare
 harinearen
-harinearía
-harinearían
+harinearÃ­a
+harinearÃ­an
 harinearon
 harinearse
 harinease
 harineasen
 harinee
 harineen
-harineó
+harineÃ³

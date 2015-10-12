@@ -2,17 +2,17 @@
 # Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
-# conforme a los tÈrminos de la Licencia P˙blica General de GNU, publicada
-# por la Free Software Foundation, ya sea la versiÛn 3 de la Licencia,
-# o una versiÛn posterior (a su elecciÛn).
+# conforme a los t√©rminos de la Licencia P√∫blica General de GNU, publicada
+# por la Free Software Foundation, ya sea la versi√≥n 3 de la Licencia,
+# o una versi√≥n posterior (a su elecci√≥n).
 
-# Este listado se distribuye con el deseo que le resulte ˙til, pero
-# SIN GARANTÕAS DE NING⁄N TIPO; ni siquiera con las garantÌas implÌcitas
-# de COMERCIABILIDAD o APTITUD PARA UN PROP”SITO DETERMINADO. Para m·s
-# informaciÛn consulte el texto de la licencia respectiva seleccionada.
+# Este listado se distribuye con el deseo que le resulte √∫til, pero
+# SIN GARANT√çAS DE NING√öN TIPO; ni siquiera con las garant√≠as impl√≠citas
+# de COMERCIABILIDAD o APTITUD PARA UN PROP√ìSITO DETERMINADO. Para m√°s
+# informaci√≥n consulte el texto de la licencia respectiva seleccionada.
 
-# Debe haber recibido una copia de la Licencia P˙blica General de GNU junto
-# con este listado. Si no es asÌ, visite <http://www.gnu.org/licenses/>
+# Debe haber recibido una copia de la Licencia P√∫blica General de GNU junto
+# con este listado. Si no es as√≠, visite <http://www.gnu.org/licenses/>
 
 acolchonar/RED
 aleonar/RED
@@ -35,24 +35,24 @@ chapecar/RED
 charquear/RED
 chasconear/RED
 chicotear/RED
-coimear/RED¿
+coimear/RED√Ä
 corar/RED
-corretear/RED¿≈
+corretear/RED√Ä√Ö
 coscachear/RED
 cuotear/RED
 demeritar/RED
 desaterrar/IRD
 descachazar/RED
-descarozar/RED¿
+descarozar/RED√Ä
 deschapar/RED
 descuajeringar/RED
-desguaÒangar/RED
+desgua√±angar/RED
 desmalezar/RED
 despelucar/RED
 despilarar/RED
 despostar/RED
 despresar/RED
-devolver/IRÒÚ˘
+devolver/IR√±√≤√π
 difuntear/RED
 empalicar/RED
 emplantillar/RED
@@ -62,7 +62,7 @@ encielar/RED
 enlozar/RED
 enmadejar/RED
 enmugrar/RED
-enrostrar/RED¬≈
+enrostrar/RED√Ç√Ö
 entrabar/RED
 harnear/RED
 hijuelar/RED
@@ -80,10 +80,10 @@ pircar/RED
 pispar/RED
 pololear/RED
 quinchar/RED
-quiÒar/RED
+qui√±ar/RED
 rasmillar/RED
 rasquetear/RED
-refaccionar/RED¿
+refaccionar/RED√Ä
 reportear/RED
 retobar/RED
 talonear/RED
@@ -92,6 +92,6 @@ topear/RED
 trapear/RED
 trasbocar/RED
 tusar/RED
-ubicar/RED¿ƒ
-vivar/REDÃŸ
+ubicar/RED√Ä√Ñ
+vivar/RED√å√ô
 yapar/RED

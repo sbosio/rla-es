@@ -2,21 +2,21 @@
 # Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
-# conforme a los tÈrminos de la Licencia P˙blica General de GNU, publicada
-# por la Free Software Foundation, ya sea la versiÛn 3 de la Licencia,
-# o una versiÛn posterior (a su elecciÛn).
+# conforme a los t√©rminos de la Licencia P√∫blica General de GNU, publicada
+# por la Free Software Foundation, ya sea la versi√≥n 3 de la Licencia,
+# o una versi√≥n posterior (a su elecci√≥n).
 
-# Este listado se distribuye con el deseo que le resulte ˙til, pero
-# SIN GARANTÕAS DE NING⁄N TIPO; ni siquiera con las garantÌas implÌcitas
-# de COMERCIABILIDAD o APTITUD PARA UN PROP”SITO DETERMINADO. Para m·s
-# informaciÛn consulte el texto de la licencia respectiva seleccionada.
+# Este listado se distribuye con el deseo que le resulte √∫til, pero
+# SIN GARANT√çAS DE NING√öN TIPO; ni siquiera con las garant√≠as impl√≠citas
+# de COMERCIABILIDAD o APTITUD PARA UN PROP√ìSITO DETERMINADO. Para m√°s
+# informaci√≥n consulte el texto de la licencia respectiva seleccionada.
 
-# Debe haber recibido una copia de la Licencia P˙blica General de GNU junto
-# con este listado. Si no es asÌ, visite <http://www.gnu.org/licenses/>
+# Debe haber recibido una copia de la Licencia P√∫blica General de GNU junto
+# con este listado. Si no es as√≠, visite <http://www.gnu.org/licenses/>
 
 abalar/RED
-abaÒar/RED
-abaraÒar/RED
+aba√±ar/RED
+abara√±ar/RED
 abatojar/RED
 abrezar/RED
 acallantar/RED
@@ -31,9 +31,9 @@ acotolar/RED
 adaguar/RED
 adocilar/RED
 afascalar/RED
-afreÒir/XD
+afre√±ir/XD
 afumar/RED
-agaÒotar/RED
+aga√±otar/RED
 agarrotear/RED
 ajear/RED
 ajotar/RED
@@ -57,11 +57,11 @@ arrecadar/RED
 arrecifar/RED
 aspillar/RED
 bilmar/RED
-cabruÒar/RED
+cabru√±ar/RED
 cambar/RED
 cambizar/RED
 cangar/RED
-ceÒar/RED
+ce√±ar/RED
 cernear/RED
 cerrebojar/RED
 chaspar/RED
@@ -73,7 +73,7 @@ comichear/RED
 condurar/RED
 correntiar/RED
 cuchar/RED
-cundir/RED¡
+cundir/RED√Å
 debrocar/RED
 desbalagar/RED
 desbinzar/RED
@@ -86,12 +86,12 @@ desenronar/RED
 desgualdrajar/RED
 desperfollar/RED
 despichar/RED
-desroÒar/RED
+desro√±ar/RED
 destorgar/RED
 destormar/RED
 desvaretar/RED
 desvezar/RED
-dimir/REDÃ
+dimir/RED√å
 ejabrir/RED
 embolicar/RED
 embribar/RED
@@ -101,7 +101,7 @@ emburriar/RED
 embutar/RED
 emplantillar/RED
 emprar/RED
-encabruÒar/RED
+encabru√±ar/RED
 encalcar/RED
 encatalejar/RED
 encerrizar/RED
@@ -129,7 +129,7 @@ escaldufar/RED
 escalecer/IRD
 escaliar/RED
 escarcear/RED
-escarcuÒar/RED
+escarcu√±ar/RED
 escavillar/RED
 esclafar/RED
 escocar/RED
@@ -138,7 +138,7 @@ escotorrar/RED
 esfolar/RED
 esfornecinar/RED
 esfoyar/RED
-esmuÒir/RED
+esmu√±ir/RED
 espartar/RED
 espergurar/RED
 falcar/RED
@@ -154,16 +154,16 @@ garbar/RED
 gramar/RED
 herrenar/RED
 hinchir/RED
-hiÒir/RED
+hi√±ir/RED
 jabrir/RED
 jadiar/RED
 jambrar/RED
 jedar/RED
 jetar/RED
 jitar/RED
-juÒir/RED
+ju√±ir/RED
 lamber/RED
-leÒar/RED
+le√±ar/RED
 mallar/RED
 mantornar/RED
 mascarar/RED
@@ -172,7 +172,7 @@ muir/XD
 mullicar/RED
 nafrar/RED
 nantar/RED
-peÒerar/RED
+pe√±erar/RED
 pernear/RED
 pipar/RED
 porgar/RED
@@ -190,13 +190,13 @@ salmar/RED
 samurrar/RED
 sanjar/RED
 solmenar/RED
-sonsaÒar/RED
+sonsa√±ar/RED
 sorrapar/RED
 sorrapear/RED
 talonear/RED
 tercerear/RED
 trullar/RED
-uÒir/RED
+u√±ir/RED
 verdear/RED
 zaboyar/RED
 zurdir/RED

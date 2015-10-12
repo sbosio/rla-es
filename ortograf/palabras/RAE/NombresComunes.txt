@@ -2,17 +2,17 @@
 # Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
-# conforme a los términos de la Licencia Pública General de GNU, publicada
-# por la Free Software Foundation, ya sea la versión 3 de la Licencia,
-# o una versión posterior (a su elección).
+# conforme a los tÃ©rminos de la Licencia PÃºblica General de GNU, publicada
+# por la Free Software Foundation, ya sea la versiÃ³n 3 de la Licencia,
+# o una versiÃ³n posterior (a su elecciÃ³n).
 
-# Este listado se distribuye con el deseo que le resulte útil, pero
-# SIN GARANTÍAS DE NINGÚN TIPO; ni siquiera con las garantías implícitas
-# de COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO DETERMINADO. Para más
-# información consulte el texto de la licencia respectiva seleccionada.
+# Este listado se distribuye con el deseo que le resulte Ãºtil, pero
+# SIN GARANTÃAS DE NINGÃšN TIPO; ni siquiera con las garantÃ­as implÃ­citas
+# de COMERCIABILIDAD o APTITUD PARA UN PROPÃ“SITO DETERMINADO. Para mÃ¡s
+# informaciÃ³n consulte el texto de la licencia respectiva seleccionada.
 
-# Debe haber recibido una copia de la Licencia Pública General de GNU junto
-# con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
+# Debe haber recibido una copia de la Licencia PÃºblica General de GNU junto
+# con este listado. Si no es asÃ­, visite <http://www.gnu.org/licenses/>
 
 abencerraje/S
 abertzale/S
@@ -21,30 +21,30 @@ abortista/S
 academicista/S
 accionista/S
 acordeonista/S
-acróbata/S
+acrÃ³bata/S
 activista/S
 acuarelista/S
 adornista/S
 adventista/S
 aeronauta/S
-afín/S
+afÃ­n/S
 africanista/S
 agente/S
 agonista/S
-agrícola/S
+agrÃ­cola/S
 aguafiestas
 aguafuertista/S
 ajedrecista/S
-alauí/S
+alauÃ­/S
 albacea/S
 alborotapueblos
 alcista/S
-alférez/S
+alfÃ©rez/S
 algebrista/S
 alguacil/S
 almacenista/S
 almirante/S
-alópata/S
+alÃ³pata/S
 alpinista/S
 amante/S
 amanuense/S
@@ -63,9 +63,9 @@ anormal/S
 antagonista/S
 anticresista/S
 aparcacoches
-apátrida/S
+apÃ¡trida/S
 apologista/S
-apóstata/S
+apÃ³stata/S
 aprovechante/S
 araucanista/S
 arbitrista/S
@@ -74,13 +74,13 @@ archicofrade/S
 archivista/S
 argel/S
 argumentista/S
-aristócrata/S
+aristÃ³crata/S
 arpista/S
 arribista/S
 articulista/S
-artífice/S
+artÃ­fice/S
 artista/S
-asambleísta/S
+asambleÃ­sta/S
 ascendiente/S
 ascensionista/S
 ascensorista/S
@@ -107,7 +107,7 @@ bambarria/S
 bandolinista/S
 bandolonista/S
 base/S
-batería/S
+baterÃ­a/S
 berzas
 berzotas
 bestia/S
@@ -120,11 +120,11 @@ bolsista/S
 botanista/S
 bozal/S
 brigada/S
-bróker/S
+brÃ³ker/S
 broncista/S
 budista/S
 bullebulle/S
-burócrata/S
+burÃ³crata/S
 buscavida/S
 caballista/S
 cabeza/NS
@@ -137,7 +137,7 @@ calandria/S
 calientapollas
 callista/S
 camarada/S
-cámara/S
+cÃ¡mara/S
 cambista/S
 campista/S
 canalla/S
@@ -145,11 +145,11 @@ cana/S
 canciller/S
 cancionista/S
 canguro/S
-caníbal/S
+canÃ­bal/S
 canonista/S
 cantante/S
 capitalista/S
-capitán/S
+capitÃ¡n/S
 carambolista/S
 carapacho/S
 caricaturista/S
@@ -211,7 +211,7 @@ comparsa/S
 compatriota/S
 compendista/S
 compinche/S
-cómplice/S
+cÃ³mplice/S
 concertista/S
 concurrente/S
 concursante/S
@@ -222,7 +222,7 @@ confusionista/S
 congresista/S
 conserje/S
 consorte/S
-cónsul/S
+cÃ³nsul/S
 contable/S
 contorsionista/S
 contraalmirante/S
@@ -239,8 +239,8 @@ contribuyente/S
 contrincante/S
 controversista/S
 conviviente/S
-cónyuge/S
-copartícipe/S
+cÃ³nyuge/S
+copartÃ­cipe/S
 copiloto/S
 copista/S
 coplista/S
@@ -268,7 +268,7 @@ deportista/S
 derechista/S
 descendiente/S
 desentierramuertos
-déspota/S
+dÃ©spota/S
 destajista/S
 destripacuentos
 detective/S
@@ -299,7 +299,7 @@ enfiteuta/S
 enigmatista/S
 ensayista/S
 entremesista/S
-eón/S
+eÃ³n/S
 epigrafista/S
 epigramatista/S
 epigramista/S
@@ -311,7 +311,7 @@ escucha/S
 escultista/S
 especialista/S
 esperantista/S
-espía/S
+espÃ­a/S
 estadista/S
 esteticista/S
 estilista/S
@@ -346,7 +346,7 @@ finalista/S
 fiscal/S
 fisioterapeuta/S
 flauta/S
-flautín/S
+flautÃ­n/S
 flautista/S
 floretista/S
 florista/S
@@ -368,25 +368,25 @@ gatera/S
 genealogista/S
 general/S
 gentil/S
-geómetra/S
+geÃ³metra/S
 germanista/S
 gimnasta/S
 gomista/S
-guaicurú/S
+guaicurÃº/S
 guardabarrera/S
 guardacabras
 guardaespaldas
 guardagujas
 guardarropa/S
 guarda/S
-guía/S
+guÃ­a/S
 guionista/S
 guiri/S
 guitarra/S
 guitarrista/S
 hablista/S
 hacendista/S
-hebraísta/S
+hebraÃ­sta/S
 helenista/S
 heraldista/S
 herborista/S
@@ -400,7 +400,7 @@ hippy/S
 hispanista/S
 hojaldrista/S
 huelguista/S
-huésped/S
+huÃ©sped/S
 humanista/S
 humorista/S
 hurguillas
@@ -415,13 +415,13 @@ informal/S
 instrumentista/S
 integrista/S
 internacionalista/S
-intérprete/S
+intÃ©rprete/S
 intocable/S
-israelí/S
+israelÃ­/S
 izquierdista/S
 jefe/S
 jerarca/S
-jeremías
+jeremÃ­as
 jesuita/S
 jeta/S
 joven/S
@@ -444,9 +444,9 @@ libelista/S
 librancista/S
 libretista/S
 licorista/S
-líder/S
+lÃ­der/S
 linajista/S
-lingüista/S
+lingÃ¼ista/S
 linotipista/S
 litigante/fS
 litisconsorte/S
@@ -466,16 +466,16 @@ mandante/gS
 mandria/S
 mangante/S
 manifestante/S
-maniquí/S
+maniquÃ­/S
 mano/S
 maquinista/S
 marchante/S
 marmolista/S
 maronita/S
 marquista/S
-mártir/S
+mÃ¡rtir/S
 masajista/S
-máscara/S
+mÃ¡scara/S
 materialista/S
 matraquista/S
 matricida/S
@@ -483,7 +483,7 @@ maula/S
 mayorazguista/S
 mayorista/S
 medievalista/S
-médium
+mÃ©dium
 memorialista/S
 memorista/S
 meridional/S
@@ -531,7 +531,7 @@ normalista/S
 novelista/S
 obligacionista/S
 oboe/S
-oboísta/S
+oboÃ­sta/S
 obsequiante/S
 obstetra/S
 oculista/S
@@ -595,7 +595,7 @@ poderdante/S
 poderhabiente/S
 poeta/S
 polemista/S
-policía/S
+policÃ­a/S
 poligenista/S
 porcionista/S
 portamira/S
@@ -616,7 +616,7 @@ protagonista/S
 provenzalista/S
 proverbista/S
 proxeneta/S
-psicópata/S
+psicÃ³pata/S
 psiquiatra/S
 publicista/S
 pullista/S
@@ -666,7 +666,7 @@ romancista/S
 rompegalas
 rompenecios
 rompepoyos
-roña/S
+roÃ±a/S
 sabelotodo/S
 sacacuartos
 sacadineros
@@ -692,7 +692,7 @@ sindicalista/S
 sinfonista/S
 sinsubstancia/S
 sinsustancia/S
-sinvergüenza/S
+sinvergÃ¼enza/S
 siquiatra/S
 sirviente/S
 sobresaliente/S
@@ -727,7 +727,7 @@ terapeuta/S
 tercenista/S
 terminista/gS
 terrateniente/S
-terrícola/S
+terrÃ­cola/S
 tertuliante/S
 testigo/S
 textualista/S
@@ -739,7 +739,7 @@ tiranicida/S
 titerista/S
 tontaina/S
 tope/S
-toxicómano/GS
+toxicÃ³mano/GS
 tradicionista/S
 tragaldabas
 tragaleguas
@@ -756,7 +756,7 @@ tratante/S
 trepa/S
 tresillista/S
 tripulante/S
-trombón/S
+trombÃ³n/S
 trompetista/S
 tronera/S
 tropelista/S
@@ -777,19 +777,19 @@ viajante/S
 viandante/S
 vicealmirante/S
 vicecanciller/S
-vicecónsul/S
+vicecÃ³nsul/S
 vicegerente/S
 vidente/S
 viejales
 vigilante/S
 viola/S
 violinista/S
-violín/S
+violÃ­n/S
 violoncelista/S
 violonchelista/S
 violonchelo/S
 virgen
-vírgenes
+vÃ­rgenes
 vitalicista/S
 vivalavirgen
 vocabulista/S
@@ -800,7 +800,7 @@ vuecencia/S
 vuesarced/S
 vusted/S
 yanqui/S
-zahorí/S
+zahorÃ­/S
 zampabollos
 zampapalo/S
 zampatortas

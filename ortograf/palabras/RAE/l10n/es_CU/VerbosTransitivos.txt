@@ -2,17 +2,17 @@
 # Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
-# conforme a los tÈrminos de la Licencia P˙blica General de GNU, publicada
-# por la Free Software Foundation, ya sea la versiÛn 3 de la Licencia,
-# o una versiÛn posterior (a su elecciÛn).
+# conforme a los t√©rminos de la Licencia P√∫blica General de GNU, publicada
+# por la Free Software Foundation, ya sea la versi√≥n 3 de la Licencia,
+# o una versi√≥n posterior (a su elecci√≥n).
 
-# Este listado se distribuye con el deseo que le resulte ˙til, pero
-# SIN GARANTÕAS DE NING⁄N TIPO; ni siquiera con las garantÌas implÌcitas
-# de COMERCIABILIDAD o APTITUD PARA UN PROP”SITO DETERMINADO. Para m·s
-# informaciÛn consulte el texto de la licencia respectiva seleccionada.
+# Este listado se distribuye con el deseo que le resulte √∫til, pero
+# SIN GARANT√çAS DE NING√öN TIPO; ni siquiera con las garant√≠as impl√≠citas
+# de COMERCIABILIDAD o APTITUD PARA UN PROP√ìSITO DETERMINADO. Para m√°s
+# informaci√≥n consulte el texto de la licencia respectiva seleccionada.
 
-# Debe haber recibido una copia de la Licencia P˙blica General de GNU junto
-# con este listado. Si no es asÌ, visite <http://www.gnu.org/licenses/>
+# Debe haber recibido una copia de la Licencia P√∫blica General de GNU junto
+# con este listado. Si no es as√≠, visite <http://www.gnu.org/licenses/>
 
 acotejar/RED
 alinderar/RED
@@ -32,14 +32,14 @@ cuquear/RED
 demeritar/RED
 desaterrar/IRD
 descachazar/RED
-descarozar/RED¿
+descarozar/RED√Ä
 descuajeringar/RED
 desempercudir/RED
 desengavetar/RED
-desguaÒangar/RED
+desgua√±angar/RED
 desmalezar/RED
 despilarar/RED
-devolver/IRÒÚ˘
+devolver/IR√±√≤√π
 difuntear/RED
 empilonar/RED
 empotrerar/RED
@@ -49,7 +49,7 @@ encandelillar/RED
 engavetar/RED
 enjicar/RED
 enlozar/RED
-enrostrar/RED¬≈
+enrostrar/RED√Ç√Ö
 enterciar/RED
 entisar/RED
 guataquear/RED
@@ -58,18 +58,18 @@ humear/RED
 hurguetear/RED
 improbar/IRD
 julepear/RED
-llavear/RED¿
+llavear/RED√Ä
 manojear/RED
 obstinar/RED
 parquear/RED
 peticionar/RED
 pialar/RED
 puyar/RED
-refaccionar/RED¿
+refaccionar/RED√Ä
 reportear/RED
 trapear/RED
 trasbocar/RED
 tronar/IRD
 tusar/RED
-ubicar/RED¿ƒ
-vivar/REDÃŸ
+ubicar/RED√Ä√Ñ
+vivar/RED√å√ô

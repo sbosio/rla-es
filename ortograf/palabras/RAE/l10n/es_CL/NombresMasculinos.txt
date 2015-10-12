@@ -2,17 +2,17 @@
 # Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
-# conforme a los tÈrminos de la Licencia P˙blica General de GNU, publicada
-# por la Free Software Foundation, ya sea la versiÛn 3 de la Licencia,
-# o una versiÛn posterior (a su elecciÛn).
+# conforme a los t√©rminos de la Licencia P√∫blica General de GNU, publicada
+# por la Free Software Foundation, ya sea la versi√≥n 3 de la Licencia,
+# o una versi√≥n posterior (a su elecci√≥n).
 
-# Este listado se distribuye con el deseo que le resulte ˙til, pero
-# SIN GARANTÕAS DE NING⁄N TIPO; ni siquiera con las garantÌas implÌcitas
-# de COMERCIABILIDAD o APTITUD PARA UN PROP”SITO DETERMINADO. Para m·s
-# informaciÛn consulte el texto de la licencia respectiva seleccionada.
+# Este listado se distribuye con el deseo que le resulte √∫til, pero
+# SIN GARANT√çAS DE NING√öN TIPO; ni siquiera con las garant√≠as impl√≠citas
+# de COMERCIABILIDAD o APTITUD PARA UN PROP√ìSITO DETERMINADO. Para m√°s
+# informaci√≥n consulte el texto de la licencia respectiva seleccionada.
 
-# Debe haber recibido una copia de la Licencia P˙blica General de GNU junto
-# con este listado. Si no es asÌ, visite <http://www.gnu.org/licenses/>
+# Debe haber recibido una copia de la Licencia P√∫blica General de GNU junto
+# con este listado. Si no es as√≠, visite <http://www.gnu.org/licenses/>
 
 abastero/S
 abigeato/S
@@ -29,7 +29,7 @@ anisal/S
 ara/S
 arrollado/S
 atrenzo/S
-berlÌn/S
+berl√≠n/S
 bodegaje/S
 caballazo/S
 cabildante/S
@@ -37,18 +37,18 @@ cachimbo/S
 cachumbo/S
 camarotero/S
 camote/S
-car·ngano/S
+car√°ngano/S
 carato/S
 carpidor/S
 celular/S
 chiche/S
 ciruelillo/S
 cochayuyo/S
-cÛguil/S
-coicÛis		# Plural de coicoy
+c√≥guil/S
+coic√≥is		# Plural de coicoy
 coicoy
 coipo/S
-colligu·is	# Plural de colliguay
+colligu√°is	# Plural de colliguay
 colliguay
 coloniaje/S
 comercial/S
@@ -61,7 +61,7 @@ coscacho/S
 cuadrillazo/S
 cuerazo/S
 cui/S
-cuic˙is		# Plural de cuicuy
+cuic√∫is		# Plural de cuicuy
 cuicuy
 cunchu
 cuy		# Su plural es cuis
@@ -77,7 +77,7 @@ estoquillo/S
 faenero/S
 falte/S
 fierro/S
-fiofÌo/S
+fiof√≠o/S
 firulete/S
 fono/S
 frijol/S
@@ -110,11 +110,11 @@ natral/S
 nevado/S
 noticioso/S
 nuco/S
-Òo
+√±o
 overol/S
 pangue/S
 panque/S
-papelerÌo/S
+papeler√≠o/S
 parlante/S
 peneca/S
 pichiruche/S
@@ -122,18 +122,18 @@ pillopillo/S
 pingopingo/S
 pirquinero/S
 piure/S
-pizarrÛn/S
-platÛn/S
+pizarr√≥n/S
+plat√≥n/S
 polvillo/S
 pucho/S
 puntaje/S
 queule/S
 quiebre/S
 quijo/S
-quill·is	# Plural de quillay
+quill√°is	# Plural de quillay
 quillay
 quilombo/S
-quilm·is	# Plural de quilmay
+quilm√°is	# Plural de quilmay
 quilmay
 quiltro/S
 quinchihue/S

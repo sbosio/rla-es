@@ -2,17 +2,17 @@
 # Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
-# conforme a los tÈrminos de la Licencia P˙blica General de GNU, publicada
-# por la Free Software Foundation, ya sea la versiÛn 3 de la Licencia,
-# o una versiÛn posterior (a su elecciÛn).
+# conforme a los t√©rminos de la Licencia P√∫blica General de GNU, publicada
+# por la Free Software Foundation, ya sea la versi√≥n 3 de la Licencia,
+# o una versi√≥n posterior (a su elecci√≥n).
 
-# Este listado se distribuye con el deseo que le resulte ˙til, pero
-# SIN GARANTÕAS DE NING⁄N TIPO; ni siquiera con las garantÌas implÌcitas
-# de COMERCIABILIDAD o APTITUD PARA UN PROP”SITO DETERMINADO. Para m·s
-# informaciÛn consulte el texto de la licencia respectiva seleccionada.
+# Este listado se distribuye con el deseo que le resulte √∫til, pero
+# SIN GARANT√çAS DE NING√öN TIPO; ni siquiera con las garant√≠as impl√≠citas
+# de COMERCIABILIDAD o APTITUD PARA UN PROP√ìSITO DETERMINADO. Para m√°s
+# informaci√≥n consulte el texto de la licencia respectiva seleccionada.
 
-# Debe haber recibido una copia de la Licencia P˙blica General de GNU junto
-# con este listado. Si no es asÌ, visite <http://www.gnu.org/licenses/>
+# Debe haber recibido una copia de la Licencia P√∫blica General de GNU junto
+# con este listado. Si no es as√≠, visite <http://www.gnu.org/licenses/>
 
 ablanedo/S
 ablanero/S
@@ -61,7 +61,7 @@ cabalero/S
 cabal/S
 cachelos
 cachulero/S
-calabazÛn/S
+calabaz√≥n/S
 calaje/S
 calderil/S
 calentito/S
@@ -85,7 +85,7 @@ chaparrete/S
 chavo/S
 claxon
 codorno/S
-codujÛn/S
+coduj√≥n/S
 codujo/S
 colaire/S
 corval/S
@@ -119,7 +119,7 @@ esparvel/S
 espenjador/S
 espinablo/S
 esportizo/S
-esportÛn/S
+esport√≥n/S
 estadojo/S
 estandorio/S
 explique/S
@@ -133,7 +133,7 @@ futre/S
 galero/S
 gallino/S
 ganchero/S
-garcÌa/S
+garc√≠a/S
 garullo/S
 gatunero/S
 gayumbos
@@ -154,13 +154,13 @@ hondonal/S
 horuelo/S
 hove/S
 hurtadineros
-jabalÌn/S
+jabal√≠n/S
 jazminero/S
 jetazo/S
 jinebro/S
 jorco/S
 jorro/S
-lamÌn/S
+lam√≠n/S
 lanterno/S
 lironero/S
 llar/S
@@ -200,7 +200,7 @@ nispolero/S
 pajuzo/S
 pajuz/S
 paniego/S
-pastÛn/S
+past√≥n/S
 peretero/S
 pernicote/S
 perojo/S
@@ -230,10 +230,10 @@ remocho/S
 rengadero/S
 repeluco/S
 resoli/S
-resolÌ/S
+resol√≠/S
 retuelle/S
 ricio/S
-rizÛn/S
+riz√≥n/S
 robeco/S
 rolletal/S
 rosadillo/S
@@ -265,7 +265,7 @@ sangredo/S
 sangricio/S
 sanso/S
 sarde/GS
-sardÛn/S
+sard√≥n/S
 sarillo/S
 sarrio/S
 sayugo/S
@@ -283,7 +283,7 @@ solanar/S
 solero/S
 solivo/S
 sonique/S
-t·barro/S
+t√°barro/S
 tablachero/S
 tagasaste/S
 tamarigal/S

@@ -2,24 +2,24 @@
 # Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
-# conforme a los tÈrminos de la Licencia P˙blica General de GNU, publicada
-# por la Free Software Foundation, ya sea la versiÛn 3 de la Licencia,
-# o una versiÛn posterior (a su elecciÛn).
+# conforme a los t√©rminos de la Licencia P√∫blica General de GNU, publicada
+# por la Free Software Foundation, ya sea la versi√≥n 3 de la Licencia,
+# o una versi√≥n posterior (a su elecci√≥n).
 
-# Este listado se distribuye con el deseo que le resulte ˙til, pero
-# SIN GARANTÕAS DE NING⁄N TIPO; ni siquiera con las garantÌas implÌcitas
-# de COMERCIABILIDAD o APTITUD PARA UN PROP”SITO DETERMINADO. Para m·s
-# informaciÛn consulte el texto de la licencia respectiva seleccionada.
+# Este listado se distribuye con el deseo que le resulte √∫til, pero
+# SIN GARANT√çAS DE NING√öN TIPO; ni siquiera con las garant√≠as impl√≠citas
+# de COMERCIABILIDAD o APTITUD PARA UN PROP√ìSITO DETERMINADO. Para m√°s
+# informaci√≥n consulte el texto de la licencia respectiva seleccionada.
 
-# Debe haber recibido una copia de la Licencia P˙blica General de GNU junto
-# con este listado. Si no es asÌ, visite <http://www.gnu.org/licenses/>
+# Debe haber recibido una copia de la Licencia P√∫blica General de GNU junto
+# con este listado. Si no es as√≠, visite <http://www.gnu.org/licenses/>
 
 abastardar/RED
 abejorrear/RED
 aberrar/RED
 abogar/RED
 abonanzar/RED
-abrotoÒar/RED
+abroto√±ar/RED
 abundar/RED
 abusar/RED
 acabestrillar/RED
@@ -38,7 +38,7 @@ ajear/RED
 alambrar/RED
 alambrear/RED
 alardear/RED
-albaÒilear/RED
+alba√±ilear/RED
 albear/RED
 alborear/RED
 aldabear/RED
@@ -63,7 +63,7 @@ apechar/RED
 apelar/RED
 apencar/RED
 apeonar/RED
-apezuÒar/RED
+apezu√±ar/RED
 aportar/RED
 apostatar/RED
 aproar/RED
@@ -183,7 +183,7 @@ cantalear/RED
 cantonear/RED
 canturrear/RED
 canturriar/RED
-caÒear/RED
+ca√±ear/RED
 capotar/RED
 carabritear/RED
 caracolear/RED
@@ -305,7 +305,7 @@ corretear/RED
 corsear/RED
 coruscar/RED
 corvetear/RED
-costar/IRD¡¬≈¬∆
+costar/IRD√Å√Ç√Ö√Ç√Ü
 cotillear/RED
 cotorrear/RED
 crascitar/RED
@@ -441,7 +441,7 @@ escaramuzar/RED
 escintilar/RED
 escollar/RED
 escrupulizar/RED
-espaÒolear/RED
+espa√±olear/RED
 espejear/RED
 espiar/IRD
 esplender/RED
@@ -492,8 +492,8 @@ fulgir/RED
 fulgurar/RED
 funcionar/RED
 fungir/RED
-fuÒar/RED
-fuÒicar/RED
+fu√±ar/RED
+fu√±icar/RED
 gaguear/RED
 gallear/RED
 gallofar/RED
@@ -505,7 +505,7 @@ gamitar/RED
 gandulear/RED
 ganguear/RED
 gansear/RED
-gaÒir/RED
+ga√±ir/RED
 garfear/RED
 gargajear/RED
 gargarear/RED
@@ -545,7 +545,7 @@ grillar/RED
 grisear/RED
 groar/RED
 gruir/IRD
-gruÒir/RED
+gru√±ir/RED
 gualdrapear/RED
 guapear/RED
 guarrear/RED
@@ -651,7 +651,7 @@ malsonar/RED
 malvivir/RED
 maniobrar/RED
 manquear/RED
-maÒanear/RED
+ma√±anear/RED
 marinear/RED
 mariposear/RED
 marmullar/RED
@@ -671,7 +671,7 @@ menstruar/IRD
 mercadear/RED
 meritar/RED
 merodear/RED
-miaÒar/RED
+mia√±ar/RED
 miar/IRD
 migrar/RED
 milagrear/RED
@@ -703,7 +703,7 @@ mugar/RED
 mugir/RED
 mulatizar/RED
 mundanear/RED
-muÒequear/RED
+mu√±equear/RED
 murmullar/RED
 nadar/RED
 nalguear/RED
@@ -715,7 +715,7 @@ negregar/RED
 negreguear/RED
 neviscar/RED
 nidificar/RED
-niÒear/RED
+ni√±ear/RED
 noctambular/RED
 nordestear/RED
 noroestear/RED
@@ -782,7 +782,7 @@ perseverar/RED
 persistir/RED
 pertenecer/IRD
 pervivir/RED
-pestaÒear/RED
+pesta√±ear/RED
 petar/RED
 piafar/RED
 pillear/RED
@@ -791,7 +791,7 @@ pimpollecer/IRD
 pindonguear/RED
 pintear/RED
 pintonear/RED
-piÒonear/RED
+pi√±onear/RED
 piolar/RED
 pipar/RED
 pipiar/IRD
@@ -838,14 +838,14 @@ pulular/RED
 pupar/RED
 purear/RED
 purpurear/RED
-putaÒear/RED
+puta√±ear/RED
 quejumbrar/RED
 querochar/RED
 quesear/RED
 quimerizar/RED
 rabear/RED
 rabiar/RED
-racanear/RED¡
+racanear/RED√Å
 rachear/RED
 raciocinar/RED
 ramalear/RED
@@ -881,12 +881,12 @@ redundar/RED
 reflorecer/IRD
 refluir/IRD
 refulgir/RED
-refunfuÒar/RED
-regaÒir/RED
+refunfu√±ar/RED
+rega√±ir/RED
 regatear/RED
 regoldar/IRD
 regresar/RED
-regruÒir/RED
+regru√±ir/RED
 reguilar/RED
 regurgitar/RED
 rehelear/RED
@@ -920,18 +920,18 @@ respingar/RED
 resplandecer/IRD
 responsar/RED
 responsear/RED
-restaÒar/RED
+resta√±ar/RED
 restribar/RED
-resultar/RED¬
+resultar/RED√Ç
 resurgir/RED
 resurtir/RED
 retallar/RED
 retallecer/IRD
 retemblar/IRD
-reteÒir/XD
-retiÒir/RED
-retoÒar/RED
-retoÒecer/IRD
+rete√±ir/XD
+reti√±ir/RED
+reto√±ar/RED
+reto√±ecer/IRD
 retrechar/RED
 retroceder/RED
 retrogradar/RED
@@ -973,7 +973,7 @@ salomar/RED
 sarmentar/IRD
 secretear/RED
 seguetear/RED
-seÒolear/RED
+se√±olear/RED
 serpear/RED
 serpentear/RED
 serpollar/RED
@@ -1005,7 +1005,7 @@ subintrar/RED
 subsistir/RED
 subvenir/XD
 subyacer/IRD
-suceder/RED¡¬≈
+suceder/RED√Å√Ç√Ö
 sucumbir/RED
 superabundar/RED
 supervenir/XD
@@ -1014,7 +1014,7 @@ surdir/RED
 surgir/RED
 suspirar/RED
 tabletear/RED
-tacaÒear/RED
+taca√±ear/RED
 tagarotear/RED
 talonear/RED
 tamborear/RED

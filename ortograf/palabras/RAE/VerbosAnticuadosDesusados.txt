@@ -2,17 +2,17 @@
 # Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
-# conforme a los términos de la Licencia Pública General de GNU, publicada
-# por la Free Software Foundation, ya sea la versión 3 de la Licencia,
-# o una versión posterior (a su elección).
+# conforme a los tÃ©rminos de la Licencia PÃºblica General de GNU, publicada
+# por la Free Software Foundation, ya sea la versiÃ³n 3 de la Licencia,
+# o una versiÃ³n posterior (a su elecciÃ³n).
 
-# Este listado se distribuye con el deseo que le resulte útil, pero
-# SIN GARANTÍAS DE NINGÚN TIPO; ni siquiera con las garantías implícitas
-# de COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO DETERMINADO. Para más
-# información consulte el texto de la licencia respectiva seleccionada.
+# Este listado se distribuye con el deseo que le resulte Ãºtil, pero
+# SIN GARANTÃAS DE NINGÃšN TIPO; ni siquiera con las garantÃ­as implÃ­citas
+# de COMERCIABILIDAD o APTITUD PARA UN PROPÃ“SITO DETERMINADO. Para mÃ¡s
+# informaciÃ³n consulte el texto de la licencia respectiva seleccionada.
 
-# Debe haber recibido una copia de la Licencia Pública General de GNU junto
-# con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
+# Debe haber recibido una copia de la Licencia PÃºblica General de GNU junto
+# con este listado. Si no es asÃ­, visite <http://www.gnu.org/licenses/>
 
 abaldonar
 abarrar
@@ -27,7 +27,7 @@ absconder
 absentarse
 acachorrar
 acalmar
-acaloñar
+acaloÃ±ar
 acalumniar
 acanelonar
 acaparrarse
@@ -45,7 +45,7 @@ aconhortar
 acontar
 acudiciar
 acuntir
-adeliñar
+adeliÃ±ar
 adherecer
 adhortar
 adjurar
@@ -73,7 +73,7 @@ agestarse
 agigotar
 agrear
 aguciar
-agüerar
+agÃ¼erar
 aguijonar
 aherir
 ahermanar
@@ -85,7 +85,7 @@ ajaquecarse
 ajenar
 alaridar
 albanar
-albañear
+albaÃ±ear
 albedriar
 alcachofar
 alcahotar
@@ -95,7 +95,7 @@ alebrastarse
 alechigar
 alevantar
 aleviar
-alfeñar
+alfeÃ±ar
 alfonsearse
 algaliar
 algarear
@@ -110,9 +110,9 @@ alongar
 aloquecer
 altivar
 aluciar
-alueñarse
+alueÃ±arse
 alugar
-amarañar
+amaraÃ±ar
 ambarar
 ambicionear
 ambrollar
@@ -134,11 +134,11 @@ antepagar
 antevenir
 antiguar
 anumerar
-añacear
-añascar
-añedir
-añidir
-añublar
+aÃ±acear
+aÃ±ascar
+aÃ±edir
+aÃ±idir
+aÃ±ublar
 apacer
 apalambrar
 apaniguar
@@ -155,14 +155,14 @@ apesgar
 aplacentar
 aplagar
 aplayar
-aponzoñar
+aponzoÃ±ar
 apremir
 aprimar
 aprodar
 aprometer
 aprovecer
 aptar
-apuñetear
+apuÃ±etear
 aquedar
 aquellar
 aquillotrar
@@ -239,7 +239,7 @@ caler
 callentar
 callosar
 caloniar
-caloñar
+caloÃ±ar
 calumbrecerse
 camiar
 canforar
@@ -284,7 +284,7 @@ colpar
 comalecerse
 compendizar
 complanar
-complañir
+complaÃ±ir
 comprehender
 concionar
 conficionar
@@ -299,10 +299,10 @@ consejar
 consograr
 consoldar
 constringir
-constriñir
+constriÃ±ir
 contecer
 contrafacer
-contraír
+contraÃ­r
 contrallar
 contrapelear
 contrapugnar
@@ -311,10 +311,10 @@ contribular
 convolar
 corrozar
 cosetear
-costreñir
+costreÃ±ir
 costribar
 costringir
-costriñir
+costriÃ±ir
 cotear
 coxquear
 crecentar
@@ -350,7 +350,7 @@ delejar
 delgazar
 delibrar
 deliciarse
-deliñar
+deliÃ±ar
 delongar
 demarrar
 demigar
@@ -360,7 +360,7 @@ denodar
 densar
 dentecer
 dentrotraer
-deñar
+deÃ±ar
 deposar
 deprehender
 derelinquir
@@ -382,8 +382,8 @@ desafiuzar
 desafuciar
 desajacarse
 desalar
-desañudar
-desapañar
+desaÃ±udar
+desapaÃ±ar
 desaposesionar
 desaprir
 desarrevolver
@@ -395,7 +395,7 @@ desayuntar
 desballestar
 desbarahustar
 desboronar
-descabeñarse
+descabeÃ±arse
 descaecer
 descapillar
 descaudillar
@@ -414,7 +414,7 @@ desenhastiar
 desenhetrar
 desentollecer
 desentropezar
-deseñar
+deseÃ±ar
 deservir
 desfear
 desferrar
@@ -433,7 +433,7 @@ deslinajar
 deslinar
 desmalingrar
 desmamparar
-desmañar
+desmaÃ±ar
 desmaridar
 desmocar
 desmoler
@@ -462,7 +462,7 @@ desraigar
 desrostrar
 destentar
 desterminar
-destiñar
+destiÃ±ar
 destirpar
 destorpar
 destributar
@@ -471,7 +471,7 @@ destropar
 destullecer
 desturbar
 desvezar
-desuñir
+desuÃ±ir
 desyuncir
 detardar
 detornar
@@ -535,14 +535,14 @@ encalabriar
 encalletrar
 encalvar
 encalzar
-encañutar
+encaÃ±utar
 encarcerar
 encensuar
 encitar
 encortar
 encrudelecer
 enculpar
-endeliñar
+endeliÃ±ar
 endrezar
 endulcecer
 endulzorar
@@ -569,7 +569,7 @@ enfotarse
 engafecer
 engalabernar
 engastonar
-engeñar
+engeÃ±ar
 engerir
 engordecer
 engraciar
@@ -600,7 +600,7 @@ entirriarse
 entomecer
 entortijar
 entosicar
-entrañizar
+entraÃ±izar
 entrederramar
 entregerir
 entrellevar
@@ -634,7 +634,7 @@ escarpiar
 escibar
 escofiar
 escomearse
-escrudiñar
+escrudiÃ±ar
 escrupulear
 escurecer
 escusar
@@ -643,7 +643,7 @@ eser
 esfriar
 esguardar
 esleer
-esleír
+esleÃ­r
 espaladinar
 espasmar
 espedirse
@@ -697,7 +697,7 @@ formidar
 fornecer
 fradear
 frailar
-frañer
+fraÃ±er
 fraudar
 freilar
 frutificar
@@ -724,7 +724,7 @@ guastar
 gubernar
 guiznar
 hadar
-hazañar
+hazaÃ±ar
 hemenciar
 her
 herbolecer
@@ -749,7 +749,7 @@ intender
 interromper
 interserir
 intributar
-invehír
+invehÃ­r
 invenir
 inviar
 invidiar
@@ -772,7 +772,7 @@ latitar
 lazdrar
 lazrar
 lembrar
-lengüear
+lengÃ¼ear
 letrear
 libelar
 licuecer
@@ -826,7 +826,7 @@ noblecer
 nocir
 nucir
 nudrir
-ñublar
+Ã±ublar
 ocalear
 ofensar
 ojar
@@ -868,8 +868,8 @@ prosuponer
 provagar
 pudir
 punar
-puñar
-puñir
+puÃ±ar
+puÃ±ir
 quebrazar
 rafezar
 rahezar

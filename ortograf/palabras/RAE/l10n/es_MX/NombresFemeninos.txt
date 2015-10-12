@@ -2,17 +2,17 @@
 # Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
-# conforme a los tÈrminos de la Licencia P˙blica General de GNU, publicada
-# por la Free Software Foundation, ya sea la versiÛn 3 de la Licencia,
-# o una versiÛn posterior (a su elecciÛn).
+# conforme a los t√©rminos de la Licencia P√∫blica General de GNU, publicada
+# por la Free Software Foundation, ya sea la versi√≥n 3 de la Licencia,
+# o una versi√≥n posterior (a su elecci√≥n).
 
-# Este listado se distribuye con el deseo que le resulte ˙til, pero
-# SIN GARANTÕAS DE NING⁄N TIPO; ni siquiera con las garantÌas implÌcitas
-# de COMERCIABILIDAD o APTITUD PARA UN PROP”SITO DETERMINADO. Para m·s
-# informaciÛn consulte el texto de la licencia respectiva seleccionada.
+# Este listado se distribuye con el deseo que le resulte √∫til, pero
+# SIN GARANT√çAS DE NING√öN TIPO; ni siquiera con las garant√≠as impl√≠citas
+# de COMERCIABILIDAD o APTITUD PARA UN PROP√ìSITO DETERMINADO. Para m√°s
+# informaci√≥n consulte el texto de la licencia respectiva seleccionada.
 
-# Debe haber recibido una copia de la Licencia P˙blica General de GNU junto
-# con este listado. Si no es asÌ, visite <http://www.gnu.org/licenses/>
+# Debe haber recibido una copia de la Licencia P√∫blica General de GNU junto
+# con este listado. Si no es as√≠, visite <http://www.gnu.org/licenses/>
 
 acreencia/S
 alifa/S
@@ -20,21 +20,21 @@ anchoveta/S
 arreglada/S
 azotada/S
 barcina/S
-bellÌsima/S
+bell√≠sima/S
 bombacha/S
 cajuela/S
 calilla/S
 calla/S
 camaza/S
-caÒabrava/S
+ca√±abrava/S
 capitaneja/S
 carcacha/S
 cemita/S
 chachalaca/S
 chingada/S
-cigarrerÌa/S
+cigarrer√≠a/S
 contesta/S
-contralorÌa/S
+contralor√≠a/S
 cozolmeca/S
 criandera/S
 cueriza/S
@@ -48,12 +48,12 @@ escondidas
 escondidillas
 estiptiquez/S
 estrictez/S
-exÛtica/S
+ex√≥tica/S
 follisca/S
 fregada/S
 guanabanada/S
-guan·bana/S
-guaran·/S
+guan√°bana/S
+guaran√°/S
 guatusa/S
 gurbia/S
 hablada/S
@@ -66,30 +66,30 @@ lastimada/S
 mantequillera/S
 mara/S
 mazorquera/S
-membresÌa/S
+membres√≠a/S
 memela/S
 milpa/S
 neja/S
-Òa
+√±a
 oroya/S
 piruja/S
 pitahaya/S
-planeaciÛn/S
+planeaci√≥n/S
 podada/S
-portaciÛn/S
-pulperÌa/S
+portaci√≥n/S
+pulper√≠a/S
 quitada/S
 rajada/S
 rara/S
 rasgada/S
 reclame/S
-regaÒada/S
+rega√±ada/S
 rellena/S
 renguera/S
 renquera/S
 responsiva/S
 reversa/S
-s·bila/S
+s√°bila/S
 sarteneja/S
 seringa/S
 sobrebota/S
@@ -103,7 +103,7 @@ tinterillada/S
 tobillera/S
 totuma/S
 tracalada/S
-tr·cala/S
+tr√°cala/S
 trajinera/S
 tunca/S
 vitrola/S

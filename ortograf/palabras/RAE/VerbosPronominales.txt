@@ -2,17 +2,17 @@
 # Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
-# conforme a los tÈrminos de la Licencia P˙blica General de GNU, publicada
-# por la Free Software Foundation, ya sea la versiÛn 3 de la Licencia,
-# o una versiÛn posterior (a su elecciÛn).
+# conforme a los t√©rminos de la Licencia P√∫blica General de GNU, publicada
+# por la Free Software Foundation, ya sea la versi√≥n 3 de la Licencia,
+# o una versi√≥n posterior (a su elecci√≥n).
 
-# Este listado se distribuye con el deseo que le resulte ˙til, pero
-# SIN GARANTÕAS DE NING⁄N TIPO; ni siquiera con las garantÌas implÌcitas
-# de COMERCIABILIDAD o APTITUD PARA UN PROP”SITO DETERMINADO. Para m·s
-# informaciÛn consulte el texto de la licencia respectiva seleccionada.
+# Este listado se distribuye con el deseo que le resulte √∫til, pero
+# SIN GARANT√çAS DE NING√öN TIPO; ni siquiera con las garant√≠as impl√≠citas
+# de COMERCIABILIDAD o APTITUD PARA UN PROP√ìSITO DETERMINADO. Para m√°s
+# informaci√≥n consulte el texto de la licencia respectiva seleccionada.
 
-# Debe haber recibido una copia de la Licencia P˙blica General de GNU junto
-# con este listado. Si no es asÌ, visite <http://www.gnu.org/licenses/>
+# Debe haber recibido una copia de la Licencia P√∫blica General de GNU junto
+# con este listado. Si no es as√≠, visite <http://www.gnu.org/licenses/>
 
 abarraganar/RED
 abolsar/RED
@@ -22,9 +22,9 @@ aborregar/RED
 abotagar/RED
 abotargar/RED
 abromar/RED
-abrumar/REDÒÚ
+abrumar/RED√±√≤
 abruzar/RED
-abstener/XDÒÛˆ˙
+abstener/XD√±√≥√∂√∫
 aburguesar/RED
 aburrar/RED
 abuzar/RED
@@ -48,15 +48,15 @@ acorchar/RED
 acorrucar/RED
 acuclillar/RED
 acurdar/RED
-acurrucar/REDÒÚÙ
+acurrucar/RED√±√≤√¥
 adamar/RED
-adentrar/REDÒÚ¯
+adentrar/RED√±√≤√∏
 adinerar/RED
 adonizar/RED
 adormilar/RED
 adormitar/RED
 adrezar/RED
-adueÒar/REDÒÚ
+adue√±ar/RED√±√≤
 afeblecer/IRD
 afeccionar/RED
 afofar/RED
@@ -84,15 +84,15 @@ alebrar/IRD
 alebrestar/RED
 alebronar/RED
 aleganar/RED
-alfeÒicar/RED
+alfe√±icar/RED
 alimonar/RED
-alobar/REDÙ
+alobar/RED√¥
 altear/RED
 alunar/RED
 amachinar/RED
 amancebar/RED
 amarizar/RED
-amodorrar/REDÒ
+amodorrar/RED√±
 amohosar/RED
 amonar/RED
 amoratar/RED
@@ -101,14 +101,14 @@ amular/RED
 anastomizar/RED
 anastomosar/RED
 angelizar/RED
-aniÒar/RED
+ani√±ar/RED
 anticuar/IRD
-aÒusgar/RED
+a√±usgar/RED
 aovillar/RED
 aparatar/RED
-apegar/REDÒ
+apegar/RED√±
 apergaminar/RED
-apersonar/REDÒ
+apersonar/RED√±
 apicarar/RED
 apimpollar/RED
 apipar/RED
@@ -129,9 +129,9 @@ arrellanar/RED
 arremolinar/RED
 arrepanchigar/RED
 arrepasar/RED
-arrepentir/XDÒÛˆ˙
+arrepentir/XD√±√≥√∂√∫
 arrequesonar/RED
-arrogar/REDÒ
+arrogar/RED√±
 arroyar/RED
 aseglarar/RED
 aseriar/RED
@@ -139,12 +139,12 @@ asobinar/RED
 asocairar/RED
 aspear/RED
 atenebrar/RED
-atener/XDÒÛˆ˙
+atener/XD√±√≥√∂√∫
 atipar/RED
 atorozonar/RED
-atrever/REDÒÚÙ¯
-autolesionar/REDÒ
-automedicar/REDÒ
+atrever/RED√±√≤√¥√∏
+autolesionar/RED√±
+automedicar/RED√±
 autorregular/RED
 autosugestionar/RED
 avanecer/IRD
@@ -156,8 +156,8 @@ bifurcar/RED
 bilocar/RED
 bofar/RED
 broquelar/RED
-cachondear/REDÒ
-calar/REDÒÚ
+cachondear/RED√±
+calar/RED√±√≤
 calofriar/IRD
 calosfriar/IRD
 canecer/IRD
@@ -170,22 +170,22 @@ coaligar/RED
 coextender/IRD
 coligar/RED
 comedir/XD
-compenetrar/REDÒ
+compenetrar/RED√±
 concomer/RED
 condolecer/IRD
 condoler/IRD
 conexionar/RED
 confabular/RED
 conjuramentar/RED
-contonear/REDÙ
+contonear/RED√¥
 contorcer/IRD
 contorsionar/RED
 contramatar/RED
 contrapuntar/RED
-coÒear/RED
+co√±ear/RED
 coscar/RED
-debatir/REDÚ
-dementar/REDÒ
+debatir/RED√≤
+dementar/RED√±
 desabonar/RED
 desabordar/RED
 desacalorar/RED
@@ -217,14 +217,14 @@ desembelesar/RED
 desemboscar/RED
 desempacar/RED
 desenguantar/RED
-desentender/IRDÒ
-desgaÒifar/RED
-desgaÒitar/RED
+desentender/IRD√±
+desga√±ifar/RED
+desga√±itar/RED
 desgargantar/RED
 desgaznatar/RED
 desgorrar/RED
 deshonestar/RED
-desinteresar/REDÒ
+desinteresar/RED√±
 desmanar/RED
 desmedir/XD
 desmemoriar/RED
@@ -236,14 +236,14 @@ despear/RED
 despelotar/RED
 despendolar/RED
 desperecer/IRD
-desperezar/REDÒÚ
+desperezar/RED√±√≤
 despernancar/RED
-despezuÒar/RED
-despreocupar/REDÒÙ¯
+despezu√±ar/RED
+despreocupar/RED√±√¥√∏
 desternillar/RED
 destoser/RED
-desvivir/REDÒÚ
-dignar/REDÙ¯
+desvivir/RED√±√≤
+dignar/RED√¥√∏
 eflorecer/IRD
 emballestar/RED
 embancar/RED
@@ -253,14 +253,14 @@ emberrenchinar/RED
 emberrinchar/RED
 emborricar/RED
 emborrullar/RED
-embotar/REDÒ
+embotar/RED√±
 embregar/RED
-embreÒar/RED
+embre√±ar/RED
 embroquelar/RED
 empacar/RED
 empadrar/RED
 empanzar/RED
-empecinar/REDÒ
+empecinar/RED√±
 empelazgar/RED
 empelotar/RED
 emperrar/RED
@@ -278,7 +278,7 @@ encalostrar/RED
 encampanar/RED
 encanar/RED
 encancerar/RED
-encaprichar/REDÒ
+encaprichar/RED√±
 encaratular/RED
 encarrujar/RED
 encavar/RED
@@ -288,20 +288,20 @@ encerrizar/RED
 enchular/RED
 encodillar/RED
 encogollar/RED
-enconchar/REDÙ
+enconchar/RED√¥
 encorujar/RED
 encostar/RED
 encrestar/RED
 encuitar/RED
 encurdar/RED
-endeÒar/RED
-endeudar/REDÒ
+ende√±ar/RED
+endeudar/RED√±
 endomingar/RED
 enfierecer/IRD
 enfiestar/RED
-enfrascar/REDÒ
+enfrascar/RED√±
 enfroscar/RED
-enfurruÒar/RED
+enfurru√±ar/RED
 engarbar/RED
 engasgar/RED
 engolletar/RED
@@ -360,7 +360,7 @@ espelotar/RED
 esperezar/RED
 espernancar/RED
 espontanear/RED
-extralimitar/REDÒ
+extralimitar/RED√±
 extravasar/RED
 ferrificar/RED
 gangrenar/RED
@@ -388,11 +388,11 @@ jumar/RED
 madrear/RED
 malignizar/RED
 mirlar/RED
-obstinar/REDÒ
+obstinar/RED√±
 opilar/RED
 osificar/RED
 paraliticar/RED
-personar/REDÒ
+personar/RED√±
 pirrar/RED
 pitorrear/RED
 poltronizar/RED
@@ -406,7 +406,7 @@ realegrar/RED
 recochinear/RED
 recomer/RED
 reconcomer/RED
-regodear/REDÒ
+regodear/RED√±
 regostar/RED
 rehurtar/IRD
 remansar/RED
@@ -418,7 +418,7 @@ repantigar/RED
 repapilar/RED
 repinar/RED
 repropiar/RED
-resentir/XDÒ
+resentir/XD√±
 retrepar/RED
 revotar/RED
 romadizar/RED
@@ -433,7 +433,7 @@ sotaventar/RED
 sotaventear/RED
 suberificar/RED
 sucintar/RED
-suicidar/REDÒÚ
+suicidar/RED√±√≤
 taperujar/RED
 tapirujar/RED
 tapujar/RED
@@ -449,11 +449,11 @@ trasroscar/RED
 trastrabar/RED
 trasvenar/RED
 trasvinar/RED
-trepar/REDÚ
+trepar/RED√≤
 trifurcar/RED
-ufanar/REDÒÚ
+ufanar/RED√±√≤
 univocar/RED
-vanagloriar/REDÒ
+vanagloriar/RED√±
 virilizar/RED
 volatilizar/REDT
 volquear/RED

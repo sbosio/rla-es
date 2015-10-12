@@ -2,25 +2,25 @@
 # Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
-# conforme a los tÈrminos de la Licencia P˙blica General de GNU, publicada
-# por la Free Software Foundation, ya sea la versiÛn 3 de la Licencia,
-# o una versiÛn posterior (a su elecciÛn).
+# conforme a los t√©rminos de la Licencia P√∫blica General de GNU, publicada
+# por la Free Software Foundation, ya sea la versi√≥n 3 de la Licencia,
+# o una versi√≥n posterior (a su elecci√≥n).
 
-# Este listado se distribuye con el deseo que le resulte ˙til, pero
-# SIN GARANTÕAS DE NING⁄N TIPO; ni siquiera con las garantÌas implÌcitas
-# de COMERCIABILIDAD o APTITUD PARA UN PROP”SITO DETERMINADO. Para m·s
-# informaciÛn consulte el texto de la licencia respectiva seleccionada.
+# Este listado se distribuye con el deseo que le resulte √∫til, pero
+# SIN GARANT√çAS DE NING√öN TIPO; ni siquiera con las garant√≠as impl√≠citas
+# de COMERCIABILIDAD o APTITUD PARA UN PROP√ìSITO DETERMINADO. Para m√°s
+# informaci√≥n consulte el texto de la licencia respectiva seleccionada.
 
-# Debe haber recibido una copia de la Licencia P˙blica General de GNU junto
-# con este listado. Si no es asÌ, visite <http://www.gnu.org/licenses/>
+# Debe haber recibido una copia de la Licencia P√∫blica General de GNU junto
+# con este listado. Si no es as√≠, visite <http://www.gnu.org/licenses/>
 
 acasarado/S
-acetilsalicÌlico/S
-·cimo/S
+acetilsalic√≠lico/S
+√°cimo/S
 acorazada/S
 acumulado/S
-acut·ngulo/S
-adiciÛn/S
+acut√°ngulo/S
+adici√≥n/S
 adintelado/S
 adquirido/S
 adragante/S
@@ -28,12 +28,12 @@ adverado/S
 afaccionado/S
 aflorado/S
 agestado/S
-aguaÒÛn/S
+agua√±√≥n/S
 aguililla/S
-agustÌn/S
+agust√≠n/S
 airada/S
 albahaquilla/S
-albaÒila/S
+alba√±ila/S
 alburente/S
 alcaravanero/S
 alechugado/S
@@ -50,13 +50,13 @@ andana/S
 anqueta/S
 antemano/S
 anticipado/S
-aÒafea/S
+a√±afea/S
 aparadura/S
 apilada/S
 araniego/S
 ardero/S
 arije/S
-armÈnico/S
+arm√©nico/S
 armilar/S
 arrebatacapas
 arsenioso/S
@@ -64,7 +64,7 @@ aserrada/S
 atiestos
 aumentada/S
 ave/SN
-·zimo/S
+√°zimo/S
 bailado/S
 balde/S
 banda/S
@@ -76,20 +76,20 @@ barrisco/S
 bartola/S
 batallona/S
 bellotillo/S
-berbÌ/S
+berb√≠/S
 berlina/S
 besico/S
-birrect·ngulo/S
+birrect√°ngulo/S
 bitango/S
 bitongo/S
-biunÌvoca/S
+biun√≠voca/S
 blancal/S
 blindado/GS
 bocajarro/S
 bolar/S
 bolo/S
 bordada/S
-bÛrico/S
+b√≥rico/S
 bornero/S
 borne/S
 boya/S
@@ -97,7 +97,7 @@ bracete/S
 braguetazo/S
 bramona/S
 brincacharcos
-brÌos/S
+br√≠os/S
 bruces
 bruneta/S
 bruzos
@@ -105,9 +105,9 @@ bufado/S
 buzos/S
 cabecirrojo/S
 cacao/S
-cacodÌlico/S
+cacod√≠lico/S
 cagalar/S
-caj·/S
+caj√°/S
 cajel/S
 calabacil/S
 calaminar/S
@@ -120,17 +120,17 @@ campeche/S
 cande/S
 candi/S
 canilla/S
-caÒihueco/S
-caÒocazo/S
-carbÛlico/S
+ca√±ihueco/S
+ca√±ocazo/S
+carb√≥lico/S
 carpetazo/S
 cascalbo/S
 catalina/S
 cebellina/S
 cegado/S
 Celsius
-cercÈn/S
-cerÌfica/S
+cerc√©n/S
+cer√≠fica/S
 chaple/S
 charlo/S
 chicha/S
@@ -139,15 +139,15 @@ chumbo/GS
 chupalandero/S
 chupete/Sp
 chus
-cianhÌdrico/S
+cianh√≠drico/S
 cibelina/S
 cisoria/S
-cÌstico/S
+c√≠stico/S
 citarilla/S
-civilÌsima/S
+civil√≠sima/S
 claudia/S
 claval/S
-cloroacÈtico/S
+cloroac√©tico/S
 cohombrillo/S
 cojuelo/S
 colado/S
@@ -179,7 +179,7 @@ corrupia/S
 corvillo/S
 creados
 cuantificadora/S
-cuchÈ/S
+cuch√©/S
 cuclillas
 cural/S
 dares
@@ -192,7 +192,7 @@ dedillo/S
 degradada/S
 dente/S
 deodara/S
-desbaÒado/S
+desba√±ado/S
 descontado/S
 desmontado/S
 desoxirribonucleico/S
@@ -200,18 +200,18 @@ desraspado/S
 destiempo/S
 diado/Sa
 dial/S
-dicarboxÌlico/S
+dicarbox√≠lico/S
 diferido/S
-diof·ntica/S
+diof√°ntica/S
 dirigida/S
 discolora/S
 disjuntos
 domesticado/S
-doÒegal/S
-doÒigal/S
+do√±egal/S
+do√±igal/S
 dormido/S
 dulzal/S
-eclÌptico/S
+ecl√≠ptico/S
 electromotriz/S
 embebida/S
 embetunado/S
@@ -226,7 +226,7 @@ encarado/S
 encarcelada/S
 encargue/S
 endoblado/S
-enterÌsima/S
+enter√≠sima/S
 entorchada/S
 entregada/S
 equipolado/S
@@ -239,13 +239,13 @@ escribanillo/S
 escuyer
 espetaperro/S
 establecido/S
-estampÌa/S
+estamp√≠a/S
 estancada/S
-este·rico/S
+este√°rico/S
 esterlina/S
 esternocleidomastoideo/S
 estricote/S
-etÌlico/S
+et√≠lico/S
 exployada/S
 extranjis
 extrasensoria/S
@@ -254,16 +254,16 @@ factitivo/S
 fas/S
 favorecida/S
 febrerillo/S
-fÈnico/S
+f√©nico/S
 feriado/S
 fermentado/S
-ferreÒa/S
+ferre√±a/S
 floreado/S
-fluorhÌdrico/S
+fluorh√≠drico/S
 force/S
-fÛrmico/S
+f√≥rmico/S
 fornacina/S
-fulmÌnico/S
+fulm√≠nico/S
 funerala/S
 gallundera/S
 gamada/S
@@ -287,7 +287,7 @@ hebilleta/S
 hes
 hiante/S
 hisopo/S
-holostÈrico/S
+holost√©rico/S
 horcajadas
 horcajadillas
 hoyitos
@@ -302,11 +302,11 @@ intensificadora/S
 interciso/S
 intransitivo/S
 ionizante/S
-isÛsceles
+is√≥sceles
 jane/S
-japÛnica/S
+jap√≥nica/S
 jarrita/S
-jimÈn/S
+jim√©n/S
 joyante/S
 juradera/S
 juzgada/S
@@ -317,7 +317,7 @@ lanzacabos
 lanzatorpedos
 larije/aS
 legitimado/S
-leÒa/S
+le√±a/S
 leonino/S
 leucocitaria/S
 ligeruela/S
@@ -328,19 +328,19 @@ logis
 lucharniego/S
 lumbrical/S
 machacado/S
-machÈ/S
+mach√©/S
 machiega/S
 magnetomotriz/S
-m·gnum
+m√°gnum
 mamante/S
 mancillado/S
 mancomunada/S
-mancom˙n/S
+mancom√∫n/S
 manitas
 mansalva/S
 manta/S
 marquilla/S
-martÌn/S
+mart√≠n/S
 mascabado/S
 mazorgano/S
 mejido/S
@@ -364,7 +364,7 @@ molotov
 momperada/S
 monedado/S
 monoclonal/S
-monocloroacÈtico/S
+monocloroac√©tico/S
 monteleva/S
 morato/S
 morfea/S
@@ -373,24 +373,24 @@ moscabado/S
 moscada/S
 muerdisorbe/S
 mueso/S
-muri·tico/S
+muri√°tico/S
 musivo/S
 naja/S
 nanita/S
 neperiano/S
 nictitante/S
 niego/S
-nod·til/S
+nod√°til/S
 nucleico/S
 nullius
 numularia/S
 nuncupativo/S
 obliterante/S
 oblongada/S
-obtus·ngulo/S
+obtus√°ngulo/S
 oc
 ocluso/S
-oÌl/S
+o√≠l/S
 ojeteado/S
 oleico/S
 olivastro/S
@@ -407,14 +407,14 @@ palomariega/S
 palumbario/S
 pancilla/S
 parafernales
-paranÌnfico/S
+paran√≠nfico/S
 partil/S
 pascuero/S
 patada/S
 patitas
 pauliana/S
 pautado/S
-pedrÈs
+pedr√©s
 pegadillo/S
 pelota/S
 penador/S
@@ -427,12 +427,12 @@ perforada/S
 pernetas
 perrito/S
 piache/S
-pÌcrico/S
+p√≠crico/S
 pierde/S
 pinganitos
 pinjado/S
 pis/S
-pitiminÌ/S
+pitimin√≠/S
 pitoche/S
 plagal/S
 planchuela/S
@@ -447,15 +447,15 @@ portado/GS
 pospelo/S
 postremas
 potrera/S
-prob·tica/S
+prob√°tica/S
 prohibido/S
 pronominado/S
 proviso/S
 prunela/S
-pr˙sico/S
+pr√∫sico/S
 pudio/S
 quemarropa/S
-quÈ/S
+qu√©/S
 radiata/S
 rajatabla/S
 rama/S
@@ -468,8 +468,8 @@ recitativo/S
 reclamar/S
 recrucetada/S
 redondillo/S
-regaÒadientes
-regaÒado/S
+rega√±adientes
+rega√±ado/S
 regido/S
 registrada/S
 relicto/S
@@ -485,9 +485,9 @@ ribonucleico/S
 ripiao/S
 robado/SG
 rodeabrazo/S
-rondÛn/S
+rond√≥n/S
 ronza/S
-roquÈs/S
+roqu√©s/S
 rostrata/S
 ruan/S
 ruante/S
@@ -495,11 +495,11 @@ sabiendas
 sacamuertos
 safena/S
 sajada/S
-salgareÒo/S
-salicÌlico/S
+salgare√±o/S
+salic√≠lico/S
 salmera/S
 salvamano/S
-santiamÈn/S
+santiam√©n/S
 santificante/S
 santiscario/S
 sebado/Si
@@ -511,10 +511,10 @@ semiplena/S
 semirrecto/S
 semirrefinado/S
 sentadillas/a
-serr·til/S
+serr√°til/S
 setero/S
 sextil/S
-simpatÈtico/S
+simpat√©tico/S
 sincopal/S
 sincro/S
 sobaquillo/S
@@ -532,7 +532,7 @@ sumonte/S
 supersubstancial/S
 tabicada/S
 tacita/S
-tamÌnea/S
+tam√≠nea/S
 taminia/S
 tanganillas
 tarumba/S
@@ -557,22 +557,22 @@ trasovada/S
 trasquilado/S
 triedro/S
 trigaza/S
-trirrect·ngulo/S
+trirrect√°ngulo/S
 trocada/N
 trocado/GS
 trochemoche/S
 trojezada/S
 troy
 truncado/S
-turulÈs/S
+turul√©s/S
 ufo/S
 ultramaro/S
 ultranza/S
 ursina/S
 varita/S
-verdiÒal/S
+verdi√±al/S
 verga/S
-vergÈ/S
+verg√©/S
 vergueteado/S
 verjurado/S
 versalita/S
@@ -582,12 +582,12 @@ vilo/S
 vis/S
 volandas
 volandillas
-volatÌn/S
+volat√≠n/S
 voltaico/S
 vuelapluma/S
 york
-zafarÌ/S
-zajarÌ/S
+zafar√≠/S
+zajar√≠/S
 zancado/S
-zarandalÌ/S
-zorzaleÒo/S
+zarandal√≠/S
+zorzale√±o/S

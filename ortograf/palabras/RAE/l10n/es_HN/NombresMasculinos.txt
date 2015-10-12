@@ -2,17 +2,17 @@
 # Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
-# conforme a los tÈrminos de la Licencia P˙blica General de GNU, publicada
-# por la Free Software Foundation, ya sea la versiÛn 3 de la Licencia,
-# o una versiÛn posterior (a su elecciÛn).
+# conforme a los t√©rminos de la Licencia P√∫blica General de GNU, publicada
+# por la Free Software Foundation, ya sea la versi√≥n 3 de la Licencia,
+# o una versi√≥n posterior (a su elecci√≥n).
 
-# Este listado se distribuye con el deseo que le resulte ˙til, pero
-# SIN GARANTÕAS DE NING⁄N TIPO; ni siquiera con las garantÌas implÌcitas
-# de COMERCIABILIDAD o APTITUD PARA UN PROP”SITO DETERMINADO. Para m·s
-# informaciÛn consulte el texto de la licencia respectiva seleccionada.
+# Este listado se distribuye con el deseo que le resulte √∫til, pero
+# SIN GARANT√çAS DE NING√öN TIPO; ni siquiera con las garant√≠as impl√≠citas
+# de COMERCIABILIDAD o APTITUD PARA UN PROP√ìSITO DETERMINADO. Para m√°s
+# informaci√≥n consulte el texto de la licencia respectiva seleccionada.
 
-# Debe haber recibido una copia de la Licencia P˙blica General de GNU junto
-# con este listado. Si no es asÌ, visite <http://www.gnu.org/licenses/>
+# Debe haber recibido una copia de la Licencia P√∫blica General de GNU junto
+# con este listado. Si no es as√≠, visite <http://www.gnu.org/licenses/>
 
 abigeato/S
 abigeo/S
@@ -38,17 +38,17 @@ camarotero/S
 camote/S
 canelillo/S
 carablanca/S
-car·ngano/S
+car√°ngano/S
 carato/S
 carpidor/S
 carreto/SN
 casual/S
 caulote/S
 celular/S
-cempas˙chil/S
+cempas√∫chil/S
 chiche/S
 chile/S
-chinÌn/S
+chin√≠n/S
 chipote/S
 chupaflor/S
 clavado/S
@@ -59,7 +59,7 @@ comisariato/S
 conguito/S
 convertible/S
 correcaminos
-cortÈs
+cort√©s
 crespillo/S
 cuerazo/S
 cunchu
@@ -86,7 +86,7 @@ guarapo/S
 huacal/S
 jeringatorio/S
 jetazo/S
-jÌcaro/S
+j√≠caro/S
 jicote/S
 jilote/S
 lana/S
@@ -107,7 +107,7 @@ narango/S
 neneque/S
 nevado/S
 noticioso/S
-Òo
+√±o
 ojoche/S
 olote/S
 overol/S
@@ -115,15 +115,15 @@ pacayal/S
 padrote/S
 palito/S
 papalote/S
-papelerÌ≠o/S
+papeler√≠¬≠o/S
 paste/S
 pegue/S
 pejibaye/S
 pinolillo
 pinol/S
-pizarrÛn/S
+pizarr√≥n/S
 pizote/S
-platÛn/S
+plat√≥n/S
 pochote/S
 polvillo/S
 pozole/S
@@ -172,7 +172,7 @@ tuyo/S
 uveral/S
 video/S
 vuelto/S
-zacatÛn/S
+zacat√≥n/S
 zamuro/S
 zanate/S
 zapallo/S

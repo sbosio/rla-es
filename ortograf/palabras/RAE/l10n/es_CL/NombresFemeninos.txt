@@ -2,17 +2,17 @@
 # Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
-# conforme a los tÈrminos de la Licencia P˙blica General de GNU, publicada
-# por la Free Software Foundation, ya sea la versiÛn 3 de la Licencia,
-# o una versiÛn posterior (a su elecciÛn).
+# conforme a los t√©rminos de la Licencia P√∫blica General de GNU, publicada
+# por la Free Software Foundation, ya sea la versi√≥n 3 de la Licencia,
+# o una versi√≥n posterior (a su elecci√≥n).
 
-# Este listado se distribuye con el deseo que le resulte ˙til, pero
-# SIN GARANTÕAS DE NING⁄N TIPO; ni siquiera con las garantÌas implÌcitas
-# de COMERCIABILIDAD o APTITUD PARA UN PROP”SITO DETERMINADO. Para m·s
-# informaciÛn consulte el texto de la licencia respectiva seleccionada.
+# Este listado se distribuye con el deseo que le resulte √∫til, pero
+# SIN GARANT√çAS DE NING√öN TIPO; ni siquiera con las garant√≠as impl√≠citas
+# de COMERCIABILIDAD o APTITUD PARA UN PROP√ìSITO DETERMINADO. Para m√°s
+# informaci√≥n consulte el texto de la licencia respectiva seleccionada.
 
-# Debe haber recibido una copia de la Licencia P˙blica General de GNU junto
-# con este listado. Si no es asÌ, visite <http://www.gnu.org/licenses/>
+# Debe haber recibido una copia de la Licencia P√∫blica General de GNU junto
+# con este listado. Si no es as√≠, visite <http://www.gnu.org/licenses/>
 
 acreencia/S
 anchoveta/S
@@ -24,20 +24,20 @@ calichera/S
 calilla/S
 calla/S
 cantuta/S
-caÒabrava/S
+ca√±abrava/S
 carcacha/S
 castilla/S
 catanga/S
 caucha/S
 chala/S
 chaperona/S
-cigarrerÌa/S
+cigarrer√≠a/S
 colilarga/S
 contesta/S
-contralorÌa/S
+contralor√≠a/S
 criandera/S
 cueriza/S
-diagramaciÛn/S
+diagramaci√≥n/S
 dicheya/S
 echona/S
 empastadura/S
@@ -48,7 +48,7 @@ fleta/S
 gauchada/S
 gradiente/S
 guanabanada/S
-guan·bana/S
+guan√°bana/S
 guasca/S
 gurbia/S
 harneadura/S
@@ -68,7 +68,7 @@ maloca/S
 manguilla
 mantequillera/S
 nalca/S
-Òa
+√±a
 oroya/S
 pachamanca/S
 petra/S
@@ -77,7 +77,7 @@ pilapila/S
 pinuca/S
 pitahaya/S
 poblada/S
-pulperÌa/S
+pulper√≠a/S
 quila/S
 quisca/S
 rara/S
