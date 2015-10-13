@@ -689,6 +689,7 @@ catalogar/hREDÀÁÄÆ
 catapultar/REDÀ
 catar/REDÀ
 catear/REDÄ
+categorizar/AREDÀÁ
 catequizar/REDÀ
 caucionar/RED
 causticar/RED
@@ -1495,7 +1496,7 @@ dietar/RED
 diezmar/RED
 difamar/REDÀÁÂÅ
 digerir/XDÀ
-digitalizar/REDÀÁÂÃÄÅÆ
+digitalizar/AREDÀÁÂÃÄÅÆ
 dilapidar/REDÀ
 diligenciar/RED
 dilucidar/REDÀ
@@ -2746,7 +2747,7 @@ nitrar/RED
 nombrar/REDÀÁÂÄÅÆ
 nominar/REDÀ
 noquear/REDÀÁ
-normalizar/REDÀÁ
+normalizar/AREDÀÁ
 notar/REDÀÁÂÄÅÌTø
 noticiar/REDÀ
 notificar/REDÀÁÂÃÄÅÆÇÙ

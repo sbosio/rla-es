@@ -318,6 +318,7 @@ aérea/c
 aéreo/cGS
 aeriforme/S
 aerobia/a
+aeróbico/GS
 aerobio/GSa
 aerodinámico/GS
 aeroespacial/S
@@ -11986,6 +11987,7 @@ tratante/Sf
 travesero/GS
 travesío/SG
 travieso/GS
+trazable/kSJ
 trazado/GS
 trazador/GS
 treceavo/GS
