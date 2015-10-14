@@ -817,6 +817,7 @@ anglohablante/S
 angloparlante/S
 anglosajón/GS
 anglo/SG
+angoleño/GS
 angosto/GS
 anguilero/GS
 angular/S
@@ -886,6 +887,7 @@ antidisturbios
 antidroga/S
 antiespañol/GS
 antiestrés
+antiguano/SG
 antiguo/SG
 antihistamínico/GS
 antihelmíntico/GS
@@ -1408,6 +1410,8 @@ ayuno/GS
 azabachado/SG
 azafranado/SG
 azaroso/GS
+azerbaiyano/GS
+azerí/S
 azimutal/S
 azoico/GS
 azoláceo/GS
@@ -1447,6 +1451,7 @@ badajocense/S
 badulaque/S
 baenero/GS
 baezano/GS
+bahameño/GS
 baída/S
 bailador/GS
 bailante/S
@@ -1488,12 +1493,14 @@ bancario/GS
 banderizo/SG
 bandido/GS
 bantú/S
+bangladesí/S
 bañador/GS
 baptista/S
 baqueano/GS
 baquiano/GS
 báquico/GS
 barato/SG
+barbadense/S
 barbado/GS
 bárbaro/GS
 barbarote/SG
@@ -1518,6 +1525,7 @@ barbitúrico/GS
 barbudo/GS
 barcina/S
 bardiota/S
+bareiní/S
 barnabita/S
 barnizador/GS
 barométrico/GS
@@ -1580,6 +1588,7 @@ bejarano/GS
 bejerano/GS
 belfo/GS
 belga/S
+beliceño/GS
 belicista/S
 bélico/GS
 belicoso/GS
@@ -1601,9 +1610,9 @@ benéfico/SG
 benemérito/GS
 benevolente/S
 benévolo/SG
-bengalí
-bengalíes
+bengalí/S
 benigno/GS
+beninés/GS
 benito/GS
 benjamita/S
 benzoico/GS
@@ -1631,6 +1640,7 @@ bíceps
 bicolor/S
 bicorne/S
 bidente/S
+bielorruso/GS
 bienal/S
 bienandante/S
 bienaventurado/GS
@@ -1777,6 +1787,7 @@ botánico/SG
 botarate/S
 botinero/GS
 boto/GS
+botsuano/GS
 bóvido/SG
 bovino/GS
 boyal/S
@@ -1830,6 +1841,7 @@ brujesco/GS
 brujo/SG
 brumador/GSa
 brumoso/GS
+bruneano/GS
 bruno/SG
 bruñido/SG
 brusco/SG
@@ -1872,7 +1884,9 @@ burocrático/GS
 burriciego/GS
 burro/SG
 bursátil/S
+burundés/GS
 buscador/GpS
+butanés/GS
 cabalístico/GS
 caballar/S
 caballeresco/GS
@@ -1892,6 +1906,7 @@ cabezudo/GS
 cabido/GS
 cabildero/GS
 cabizbajo/GS
+caboverdiano/GS
 cabrerizo/GS
 cabrío/GS
 cabrito/GS
@@ -1994,6 +2009,7 @@ cámbrico/nGS
 camelador/GS
 camelotado/SG
 camero/SG
+camerunés/SG
 camilo/S
 caminador/GS
 caminante/S
@@ -2223,6 +2239,8 @@ catafórico/GS
 catalán/GS
 catalanista/S
 catalítico/GS
+catamarqueño/GS
+catarí/S
 catarral/S
 catarrino/S
 catarroso/SG
@@ -2291,6 +2309,7 @@ cefalópodo/S
 cefalorraquídeo/S
 cegador/GS
 cegato/SG
+ceilanés/GS
 cejijunto/GS
 cejudo/GS
 celada/S
@@ -2356,6 +2375,7 @@ central/S
 céntrico/GS
 centrifugador/GS
 centrífugo/SG
+centroafricano/GS
 centroamericano/GS
 ceñido/SG
 ceñudo/GS
@@ -2416,6 +2436,7 @@ chabolista/S
 chacho/SG
 chaconero/GS
 chacotero/GS
+chadiano/GS
 chalanesco/GS
 chaleco/S
 chambergo/GS
@@ -2431,6 +2452,7 @@ chaperonado/SG
 chaperón/GS
 chapetón/GS
 chapucero/GS
+chaqueño/GS
 chaquetero/GS
 charanguero/SG
 charlador/SG
@@ -2483,6 +2505,7 @@ chocó/S
 choricero/SG
 chotuno/GS
 chovinista/S
+chubutense/S
 chuchero/GS
 chufletero/GS
 chulesco/GS
@@ -2747,6 +2770,7 @@ comitente/S
 commelináceo/SG
 cómodo/kGS
 comodón/SG
+comorense/S
 compacto/GS
 comparable/kS
 comparada/k
@@ -2915,6 +2939,7 @@ congestivo/GS
 conglomerante/S
 congojoso/GS
 congoleño/GS
+congolés/GS
 congo/SG
 congraciador/SG
 congrua/k
@@ -3922,6 +3947,7 @@ dimisionario/GS
 dimitente/S
 dimorfo/GS
 dina/i
+dinamarqués/GS
 dinámico/GS
 dinamista/S
 dinamitero/GS
@@ -4108,6 +4134,7 @@ dominical/S
 dominicano/GS
 dominico/GS
 domínico/GS
+dominiqués/SG
 donador/SG
 donante/fS
 donatista/S
@@ -4201,6 +4228,7 @@ ectodérmico/GS
 ecuable/S
 ecuánime/S
 ecuante/S
+ecuatoguineano/GS
 ecuatorial/S
 ecuatoriano/GS
 ecuestre/S
@@ -4830,6 +4858,7 @@ esquirol/S
 esquistoso/GS
 esquivo/SG
 esquizado/GS
+esrilanqués/GS
 estabilizador/GhS
 establecedor/GS
 estable/kS
@@ -5339,12 +5368,13 @@ fina/fSptj
 finalista/S
 final/S
 financiero/GS
-finés/S
+finés/GS
 fingido/GS
 fingidor/GS
 finisecular/S
 finita/k
 finito/kGS
+finlandés/GS
 finolis
 fino/pSGjt
 firmante/fS
@@ -5361,6 +5391,7 @@ fisóstomo/GS
 fistular/S
 fistuloso/GS
 fitófago/SG
+fiyiano/SG
 fláccido/GS
 flácido/GS
 flaco/GS
@@ -5439,6 +5470,7 @@ formal/kS
 formativa/ukp
 formativo/kGSpu
 formidable/S
+formoseño/SG
 formulario/SG
 formular/S
 formulista/S
@@ -5584,6 +5616,7 @@ fútil/S
 futurista/S
 futuro/SG
 gabacho/GS
+gabonés/GS
 gacho/GS
 gaditano/GS
 gaélico/SG
@@ -5627,6 +5660,7 @@ galocho/GS
 galopante/S
 galvánico/GS
 gamberro/GS
+gambiano/GS
 gamopétalo/GS
 gamuno/SG
 ganadero/GS
@@ -5732,6 +5766,7 @@ gesticular/S
 gesticuloso/GS
 gestor/GS
 gestual/S
+ghanés/GS
 giboso/GS
 giennense/S
 giganteo/GS
@@ -5939,6 +5974,7 @@ gustativo/GS
 gustoso/SG
 gutífero/SG
 gutural/S
+guyanés/GS
 habado/GS
 habanero/GS
 habano/GS
@@ -6193,6 +6229,7 @@ homónimo/SG
 homosexual/S
 hondable/S
 hondo/SG
+hondureño/GS
 honesta/h
 honesto/GSh
 hongoso/GS
@@ -6788,7 +6825,9 @@ invocatorio/GS
 involucionista/S
 inyectivo/GS
 iracundo/GS
+iraní/S
 iranio/GS
+iraquí/S
 irascible/S
 irídeo/GS
 iridiscente/S
@@ -6907,6 +6946,7 @@ jocundo/GS
 joloano/GS
 jónico/SG
 jonio/GS
+jordano/GS
 jorobado/GS
 jorobeta/S
 josefino/GS
@@ -6935,6 +6975,7 @@ jugoso/GS
 juguetero/SG
 juguetón/GS
 juicioso/GS
+jujeño/GS
 juliano/SG
 juncáceo/GS
 juncal/S
@@ -6967,9 +7008,17 @@ juvenal/S
 juvenil/S
 juzgador/SG
 kantiano/GS
+kazajo/GS
+kazako/GS
+keniano/GS
+keniata/S
 kilométrico/SG
+kiribatiano/GS
+kirguís/S
+kirguiso/GS
 krausista/S
 kurdo/GS
+kuwaití/GS
 laberíntico/GS
 labiado/GS
 labial/eS
@@ -7067,6 +7116,7 @@ lanzacohetes
 lanzado/GS
 lanzador/SG
 laodicense/S
+laosiano/GS
 lapidario/GS
 lapídeo/SG
 lapidoso/GS
@@ -7187,11 +7237,13 @@ lesbio/GS
 lesionador/GS
 lesivo/GS
 leso/kSG
+lesotense/S
 letal/S
 letárgico/GS
 letargoso/GS
 leteo/GS
 letificante/S
+letón/GS
 letrada/k
 letrado/GkS
 letrero/GS
@@ -7208,9 +7260,11 @@ levógiro/GS
 léxico/SG
 leyendario/SG
 lezne/GS
+libanés/GS
 liberador/GS
 liberal/kS
 liberatorio/GS
+liberiano/GS
 libertador/GS
 libertario/SG
 liberticida/S
@@ -7225,6 +7279,7 @@ librepensador/SG
 libresco/GS
 licenciado/SG
 licencioso/GS
+liechtensteiniano/GS
 licio/SG
 lícita/k
 lícito/kSG
@@ -7443,6 +7498,7 @@ lutado/GiS
 lúteo/SG
 luterano/GS
 lutoso/GS
+luxemburgués/GS
 macabeo/GS
 macabro/GS
 macareno/GS
@@ -7514,6 +7570,7 @@ malar/S
 malasangre/S
 malasio/GS
 malato/GS
+malauí/S
 malavenido/SG
 malaventurado/GS
 malayo/GS
@@ -7527,6 +7584,7 @@ maldecidor/GS
 maldiciente/S
 maldispuesto/SG
 maldito/GS
+maldivo/GS
 maleante/S
 maléfico/SG
 maleolar/S
@@ -7539,10 +7597,10 @@ malhablado/GS
 malhadado/GS
 malhechor/GS
 malhumorado/SG
-malí
+malí/S
 maliciable/S
 malicioso/SG
-malíes
+maliense/GS
 maligno/GS
 malino/GS
 malintencionado/SG
@@ -7672,6 +7730,7 @@ mareado/SG
 mareante/S
 mareoso/GS
 marero/GS
+marfileño/GS
 marginado/GS
 marginal/S
 margosa/a
@@ -7705,6 +7764,7 @@ marroquí
 marroquíes
 marrueco/GS
 marrullero/SG
+marshalés/GS
 marso/SG
 marsupial/S
 martillador/SG
@@ -7753,6 +7813,7 @@ matritense/S
 matriz/S
 matutino/GS
 maullador/GS
+mauriciano/GS
 mauritano/SG
 mauro/GS
 mavorcio/GS
@@ -8113,6 +8174,7 @@ monasterial/S
 monástico/SG
 mondador/SG
 mondo/SG
+monegasco/GS
 monesco/GS
 monetario/SG
 monfortino/GS
@@ -8242,6 +8304,7 @@ movible/Sa
 movido/GS
 moviente/S
 móvil/dSk
+mozambiqueño/GS
 mozo/GS
 muchachil/S
 muchacho/GS
@@ -8339,6 +8402,7 @@ najerano/GS
 najerino/GS
 nalgar/S
 nalgudo/GS
+namibio/GS
 naonato/GS
 napeo/GS
 napoleónico/SG
@@ -8372,6 +8436,7 @@ natural/ckSfr
 naturalista/S
 naturista/S
 náufrago/GS
+nauruano/GS
 nauseabundo/GS
 nauseativo/SG
 nauseoso/GS
@@ -8441,6 +8506,9 @@ neonatal/S
 neoplásico/GS
 neoplatónico/GS
 neoyorquino/GS
+neozelandés/GS
+nepalés/GS
+nepalí/S
 neptuniano/GS
 neptúnico/GS
 neptunista/S
@@ -8452,6 +8520,7 @@ nervudo/GS
 nestoriano/SG
 neto/GS
 neumático/GS
+neuquino/GS
 neuroendocrino/GS
 neurológico/GS
 neuronal/S
@@ -8466,6 +8535,8 @@ nevoso/GS
 nicaragüense/S
 niceno/GS
 nicomediense/S
+nigeriano/GS
+nigerino/GS
 nihilista/S
 nimio/SG
 ninfeáceo/GS
@@ -8512,6 +8583,7 @@ nonato/GS
 noningentésimo/GS
 nono/GS
 non/S
+norcoreano/GS
 nórdico/GS
 normalista/S
 normal/sSa
@@ -8705,6 +8777,7 @@ oloroso/GS
 olvidadizo/SG
 olvidado/GS
 omagua/S
+omaní/S
 omeya/S
 ominoso/GS
 omiso/SG
@@ -8896,6 +8969,7 @@ palado/GS
 palanquero/GS
 palatal/S
 palatino/GS
+palauano/GS
 paleador/aGS
 paleal/S
 palentino/GS
@@ -8968,6 +9042,7 @@ papiamento/GS
 papilar/S
 papilionáceo/GS
 papista/Sc
+papú/S
 papujado/GS
 paquetero/GS
 paquidérmico/GS
@@ -9559,6 +9634,7 @@ político/GaS
 polivalente/S
 polivalvo/SG
 pollino/GS
+polonés/GS
 poltrón/GS
 poluta/k
 poluto/GSk
@@ -9981,6 +10057,7 @@ punitivo/GS
 punk/S
 punki/S
 punta/S
+puntano/GS
 puntero/GS
 puntiagudo/GS
 puntillista/S
@@ -10527,6 +10604,7 @@ rijoso/GS
 rimador/GS
 rimbombante/S
 riojano/GS
+rionegrino/GS
 rioplatense/S
 riosellano/SG
 ripioso/GS
@@ -10633,6 +10711,7 @@ rotuliano/GS
 rotundo/GS
 roturador/GS
 rozagante/S
+ruandés/GS
 ruano/SG
 rubescente/S
 rubiáceo/SG
@@ -10760,12 +10839,14 @@ salmón/S
 salobral/S
 salobreño/GS
 salobre/S
+salomonense/S
 salomónico/GS
 salso/GS
 salsoláceo/GS
 saltadizo/GS
 saltado/GS
 saltador/GSa
+salteño/GS
 salubre/kS
 saludador/SG
 salvable/kS
@@ -10794,6 +10875,7 @@ sanativo/GS
 sanchopancesco/SG
 sancionador/GS
 sancionatorio/GS
+sancristobaleño/GS
 sandalino/SG
 sandio/GS
 sanducero/GS
@@ -10813,15 +10895,18 @@ sanjuanino/GS
 sanjuanista/S
 sanluiseño/GS
 sanluisero/GS
+sanmarinense/S
 sanmartiniano/GS
 sano/kGS
 san/S
 sánscrito/SG
 sansimoniano/GS
+santacruceño/GS
 santafecino/GS
 santafesino/SG
 santanderino/GS
 santero/GS
+santiagueño/SG
 santiaguero/SG
 santiaguino/SG
 santiaguista/S
@@ -10831,8 +10916,10 @@ santísimo/GS
 santón/GS
 santónico/GS
 santo/S
+santotomense/S
 santucho/GS
 santurrón/GS
+sanvicentino/GS
 sañudo/GS
 sapiencial/S
 sapindáceo/GS
@@ -10870,6 +10957,7 @@ saturnal/S
 saturnino/SG
 saturnio/GS
 saudí
+saudita/S
 saudíes
 saurio/S
 saxifragáceo/GS
@@ -10976,6 +11064,7 @@ senatorial/S
 senatorio/SG
 sencillo/GS
 sendos
+senegalés/GS
 senequista/S
 senescente/S
 senil/S
@@ -11076,6 +11165,7 @@ sexuado/GSa
 sexual/eSa
 sexy
 sexys
+seychellense/S
 siamés/SG
 sibarita/S
 siberiano/GS
@@ -11090,6 +11180,7 @@ siena/S
 sienés/GS
 sietemesino/GS
 siete/S
+sierraleonés/GS
 sifilítica/c
 sifilítico/GSc
 sigiloso/GS
@@ -11148,6 +11239,7 @@ sindicalista/S
 sindical/S
 sinfónico/GS
 singalés/SG
+singapurense/S
 singular/S
 siniestrado/GS
 siniestro/GS
@@ -11257,6 +11349,7 @@ solutiva/p
 solutivo/pSG
 solvente/GS
 solventes/pk
+somalí/S
 somático/GS
 sombreador/GS
 sombrío/GS
@@ -11315,6 +11408,7 @@ suarista/S
 suave/kS
 suavizador/GS
 suavizante/S
+suazi/S
 subclavio/GS
 subdesarrollado/GS
 súbdito/GS
@@ -11357,6 +11451,7 @@ suculento/GS
 sucursal/S
 sudafricano/GS
 sudamericano/GS
+sudanés/GS
 sudante/S
 sudatorio/GS
 sudista/S
@@ -11436,10 +11531,12 @@ supurativo/SG
 supuratorio/GS
 suramericano/GS
 surcador/SG
+surcoreano/GS
 surculado/GS
 surculoso/GS
 sureño/GS
 surgidor/GS
+surinamés/GS
 surrealista/S
 surtidor/GS
 surtido/SG
@@ -11491,6 +11588,7 @@ tagalo/GS
 tagarino/GS
 tahuresco/GS
 tahúr/SG
+tailandés/GS
 taimado/GS
 taíno/GS
 tajado/GS
@@ -11524,6 +11622,7 @@ tangerino/SG
 tangible/kS
 tanor/GS
 tanto/GS
+tanzano/GS
 tao/S
 tapado/GS
 tapador/GS
@@ -11557,6 +11656,7 @@ taurios
 tauro/S
 taxativo/GS
 taxonómico/GS
+tayiko/GS
 teatral/S
 tebaico/GS
 tebano/GS
@@ -11738,6 +11838,7 @@ timbreo/GS
 tímido/SG
 timonero/GS
 timorato/GS
+timorense/S
 timpánico/GS
 tinelar/S
 tinerfeño/GS
@@ -11780,6 +11881,7 @@ tocón/GS
 todo/GS
 todopoderoso/SG
 togado/GS
+togolés/GS
 toledano/GS
 tolemaico/SG
 tolerable/kS
@@ -12055,6 +12157,7 @@ trimotor/S
 trinacrio/GS
 trinchador/GS
 trinitario/GS
+trinitense/S
 trino/GS
 tripartito/SG
 triple/S
@@ -12153,6 +12256,7 @@ turcople/S
 turdetano/GS
 turgente/S
 turístico/SG
+turkmeno/SG
 turnio/GS
 turolense/S
 turquesa/S
@@ -12162,11 +12266,13 @@ turronero/GS
 turulato/GS
 tusa/fS
 tutelar/S
+tuvaluano/GS
 ubicuo/GS
 ubiquitario/GS
 ucraniano/GS
 ucranio/GS
 ufano/SG
+ugandés/GS
 ulcerativo/GS
 ulceroso/GS
 ulterior/S
@@ -12265,6 +12371,7 @@ utopista/S
 utrerano/GS
 uvero/SG
 uvular/S
+uzbeko/GS
 vacacional/S
 vacante/S
 vaca/S
@@ -12313,6 +12420,7 @@ vanguardista/S
 vanidoso/GS
 vanilocuente/S
 vano/GS
+vanuatuense/S
 vaporoso/GS
 vapuleador/GS
 vaquerizo/GS
@@ -12638,11 +12746,13 @@ yacente/Ss
 yaciente/S
 yanqui/S
 yeguar/S
+yemení/S
 yente/S
 yermo/GS
 yerto/GS
 yesero/GS
 yesoso/GS
+yibutiano/GS
 yodado/GS
 yuglandáceo/GS
 yugoslavo/SG
@@ -12654,6 +12764,7 @@ zahareño/GS
 zahén/S
 zaino/GS
 zalamero/GS
+zambiano/GS
 zambo/GS
 zambullidor/GS
 zamorano/GS
@@ -12685,6 +12796,7 @@ zen
 zendo/SG
 zigomorfo/SG
 zigzagueante/S
+zimbabuense/S
 zocato/GS
 zoco/GS
 zodiacal/S
