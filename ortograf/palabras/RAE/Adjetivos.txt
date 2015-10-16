@@ -1452,6 +1452,7 @@ badulaque/S
 baenero/GS
 baezano/GS
 bahameño/GS
+bahreiní/S
 baída/S
 bailador/GS
 bailante/S
@@ -1525,7 +1526,6 @@ barbitúrico/GS
 barbudo/GS
 barcina/S
 bardiota/S
-bareiní/S
 barnabita/S
 barnizador/GS
 barométrico/GS
