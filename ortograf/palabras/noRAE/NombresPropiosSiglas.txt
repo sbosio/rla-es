@@ -16,323 +16,203 @@
 
 Adolfo
 Adrián
-Afganistán
-África
+África # revisar
 Aguilar
 Aitor
-Albania
 Albert
 Alberto
 Alejandra
 Alejandro
-Alemania
 Alfonso
 Alfredo
 Alicia
 Álvarez
 Álvaro
-América
+América # revisar
 Ana
-Andorra
 Andrea
 Andrés
 Ángela
-Angola
 Anguilla
 Anna
-Antártida
-Antillas
+Antártida # revisar
+Antillas # revisar
 Antonia
 Antonio
-Arabia
+Arabia # revisar
 Araceli
-Argelia
-Argentina
-Armenia
 Arturo
-Aruba
-Asia
-Australia
-Austria
-Azerbaiyán
-Bahamas
-Bahrein
-Bangladesh
-Barbados
+Aruba # revisar
+Asia # revisar
 Beatriz
 Begoña
-Bélgica
-Belice
-Benin
 Benítez
-Berkeley
-Bermuda
-Bhutan
-Bielorrusia
-Bissau
-Bolivia
+Berkeley # revisar
+Bermuda # revisar
+Bissau # revisar
 Borja
-Bosnia
-Botsuana
-Bouvet
-Brasil
-Brunei
-Bulgaria
-Burkina
-Burundi
-Caicos
-Caledonia
-Camboya
-Camerún
-Canadá
+Bosnia # revisar
+Bouvet # revisar
+Burkina # revisar
+Caicos # revisar
+Caledonia # revisar
 Carlos
 Carmelo
 Carmona
 CD
-CDs
-Centroamérica
-Chad
+CDs # revisar
+Centroamérica # revisar
 Checa
-Chile
-China
-Chipre
-Cisjordania
+Cisjordania # revisar
 Clipperton
-Colombia
-Comoros
-Congo
-Cook
-Corea
+Congo # revisar
+Cook # revisar
+Corea # revisar
 Cristian
 Cristóbal
-Croacia
-Cuba
 Daniel
-Darussalam
+Darussalam # revisar
 David
 Díez
-Dinamarca
 Domínguez
-Dominica
-Dominicana
+Dominicana # revisar
 Durán
 DVD
-DVDs
-Ecuador
+DVDs # revisar
 Eduardo
-Egipto
 Elena
 Elisa
 Elvira
 Emilia
 Emilio
-Eritrea
 Ernesto
-Escocia
-Eslovaquia
-Eslovenia
-España
 Esther
-Estonia
-Etiopía
 Eugenia
 Eugenio
-Europa
+Europa # revisar
 Eva
-Faroe
-Faso
+Faroe # revisar
+Faso # revisar
 Fátima
 Félix
 Fernández
 Fernando
 Ferrer
-Fiji
-Filipinas
-Finlandia
 Francesc
-Francia
 Futuna
-Gabón
 Gabriel
-Gales
-Gambia
+Gales # revisar
 Gaza
-Georgia
 Gerardo
-Ghana
-Gibraltar
+Gibraltar # revisar
 Giménez
 Gómez
 González
-Granada
 Granadinas
-Grecia
 Gregorio
-Groenlandia
+Groenlandia # revisar
 Guadalupe
 Guam
-Guatemala
-Guayana
-Guernsey
+Guernsey # revisar
 Guillermo
-Guinea
 Gustavo
 Gutiérrez
-Guyana
-Haití
 Heard
 Héctor
 Helena
 Hernández
-Herzegovina
-Honduras
-Hong
+Herzegovina # revisar
+Hong # revisar
 Hugo
-Hungría
 Ibáñez
 Ignacio
-India
-Indonesia
 Inés
-Inglaterra
+Inglaterra # revisar
 Internet
-Irán
-Iraq
 Irene
-Irlanda
 Isaac
 Isabel
 Isidro
-Islandia
 Ismael
-Israel
-Italia
 Iván
 Jaime
-Jamaica
 Jan
-Japón
 Jaume
 Javier
-Jersey
+Jersey # revisar
 Jesucristo
 Jesús
 Jiménez
 Joan
 Joaquín
 Jonathan
-Jordania
 Jordi
 José
 Josefa
 Josep
 Julián
-Kazakstán
-Kenya
-Kiribati
-Kitts
-Kong
-Kuwait
-Kyrgyzstan
-Lanka
-Laos
+Kitts # revisar
+Kong # revisar
+Lanka # revisar
 Laura
-Lesotho
-Letonia
-Líbano
-Liberia
-Libia
-Liechtenstein
-Lituania
 López
 Lorena
 Lorenzo
 Lourdes
 Lucía
-Luxemburgo
-Macau
-Macedonia
-Madagascar
-Malasia
-Malawi
-Maldivas
-Mali
-Malta
-Malvinas
+Macau # revisar
+Mali # revisar
+Malvinas # revisar
 Man
 Manuel
 Marc
 Marfil
-Marianas
+Marianas # revisar
 Marín
 Marino
 Mario
 Márquez
-Marruecos
-Marshall
+Marshall # revisar
 Martín
 Martínez
-Martinica
+Martinica # revisar
 Matilde
-Mauricio
-Mauritania
 Mayen
 Mayotte
 McDonald
 Méndez
 Mercosur
-México
-Micronesia
 Miguel
 Miquelon
 Míriam
 Mohamed
-Moldavia
 Molina
-Mónaco
-Mongolia
 Mónica
-Montenegro
 Montserrat
-Mozambique
 Muñoz
-Myanmar
-Namibia
+Myanmar # revisar
 Natalia
 Nauru
-Nepal
 Nevis
-Nicaragua
 Nicolás
-Níger
-Nigeria
 Niue
 Noelia
-Norfolk
-Norteamérica
-Noruega
+Norfolk # revisar
+Norteamérica # revisar
 Núñez
 Nuria
-Oceanía
+Oceanía # revisar
 Olga
-Omán
 Ortiz
-Oscar
+Oscar # revisar
 Óscar
 Pablo
-Pakistán
 Palau
-Panamá
-Papúa
-Paraguay
+Papúa # revisar
 Pérez
-Perú
 Pierre
 Pitcairn
-Polinesia
-Polonia
-Portugal
-Qatar
+Polinesia # revisar
 Rafael
 Ramírez
 Raquel
@@ -340,84 +220,51 @@ Raúl
 Ricardo
 Roberto
 Rodríguez
-Ruán
-Ruan
+Ruán # revisar
+Ruan # revisar
 Rubén
 Ruiz
-Rumanía
-Rusia
-Rwanda
 Sáez
 Saint
-Samoa
 Sánchez
 Sandra
 Santana
 Sanz
 Sara
-Saudita
+Saudita # revisar
 Sebastián
-Senegal
-Serbia
 Sergio
-Seychelles
 Silvia
-Singapur
 Sión
 Sion
-Siria
-Solomon
-Somalía
+Solomon # revisar
 Sonia
-Soviética
-Sri
+Soviética # revisar
+Sri # revisar
 Suárez
-Sudáfrica
-Sudamérica
-Sudán
-Suecia
-Suiza
-Suriname
+Sudamérica # revisar
 Svalbard
-Swazilandia
-Tailandia
-Taiwan
-Tanzania
-Tayikistán
-Timor
-Tobago
-Togo
+Taiwan # revisar
+Timor # revisar
+Tobago # revisar
 Tokelau
-Tonga
-Trinidad
-Túnez
-Turkmenistán
-Turquía
+Tonga # revisar
+Trinidad # revisar
 Tuvalu
-Ucrania
-Uganda
-Uruguay
-Uzbekistán
 Valentín
 Vanesa
-Vanuatu
-Vaticano
+Vaticano # revisar
 Vázquez
 Velasco
-Venecia
-Venezuela
+Venecia # revisar
 Vicenta
 Vicente
 Vidal
-Vietnam
 Wallis
 Wide
 World
 Xavier
-Yemen
 Yibuti
 Yolanda
-Yugoslavia
-Zambia
-Zelanda
-Zimbabwe
+Yugoslavia # revisar
+Zelanda # revisar
