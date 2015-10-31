@@ -1,13 +1,54 @@
+# Lista de lemas: entidades-territoriales.txt
+# Copyright (C) 2004-2015 de Santiago Bosio (sbosio AT gmail.com),
+#                            Ernesto Nicolás Carrea (@EquisTango en Github)
+
+# Este listado es software libre: usted puede redistribuirlo y/o modificarlo
+# conforme a los términos de la Licencia Pública General de GNU, publicada
+# por la Free Software Foundation, ya sea la versión 3 de la Licencia,
+# o una versión posterior (a su elección).
+
+# Este listado se distribuye con el deseo que le resulte útil, pero
+# SIN GARANTÍAS DE NINGÚN TIPO; ni siquiera con las garantías implícitas
+# de COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO DETERMINADO. Para más
+# información consulte el texto de la licencia respectiva seleccionada.
+
+# Debe haber recibido una copia de la Licencia Pública General de GNU junto
+# con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
+
+# Aclaración hecha por Santiago Bosio en el issue
+# https://github.com/sbosio/rla-es/issues/38:
+#
+# Los nombres compuestos como "Sri Lanka", "Trinidad y Tobago", etc. deben
+# descomponerse en los lemas básicos (uno por línea), y eliminar los lemas
+# comunes ya existentes, como el conector 'y', o la contracción 'del', e
+# incluso 'Ciudad' se podría eliminar, ya que existe como nombre femenino y
+# siempre se va a validar, aunque quizás convendría dejarlo si lo tomamos
+# como que en este fichero tiene un valor sintáctico distinto ya que forma
+# parte de un nombre propio compuesto.
+#
+# Por simplicidad, yo (@RickieES en Github) he comentado las entidades que
+# existen como palabras comunes (caso de "Cabo Verde", "Costa Rica", etc.).
+# Si el nombre está compuesto por un vocablo común y otro específico del
+# país (p.e.: "Ciudad del Vaticano"), he dejado comentado el nombre original
+# y he añadido la palabra específica como línea independiente.
+
 Afganistán
+África
 Albania
 Alemania
+América
 Andorra
 Angola
-Antigua y Barbuda
-Arabia Saudita
+Antártida
+# Antigua y Barbuda
+Antillas
+Arabia
+# Arabia Saudita
 Argelia
 Argentina
 Armenia
+Aruba
+Asia
 Australia
 Austria
 Azerbaiyán
@@ -18,84 +59,121 @@ Baréin
 Bélgica
 Belice
 Benín
+Berkeley
+Bermuda
 Bielorrusia
 Birmania
+Bisáu
+Bissau
 Bolivia
-Bosnia y Herzegovina
+Bosnia
+# Bosnia y Herzegovina
 Botsuana
+Bouvet
 Brasil
 Brunéi
 Bulgaria
-Burkina Faso
+Burkina
+# Burkina Faso
 Burundi
 Bután
-Cabo Verde
+# Cabo Verde
+Caicos
+Caledonia
 Camboya
 Camerún
 Canadá
 Catar
+Centroamérica
 Chad
+Checa
 Chile
 China
 Chipre
-Ciudad del Vaticano
+Cisjordania
+# Ciudad del Vaticano
+Clipperton
 Colombia
 Comoras
-Corea del Norte
-Corea del Sur
-Costa de Marfil
-Costa Rica
+Congo
+Cook
+Corea
+# Corea del Norte
+# Corea del Sur
+# Costa de Marfil
+# Costa Rica
 Croacia
 Cuba
 Dinamarca
 Dominica
+Dominicana
 Ecuador
 Egipto
-El Salvador
-Emiratos Árabes Unidos
+# El Salvador
+Emiratos
+# Emiratos Árabes Unidos
 Eritrea
 Eslovaquia
 Eslovenia
 España
-Estados Unidos
+# Estados Unidos
 Estonia
 Etiopía
+Europa
+Faroe
+Faso
 Filipinas
 Finlandia
 Fiyi
 Francia
+Futuna
 Gabón
+Gales
 Gambia
+Gaza
 Georgia
 Ghana
+Gibraltar
 Granada
+Granadinas
 Grecia
+Groenlandia
+Guam
 Guatemala
+Guernsey
 Guinea
-Guinea Ecuatorial
-Guinea Bisáu
+# Guinea Bisáu
+# Guinea Ecuatorial
 Guyana
 Haití
+Heard
+Herzegovina
 Honduras
+Hong
 Hungría
 India
 Indonesia
+Inglaterra
 Irak
 Irán
 Irlanda
 Islandia
-Islas Marshall
-Islas Salomón
+# Islas Marshall
+# Islas Salomón
 Israel
 Italia
 Jamaica
 Japón
+Jersey
 Jordania
 Kazajistán
 Kenia
 Kirguistán
 Kiribati
+Kitts
+Kong
 Kuwait
+Lanka
 Laos
 Lesoto
 Letonia
@@ -105,14 +183,19 @@ Libia
 Liechtenstein
 Lituania
 Luxemburgo
+Macau
 Macedonia
 Madagascar
 Malasia
 Malaui
 Maldivas
-Malí # incorrecto, es Mali
+Mali
 Malta
+Malvinas
+Marianas
 Marruecos
+Marshall
+Martinica
 Mauricio
 Mauritania
 México
@@ -122,62 +205,85 @@ Mónaco
 Mongolia
 Montenegro
 Mozambique
+Myanmar
 Namibia
 Nauru
 Nepal
 Nicaragua
 Níger
 Nigeria
+Niue
+Norfolk
+Norteamérica
 Noruega
-Nueva Zelanda
+# Nueva Zelanda
+Oceanía
 Omán
-Países Bajos
+# Países Bajos
 Pakistán
 Palaos
 Palestina
 Panamá
-Papúa Nueva Guinea
+Papúa
+# Papúa Nueva Guinea
 Paraguay
 Perú
+Pitcairn
+Polinesia
 Polonia
 Portugal
 Reino Unido
-República Centroafricana
-República Checa
-República del Congo
-República Democrática del Congo
-República Dominicana
+# República Centroafricana
+# República Checa
+# República del Congo
+# República Democrática del Congo
+# República Dominicana
+Ruan
 Ruanda
 Rumanía
 Rusia
+Salomón
 Samoa
-San Cristóbal y Nieves
-San Marino
-San Vicente y las Granadinas
-Santa Lucía
-Santo Tomé y Príncipe
+# San Cristóbal y Nieves
+# San Marino
+# Santa Lucía
+# Santo Tomé y Príncipe
+# San Vicente y las Granadinas
+Saudita
 Senegal
 Serbia
 Seychelles
-Sierra Leona
+# Sierra Leona
 Singapur
+Sion
 Siria
+Solomon
 Somalia
-Sri Lanka
+Soviética
+Sri
+# Sri Lanka
 Suazilandia
 Sudáfrica
+Sudamérica
 Sudán
-Sudán del Sur
+# Sudán del Sur
 Suecia
 Suiza
 Surinam
+Svalbard
 Tailandia
+Taiwan
 Tanzania
 Tayikistán
-Timor Oriental
+Timor
+# Timor Oriental
+Tobago
 Togo
+Tokelau
+Tomé
 Tonga
-Trinidad y Tobago
+Trinidad
+# Trinidad y Tobago
 Túnez
 Turkmenistán
 Turquía
@@ -187,9 +293,13 @@ Uganda
 Uruguay
 Uzbekistán
 Vanuatu
+Vaticano
+Venecia
 Venezuela
 Vietnam
 Yemen
 Yibuti
+Yugoslavia
 Zambia
+Zelanda
 Zimbabue

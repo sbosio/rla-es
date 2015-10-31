@@ -16,7 +16,6 @@
 
 Adolfo
 Adrián
-África # revisar
 Aguilar
 Aitor
 Albert
@@ -28,46 +27,25 @@ Alfredo
 Alicia
 Álvarez
 Álvaro
-América # revisar
 Ana
 Andrea
 Andrés
 Ángela
 Anguilla
 Anna
-Antártida # revisar
-Antillas # revisar
 Antonia
 Antonio
-Arabia # revisar
 Araceli
 Arturo
-Aruba # revisar
-Asia # revisar
 Beatriz
 Begoña
 Benítez
-Berkeley # revisar
-Bermuda # revisar
-Bissau # revisar
 Borja
-Bosnia # revisar
-Bouvet # revisar
-Burkina # revisar
-Caicos # revisar
-Caledonia # revisar
 Carlos
 Carmelo
 Carmona
 CD
 CDs # revisar
-Centroamérica # revisar
-Checa
-Cisjordania # revisar
-Clipperton
-Congo # revisar
-Cook # revisar
-Corea # revisar
 Cristian
 Cristóbal
 Daniel
@@ -75,7 +53,6 @@ Darussalam # revisar
 David
 Díez
 Domínguez
-Dominicana # revisar
 Durán
 DVD
 DVDs # revisar
@@ -89,45 +66,30 @@ Ernesto
 Esther
 Eugenia
 Eugenio
-Europa # revisar
 Eva
-Faroe # revisar
-Faso # revisar
 Fátima
 Félix
 Fernández
 Fernando
 Ferrer
 Francesc
-Futuna
 Gabriel
-Gales # revisar
-Gaza
 Gerardo
-Gibraltar # revisar
 Giménez
 Gómez
 González
-Granadinas
 Gregorio
-Groenlandia # revisar
 Guadalupe
-Guam
-Guernsey # revisar
 Guillermo
 Gustavo
 Gutiérrez
-Heard
 Héctor
 Helena
 Hernández
-Herzegovina # revisar
-Hong # revisar
 Hugo
 Ibáñez
 Ignacio
 Inés
-Inglaterra # revisar
 Internet
 Irene
 Isaac
@@ -139,7 +101,6 @@ Jaime
 Jan
 Jaume
 Javier
-Jersey # revisar
 Jesucristo
 Jesús
 Jiménez
@@ -151,37 +112,27 @@ José
 Josefa
 Josep
 Julián
-Kitts # revisar
-Kong # revisar
-Lanka # revisar
 Laura
 López
 Lorena
 Lorenzo
 Lourdes
 Lucía
-Macau # revisar
-Mali # revisar
-Malvinas # revisar
 Man
 Manuel
 Marc
-Marfil
-Marianas # revisar
 Marín
 Marino
 Mario
 Márquez
-Marshall # revisar
 Martín
 Martínez
-Martinica # revisar
 Matilde
 Mayen
 Mayotte
 McDonald
 Méndez
-Mercosur
+Mercosur # revisar
 Miguel
 Miquelon
 Míriam
@@ -190,29 +141,20 @@ Molina
 Mónica
 Montserrat
 Muñoz
-Myanmar # revisar
 Natalia
-Nauru
 Nevis
 Nicolás
-Niue
 Noelia
-Norfolk # revisar
-Norteamérica # revisar
 Núñez
 Nuria
-Oceanía # revisar
 Olga
 Ortiz
 Oscar # revisar
 Óscar
 Pablo
 Palau
-Papúa # revisar
 Pérez
 Pierre
-Pitcairn
-Polinesia # revisar
 Rafael
 Ramírez
 Raquel
@@ -220,8 +162,6 @@ Raúl
 Ricardo
 Roberto
 Rodríguez
-Ruán # revisar
-Ruan # revisar
 Rubén
 Ruiz
 Sáez
@@ -231,32 +171,15 @@ Sandra
 Santana
 Sanz
 Sara
-Saudita # revisar
 Sebastián
 Sergio
 Silvia
-Sión
-Sion
-Solomon # revisar
 Sonia
-Soviética # revisar
-Sri # revisar
 Suárez
-Sudamérica # revisar
-Svalbard
-Taiwan # revisar
-Timor # revisar
-Tobago # revisar
-Tokelau
-Tonga # revisar
-Trinidad # revisar
-Tuvalu
 Valentín
 Vanesa
-Vaticano # revisar
 Vázquez
 Velasco
-Venecia # revisar
 Vicenta
 Vicente
 Vidal
@@ -264,7 +187,4 @@ Wallis
 Wide
 World
 Xavier
-Yibuti
 Yolanda
-Yugoslavia # revisar
-Zelanda # revisar
