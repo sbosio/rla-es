@@ -12086,6 +12086,7 @@ trasverso/GS
 tratable/Sk
 tratador/GS
 tratante/Sf
+traumado/GS
 travesero/GS
 travesío/SG
 travieso/GS

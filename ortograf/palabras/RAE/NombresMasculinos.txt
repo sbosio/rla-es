@@ -4535,7 +4535,7 @@ doméstico/S
 domicilio/S
 domingo/SN
 dominguejo/S
-dominio/dfSn
+dominio/dfsSn
 dominó/S
 dompedro/S
 donaire/S
@@ -12783,6 +12783,7 @@ turullo/S
 tusa/S
 tútano/S
 tute/S
+tutorial/S
 ubio/S
 ucase/S
 ucraniano/S

@@ -1867,6 +1867,7 @@ volatinero/GS
 volteador/GS
 voluntario/GS
 votador/GS
+wifi/S
 yayo/GS
 yesero/GS
 yunque/S

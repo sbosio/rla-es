@@ -52,6 +52,7 @@ gil/GS
 globero/GS
 guarango/GS
 guaso/GS
+hinchapelotas
 invalorable/S
 jeringa/S
 macanudo/GS

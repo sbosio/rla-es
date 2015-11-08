@@ -10801,7 +10801,7 @@ visita/pS
 víspera/S
 vistillas
 vistosidad/S
-visualización/S
+visualización/nS
 visual/KS
 visura/S
 vitalidad/S

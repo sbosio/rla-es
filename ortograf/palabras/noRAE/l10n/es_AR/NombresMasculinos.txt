@@ -17,4 +17,5 @@
 chabón/S
 emprendimiento/S
 monitoreo/S
+mouse/S
 relevamiento/S

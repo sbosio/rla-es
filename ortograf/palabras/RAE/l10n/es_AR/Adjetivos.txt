@@ -56,6 +56,7 @@ gaucho/GS
 gil/GS
 guarango/GS
 guaso/GS
+hinchapelotas
 hurguete/S
 invalorable/S
 macanudo/GS
