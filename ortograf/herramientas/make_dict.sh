@@ -29,7 +29,7 @@ if [ "$ZIP" == "" ]; then
   exit 1
 fi
 
-# Por defecto hacemos un paquete de extensión para OOo 3.x
+# Por defecto hacemos un paquete de extensión para OOo 3.x o superior
 VERSION="3"
 COMPLETO="NO"
 
@@ -107,7 +107,7 @@ if [ "$LOCALIZACION" != "" ]; then
   if [ -d "../palabras/RAE/l10n/$LOCALIZACION" -o \
        -d "../palabras/noRAE/l10n/$LOCALIZACION" ]; then
     # Cambiamos la localización y codificación de caracteres.
-    LANG="$LOCALIZACION.ISO-8859-1"
+    LANG="$LOCALIZACION.UTF-8"
     echo "Creando un diccionario para la localización '$LOCALIZACION'..."
   else
     echo "No se ha implementado la localización '$LOCALIZACION'." \
@@ -120,7 +120,7 @@ if [ "$LOCALIZACION" != "" ]; then
       exit 2
     else
       echo "Sí" > /dev/stderr
-      LANG="es_ES.ISO-8859-1"
+      LANG="es_ES.UTF-8"
       LOCALIZACION="es_ANY"
     fi
   fi
@@ -128,7 +128,7 @@ else
   # Si no se pasó el parámetro de localización, asumimos que se desea
   # generar el diccionario genérico.
   echo "No se definió una localización; creando el diccionario genérico..."
-  LANG="es_ES.ISO-8859-1"
+  LANG="es_ES.UTF-8"
   LOCALIZACION="es_ANY"
 fi
 
@@ -183,15 +183,33 @@ if [ "$RAE" != "SÍ" ]; then
       ./remover_comentarios.sh \
       >> $TMPWLIST
 
+  # Issue #39 - Incluir topónimos (pendiente de definir condiciones de inclusión)
+  # Se especifica el nombre porque hay directorios que contienen archivos con explicaciones (p.e.: es_ES)
+  # Habría que considerar mover el contenido de esos archivos a comentarios en el archivo con contenido
+  cat ../palabras/toponimos/entidades-territoriales.txt | \
+      ./remover_comentarios.sh \
+      >> $TMPWLIST
+
   if [ -d "../palabras/noRAE/l10n/$LOCALIZACION" ]; then
     # Incluir las palabras de la localización solicitada.
     cat ../palabras/noRAE/l10n/$LOCALIZACION/*.txt | \
+        ./remover_comentarios.sh \
+        >> $TMPWLIST
+
+    # Issue #39 - Incluir topónimos de la localización (pendiente de definir condiciones de inclusión)
+    cat ../palabras/toponimos/l10n/$LOCALIZACION/entidades-territoriales.txt | \
         ./remover_comentarios.sh \
         >> $TMPWLIST
   else
     # Diccionario genérico; incluir todas las localizaciones.
     cat `$FIND ../palabras/noRAE/l10n/ \
                -iname "*.txt" -and ! -regex '.*/\.svn.*'` | \
+        ./remover_comentarios.sh \
+        >> $TMPWLIST
+
+    # Issue #39 - Incluir topónimos de todas las localizaciones (pendiente de definir condiciones de inclusión)
+    cat `$FIND ../palabras/toponimos/l10n/ \
+               -iname "entidades-territoriales.txt" -and ! -regex '.*/\.svn.*'` | \
         ./remover_comentarios.sh \
         >> $TMPWLIST
   fi
