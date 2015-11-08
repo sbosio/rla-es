@@ -62,6 +62,7 @@ rasquetear/RED
 refaccionar/REDÀ
 reportear/RED
 revolear/RED
+testear/RED
 trapear/RED
 trasbocar/RED
 tusar/RED

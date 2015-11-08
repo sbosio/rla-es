@@ -89,6 +89,7 @@ retobar/RED
 socapar/RED
 talonear/RED
 taucar/RED
+testear/RED
 tincar/RED
 trapear/RED
 trasbocar/RED
