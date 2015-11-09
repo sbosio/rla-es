@@ -2,19 +2,19 @@
 # Copyright (C) 2004-2011 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
-# conforme a los términos de la Licencia Pública General de GNU, publicada
-# por la Free Software Foundation, ya sea la versión 3 de la Licencia,
-# o una versión posterior (a su elección).
+# conforme a los tÃ©rminos de la Licencia PÃºblica General de GNU, publicada
+# por la Free Software Foundation, ya sea la versiÃ³n 3 de la Licencia,
+# o una versiÃ³n posterior (a su elecciÃ³n).
 
-# Este listado se distribuye con el deseo que le resulte útil, pero
-# SIN GARANTÍAS DE NINGÚN TIPO; ni siquiera con las garantías implícitas
-# de COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO DETERMINADO. Para más
-# información consulte el texto de la licencia respectiva seleccionada.
+# Este listado se distribuye con el deseo que le resulte Ãºtil, pero
+# SIN GARANTÃAS DE NINGÃšN TIPO; ni siquiera con las garantÃ­as implÃ­citas
+# de COMERCIABILIDAD o APTITUD PARA UN PROPÃ“SITO DETERMINADO. Para mÃ¡s
+# informaciÃ³n consulte el texto de la licencia respectiva seleccionada.
 
-# Debe haber recibido una copia de la Licencia Pública General de GNU junto
-# con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
+# Debe haber recibido una copia de la Licencia PÃºblica General de GNU junto
+# con este listado. Si no es asÃ­, visite <http://www.gnu.org/licenses/>
 
-Añatuya
+AÃ±atuya
 Aberastain
 Acha
 Adela
@@ -31,13 +31,13 @@ Allen
 Almafuerte
 Alvear
 Ameghino
-Andalgalá
+AndalgalÃ¡
 Andresito
 Angela
 Apolinario
 Areco
 Arequito
-Aristóbulo
+AristÃ³bulo
 Armstrong
 Arredondo
 Arroyito
@@ -49,45 +49,45 @@ Bariloche
 Basavilbaso
 Belgrano
 Bell
-Beltrán
-Berrotarán
+BeltrÃ¡n
+BerrotarÃ¡n
 Berthet
 Bialet
 Bovril
 Bragado
 Brandsen
-Breñas
+BreÃ±as
 Brinkmann
 Brochero
-Có
+CÃ³
 Cafayate
 Caimancito
 Calamuchita
-Calchaquí
+CalchaquÃ­
 Canals
-Carcarañá
-Carhué
+CarcaraÃ±Ã¡
+CarhuÃ©
 Carlota
 Carmela
 Caroya
-Cañás
+CaÃ±Ã¡s
 Casilda
 Castelli
 Castex
 Catamarca
 Catriel
 Caucete
-Cañuelas
+CaÃ±uelas
 Cayetano
 Ceres
 Cerri
-Chañar
-Chabás
+ChaÃ±ar
+ChabÃ¡s
 Chacabuco
-Chajarí
+ChajarÃ­
 Chamical
 Charata
-Chascomús
+ChascomÃºs
 Chaves
 Chepes
 Chilecito
@@ -103,14 +103,14 @@ Colombres
 Conesa
 Coronda
 Corzuela
-Cosquín
-Cuatiá
-Curuzú
+CosquÃ­n
+CuatiÃ¡
+CuruzÃº
 Daireaux
 Daract
 Darregueira
 Deheza
-Deán
+DeÃ¡n
 Door
 Dorrego
 Du
@@ -118,42 +118,42 @@ Educ.ar
 Eldorado
 Elortondo
 Esquel
-Famaillá
+FamaillÃ¡
 Feliciano
 Firmat
 Formosa
 Freyre
 Funes
-Güemes
+GÃ¼emes
 Genaro
 Gesell
 Gigena
-Gálvez
+GÃ¡lvez
 Gonzales
 Goya
 Graty
 Gualeguay
-Gualeguaychú
+GualeguaychÃº
 Henderson
 Heras
 Hernando
-Hipólito
+HipÃ³lito
 Huergo
 Huidobro
 Huinca
 Huincul
 Humahuaca
 Ibarreta
-Iguazú
+IguazÃº
 irigoyen
-Itatí
-Ituzaingó
+ItatÃ­
+ItuzaingÃ³
 Jacobacci
-Jáchal
+JÃ¡chal
 Jujuy
-Junín
-Jáuregui
-Juárez
+JunÃ­n
+JÃ¡uregui
+JuÃ¡rez
 Justiniano
 Laborde
 Laboulaye
@@ -167,64 +167,64 @@ Leandro
 Lerma
 Levalle
 Lincoln
-Lobería
+LoberÃ­a
 Lomitas
 Loreto
-Luján
+LujÃ¡n
 Lules
 Luque
 Luro
 Machagai
-Maciá
+MaciÃ¡
 Maciel
 Mackenna
 Madariaga
 Madryn
-Maipú
+MaipÃº
 Malabrigo
 Malal
-Malargüe
-Massé
-Mburucuyá
-Médanos
+MalargÃ¼e
+MassÃ©
+MburucuyÃ¡
+MÃ©danos
 Mendoza
-Metán
+MetÃ¡n
 Miramar
 Montecarlo
 Montecristo
 Monterrico
 Mosconi
 Necochea
-Neuquén
-Nogoyá
+NeuquÃ©n
+NogoyÃ¡
 Nonogasta
-Oberá
+OberÃ¡
 Ocampo
-Olavarría
+OlavarrÃ­a
 Olivia
 Oncativo
-Orán
+OrÃ¡n
 Otamendi
 Paiva
-Paraná
+ParanÃ¡
 Patagones
-Pehuajó
+PehuajÃ³
 Pellegrini
 Perdriel
 Pichanal
-Pigüé
+PigÃ¼Ã©
 Pinamar
 Pinedo
-Pirané
+PiranÃ©
 Piray
 Plottier
 Pocitos
 Posse
 Pringles
 Punilla
-Quequén
+QuequÃ©n
 Quijano
-Quimilí
+QuimilÃ­
 Quines
 Quitilipi
 Rafaela
@@ -232,28 +232,28 @@ Ramallo
 Ranchillos
 Rauch
 Rawson
-Realicó
+RealicÃ³
 Regina
-Renancó
+RenancÃ³
 Rivadavia
 Romang
 Rufino
-Salliqueló
+SalliquelÃ³
 Sampacho
 Saravia
 Senillosa
-Sáenz
+SÃ¡enz
 Simoca
 Suardi
 Suipacha
 Sunchales
 Suncho
 Sylvina
-Tafí
+TafÃ­
 Tancacha
 Tandil
 Tanti
-Tapalqué
+TapalquÃ©
 Tartagal
 Teodelina
 Terai
@@ -265,11 +265,11 @@ Tirol
 Tornquist
 Trelew
 Trenque
-Tucumán
+TucumÃ¡n
 Tulumaya
-Tunuyán
+TunuyÃ¡n
 Tupungato
-Tuyú
+TuyÃº
 Urdinarrain
 Ushuaia
 Vedia
@@ -285,4 +285,4 @@ Wheelwright
 Yrigoyen
 Yuto
 Zapala
-Zárate
+ZÃ¡rate

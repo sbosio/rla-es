@@ -2,52 +2,52 @@
 # Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
-# conforme a los términos de la Licencia Pública General de GNU, publicada
-# por la Free Software Foundation, ya sea la versión 3 de la Licencia,
-# o una versión posterior (a su elección).
+# conforme a los tÃ©rminos de la Licencia PÃºblica General de GNU, publicada
+# por la Free Software Foundation, ya sea la versiÃ³n 3 de la Licencia,
+# o una versiÃ³n posterior (a su elecciÃ³n).
 
-# Este listado se distribuye con el deseo que le resulte útil, pero
-# SIN GARANTÍAS DE NINGÚN TIPO; ni siquiera con las garantías implícitas
-# de COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO DETERMINADO. Para más
-# información consulte el texto de la licencia respectiva seleccionada.
+# Este listado se distribuye con el deseo que le resulte Ãºtil, pero
+# SIN GARANTÃAS DE NINGÃšN TIPO; ni siquiera con las garantÃ­as implÃ­citas
+# de COMERCIABILIDAD o APTITUD PARA UN PROPÃ“SITO DETERMINADO. Para mÃ¡s
+# informaciÃ³n consulte el texto de la licencia respectiva seleccionada.
 
-# Debe haber recibido una copia de la Licencia Pública General de GNU junto
-# con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
+# Debe haber recibido una copia de la Licencia PÃºblica General de GNU junto
+# con este listado. Si no es asÃ­, visite <http://www.gnu.org/licenses/>
 
 bajito/GS
-buenísimo/GS
+buenÃ­simo/GS
 cerdito/GS
 cervecita/S
-contentísimo/GS
+contentÃ­simo/GS
 cosilla/S
 cunita/S
 durito/GS
-enfadadísimo/GS
+enfadadÃ­simo/GS
 fresquito/GS
 gorrito/GS
-guapísimo/GS
+guapÃ­simo/GS
 hermanito/GS
 hijito/GS
 igualito/GS
-indignadísimo/GS
+indignadÃ­simo/GS
 jovenzuelo/GS
-lentísimo/GS
-mayorcito/GS		# Contribuida por Gonzalo Higuera Díaz
-mismísimo/GS
+lentÃ­simo/GS
+mayorcito/GS		# Contribuida por Gonzalo Higuera DÃ­az
+mismÃ­simo/GS
 momentito/S
-muchísimo/GS
-ocupadísimo/GS
+muchÃ­simo/GS
+ocupadÃ­simo/GS
 perrito/GS
-pequeñín/S
-pequeñito/GS
-picarón/GS
-poquísimo/GS
-primerísimo/GS
-prontísimo/GS
+pequeÃ±Ã­n/S
+pequeÃ±ito/GS
+picarÃ³n/GS
+poquÃ­simo/GS
+primerÃ­simo/GS
+prontÃ­simo/GS
 puntito/S
-rapidísimo/GS
+rapidÃ­simo/GS
 rellenito/GS
-riquísimo/GS
-tantísimo/GS
-tardísimo/S
+riquÃ­simo/GS
+tantÃ­simo/GS
+tardÃ­simo/S
 trocito/S

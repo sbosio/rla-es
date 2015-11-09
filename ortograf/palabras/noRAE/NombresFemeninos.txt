@@ -2,44 +2,44 @@
 # Copyright (C) 2004-2012 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
-# conforme a los términos de la Licencia Pública General de GNU, publicada
-# por la Free Software Foundation, ya sea la versión 3 de la Licencia,
-# o una versión posterior (a su elección).
+# conforme a los tÃ©rminos de la Licencia PÃºblica General de GNU, publicada
+# por la Free Software Foundation, ya sea la versiÃ³n 3 de la Licencia,
+# o una versiÃ³n posterior (a su elecciÃ³n).
 
-# Este listado se distribuye con el deseo que le resulte útil, pero
-# SIN GARANTÍAS DE NINGÚN TIPO; ni siquiera con las garantías implícitas
-# de COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO DETERMINADO. Para más
-# información consulte el texto de la licencia respectiva seleccionada.
+# Este listado se distribuye con el deseo que le resulte Ãºtil, pero
+# SIN GARANTÃAS DE NINGÃšN TIPO; ni siquiera con las garantÃ­as implÃ­citas
+# de COMERCIABILIDAD o APTITUD PARA UN PROPÃ“SITO DETERMINADO. Para mÃ¡s
+# informaciÃ³n consulte el texto de la licencia respectiva seleccionada.
 
-# Debe haber recibido una copia de la Licencia Pública General de GNU junto
-# con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
+# Debe haber recibido una copia de la Licencia PÃºblica General de GNU junto
+# con este listado. Si no es asÃ­, visite <http://www.gnu.org/licenses/>
 
-acupresión/S			# Contribuida por Ricardo Goldberger
-amigdalectomía/S
-apendicectomía/S
-autocompasión/S
+acupresiÃ³n/S			# Contribuida por Ricardo Goldberger
+amigdalectomÃ­a/S
+apendicectomÃ­a/S
+autocompasiÃ³n/S
 autoconciencia/S
 autoconfianza/S
 autodisciplina/S
-autoprotección/S		# Contribuida por César Romé
+autoprotecciÃ³n/S		# Contribuida por CÃ©sar RomÃ©
 criolita/S
 cromita/S
-cumplimentación/S
-ferroaleación/S
-fundamentación/S
-interoperatividad/S		# Contribuida por Gonzalo Higuera Díaz
+cumplimentaciÃ³n/S
+ferroaleaciÃ³n/S
+fundamentaciÃ³n/S
+interoperatividad/S		# Contribuida por Gonzalo Higuera DÃ­az
 meritocracia/S
-microinformática/S
-personalización/S
-preproducción/S			# Contribuida por Sergio Medina
-reinvención/S
+microinformÃ¡tica/S
+personalizaciÃ³n/S
+preproducciÃ³n/S			# Contribuida por Sergio Medina
+reinvenciÃ³n/S
 sandwichera/S
-sobreutilización/S
+sobreutilizaciÃ³n/S
 subcultura/S
 subfamilia/S
 subrutina/S
-temporalización/S
-totalización/S
+temporalizaciÃ³n/S
+totalizaciÃ³n/S
 usabilidad/S
 vinoteca/S
-vocalía/S
+vocalÃ­a/S
