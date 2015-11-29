@@ -184,9 +184,9 @@ if [ "$RAE" != "SÍ" ]; then
       >> $TMPWLIST
 
   # Issue #39 - Incluir topónimos (pendiente de definir condiciones de inclusión)
-  # Se especifica el nombre porque hay directorios que contienen archivos con explicaciones (p.e.: es_ES)
-  # Habría que considerar mover el contenido de esos archivos a comentarios en el archivo con contenido
-  cat ../palabras/toponimos/entidades-territoriales.txt | \
+  # Se especifica un prefijo de nombre de archivo porque hay directorios que
+  # contienen archivos con explicaciones (p.e.: es_ES).
+  cat ../palabras/toponimos/toponimos-*.txt | \
       ./remover_comentarios.sh \
       >> $TMPWLIST
 
@@ -196,8 +196,8 @@ if [ "$RAE" != "SÍ" ]; then
         ./remover_comentarios.sh \
         >> $TMPWLIST
 
-    # Issue #39 - Incluir topónimos de la localización (pendiente de definir condiciones de inclusión)
-    cat ../palabras/toponimos/l10n/$LOCALIZACION/entidades-territoriales.txt | \
+    # Issue #39 - Incluir topónimos de la localización
+    cat ../palabras/toponimos/l10n/$LOCALIZACION/toponimos-*.txt | \
         ./remover_comentarios.sh \
         >> $TMPWLIST
   else
@@ -207,9 +207,9 @@ if [ "$RAE" != "SÍ" ]; then
         ./remover_comentarios.sh \
         >> $TMPWLIST
 
-    # Issue #39 - Incluir topónimos de todas las localizaciones (pendiente de definir condiciones de inclusión)
+    # Issue #39 - Incluir topónimos de todas las localizaciones
     cat `$FIND ../palabras/toponimos/l10n/ \
-               -iname "entidades-territoriales.txt" -and ! -regex '.*/\.svn.*'` | \
+               -iname "toponimos-*.txt" -and ! -regex '.*/\.svn.*'` | \
         ./remover_comentarios.sh \
         >> $TMPWLIST
   fi
