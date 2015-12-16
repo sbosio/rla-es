@@ -95,7 +95,7 @@ PFX f Y 6
 PFX f 0         con       [^abehilopru]
 PFX f 0         con       ll
 PFX f 0         com       pb
-PFX f 0         co        [aehiou]
+PFX f 0         co        [aehioupd]
 PFX f 0         co        l[^l]
 PFX f 0         cor       r
 
@@ -142,6 +142,11 @@ PFX l 0         inter     .
 PFX m Y 2
 PFX m 0         micro     [^r]
 PFX m 0         micror    r
+
+# Prefijo pos-/post-: Significa 'detrás de', 'después de'.
+PFX o Y 2
+PFX o 0         pos       [^s]
+PFX o 0         post      [^t]
 
 # Prefijo pre-: Significa 'anterioridad local o temporal', 'prioridad' o
 # 'encarecimiento'.
