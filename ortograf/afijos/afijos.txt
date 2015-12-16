@@ -144,9 +144,9 @@ PFX m 0         micro     [^r]
 PFX m 0         micror    r
 
 # Prefijo pos-/post-: Significa 'detrás de', 'después de'.
-PFX o Y 2
-PFX o 0         pos       [^s]
-PFX o 0         post      [^t]
+PFX ö Y 2
+PFX ö 0         pos       [^s]
+PFX ö 0         post      [^t]
 
 # Prefijo pre-: Significa 'anterioridad local o temporal', 'prioridad' o
 # 'encarecimiento'.
