@@ -61,6 +61,10 @@ anecdotista/S
 anestesista/S
 anormal/S
 antagonista/S
+antefuturo/S
+antepospretérito/S
+antepresente/S
+antepretérito/S
 anticresista/S
 aparcacoches
 apátrida/S
@@ -244,6 +248,7 @@ copartícipe/S
 copiloto/S
 copista/S
 coplista/S
+copretérito/S
 corista/S
 coriza/S
 cornista/S
@@ -602,6 +607,7 @@ portamira/S
 portanuevas
 portavoz/S
 posma/S
+pospretérito/S
 postulante/S
 potista/S
 practicante/S
