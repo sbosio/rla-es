@@ -259,6 +259,13 @@ SFX F te        cia/S        ante
 SFX F te        cia/S        [^i]ente
 SFX F iente     encia/S      iente
 
+# Sufijo -nte (-ante, -ente, -iente): Participio activo, que denota capacidad
+# de realizar la acción que expresa el verbo del que deriva.
+SFX ü Y 3
+SFX ü r         nte/S        ar
+SFX ü er        iente/S      er
+SFX ü ir        ente/S       ir
+
 # Sufijo -azo: Tiene sentido aumentativo, expresa sentido despectivo y a veces
 # significa 'golpe'. Relaciona sustantivos y adjetivos con sustantivos
 # masculinos.
