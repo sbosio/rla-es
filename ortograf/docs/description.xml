@@ -5,6 +5,7 @@
     <identifier value="spanish.__LOCALE__.dicts.from.rla-es" />
 
     <display-name>
+		<name lang="en-US">Spanish spelling dictionary, hyphenation rules, and thesaurus for __COUNTRY__</name>
         <name lang="es">__DESCRIPTION__</name>
     </display-name>
 
