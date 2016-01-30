@@ -1071,6 +1071,7 @@ bajamar/S
 baja/pS
 bajeza/S
 bajura/S
+balacera/S
 baladronada/S
 balalaica/S
 balandra/S
@@ -4846,6 +4847,7 @@ gentileza/S
 gentilidad/S
 gentualla/S
 gentuza/S
+geoda/S
 geodesia/S
 geografía/S
 geología/S
@@ -5607,6 +5609,7 @@ insubstancialidad/S
 ínsula/S
 insulina/S
 insulsez/S
+insurgencia/S
 insurrección/S
 insustancialidad/S
 intangibilidad/S

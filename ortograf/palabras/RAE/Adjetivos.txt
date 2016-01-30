@@ -4657,9 +4657,10 @@ ericáceo/GS
 erisipelatoso/GS
 eritreo/GS
 erizado/GS
-ermitaño/SG
-erosivo/SG
-erótico/SG
+ermitaño/GS
+erógeno/GS
+erosivo/GS
+erótico/GS
 erotizante/S
 errabundo/GS
 errada/h
@@ -6302,6 +6303,7 @@ humanista/S
 humanístico/GS
 humanitario/GS
 humano/GSrk
+humanoide/S
 humeante/S
 humectativo/GS
 húmedo/GS
