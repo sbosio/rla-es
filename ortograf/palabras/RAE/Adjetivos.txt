@@ -5675,6 +5675,7 @@ gandul/GS
 ganglionar/S
 gangoso/GS
 gangrenoso/SG
+ganoso/GS
 ganso/GS
 garante/S
 garantizador/SG

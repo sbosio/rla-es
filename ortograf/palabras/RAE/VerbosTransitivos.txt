@@ -3737,6 +3737,7 @@ vertebrar/RED
 vetar/REDÀ
 vetear/RED
 victimar/RED
+victimizar/REDÌÎÙÚôø
 victorear/RED
 vigiar/IRD
 vilipendiar/RED
