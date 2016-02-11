@@ -348,7 +348,9 @@ case $LOCALIZACION in
     ;;
   *)
     PAIS="España y América Latina"
-    LOCALIZACIONES="es-AR es-BO es-CL es-CO es-CR es-CU es-DO es-EC es-ES es-GT es-HN es-MX es-NI es-PA es-PE es-PR es-PY es-SV es-UY es-VE"
+    LOCALIZACIONES="es-AR es-BO es-CL es-CO es-CR es-CU es-DO es-EC es-ES es-GT"
+    LOCALIZACIONES="$LOCALIZACIONES es-HN es-MX es-NI es-PA es-PE es-PR es-PY"
+    LOCALIZACIONES="$LOCALIZACIONES es-SV es-UY es-VE"
     TEXTO_LOCAL="GENÉRICA PARA TODAS LAS LOCALIZACIONES  "
     ICONO="Iberoamérica.png"
     ;;
@@ -362,7 +364,8 @@ cat ../docs/README_base.txt \
     /__LOCALE_TEXT__/ {s//$TEXTO_LOCAL/g; p; };
     /__COUNTRY__/ { s//$PAIS/g; p; }" \
   > $MDTMPDIR/README.txt
-cp ../docs/Changelog.txt ../docs/GPLv3.txt ../docs/LGPLv3.txt ../docs/MPL-1.1.txt $MDTMPDIR
+cp ../docs/Changelog.txt ../docs/GPLv3.txt ../docs/LGPLv3.txt \
+  ../docs/MPL-1.1.txt $MDTMPDIR
 
 if [ "$VERSION" != "2" ]; then
   if [ "$COMPLETO" != "SÍ" ]; then
@@ -409,8 +412,11 @@ if [ "$VERSION" != "2" ]; then
         /__ICON__/ { s//$ICONO/g; p; };
         /__COUNTRY__/ { s//$PAIS/g; p; }" \
       > $MDTMPDIR/package-description.txt
-    cp ../../separacion/hyph_es_ANY.dic ../../separacion/README_hyph_es_ANY.txt $MDTMPDIR
-    cp ../../sinonimos/palabras/README_th_es_ES.txt ../../sinonimos/palabras/COPYING_th_es_ES ../../sinonimos/palabras/th_es_ES_v2.* $MDTMPDIR
+    cp ../../separacion/hyph_es_ANY.dic \
+      ../../separacion/README_hyph_es_ANY.txt $MDTMPDIR
+    cp ../../sinonimos/palabras/README_th_es_ES.txt \
+      ../../sinonimos/palabras/COPYING_th_es_ES \
+      ../../sinonimos/palabras/th_es_ES_v2.* $MDTMPDIR
   fi
   cat ../docs/description.xml \
     | sed -n --expression="
@@ -433,7 +439,7 @@ if [ "$VERSION" != "3" ]; then
   echo -n "Creando paquete comprimido para las versiones 1.x o 2.x de OpenOffice.org... "
   ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.zip"
 else
-  echo -n "Creando extensión para OpenOffice.org/LibreOffice 3.x o superior (.oxt)... "
+  echo -n "Creando extensión para Apache OpenOffice/LibreOffice 3.x o superior (.oxt)... "
   ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.oxt"
 fi
 
