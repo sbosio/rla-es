@@ -183,9 +183,12 @@ if [ "$RAE" != "SÍ" ]; then
       ./remover_comentarios.sh \
       >> $TMPWLIST
 
-  # Issue #39 - Incluir topónimos (pendiente de definir condiciones de inclusión)
-  # Se especifica el nombre porque hay directorios que contienen archivos con explicaciones (p.e.: es_ES)
-  # Habría que considerar mover el contenido de esos archivos a comentarios en el archivo con contenido
+  # Issue #39 - Incluir topónimos (pendiente de definir condiciones de
+  # inclusión)
+  # Se especifica el nombre porque hay directorios que contienen archivos con
+  # explicaciones (p.e.: es_ES)
+  # Habría que considerar mover el contenido de esos archivos a comentarios en
+  # el archivo con contenido
   cat ../palabras/toponimos/entidades-territoriales.txt | \
       ./remover_comentarios.sh \
       >> $TMPWLIST
@@ -196,7 +199,8 @@ if [ "$RAE" != "SÍ" ]; then
         ./remover_comentarios.sh \
         >> $TMPWLIST
 
-    # Issue #39 - Incluir topónimos de la localización (pendiente de definir condiciones de inclusión)
+    # Issue #39 - Incluir topónimos de la localización (pendiente de definir
+    # condiciones de inclusión)
     cat ../palabras/toponimos/l10n/$LOCALIZACION/entidades-territoriales.txt | \
         ./remover_comentarios.sh \
         >> $TMPWLIST
@@ -207,7 +211,8 @@ if [ "$RAE" != "SÍ" ]; then
         ./remover_comentarios.sh \
         >> $TMPWLIST
 
-    # Issue #39 - Incluir topónimos de todas las localizaciones (pendiente de definir condiciones de inclusión)
+    # Issue #39 - Incluir topónimos de todas las localizaciones (pendiente de
+    # definir condiciones de inclusión)
     cat `$FIND ../palabras/toponimos/l10n/ \
                -iname "entidades-territoriales.txt" -and ! -regex '.*/\.svn.*'` | \
         ./remover_comentarios.sh \
@@ -356,22 +361,74 @@ case $LOCALIZACION in
     ;;
 esac
 
-cat ../docs/README_base.txt | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ {s//$TEXTO_LOCAL/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/README.txt
+cat ../docs/README_base.txt \
+  | sed -n --expression="
+    /__/! { p; };
+    /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+    /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+    /__LOCALE_TEXT__/ {s//$TEXTO_LOCAL/g; p; };
+    /__COUNTRY__/ { s//$PAIS/g; p; }" \
+  > $MDTMPDIR/README.txt
 cp ../docs/Changelog.txt ../docs/GPLv3.txt ../docs/LGPLv3.txt ../docs/MPL-1.1.txt $MDTMPDIR
 
 if [ "$VERSION" != "2" ]; then
   if [ "$COMPLETO" != "SÍ" ]; then
-     DESCRIPCION="Español ($PAIS): Ortografía"
-     cat ../docs/dictionaries.xcu | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }; /__ICON__/ { s//$ICONO/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/dictionaries.xcu
-     cat ../docs/package-description.txt | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }; /__ICON__/ { s//$ICONO/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/package-description.txt
+    DESCRIPCION="Español ($PAIS): Ortografía"
+    cat ../docs/dictionaries.xcu \
+      | sed -n --expression="
+        /__/! { p; };
+        /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+        /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+        /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
+        /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
+        /__ICON__/ { s//$ICONO/g; p; };
+        /__COUNTRY__/ { s//$PAIS/g; p; }" \
+      > $MDTMPDIR/dictionaries.xcu
+    cat ../docs/package-description.txt \
+      | sed -n --expression="
+        /__/! { p; };
+        /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+        /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+        /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
+        /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
+        /__ICON__/ { s//$ICONO/g; p; };
+        /__COUNTRY__/ { s//$PAIS/g; p; }" \
+      > $MDTMPDIR/package-description.txt
   else
-     DESCRIPCION="Español ($PAIS): Ortografía, separación y sinónimos"
-     cat ../docs/dictionaries_full.xcu | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }; /__ICON__/ { s//$ICONO/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/dictionaries.xcu
-     cat ../docs/package-description_full.txt | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }; /__ICON__/ { s//$ICONO/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/package-description.txt
-     cp ../../separacion/hyph_es_ANY.dic ../../separacion/README_hyph_es_ANY.txt $MDTMPDIR
-     cp ../../sinonimos/palabras/README_th_es_ES.txt ../../sinonimos/palabras/COPYING_th_es_ES ../../sinonimos/palabras/th_es_ES_v2.* $MDTMPDIR
+    DESCRIPCION="Español ($PAIS): Ortografía, separación y sinónimos"
+    cat ../docs/dictionaries_full.xcu \
+      | sed -n --expression="
+        /__/! { p; };
+        /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+        /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+        /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
+        /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
+        /__ICON__/ { s//$ICONO/g; p; };
+        /__COUNTRY__/ { s//$PAIS/g; p; }" \
+      > $MDTMPDIR/dictionaries.xcu
+    cat ../docs/package-description_full.txt \
+      | sed -n --expression="
+        /__/! { p; };
+        /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+        /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+        /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
+        /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
+        /__ICON__/ { s//$ICONO/g; p; };
+        /__COUNTRY__/ { s//$PAIS/g; p; }" \
+      > $MDTMPDIR/package-description.txt
+    cp ../../separacion/hyph_es_ANY.dic ../../separacion/README_hyph_es_ANY.txt $MDTMPDIR
+    cp ../../sinonimos/palabras/README_th_es_ES.txt ../../sinonimos/palabras/COPYING_th_es_ES ../../sinonimos/palabras/th_es_ES_v2.* $MDTMPDIR
   fi
-  cat ../docs/description.xml | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }; /__ICON__/ { s//$ICONO/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/description.xml
+  cat ../docs/description.xml \
+    | sed -n --expression="
+      /__/! { p; };
+      /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+      /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+      /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
+      /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
+      /__ICON__/ { s//$ICONO/g; p; };
+      /__COUNTRY__/ { s//$PAIS/g; p; }" \
+    > $MDTMPDIR/description.xml
   cp ../docs/$ICONO $MDTMPDIR
   mkdir "$MDTMPDIR/META-INF"
   cp ../docs/manifest.xml $MDTMPDIR/META-INF
