@@ -248,7 +248,7 @@ amoldar/REDÀÁñT
 amonestar/REDÀÁÂÄÅñòô
 amontonar/REDÀÄ
 amorecer/IRD
-amortiguar/REDÀ
+amortiguar/REDÀA
 amortizar/REDÀ
 amoscar/RED
 amostazar/RED
@@ -553,14 +553,14 @@ complementar/REDÀÄñ
 complicar/REDÀÁÂÄÅÆñò
 comportar/REDñòôø
 comprender/REDÄÌÙñ
-comprimir/RED
+comprimir/REDÌÏØ
 comprometer/REDÀÁñòø
 computar/REDÀT
 concadenar/RED
 concatenar/RED
 concentrar/REDÀÁÄÅñòôøT
 conchabar/RED
-concienciar/REDñ
+concienciar/REDAñ
 conciliar/REDñ
 concitar/RED
 concrecionar/RED

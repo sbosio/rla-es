@@ -2238,6 +2238,8 @@ castrado/GS
 castrense/S
 casual/S
 casuariforme/S
+casuístico/GS
+catadióptrico/GS
 catafórico/GS
 catalán/GS
 catalanista/S
@@ -2305,6 +2307,7 @@ ceburro/S
 cecal/S
 ceceante/S
 ceceoso/GS
+cedente/S
 cedizo/GS
 cefálica/i
 cefálico/SGi

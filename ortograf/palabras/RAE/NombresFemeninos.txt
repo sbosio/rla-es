@@ -2747,6 +2747,7 @@ contrapartida/S
 contrapilastra/S
 contraportada/S
 contraposición/S
+contraprestación/S
 contraprueba/S
 contrapuerta/S
 contraquilla/S
@@ -2789,7 +2790,7 @@ convulsión/S
 cooperativa/S
 coordinación/S
 copaiba/S
-copa/NS
+copa/NSU
 copelación/S
 copela/S
 copia/mS
