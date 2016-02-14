@@ -2251,7 +2251,7 @@ friccionar/REDÄ
 frisar/RED
 frivolizar/RED
 fulminar/REDÀÁÂÄÅ
-fumigar/REDÀ
+fumigar/REDÀA
 fundamentar/AREDÀÄ
 fusilar/REDÀÁÂÄÚ
 fustigar/RED
@@ -2429,6 +2429,7 @@ infirmar/RED
 infligir/REDÁÂÆ
 influenciar/REDÀÂÅT
 informatizar/REDÀ
+infrautilizar/RED
 infravalorar/RED
 infringir/REDÀ
 infundir/REDÁÂÅÆ

@@ -6653,6 +6653,7 @@ hinque/S
 hintero/S
 hioides
 hiperboloide/S
+hipermercado/S
 hipertexto/S
 hipido/S
 hipismo/S
