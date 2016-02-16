@@ -411,7 +411,7 @@ ladear/RED
 lamentar/REDÀñòT
 lampar/RED
 lavar/REDÀÂÃÄÌñòôøT
-librar/REDÀÂñòôø
+librar/REDÀÂÍñòôø
 lidiar/REDÀ
 ligar/REDÀÁÄÌñ
 limitar/REDÀÅñòôøT

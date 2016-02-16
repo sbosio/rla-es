@@ -21,6 +21,7 @@ autocompasión/S
 autoconciencia/S
 autoconfianza/S
 autodisciplina/S
+autoimagen/S
 autoprotección/S		# Contribuida por César Romé
 criolita/S
 cromita/S

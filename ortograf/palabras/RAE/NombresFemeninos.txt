@@ -1349,7 +1349,7 @@ bocamanga/S
 bocamina/S
 bocanada/S
 bocana/S
-boca/NS
+boca/NSU
 bocateja/S
 bocatijera/S
 bocatoma/S
