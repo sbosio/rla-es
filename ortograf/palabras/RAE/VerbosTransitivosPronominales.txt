@@ -1091,7 +1091,7 @@ doblegar/REDÀÁñòT
 doctorar/REDñ
 documentar/REDÀÁñ
 domesticar/REDÀÁÂñ
-domiciliar/REDÀ
+domiciliar/REDÀA
 dopar/RED
 dorar/REDÀÂÄÌÙñ
 drapear/RED

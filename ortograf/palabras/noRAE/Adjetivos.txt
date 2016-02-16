@@ -52,6 +52,7 @@ franquiciado/GS
 globalizado/GS
 grandísimo/GS
 hidrotérmico/GS
+incremental/S
 inefectivo/GS
 inspectorial/S
 interoperable/S			# Contribuida por Gonzalo Higuera Díaz

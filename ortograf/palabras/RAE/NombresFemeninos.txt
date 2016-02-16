@@ -2849,6 +2849,7 @@ corpulencia/S
 corraliza/S
 corrección/kS
 corredura/S
+correduría/S
 corregibilidad/kS
 correhuela/S
 correndilla/S
@@ -5546,10 +5547,12 @@ infosura/S
 infraestructura/S
 infructuosidad/S
 infrutescencia/S
+ínfula/S
 ingeniería/S
 ingeniosidad/S
 ingenua/S
 ingenuidad/S
+ingesta/S
 ingle/S
 inhalación/S
 inhibición/S

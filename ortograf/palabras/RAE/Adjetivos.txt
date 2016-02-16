@@ -3552,6 +3552,7 @@ delineador/GS
 delio/GS
 delirante/S
 deltoides
+demagógico/GS
 demagogo/GS
 demandador/GS
 demanial/S
@@ -6470,6 +6471,7 @@ imputador/SG
 inacceso/GS
 inacentuado/GS
 inadaptado/SG
+inalámbrico/GS
 inalterado/GS
 inane/S
 inánime/S
