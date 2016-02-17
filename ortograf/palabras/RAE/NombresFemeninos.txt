@@ -7680,6 +7680,7 @@ papelina/S
 papera/S
 papila/S
 papilionácea/S
+papiroflexia
 paquidermia/S
 parábola/S
 paracentesis

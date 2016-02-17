@@ -2635,6 +2635,7 @@ manufacturar/RED
 manumitir/RED
 manuscribir/RE
 manutener/XD
+mapear/RED
 maquear/RED
 maquilar/RED
 maquinar/RED
@@ -2785,7 +2786,7 @@ opalizar/RED
 oprimir/REDÀÁÂÄÅÆ
 oprobiar/RED
 optimar/RED
-optimizar/REDÀ
+optimizar/REDÀA
 opugnar/RED
 ordeñar/REDÀÄ
 orificar/RED
