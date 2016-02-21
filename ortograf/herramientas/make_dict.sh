@@ -6,10 +6,10 @@
 # Este programa se distribuye bajo licencia GNU GPL.
 
 # Herramientas básicas para el script
-MKTEMP=`which mktemp 2>/dev/null`
-GREP=`which grep 2>/dev/null`
-FIND=`which find 2>/dev/null`
-ZIP=`which zip 2>/dev/null`
+MKTEMP=$(which mktemp 2>/dev/null)
+GREP=$(which grep 2>/dev/null)
+FIND=$(which find 2>/dev/null)
+ZIP=$(which zip 2>/dev/null)
 
 # Abandonar si no se encuentra alguna de las herramientas
 if [ "$MKTEMP" == "" ]; then
@@ -44,7 +44,7 @@ do
     continue
   fi
 
-  argumento=`expr "z$opcion" : 'z[^=]*=\(.*\)'`
+  argumento=$(expr "z$opcion" : 'z[^=]*=\(.*\)')
 
   case $opcion in
 
@@ -131,7 +131,7 @@ else
 fi
 
 # Crear un directorio temporal de trabajo
-MDTMPDIR="`$MKTEMP -d /tmp/makedict.XXXXXXXXXX`"
+MDTMPDIR="$($MKTEMP -d /tmp/makedict.XXXXXXXXXX)"
 
 # Para el fichero de afijos encadenamos los distintos segmentos (encabezado,
 # prefijos y sufijos) de la localización seleccionada, eliminando los
@@ -167,7 +167,7 @@ if [ -d "../palabras/RAE/l10n/$LOCALIZACION" ]; then
     >> $TMPWLIST
 else
   # Diccionario genérico; incluir todas las localizaciones.
-  cat `$FIND ../palabras/RAE/l10n/ -iname "*.txt" -and ! -regex '.*/\.svn.*'` \
+  cat $($FIND ../palabras/RAE/l10n/ -iname "*.txt" -and ! -regex '.*/\.svn.*') \
     | ./remover_comentarios.sh \
     >> $TMPWLIST
 fi
@@ -199,15 +199,15 @@ if [ "$RAE" != "SÍ" ]; then
       >> $TMPWLIST
   else
     # Diccionario genérico; incluir todas las localizaciones.
-    cat `$FIND ../palabras/noRAE/l10n/ \
-               -iname "*.txt" -and ! -regex '.*/\.svn.*'` \
+    cat $($FIND ../palabras/noRAE/l10n/ \
+                -iname "*.txt" -and ! -regex '.*/\.svn.*') \
       | ./remover_comentarios.sh \
       >> $TMPWLIST
 
     # Issue #39 - Incluir topónimos de todas las localizaciones (pendiente de
     # definir condiciones de inclusión)
-    cat `$FIND ../palabras/toponimos/l10n/ \
-               -iname "entidades-territoriales.txt" -and ! -regex '.*/\.svn.*'` \
+    cat $($FIND ../palabras/toponimos/l10n/ \
+               -iname "entidades-territoriales.txt" -and ! -regex '.*/\.svn.*') \
       | ./remover_comentarios.sh \
       >> $TMPWLIST
   fi
@@ -433,7 +433,7 @@ if [ "$VERSION" != "2" ]; then
   cp ../docs/manifest.xml $MDTMPDIR/META-INF
 fi
 
-DIRECTORIO_TRABAJO="`pwd`"
+DIRECTORIO_TRABAJO="$(pwd)"
 
 if [ "$VERSION" != "3" ]; then
   echo -n "Creando paquete comprimido para las versiones 1.x o 2.x de OpenOffice.org... "
