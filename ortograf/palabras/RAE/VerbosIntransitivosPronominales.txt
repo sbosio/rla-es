@@ -106,7 +106,7 @@ macollar/RED
 marchar/REDñòôø
 matrimoniar/RED
 mimbrear/RED
-muscular/RED
+muscular/REDA
 nacer/IRD
 negrecer/IRD
 ocurrir/REDñ
