@@ -7878,6 +7878,7 @@ medular/S
 meduloso/GS
 meduseo/GS
 megalítico/GS
+megalómano/GS
 megarense/S
 mego/GS
 mejicano/GS
@@ -9560,6 +9561,7 @@ plaguicida/S
 planetaria/l
 planetario/lSG
 planificado/SG
+planificador/GS
 plano/SG
 plantador/GkSh
 plantagináceo/GS
