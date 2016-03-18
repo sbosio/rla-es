@@ -1,3 +1,13 @@
+Versión 2.0:
+- Cambio de la versión 0.9 a 2.0 para sincronizar numeración en complementos
+  de LibreOffice/OpenOffice.org y Mozilla, y por los cambios producidos en
+  el diccionario.
+- Cambio de codificación de ISO-8859-1 a UTF-8.
+- Revisión de los topónimos mundiales (relación de países del mundo).
+- Inclusión de topónimos en Argentina y España.
+- Otras palabras nuevas (para ver la lista completa, consulta el enlace
+  https://github.com/sbosio/rla-es/issues?utf8=%E2%9C%93&q=milestone%3A%22Versi%C3%B3n+2.0%22).
+
 Versión 0.8:
 - Muchos términos nuevos correspondientes al bug 682 en Forja.rediris.es.
 - Migrado el proyecto a GitHub (https://github.com/sbosio/rla-es).

@@ -1,0 +1,30 @@
+#
+# Lista de comunidades y ciudades autónomas
+#
+
+Andalucía
+Aragón
+Asturias
+Baleares
+Canarias
+Cantabria
+Castilla
+# Castilla-La Mancha
+# Castilla y León
+Cataluña
+# Comunidad Valenciana
+Extremadura
+Galicia
+# La Rioja
+León
+Madrid
+Mancha
+Murcia
+Navarra
+# País Vasco
+Rioja
+Valenciana
+Vasco
+Ceuta
+Melilla
+

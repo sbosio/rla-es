@@ -1223,6 +1223,7 @@ mozuelo/GS
 muchacho/GS
 mulato/GS
 muletillero/GS
+muñequero/GS
 músico/GS
 mutuario/GS
 mutuatario/GS

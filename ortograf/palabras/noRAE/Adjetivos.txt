@@ -41,13 +41,18 @@ combinacional/S			# Contribuida por César Romé
 completísimo/GS
 contextualizado/GS
 desarrollador/GS
+desorbitante/S
+destellante/S
+desvaneciente/S
 diédrico/GS
 emiratí/S
 fenólico/GS
 finísimo/GS
 franquiciado/GS
 globalizado/GS
+grandísimo/GS
 hidrotérmico/GS
+incremental/S
 inefectivo/GS
 inspectorial/S
 interoperable/S			# Contribuida por Gonzalo Higuera Díaz

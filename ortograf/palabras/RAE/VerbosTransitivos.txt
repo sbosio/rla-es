@@ -685,7 +685,7 @@ casar/REDÀÁÂÅ
 cascamajar/RED
 caseificar/RED
 catalizar/REDÌ
-catalogar/hREDÀÁÄÆ
+catalogar/hREDÀÁÄÆA
 catapultar/REDÀ
 catar/REDÀ
 catear/REDÄ
@@ -2251,7 +2251,7 @@ friccionar/REDÄ
 frisar/RED
 frivolizar/RED
 fulminar/REDÀÁÂÄÅ
-fumigar/REDÀ
+fumigar/REDÀA
 fundamentar/AREDÀÄ
 fusilar/REDÀÁÂÄÚ
 fustigar/RED
@@ -2429,6 +2429,7 @@ infirmar/RED
 infligir/REDÁÂÆ
 influenciar/REDÀÂÅT
 informatizar/REDÀ
+infrautilizar/RED
 infravalorar/RED
 infringir/REDÀ
 infundir/REDÁÂÅÆ
@@ -2634,6 +2635,7 @@ manufacturar/RED
 manumitir/RED
 manuscribir/RE
 manutener/XD
+mapear/RED
 maquear/RED
 maquilar/RED
 maquinar/RED
@@ -2784,7 +2786,7 @@ opalizar/RED
 oprimir/REDÀÁÂÄÅÆ
 oprobiar/RED
 optimar/RED
-optimizar/REDÀ
+optimizar/REDÀA
 opugnar/RED
 ordeñar/REDÀÄ
 orificar/RED
@@ -3737,6 +3739,7 @@ vertebrar/RED
 vetar/REDÀ
 vetear/RED
 victimar/RED
+victimizar/REDÌÎÙÚôø
 victorear/RED
 vigiar/IRD
 vilipendiar/RED

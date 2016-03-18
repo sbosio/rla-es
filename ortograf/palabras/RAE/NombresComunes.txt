@@ -181,7 +181,7 @@ cesante/S
 chabolista/S
 chancleta/S
 chantajista/S
-chapa/S
+chapa/SU
 chinche/S
 chota/S
 cicerone/S

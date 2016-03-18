@@ -110,10 +110,8 @@ if [ "$LOCALIZACION" != "" ]; then
     LANG="$LOCALIZACION.UTF-8"
     echo "Creando un diccionario para la localización '$LOCALIZACION'..."
   else
-    echo "No se ha implementado la localización '$LOCALIZACION'." \
-         > /dev/stderr
-    echo -ne "¿Desea crear el diccionario genérico? (S/n): " \
-         > /dev/stderr
+    echo "No se ha implementado la localización '$LOCALIZACION'." > /dev/stderr
+    echo -ne "¿Desea crear el diccionario genérico? (S/n): " > /dev/stderr
     read -r -s -n 1 RESPUESTA
     if [ "$RESPUESTA" == "n" -o "$RESPUESTA" == "N" ]; then
       echo -e "No.\nProceso abortado.\n" > /dev/stderr
@@ -160,58 +158,58 @@ WLIST="$MDTMPDIR/wordlist.txt"
 echo -n "Creando la lista de lemas etiquetados... "
 
 # Palabras comunes a todos los idiomas, definidas por la RAE.
-cat ../palabras/RAE/*.txt | \
-    ./remover_comentarios.sh \
-     > $TMPWLIST
+cat ../palabras/RAE/*.txt | ./remover_comentarios.sh > $TMPWLIST
 
 if [ -d "../palabras/RAE/l10n/$LOCALIZACION" ]; then
   # Incluir las palabras de la localización solicitada, definidas por la RAE.
-  cat ../palabras/RAE/l10n/$LOCALIZACION/*.txt | \
-      ./remover_comentarios.sh \
-      >> $TMPWLIST
+  cat ../palabras/RAE/l10n/$LOCALIZACION/*.txt \
+    | ./remover_comentarios.sh \
+    >> $TMPWLIST
 else
   # Diccionario genérico; incluir todas las localizaciones.
-  cat `$FIND ../palabras/RAE/l10n/ \
-             -iname "*.txt" -and ! -regex '.*/\.svn.*'` |
-      ./remover_comentarios.sh \
-      >> $TMPWLIST
+  cat `$FIND ../palabras/RAE/l10n/ -iname "*.txt" -and ! -regex '.*/\.svn.*'` \
+    | ./remover_comentarios.sh \
+    >> $TMPWLIST
 fi
 
 if [ "$RAE" != "SÍ" ]; then
   # Incluir palabras comunes, no definidas por la RAE
-  cat ../palabras/noRAE/*.txt | \
-      ./remover_comentarios.sh \
-      >> $TMPWLIST
+  cat ../palabras/noRAE/*.txt | ./remover_comentarios.sh >> $TMPWLIST
 
-  # Issue #39 - Incluir topónimos (pendiente de definir condiciones de inclusión)
-  # Se especifica el nombre porque hay directorios que contienen archivos con explicaciones (p.e.: es_ES)
-  # Habría que considerar mover el contenido de esos archivos a comentarios en el archivo con contenido
-  cat ../palabras/toponimos/entidades-territoriales.txt | \
-      ./remover_comentarios.sh \
-      >> $TMPWLIST
+  # Issue #39 - Incluir topónimos (pendiente de definir condiciones de
+  # inclusión)
+  # Se especifica el nombre porque hay directorios que contienen archivos con
+  # explicaciones (p.e.: es_ES)
+  # Habría que considerar mover el contenido de esos archivos a comentarios en
+  # el archivo con contenido
+  cat ../palabras/toponimos/entidades-territoriales.txt \
+    | ./remover_comentarios.sh \
+    >> $TMPWLIST
 
   if [ -d "../palabras/noRAE/l10n/$LOCALIZACION" ]; then
     # Incluir las palabras de la localización solicitada.
-    cat ../palabras/noRAE/l10n/$LOCALIZACION/*.txt | \
-        ./remover_comentarios.sh \
-        >> $TMPWLIST
+    cat ../palabras/noRAE/l10n/$LOCALIZACION/*.txt \
+      | ./remover_comentarios.sh \
+      >> $TMPWLIST
 
-    # Issue #39 - Incluir topónimos de la localización (pendiente de definir condiciones de inclusión)
-    cat ../palabras/toponimos/l10n/$LOCALIZACION/entidades-territoriales.txt | \
-        ./remover_comentarios.sh \
-        >> $TMPWLIST
+    # Issue #39 - Incluir topónimos de la localización (pendiente de definir
+    # condiciones de inclusión)
+    cat ../palabras/toponimos/l10n/$LOCALIZACION/entidades-territoriales.txt \
+      | ./remover_comentarios.sh \
+      >> $TMPWLIST
   else
     # Diccionario genérico; incluir todas las localizaciones.
     cat `$FIND ../palabras/noRAE/l10n/ \
-               -iname "*.txt" -and ! -regex '.*/\.svn.*'` | \
-        ./remover_comentarios.sh \
-        >> $TMPWLIST
+               -iname "*.txt" -and ! -regex '.*/\.svn.*'` \
+      | ./remover_comentarios.sh \
+      >> $TMPWLIST
 
-    # Issue #39 - Incluir topónimos de todas las localizaciones (pendiente de definir condiciones de inclusión)
+    # Issue #39 - Incluir topónimos de todas las localizaciones (pendiente de
+    # definir condiciones de inclusión)
     cat `$FIND ../palabras/toponimos/l10n/ \
-               -iname "entidades-territoriales.txt" -and ! -regex '.*/\.svn.*'` | \
-        ./remover_comentarios.sh \
-        >> $TMPWLIST
+               -iname "entidades-territoriales.txt" -and ! -regex '.*/\.svn.*'` \
+      | ./remover_comentarios.sh \
+      >> $TMPWLIST
   fi
 fi
 
@@ -350,28 +348,86 @@ case $LOCALIZACION in
     ;;
   *)
     PAIS="España y América Latina"
-    LOCALIZACIONES="es-AR es-BO es-CL es-CO es-CR es-CU es-DO es-EC es-ES es-GT es-HN es-MX es-NI es-PA es-PE es-PR es-PY es-SV es-UY es-VE"
+    LOCALIZACIONES="es-AR es-BO es-CL es-CO es-CR es-CU es-DO es-EC es-ES es-GT"
+    LOCALIZACIONES="$LOCALIZACIONES es-HN es-MX es-NI es-PA es-PE es-PR es-PY"
+    LOCALIZACIONES="$LOCALIZACIONES es-SV es-UY es-VE"
     TEXTO_LOCAL="GENÉRICA PARA TODAS LAS LOCALIZACIONES  "
     ICONO="Iberoamérica.png"
     ;;
 esac
 
-cat ../docs/README_base.txt | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ {s//$TEXTO_LOCAL/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/README.txt
-cp ../docs/Changelog.txt ../docs/GPLv3.txt ../docs/LGPLv3.txt ../docs/MPL-1.1.txt $MDTMPDIR
+cat ../docs/README_base.txt \
+  | sed -n --expression="
+    /__/! { p; };
+    /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+    /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+    /__LOCALE_TEXT__/ {s//$TEXTO_LOCAL/g; p; };
+    /__COUNTRY__/ { s//$PAIS/g; p; }" \
+  > $MDTMPDIR/README.txt
+cp ../docs/Changelog.txt ../docs/GPLv3.txt ../docs/LGPLv3.txt \
+  ../docs/MPL-1.1.txt $MDTMPDIR
 
 if [ "$VERSION" != "2" ]; then
   if [ "$COMPLETO" != "SÍ" ]; then
-     DESCRIPCION="Español ($PAIS): Ortografía"
-     cat ../docs/dictionaries.xcu | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }; /__ICON__/ { s//$ICONO/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/dictionaries.xcu
-     cat ../docs/package-description.txt | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }; /__ICON__/ { s//$ICONO/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/package-description.txt
+    DESCRIPCION="Español ($PAIS): Ortografía"
+    cat ../docs/dictionaries.xcu \
+      | sed -n --expression="
+        /__/! { p; };
+        /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+        /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+        /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
+        /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
+        /__ICON__/ { s//$ICONO/g; p; };
+        /__COUNTRY__/ { s//$PAIS/g; p; }" \
+      > $MDTMPDIR/dictionaries.xcu
+    cat ../docs/package-description.txt \
+      | sed -n --expression="
+        /__/! { p; };
+        /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+        /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+        /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
+        /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
+        /__ICON__/ { s//$ICONO/g; p; };
+        /__COUNTRY__/ { s//$PAIS/g; p; }" \
+      > $MDTMPDIR/package-description.txt
   else
-     DESCRIPCION="Español ($PAIS): Ortografía, separación y sinónimos"
-     cat ../docs/dictionaries_full.xcu | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }; /__ICON__/ { s//$ICONO/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/dictionaries.xcu
-     cat ../docs/package-description_full.txt | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }; /__ICON__/ { s//$ICONO/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/package-description.txt
-     cp ../../separacion/hyph_es_ANY.dic ../../separacion/README_hyph_es_ANY.txt $MDTMPDIR
-     cp ../../sinonimos/palabras/README_th_es_ES.txt ../../sinonimos/palabras/COPYING_th_es_ES ../../sinonimos/palabras/th_es_ES_v2.* $MDTMPDIR
+    DESCRIPCION="Español ($PAIS): Ortografía, separación y sinónimos"
+    cat ../docs/dictionaries_full.xcu \
+      | sed -n --expression="
+        /__/! { p; };
+        /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+        /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+        /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
+        /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
+        /__ICON__/ { s//$ICONO/g; p; };
+        /__COUNTRY__/ { s//$PAIS/g; p; }" \
+      > $MDTMPDIR/dictionaries.xcu
+    cat ../docs/package-description_full.txt \
+      | sed -n --expression="
+        /__/! { p; };
+        /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+        /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+        /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
+        /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
+        /__ICON__/ { s//$ICONO/g; p; };
+        /__COUNTRY__/ { s//$PAIS/g; p; }" \
+      > $MDTMPDIR/package-description.txt
+    cp ../../separacion/hyph_es_ANY.dic \
+      ../../separacion/README_hyph_es_ANY.txt $MDTMPDIR
+    cp ../../sinonimos/palabras/README_th_es_ES.txt \
+      ../../sinonimos/palabras/COPYING_th_es_ES \
+      ../../sinonimos/palabras/th_es_ES_v2.* $MDTMPDIR
   fi
-  cat ../docs/description.xml | sed -n --expression="/__/! { p; }; /__LOCALE__/ { s//$LOCALIZACION/g; p; }; /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }; /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; }; /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; }; /__ICON__/ { s//$ICONO/g; p; }; /__COUNTRY__/ { s//$PAIS/g; p; }" > $MDTMPDIR/description.xml
+  cat ../docs/description.xml \
+    | sed -n --expression="
+      /__/! { p; };
+      /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+      /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+      /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
+      /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
+      /__ICON__/ { s//$ICONO/g; p; };
+      /__COUNTRY__/ { s//$PAIS/g; p; }" \
+    > $MDTMPDIR/description.xml
   cp ../docs/$ICONO $MDTMPDIR
   mkdir "$MDTMPDIR/META-INF"
   cp ../docs/manifest.xml $MDTMPDIR/META-INF
@@ -383,7 +439,7 @@ if [ "$VERSION" != "3" ]; then
   echo -n "Creando paquete comprimido para las versiones 1.x o 2.x de OpenOffice.org... "
   ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.zip"
 else
-  echo -n "Creando extensión para OpenOffice.org/LibreOffice 3.x o superior (.oxt)... "
+  echo -n "Creando extensión para Apache OpenOffice/LibreOffice 3.x o superior (.oxt)... "
   ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.oxt"
 fi
 

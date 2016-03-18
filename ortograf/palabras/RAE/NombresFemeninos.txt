@@ -1071,6 +1071,7 @@ bajamar/S
 baja/pS
 bajeza/S
 bajura/S
+balacera/S
 baladronada/S
 balalaica/S
 balandra/S
@@ -1349,7 +1350,7 @@ bocamanga/S
 bocamina/S
 bocanada/S
 bocana/S
-boca/NS
+boca/NSU
 bocateja/S
 bocatijera/S
 bocatoma/S
@@ -2747,6 +2748,7 @@ contrapartida/S
 contrapilastra/S
 contraportada/S
 contraposición/S
+contraprestación/S
 contraprueba/S
 contrapuerta/S
 contraquilla/S
@@ -2789,7 +2791,7 @@ convulsión/S
 cooperativa/S
 coordinación/S
 copaiba/S
-copa/NS
+copa/NSU
 copelación/S
 copela/S
 copia/mS
@@ -2848,6 +2850,7 @@ corpulencia/S
 corraliza/S
 corrección/kS
 corredura/S
+correduría/S
 corregibilidad/kS
 correhuela/S
 correndilla/S
@@ -4849,6 +4852,7 @@ gentileza/S
 gentilidad/S
 gentualla/S
 gentuza/S
+geoda/S
 geodesia/S
 geografía/S
 geología/S
@@ -5547,10 +5551,12 @@ infosura/S
 infraestructura/S
 infructuosidad/S
 infrutescencia/S
+ínfula/S
 ingeniería/S
 ingeniosidad/S
 ingenua/S
 ingenuidad/S
+ingesta/S
 ingle/S
 inhalación/S
 inhibición/S
@@ -5611,6 +5617,7 @@ insubstancialidad/S
 ínsula/S
 insulina/S
 insulsez/S
+insurgencia/S
 insurrección/S
 insustancialidad/S
 intangibilidad/S
@@ -7680,6 +7687,7 @@ papelina/S
 papera/S
 papila/S
 papilionácea/S
+papiroflexia
 paquidermia/S
 parábola/S
 paracentesis

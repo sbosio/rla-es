@@ -6654,6 +6654,7 @@ hinque/S
 hintero/S
 hioides
 hiperboloide/S
+hipermercado/S
 hipertexto/S
 hipido/S
 hipismo/S
@@ -10007,6 +10008,7 @@ porquerizo/S
 porqué/S
 porrino/S
 porro/HS
+porrón/S
 portaalmizcle/S
 portaaviones
 portacartas

@@ -134,6 +134,7 @@ accionario/pGS
 accitano/GS
 acebollado/GS
 acechador/GS
+acechante/S
 acedo/GS
 acéfalo/SG
 aceitero/GS
@@ -972,6 +973,7 @@ apelativo/SG
 apendicular/S
 apergaminado/GS
 aperitivo/GS
+aperlado/GS
 aperturista/S
 apestoso/GS
 apetecedor/GS
@@ -1954,6 +1956,7 @@ caldeo/GS
 caldoso/GS
 caledonio/SG
 calefactor/GS
+caleidoscópico/GS
 calentador/GS
 calentito/GS
 calenturiento/GS
@@ -2235,6 +2238,8 @@ castrado/GS
 castrense/S
 casual/S
 casuariforme/S
+casuístico/GS
+catadióptrico/GS
 catafórico/GS
 catalán/GS
 catalanista/S
@@ -2302,6 +2307,7 @@ ceburro/S
 cecal/S
 ceceante/S
 ceceoso/GS
+cedente/S
 cedizo/GS
 cefálica/i
 cefálico/SGi
@@ -3546,6 +3552,7 @@ delineador/GS
 delio/GS
 delirante/S
 deltoides
+demagógico/GS
 demagogo/GS
 demandador/GS
 demanial/S
@@ -4296,6 +4303,7 @@ elector/SG
 electricista/S
 eléctrico/GS
 electrizador/SG
+electrizante/S
 electroacústico/SG
 electrodinámico/GS
 electrodoméstico/S
@@ -4658,9 +4666,10 @@ ericáceo/GS
 erisipelatoso/GS
 eritreo/GS
 erizado/GS
-ermitaño/SG
-erosivo/SG
-erótico/SG
+ermitaño/GS
+erógeno/GS
+erosivo/GS
+erótico/GS
 erotizante/S
 errabundo/GS
 errada/h
@@ -5067,6 +5076,7 @@ exiguo/GS
 eximente/S
 eximio/GS
 existencial/S
+existencialista/S
 existente/fSk
 exitoso/GS
 exocrino/GS
@@ -5560,6 +5570,7 @@ frumentario/GS
 fruncido/GS
 fruncidor/GS
 fruslera/S
+frustrante/S
 frutal/S
 frutero/GS
 fruticoso/GS
@@ -5678,6 +5689,7 @@ gandul/GS
 ganglionar/S
 gangoso/GS
 gangrenoso/SG
+ganoso/GS
 ganso/GS
 garante/S
 garantizador/SG
@@ -6304,6 +6316,7 @@ humanista/S
 humanístico/GS
 humanitario/GS
 humano/GSrk
+humanoide/S
 humeante/S
 humectativo/GS
 húmedo/GS
@@ -6430,6 +6443,7 @@ impiedoso/GS
 implicatorio/GS
 implícito/GS
 implorador/GS
+implorante/S
 implosivo/GS
 implume/S
 importuno/GS
@@ -6460,6 +6474,7 @@ imputador/SG
 inacceso/GS
 inacentuado/GS
 inadaptado/SG
+inalámbrico/GS
 inalterado/GS
 inane/S
 inánime/S
@@ -7866,6 +7881,7 @@ medular/S
 meduloso/GS
 meduseo/GS
 megalítico/GS
+megalómano/GS
 megarense/S
 mego/GS
 mejicano/GS
@@ -9550,6 +9566,7 @@ plaguicida/S
 planetaria/l
 planetario/lSG
 planificado/SG
+planificador/GS
 plano/SG
 plantador/GkSh
 plantagináceo/GS
@@ -11705,7 +11722,7 @@ templada/h
 templado/hSG
 templador/fSG
 templario/SG
-temporal/kS
+temporal/akS
 temporario/GS
 temporero/GS
 tempranero/GS

@@ -6,7 +6,7 @@
   **  VERSIÓN __LOCALE_TEXT__                      **
   ****************************************************************************
 
-                                   Versión 0.8
+                                   Versión 2.0
 
 SUMARIO
 
@@ -184,7 +184,8 @@ creación de este diccionario. Se agradece especialmente a:
    - Alexandro Colorado.
    - Andrés Sánchez.
    - Juan Rafael Fernández García.
-   - KNTRO
+   - eksperimental.
+   - KNTRO.
    - Ricardo Berlasso.
    - y a todos los integrantes de la comunidad en español que proponen mejoras
      a este diccionario.

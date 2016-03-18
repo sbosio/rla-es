@@ -1,0 +1,71 @@
+#
+# Lista de provincias
+#
+
+Araba 
+Álava
+Albacete
+Alicante
+Almería
+Asturias
+Ávila
+Badajoz
+Baleares
+Barcelona
+Bizkaia
+Burgos
+Cáceres
+Cádiz
+Cantabria
+Castellón
+# Ciudad Real
+Ciudad
+Córdoba
+Coruña
+# A Coruña 
+# La Coruña
+Cruz
+Cuenca
+Gerona
+Girona
+Granada
+Guadalajara
+Guipúzcoa
+Gipuzkoa
+Huelva
+Huesca
+Islas
+Jaén
+León
+Lleida
+Lérida
+Lugo
+Madrid
+Málaga
+Murcia
+Navarra
+Ourense
+Orense
+Palencia
+# Las Palmas
+Palmas
+Pontevedra
+Real
+# La Rioja
+Rioja
+Salamanca
+# Santa Cruz de Tenerife
+Santa
+Segovia
+Sevilla
+Soria
+Tarragona
+Tenerife
+Teruel
+Toledo
+Valencia
+Valladolid
+Vizcaya
+Zamora
+Zaragoza
+
