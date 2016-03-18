@@ -108,6 +108,7 @@ bandolinista/S
 bandolonista/S
 base/S
 batería/S
+baterista/S
 berzas
 berzotas
 bestia/S
@@ -169,6 +170,7 @@ causahabiente/S
 causante/S
 celtista/S
 cenobita/S
+centrocampista/S
 censualista/S
 censurista/S
 centinela/S
@@ -309,7 +311,6 @@ escoliasta/S
 escribiente/S
 escucha/S
 escultista/S
-especialista/S
 esperantista/S
 espía/S
 estadista/S

@@ -32,6 +32,7 @@ chancho/GS
 chicharrón/GS
 cholo/GS
 chueco/GS
+congresional/S
 correntoso/GS
 coyotero/GS
 desactualizado/GS

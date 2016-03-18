@@ -17,4 +17,3 @@
 al
 del
 dentrambos
-na

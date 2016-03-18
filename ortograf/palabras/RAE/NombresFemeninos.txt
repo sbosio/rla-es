@@ -1295,6 +1295,7 @@ billa/S
 bimba/S
 binadura/S
 binza/S
+biodiversidad
 bioestadística/S
 biografía/dS
 biología/S
@@ -3282,6 +3283,7 @@ destilación/S
 destiladera/S
 destilería/S
 destinación/nS
+destitución/S
 destraleja/S
 destreza/S
 destrucción/dS
@@ -3585,7 +3587,7 @@ ecuación/S
 ecualización/S
 ecuanimidad/S
 edad/S
-edición/S
+edición/pS
 edificación/S
 edilidad/S
 educación/S
@@ -4013,7 +4015,7 @@ espátula/S
 espatulomancia/S
 especialidad/S
 especialización/S
-especie/GS
+especie/sGS
 especificación/S
 especificidad/S
 especiota/S
@@ -4195,7 +4197,7 @@ estrofa/S
 estroma/S
 estronciana/S
 estroncianita/S
-estructuración/S
+estructuración/pS
 estructura/S
 estrujador/S
 estrujadura/S
@@ -4487,6 +4489,7 @@ filtración/kS
 fimbria/S
 fimosis
 finalidad/S
+finalización/S
 financiación/S
 finanza/S
 finca/S
@@ -5275,6 +5278,7 @@ histología/S
 historia/nS
 historicidad/S
 historieta/S
+historiografía/S
 histrionisa/S
 hogaza/S
 hoguera/S
@@ -6072,7 +6076,7 @@ lienza/S
 ligada/S
 ligadura/hS
 ligamaza/S
-liga/S
+liga/NS
 ligereza/S
 lija/S
 lilac/S
@@ -6860,6 +6864,7 @@ miniatura/S
 minicadena/S
 minifalda/S
 minina/S
+miniserie/S
 ministración/S
 minoría/S
 minoridad/S
@@ -7216,6 +7221,7 @@ nécora/S
 necrofilia/S
 necrología/S
 necromancia/S
+necrópolis
 necropsia/S
 necroscopia/S
 necrosis
@@ -7313,6 +7319,7 @@ nombradía/S
 nomenclatura/S
 nomeolvides
 nómina/S
+nominación/S
 nominilla/S
 nonada/S
 nona/Sa
@@ -7832,6 +7839,7 @@ peculiaridad/S
 pecunia/S
 pedagogía/S
 pedaliácea/S
+pedanía/S
 pedantería/S
 pederastia/S
 pediatría/S
@@ -8954,6 +8962,7 @@ remadura/S
 remembranza/S
 reminiscencia/S
 remisoria/S
+remodelación/S
 remolacha/S
 rémora/S
 remuneración/S
@@ -9457,8 +9466,9 @@ sentencia/S
 sentimentalidad/S
 sentina/S
 seña/iSp
-señalada/S
 señal/S
+señalada/S
+señalización/S
 señoría/S
 seo/S
 separación/S
@@ -10344,7 +10354,7 @@ trezna/S
 triaca/S
 tiangulación/S
 tría/S
-tribu
+tribu/S
 tribulación/S
 tribuna/S
 tricúspide/S

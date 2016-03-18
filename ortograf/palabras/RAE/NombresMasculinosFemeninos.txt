@@ -328,7 +328,7 @@ camero/GS
 camionero/GS
 camisero/GS
 campechano/GS
-campeón/GS
+campeón/sGS
 campero/GS
 canario/GS
 canastero/GS
@@ -343,6 +343,7 @@ canillero/GS
 canino/GS
 canoero/GS
 cantador/GS
+cantautor/GS
 cantinero/GS
 cantonero/GS
 cantor/GS
@@ -882,6 +883,7 @@ glande/S
 gloria/S
 gobernador/sGS
 godo/GS
+goleador/GS
 golfo/GS
 golilla/S
 golillero/GS
@@ -1099,6 +1101,7 @@ malva/S
 mamón/GS
 mampuesto/GS
 maná/S
+mánager
 mancebo/GS
 mandadero/gGS
 mandado/gGS

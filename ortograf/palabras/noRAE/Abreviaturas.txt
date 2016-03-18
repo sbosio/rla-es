@@ -51,6 +51,7 @@ ctvo
 dcho/G
 del
 depto
+der
 diag
 dicc
 dir
@@ -77,6 +78,7 @@ geom
 gob
 gral
 gta
+hab
 hno/GS
 ib
 ibíd

@@ -2529,7 +2529,7 @@ campanillero/S
 campanil/S
 campano/GSN
 campeador/S
-campeonato/S
+campeonato/sS
 campestre/S
 camping
 campo/NS
@@ -5960,6 +5960,7 @@ frambueso/S
 francolín/S
 franco/S
 frangollo/S
+franquismo
 franklin
 franqueamiento/S
 franqueo/S
@@ -6864,6 +6865,7 @@ imaginero/S
 imán/S
 imbornal/S
 imoscapo/S
+impacto/S
 impala/S
 impar
 imperativo/S
@@ -8712,6 +8714,7 @@ neuroepitelio/S
 neuroesqueleto/S
 neuroma/S
 neuróptero/S
+neutrón/S
 nevazo/S
 nevero/S
 newton
@@ -10512,6 +10515,7 @@ rango/S
 rano/S
 ranúnculo/S
 raño/S
+rap/S
 rapabarbas
 rapacejo/S
 rapador/S

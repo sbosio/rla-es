@@ -16,4 +16,5 @@
 
 internauta/S
 ninja/S
+mediocampista/S
 patrocinante/S

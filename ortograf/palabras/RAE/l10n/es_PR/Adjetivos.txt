@@ -23,6 +23,7 @@ cebado/SG
 chancho/GS
 cholo/GS
 chueco/GS
+congresional/S
 correntoso/GS
 coyotero/GS
 exfoliador/GS

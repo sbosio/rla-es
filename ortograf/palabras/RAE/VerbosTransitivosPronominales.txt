@@ -697,6 +697,7 @@ desalmar/RED
 desalquilar/RED
 desamarrar/RED
 desamartelar/RED
+desambiguar/REDAÀÄÌ
 desamorar/RED
 desangrar/REDÀÁÅñò
 desanimar/REDÀÁÂñ

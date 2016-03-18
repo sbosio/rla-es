@@ -39,6 +39,7 @@ contracandela/S
 contraloría/S
 criandera/S
 cueriza/S
+disquera/S
 escogida/S
 escondidas
 estiptiquez/S
