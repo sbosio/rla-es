@@ -10108,6 +10108,7 @@ tipa/S
 tipiadora/S
 tipicidad/S	# Contribuida por Alonso González Cuchillo
 tipografía/S
+tipología/S
 tirada/S
 tiradera/S
 tiramira/S
