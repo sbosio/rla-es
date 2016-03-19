@@ -3218,6 +3218,7 @@ rememorar/REDÀ
 remendar/IRDÀ
 remesar/RED
 remeter/REDÂ
+remodelar/REDA
 remolcar/REDÀ
 remoler/IRD
 remondar/RED
@@ -3312,7 +3313,7 @@ retrillar/RED
 retrovender/RED
 retundir/RED
 reuntar/IRD
-reutilizar/REDÀ
+reutilizar/REDAÀ
 revaluar/IRD
 reveler/RED
 revender/REDÀ
@@ -3402,7 +3403,7 @@ sementar/IRD
 senderar/RED
 sensibilizar/REDÀÁÄ
 sentenciar/REDÀÄ
-señalizar/REDÀ
+señalizar/REDAÀ
 seriar/RED
 serrar/IRD
 serruchar/RED

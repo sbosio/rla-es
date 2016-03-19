@@ -12147,6 +12147,7 @@ teleobjetivo/S
 teleósteo/S
 telescopio/S
 telesilla/S
+teletexto/S
 teletipo/S
 televisor/S
 tell
@@ -12237,6 +12238,7 @@ terrajero/S
 terraje/S
 terral/S
 terraplén/S
+terrario/S
 terrazgo/S
 terrazguero/S
 terrazo/S
