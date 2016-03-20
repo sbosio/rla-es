@@ -12626,6 +12626,7 @@ triache/S
 trial/S
 triángulo/S
 triario/S
+triatlón/S
 tribunado/S
 tribunal/S
 tribuno/S
