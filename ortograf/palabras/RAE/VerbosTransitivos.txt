@@ -3737,6 +3737,7 @@ ventar/IRD
 verguear/RED
 verruguetar/RED
 vertebrar/RED
+verticalizar/REDA
 vetar/REDÀ
 vetear/RED
 victimar/RED

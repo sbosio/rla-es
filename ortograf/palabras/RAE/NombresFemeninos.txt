@@ -10351,6 +10351,7 @@ trepidación/S
 treta/Sp
 trezna/S
 triaca/S
+triatlón/S
 tiangulación/S
 tría/S
 tribu
@@ -10840,6 +10841,7 @@ voltariedad/S
 voltereta/S
 volteta/S
 volubilidad/S
+volumetría/S
 voluntad/S
 voluntariedad/Sk
 voluptuosidad/S
