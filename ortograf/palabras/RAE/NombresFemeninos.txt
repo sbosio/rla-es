@@ -10108,6 +10108,7 @@ tipa/S
 tipiadora/S
 tipicidad/S	# Contribuida por Alonso González Cuchillo
 tipografía/S
+tipología/S
 tirada/S
 tiradera/S
 tiramira/S
@@ -10839,6 +10840,7 @@ voltariedad/S
 voltereta/S
 volteta/S
 volubilidad/S
+volumetría/S
 voluntad/S
 voluntariedad/Sk
 voluptuosidad/S

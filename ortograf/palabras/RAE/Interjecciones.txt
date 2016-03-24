@@ -110,6 +110,7 @@ tusa
 uf
 uh
 upa
+uy
 vale
 vamos
 vaya
