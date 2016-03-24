@@ -353,70 +353,20 @@ case $LOCALIZACION in
     ;;
 esac
 
-cat ../docs/README_base.txt \
-  | sed -n --expression="
-    /__/! { p; };
-    /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-    /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
-    /__LOCALE_TEXT__/ {s//$TEXTO_LOCAL/g; p; };
-    /__COUNTRY__/ { s//$PAIS/g; p; }" \
-  > "$MDTMPDIR/README.txt"
+sed -n --expression="
+  /__/! { p; };
+  /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+  /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+  /__LOCALE_TEXT__/ {s//$TEXTO_LOCAL/g; p; };
+  /__COUNTRY__/ { s//$PAIS/g; p; }" \
+  ../docs/README_base.txt > "$MDTMPDIR/README.txt"
 cp ../docs/Changelog.txt ../docs/GPLv3.txt ../docs/LGPLv3.txt \
   ../docs/MPL-1.1.txt "$MDTMPDIR"
 
 if [ "$VERSION" != "2" ]; then
   if [ "$COMPLETO" != "SÍ" ]; then
     DESCRIPCION="Español ($PAIS): Ortografía"
-    cat ../docs/dictionaries.xcu \
-      | sed -n --expression="
-        /__/! { p; };
-        /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-        /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
-        /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
-        /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
-        /__ICON__/ { s//$ICONO/g; p; };
-        /__COUNTRY__/ { s//$PAIS/g; p; }" \
-      > "$MDTMPDIR/dictionaries.xcu"
-    cat ../docs/package-description.txt \
-      | sed -n --expression="
-        /__/! { p; };
-        /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-        /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
-        /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
-        /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
-        /__ICON__/ { s//$ICONO/g; p; };
-        /__COUNTRY__/ { s//$PAIS/g; p; }" \
-      > "$MDTMPDIR/package-description.txt"
-  else
-    DESCRIPCION="Español ($PAIS): Ortografía, separación y sinónimos"
-    cat ../docs/dictionaries_full.xcu \
-      | sed -n --expression="
-        /__/! { p; };
-        /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-        /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
-        /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
-        /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
-        /__ICON__/ { s//$ICONO/g; p; };
-        /__COUNTRY__/ { s//$PAIS/g; p; }" \
-      > "$MDTMPDIR/dictionaries.xcu"
-    cat ../docs/package-description_full.txt \
-      | sed -n --expression="
-        /__/! { p; };
-        /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-        /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
-        /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
-        /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
-        /__ICON__/ { s//$ICONO/g; p; };
-        /__COUNTRY__/ { s//$PAIS/g; p; }" \
-      > "$MDTMPDIR/package-description.txt"
-    cp ../../separacion/hyph_es_ANY.dic \
-      ../../separacion/README_hyph_es_ANY.txt "$MDTMPDIR"
-    cp ../../sinonimos/palabras/README_th_es_ES.txt \
-      ../../sinonimos/palabras/COPYING_th_es_ES \
-      ../../sinonimos/palabras/th_es_ES_v2.* "$MDTMPDIR"
-  fi
-  cat ../docs/description.xml \
-    | sed -n --expression="
+    sed -n --expression="
       /__/! { p; };
       /__LOCALE__/ { s//$LOCALIZACION/g; p; };
       /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
@@ -424,7 +374,51 @@ if [ "$VERSION" != "2" ]; then
       /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
       /__ICON__/ { s//$ICONO/g; p; };
       /__COUNTRY__/ { s//$PAIS/g; p; }" \
-    > "$MDTMPDIR/description.xml"
+      ../docs/dictionaries.xcu > "$MDTMPDIR/dictionaries.xcu"
+    sed -n --expression="
+      /__/! { p; };
+      /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+      /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+      /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
+      /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
+      /__ICON__/ { s//$ICONO/g; p; };
+      /__COUNTRY__/ { s//$PAIS/g; p; }" \
+      ../docs/package-description.txt > "$MDTMPDIR/package-description.txt"
+  else
+    DESCRIPCION="Español ($PAIS): Ortografía, separación y sinónimos"
+    sed -n --expression="
+      /__/! { p; };
+      /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+      /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+      /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
+      /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
+      /__ICON__/ { s//$ICONO/g; p; };
+      /__COUNTRY__/ { s//$PAIS/g; p; }" \
+      ../docs/dictionaries_full.xcu > "$MDTMPDIR/dictionaries.xcu"
+    sed -n --expression="
+      /__/! { p; };
+      /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+      /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+      /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
+      /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
+      /__ICON__/ { s//$ICONO/g; p; };
+      /__COUNTRY__/ { s//$PAIS/g; p; }" \
+      ../docs/package-description_full.txt > "$MDTMPDIR/package-description.txt"
+    cp ../../separacion/hyph_es_ANY.dic \
+      ../../separacion/README_hyph_es_ANY.txt "$MDTMPDIR"
+    cp ../../sinonimos/palabras/README_th_es_ES.txt \
+      ../../sinonimos/palabras/COPYING_th_es_ES \
+      ../../sinonimos/palabras/th_es_ES_v2.* "$MDTMPDIR"
+  fi
+  sed -n --expression="
+    /__/! { p; };
+    /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+    /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+    /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
+    /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
+    /__ICON__/ { s//$ICONO/g; p; };
+    /__COUNTRY__/ { s//$PAIS/g; p; }" \
+    ../docs/description.xml > "$MDTMPDIR/description.xml"
   cp ../docs/$ICONO "$MDTMPDIR"
   mkdir "$MDTMPDIR/META-INF"
   cp ../docs/manifest.xml "$MDTMPDIR/META-INF"
