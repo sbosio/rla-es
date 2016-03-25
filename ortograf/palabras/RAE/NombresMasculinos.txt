@@ -10598,6 +10598,7 @@ rebuscamiento/S
 rebusco/S
 rebuzno/S
 recado/S
+recambio/S
 recargador/S
 recatón/H
 recaudamiento/S
