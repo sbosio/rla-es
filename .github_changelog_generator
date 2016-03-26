@@ -1,0 +1,11 @@
+bug-prefix=**Errores corregidos**
+enhancement-prefix=**Mejoras implementadas**
+issue-prefix=**Issues cerrados**
+bug-labels=error,Error
+enhancement-labels=mejora,Mejora
+#include-labels=error,mejora
+#exclude-labels=duplicado,pregunta,inválido,solicitud de ayuda,no se arreglará
+pulls=false
+author=false
+compare-link=false
+since-tag=v0.7

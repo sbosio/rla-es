@@ -1635,6 +1635,7 @@ sevillano/GS
 sexagésimo/GS
 sexmo/GS
 sexto/GS
+sicólogo/GS
 siervo/GS
 sillero/GS
 silvicultor/GS

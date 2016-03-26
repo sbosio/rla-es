@@ -10606,6 +10606,7 @@ rebuscamiento/S
 rebusco/S
 rebuzno/S
 recado/S
+recambio/S
 recargador/S
 recatón/H
 recaudamiento/S
@@ -12155,6 +12156,7 @@ teleobjetivo/S
 teleósteo/S
 telescopio/S
 telesilla/S
+teletexto/S
 teletipo/S
 televisor/S
 tell
@@ -12245,6 +12247,7 @@ terrajero/S
 terraje/S
 terral/S
 terraplén/S
+terrario/S
 terrazgo/S
 terrazguero/S
 terrazo/S
@@ -12632,6 +12635,7 @@ triache/S
 trial/S
 triángulo/S
 triario/S
+triatlón/S
 tribunado/S
 tribunal/S
 tribuno/S

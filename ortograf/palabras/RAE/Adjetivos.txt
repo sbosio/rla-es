@@ -10357,6 +10357,7 @@ refez/S
 refinado/GS
 refinador/GS
 refitolero/SG
+reflectante/S
 reflector/GS
 reflejo/GS
 réflex
@@ -11201,6 +11202,7 @@ sibilante/S
 sibilino/GS
 siciliano/GS
 sicionio/GS
+sicológico/GS
 sideral/S
 sidéreo/GS
 siderúrgico/SG
@@ -12435,7 +12437,7 @@ valeriánico/SG
 valeriense/S
 valeroso/GS
 valetudinario/GS
-válida/k
+validador/GS
 válido/kSG
 valiente/S
 valioso/GS

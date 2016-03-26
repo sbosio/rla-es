@@ -1551,7 +1551,7 @@ finchar/RED
 fingir/REDÀÁÄñò
 firmar/REDÀÁÂÆÎÛñ
 fisionar/RED
-flagelar/REDÁÄñ
+flagelar/dREDÁÄñ
 fletar/RED
 flexibilizar/REDÀ
 focalizar/RED
@@ -1920,7 +1920,7 @@ propasar/REDÁñ
 proponer/XÀÅÈñóö
 proporcionar/REDÀÁÂÃÆñòT
 prostituir/IRDÀÁñ
-proteger/REDÀÁÂÄÅñòôø
+proteger/REDÀÁÂÄÅÍñòôø
 proveer/REDÀÂÄñø
 proyectar/REDÁÄñò
 psicoanalizar/REDÁñò
