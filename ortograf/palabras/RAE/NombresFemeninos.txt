@@ -3584,6 +3584,7 @@ ecolalia/S
 ecolocación/S
 ecología/S
 economía/S
+ecorregión/S
 ectasia/S
 ectopia/S
 ecuación/S
@@ -5406,6 +5407,7 @@ husera/S
 huta/S
 hutía/S
 ibis
+iconografía/S
 ictericia/S
 ida
 ida/Ss
@@ -9982,7 +9984,7 @@ tempestividad/S
 templadura/S
 templanza/hS
 templa/S
-temporada/S
+temporada/nS
 temporalidad/Sk
 tempranilla/S
 tenacidad/S
@@ -10118,6 +10120,7 @@ tipa/S
 tipiadora/S
 tipicidad/S	# Contribuida por Alonso González Cuchillo
 tipografía/S
+tipología/S
 tirada/S
 tiradera/S
 tiramira/S
@@ -10231,6 +10234,7 @@ torpeza/S
 torques
 torrentera/S
 torre/S
+torreta/S
 torreznada/S
 torrija/S
 torsión/fpS

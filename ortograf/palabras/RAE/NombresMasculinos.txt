@@ -6561,7 +6561,7 @@ herma/S
 hermetismo/S
 hermoseamiento/S
 herodes
-héroe/S
+héroe/tS
 heroísmo/S
 herpetismo/S
 herpil/S
@@ -8635,6 +8635,7 @@ naranjo/S
 narcisismo/S
 narciso/SO
 narcotismo/S
+narcotráfico
 nardo/S
 narguile/S
 narigón/S
@@ -8662,6 +8663,7 @@ navarca/S
 naviculario/S
 navicular/S
 navío/S
+nazismo
 nearca/S
 neblí/S
 neceser/S
@@ -9619,6 +9621,7 @@ perno/S
 pero/aS
 perol/S
 peroné/S
+peronismo
 peróxido/S
 perpunte/S
 perrengue/S
@@ -10256,6 +10259,7 @@ protocloruro/S
 protocolo/S
 protomedicato/S
 protomédico/S
+protón/S
 protonotario/S
 protoplasma/S
 protosulfuro/S

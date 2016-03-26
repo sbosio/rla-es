@@ -873,6 +873,7 @@ garduño/GS
 gatero/GS
 génesis
 genético/GS
+geógrafo/GS
 gerente/GS
 gestor/GS
 gigantón/GS
@@ -906,6 +907,7 @@ grosella/S
 grueso/GS
 guajiro/GS
 guantero/GS
+guardameta/S
 guardarropa/S
 guardián/GS
 guarnicionero/GS
@@ -1388,6 +1390,7 @@ piscicultor/GS
 pistero/GS
 pitoflero/GS
 pituso/GS
+pívot
 piyama/S
 plagiario/GS
 planchador/GS
@@ -1692,10 +1695,10 @@ taquillero/GS
 tasador/GS
 tatarabuelo/GS
 tataranieto/GS
-tau
+tau/S
 taumaturgo/GS
 taurino/GS
-taus
+teclista/S
 técnico/GS
 teja/S
 tejedor/GS

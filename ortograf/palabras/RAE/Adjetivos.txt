@@ -2601,6 +2601,7 @@ circunvecino/GS
 circunyacente/S
 cirenaico/GS
 cireneo/GS
+cirílico/GS
 cirrípedo/S
 cirrópodo/S
 cirroso/GS
@@ -2680,6 +2681,7 @@ codificador/GSgh
 coercible/kS
 coercitivo/GS
 coetáneo/SG
+cofundador/GS
 cogedero/GS
 cogedor/pGraS
 cogitabundo/GS
@@ -9989,6 +9991,7 @@ prosimio/S
 prospectivo/GS
 próspero/SG
 prostibulario/SG
+protagónico/S
 proteccionista/S
 protector/GS
 protectorio/GS
@@ -10029,6 +10032,7 @@ prudencial/S
 prudente/kS
 pruriginoso/GS
 prusiano/GS
+pseudónimo/S
 psicoanalista/S
 psicoanalítico/SG
 psicológico/SG
@@ -12634,6 +12638,7 @@ vigilante/S
 vigilativo/SG
 vigorizador/GS
 vigoroso/GS
+vikingo/GS
 vilipendiador/SG
 vilipendioso/SG
 villanesco/SG

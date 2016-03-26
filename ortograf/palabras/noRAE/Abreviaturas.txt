@@ -19,6 +19,7 @@ adv
 afmo/G
 ap
 apdo
+aprox
 Arq
 art
 atte
