@@ -1,6 +1,6 @@
 Versión 2.0:
 - Cambio de la versión 0.9 a 2.0 para sincronizar numeración en complementos
-  de LibreOffice/OpenOffice.org y Mozilla, y por los cambios producidos en
+  de Apache OpenOffice/LibreOffice y Mozilla, y por los cambios producidos en
   el diccionario.
 - Cambio de codificación de ISO-8859-1 a UTF-8.
 - Revisión de los topónimos mundiales (relación de países del mundo).

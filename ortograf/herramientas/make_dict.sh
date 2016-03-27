@@ -80,7 +80,7 @@ do
       echo "    Crear un paquete ZIP de instalación manual para las"
       echo "    versiones 1.x ó 2.x de OpenOffice.org."
       echo "    Por defecto se crea una extensión (.oxt) para"
-      echo "    OpenOffice.org/LibreOffice versión 3.x o superior."
+      echo "    Apache OpenOffice/LibreOffice versión 3.x o superior."
       echo
       echo "--completo | -c"
       echo "    Integrar los diccionarios de sinónimos y de separación"
