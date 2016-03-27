@@ -1,3 +1,22 @@
+Versión 2.1:
+
+- Inclusión de Zarautz como topónimo válido en España, en consonancia con otros
+  topónimos que están añadidos con las dos formas, en castellano y en la lengua
+  oficial autonómica a la que pertenecen.
+- Corrección de errores en el script de generación del diccionario, que de hecho
+  provocó que los topónimos no se incluyeran en la versión 2.0, como anunciamos.
+- Añadida descripción en inglés al XML que contiene los metadatos de las extensiones
+  OXT de Apache OpenOffice y LibreOffice.
+- Actualizadas las referencias a las suites ofimáticas en los archivos de documentación,
+  para que reflejen los nombres correctos actuales de Apache OpenOffice y LibreOffice.
+- Corregido error en definición de archivo de separación silábica, que debe encontrarse
+  en codificación de 8 bits (ISO-8859-15) en lugar de UTF-8 para su correcto funcionamiento.
+- Añadidas las palabras válidas de un bloque de 100 usadas en Wikipedia que no estaban
+  reconocidas en el diccionario de RLA-ES.
+- Varias decenas de palabras añadidas de distintos tipos documentadas en otros registros
+  de GitHub (para ver la lista completa, consulta el enlace
+  https://github.com/sbosio/rla-es/issues?utf8=%E2%9C%93&q=is%3Aissue+milestone%3A%22Versi%C3%B3n+2.1%22+)
+
 Versión 2.0:
 - Cambio de la versión 0.9 a 2.0 para sincronizar numeración en complementos
   de Apache OpenOffice/LibreOffice y Mozilla, y por los cambios producidos en
