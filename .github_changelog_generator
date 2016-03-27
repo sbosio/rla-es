@@ -1,3 +1,4 @@
+header=# Registro de cambios
 bug-prefix=**Errores corregidos**
 enhancement-prefix=**Mejoras implementadas**
 issue-prefix=**Issues cerrados**

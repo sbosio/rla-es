@@ -1,17 +1,20 @@
-# Change Log
+# Registro de cambios
 
-## [Unreleased](https://github.com/sbosio/rla-es/tree/HEAD)
-
+## [v2.1](https://github.com/sbosio/rla-es/tree/v2.1) (2016-03-27)
 **Mejoras implementadas**
 
 - Zarautz es nombre oficial de topónimo en España [\#69](https://github.com/sbosio/rla-es/issues/69)
 - Añadir descripción en inglés a description.xml [\#54](https://github.com/sbosio/rla-es/issues/54)
+- Cambio de la marca OpenOffice.org a Apache OpenOffice [\#52](https://github.com/sbosio/rla-es/issues/52)
+- Compendio de palabras faltantes de la Wikipedia en castellano  [\#24](https://github.com/sbosio/rla-es/issues/24)
 - Palabras faltantes en el diccionario [\#6](https://github.com/sbosio/rla-es/issues/6)
 - Palabras para incluir en el diccionario [\#5](https://github.com/sbosio/rla-es/issues/5)
+- Palabras faltantes en 0.7 [\#4](https://github.com/sbosio/rla-es/issues/4)
 
 **Errores corregidos**
 
 - Arreglar desastre en tratamiento de topónimos [\#68](https://github.com/sbosio/rla-es/issues/68)
+- El cambio de codificación del archivo hyph\_es\_ANY.dic puede ocasionar mal funcionamiento de la separación silábica [\#49](https://github.com/sbosio/rla-es/issues/49)
 
 ## [v2.0](https://github.com/sbosio/rla-es/tree/v2.0) (2015-12-05)
 **Mejoras implementadas**
