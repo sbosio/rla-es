@@ -4127,6 +4127,7 @@ dermatoesqueleto/S
 dermesto/S
 derramamiento/S
 derrame/S
+derrape/S
 derrelicto/S
 derretido/S
 derretimiento/S
@@ -10529,7 +10530,7 @@ rapado/S
 rapamiento/S
 rapapolvo/S
 rapavelas
-rape/gS
+rape/S
 rapé/S
 rápido/S
 rapista/S

@@ -1,0 +1,1056 @@
+[33mcommit 7d2d837f19511f0a39fb6011cb1a1dac5b0e1e56[m
+Merge: 34a1aae a741ae5
+Author: Almorca <almorca@gmail.com>
+Date:   Sat Mar 26 18:57:05 2016 +0100
+
+    Cambios bug #24. Palabras faltantes en la Wikipedia
+
+[33mcommit 34a1aaef0a4b7b550f2f1393c71c63a8efc2f0ed[m
+Merge: a17f240 dd0872b
+Author: Almorca <almorca@gmail.com>
+Date:   Sat Mar 26 18:34:09 2016 +0100
+
+    Cambios bug #24. Palabras faltantes en la Wikipedia. Últimas palabras.
+
+[33mcommit a741ae5533a09dfa1ddde1f563efa586e4e62e6d[m
+Author: Ezequiel Pérez Dittler <ezeperez26@users.noreply.github.com>
+Date:   Fri Mar 25 13:26:00 2016 -0300
+
+    Issue #4 - Agrego 'recambios'
+
+[33mcommit 406110f1dd124bd68b7baaf4a0610933459ce02e[m
+Author: Ezequiel Pérez Dittler <ezeperez26@users.noreply.github.com>
+Date:   Wed Mar 23 08:33:28 2016 -0300
+
+    Agrego fechas a las publicaciones anteriores que encontré en Forja Red Iris y el repositorio de extensiones de Apache OpenOffice
+
+[33mcommit 56d645f1903cc9a21bd6785e509ea876a4c620fb[m
+Author: Ezequiel Pérez Dittler <ezeperez26@users.noreply.github.com>
+Date:   Tue Mar 22 20:14:47 2016 -0300
+
+    Primera version del changelog generado automáticamente
+
+[33mcommit fdcfb2f1bb94fc06d0305930f81e2a276f81698c[m
+Merge: c334f36 8b8d579
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Mon Mar 21 18:32:58 2016 +0100
+
+    Merge pull request #71 from ezeperez26/issue_4.1
+    
+    Issue #4 - Agrego las últimas 5 palabras
+
+[33mcommit 8b8d5791194b81d6b7c3713e31101dddea5369c0[m
+Author: Ezequiel Pérez Dittler <ezeperez26@users.noreply.github.com>
+Date:   Sun Mar 20 19:21:55 2016 -0300
+
+    Corrijo errores del commit anterior
+
+[33mcommit c334f36c20dbc2a904a85c43fed08bd3517313a1[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sun Mar 20 20:39:37 2016 +0100
+
+    Issue #5 - Añado el nombre propio, única palabra que falta por añadir de las analizadas
+
+[33mcommit 2af44fc03193948951467c6674a345e1dae7766b[m
+Author: Ezequiel Pérez Dittler <ezeperez26@users.noreply.github.com>
+Date:   Sun Mar 20 10:12:32 2016 -0300
+
+    Issue #4 - Agrego las últimas 5 palabras
+
+[33mcommit 9a189ea5e136233b2358d02a32ac293d80bd50d1[m
+Merge: 3ff5308 21622d7
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sun Mar 20 00:13:06 2016 +0100
+
+    Merge pull request #70 from ezeperez26/issue_4.1
+    
+    Issue #4  - Agrego otras 9 palabras
+
+[33mcommit 21622d7a13e4c75255edf77238a2abb2b6f22dd3[m
+Author: Ezequiel Pérez Dittler <ezeperez26@users.noreply.github.com>
+Date:   Sat Mar 19 19:55:41 2016 -0300
+
+    Issue #4  - Agrego otras 9 palabras
+
+[33mcommit 3ff53081b5b0d9a00d5c9161968042ac45526e93[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sat Mar 19 23:27:30 2016 +0100
+
+    Issue #5 - protégeme y autoflagelarse, con cambios en el afijo Í de todas las variantes
+
+[33mcommit fd3a16abae41dc12aa5a3c33fa7d3aabc1ed989c[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sat Mar 19 22:56:35 2016 +0100
+
+    Issue #68 - Segunda parte, ficheros de entidades territoriales que ya no son útiles
+
+[33mcommit bf4997679cd6f497a3b6d3635ea96bd9ae546a49[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sat Mar 19 22:51:35 2016 +0100
+
+    Issue #69 - Topónimo de Zarauz en euskera
+
+[33mcommit fe43817092d45e10969f5f695a32f10b00ef4f71[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sat Mar 19 22:13:44 2016 +0100
+
+    Issue #68 - Primera parte, cambios en el script de generación del diccionario
+
+[33mcommit a17f240e1d6c1ff08b9a055e72667b4e31958223[m
+Author: Almorca <almorca@gmail.com>
+Date:   Fri Mar 18 20:50:04 2016 +0100
+
+    Cambios bug #24. Palabras faltantes en la Wikipedia
+
+[33mcommit 126ca507b444714ec418ee0276b491ea148d70a5[m
+Author: Almorca <almorca@gmail.com>
+Date:   Fri Mar 18 20:44:23 2016 +0100
+
+    Cambios bug #24. Palabras faltantes en la Wikipedia
+
+[33mcommit dd0872b3227dda6af36e5bec4f54d2334c7eac25[m
+Merge: 64c83bc bd37714
+Author: Almorca <almorca@gmail.com>
+Date:   Wed Mar 16 17:59:26 2016 +0100
+
+    Merge pull request #66 from ezeperez26/issue_4.1
+    
+    Issue #4 - Agrego otras 8 palabras
+
+[33mcommit bd37714f846df328100d2f1854b933aca488662a[m
+Author: Ezequiel Pérez Dittler <ezeperez26@users.noreply.github.com>
+Date:   Tue Mar 15 19:59:04 2016 -0300
+
+    Issue #4 - Agrego sufijo para que reconozca la palabra 'musculación'
+
+[33mcommit 41a1e09dc21e74bc609fd2721ce990dfb0cae4c1[m
+Author: Ezequiel Pérez Dittler <ezeperez26@users.noreply.github.com>
+Date:   Wed Feb 17 00:17:02 2016 -0300
+
+    Issue #4 - Agrego mapear (y conjugaciones), megalómano, muñequero, optimización, papiroflexia, planificador y porrón
+
+[33mcommit 64c83bc3e08dddf707081dc9cf694f12f2aa5250[m
+Merge: 4633014 b5a9256
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Wed Feb 17 00:11:40 2016 +0100
+
+    Merge pull request #65 from ezeperez26/issue_4
+    
+    Issue #4 - Agrego otras 10 palabras - Muchas gracias, he revisado los cambios y todo lo veo bien.
+
+[33mcommit 4633014e743a4eb7dd5dac2da9e41e1ce6fb8942[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Wed Feb 17 00:04:14 2016 +0100
+
+    Issue #5 - Colección de palabras, incluyendo reglas adicionales en el afijo Í de todas las variantes regionales
+
+[33mcommit b5a925687ba0e4b98c0885809d9945b59139cca0[m
+Author: Ezequiel Pérez Dittler <ezeperez26@users.noreply.github.com>
+Date:   Sun Feb 14 12:05:24 2016 -0300
+
+    Issue #4 - Agrego las palabras correduría, demagógico/a, domiciliación, fumigación, hipermercado, inalámbrico/ca, incremental, infrautilizar, ínfula, ingesta.
+
+[33mcommit dcf377a229a48d96cf146526f38018bb487473b9[m
+Merge: 30e74c4 289c376
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sat Feb 13 22:33:14 2016 +0100
+
+    Merge pull request #63 from ezeperez26/issue_4
+    
+    Issue #4, 9 palabras. Muchas gracias a @ezeperez26.
+
+[33mcommit 289c376810062886b756ee1fa58d9c07ab3182aa[m
+Author: Ezequiel Pérez Dittler <ezeperez26@users.noreply.github.com>
+Date:   Fri Feb 12 23:31:33 2016 -0300
+
+    Agrego las palabras amortiguación, casuístico, catadióptrico, catalogación, cedente, comprímelo, concienciación, contraprestación y copita
+
+[33mcommit 30e74c47f090a64e224b8d7cafe4a186bc8ccfbd[m
+Merge: 93f67d9 b4c07e7
+Author: Almorca <almorca@gmail.com>
+Date:   Thu Feb 11 21:49:00 2016 +0100
+
+    Merge pull request #58 from ezeperez26/script-make-dict
+    
+    Mejoras al código del script make_dict.sh
+
+[33mcommit b4c07e7f563f017c59fdf773e8e0fef53ae03be5[m
+Author: Ezequiel Pérez Dittler <ezeperez26@users.noreply.github.com>
+Date:   Wed Feb 10 23:41:28 2016 -0300
+
+    Ajusto en varias lineas a los comandos y strings que se exceden de 80 columnas
+
+[33mcommit 1c6e7adda4619a44ef5a3e54b3234371b374a91a[m
+Author: Ezequiel Pérez Dittler <ezeperez26@users.noreply.github.com>
+Date:   Wed Feb 10 23:26:31 2016 -0300
+
+    Junto los comandos que entran en una sola línea y corrijo otros comandos multilinea para estandarizar su orden (según guia de estilo de Google)
+
+[33mcommit b2890905fa59f62c01edb7b3fe4d73cd003ed1fb[m
+Author: Ezequiel Pérez Dittler <ezeperez26@users.noreply.github.com>
+Date:   Wed Feb 10 23:12:17 2016 -0300
+
+    Separo en varias lineas los comentarios y comandos cat-sed que superan las 80 columnas
+
+[33mcommit 93f67d978b9ce882e6e0b2f5dd7ff0c1295dee53[m
+Merge: 9172d34 1f6ec19
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Wed Feb 3 22:31:53 2016 +0100
+
+    Merge pull request #57 from ezeperez26/issue_5
+    
+    Agrego palabras que se encuentran en RAE y estarían disponible para todas las localizaciones
+
+[33mcommit 1f6ec19039698b4e69356c04af38a5cdedd4b82b[m
+Author: Ezequiel Pérez Dittler <ezeperez26@users.noreply.github.com>
+Date:   Mon Feb 1 08:45:36 2016 -0300
+
+    Issue #5 - Agrego todas las palabras que se encuentran en RAE y que estarían disponible para todas las localizaciones
+
+[33mcommit 9172d34b4e8166fd9a37560b0c1b91144609e5c8[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sat Jan 30 20:27:13 2016 +0100
+
+    Issue #5 - primer bloque
+
+[33mcommit f60ba447ae912f64ba8989eda80da1352f326bda[m
+Merge: 69a71e3 e83ceff
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sat Jan 30 18:54:53 2016 +0100
+
+    Merge pull request #53 from ezeperez26/issue_6
+    
+    Issue #6 - Añado el verbo transitivo "victimizar" y el adjetivo "ganoso"
+
+[33mcommit 69a71e3ea3633ab96a4e5ea4606d85d768c20313[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sat Jan 30 18:52:54 2016 +0100
+
+    Issue #54 - Descripción en inglés en description.xml para los complementos de LibreOffice/OpenOffice
+
+[33mcommit e83ceff400fbfeeb8a592bd1f0393f2ca34314da[m
+Author: Ezequiel Pérez Dittler <ezeperez26@users.noreply.github.com>
+Date:   Sat Jan 30 12:38:37 2016 -0300
+
+    Agrego el verbo transitivo victimizar con sus respectivas conjugaciones y el adjetivo ganoso con su género y plurales
+
+[33mcommit 190d1ed0c7c4cf9529aed300599210ff464b67c4[m
+Merge: de9e36f ccbd367
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sun Jan 17 12:29:28 2016 +0100
+
+    Merge pull request #51 from ezeperez26/issue_49
+    
+    Issue #49 - Revierto el cambio de ISO a UTF-8 en el archivo hyph_es_ANY.dic. ¡Gracias!
+
+[33mcommit de9e36f89fab51bc371266c53b11e8d31ecb8d4d[m
+Merge: 85dbc66 765f10d
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sun Jan 17 12:28:51 2016 +0100
+
+    Merge pull request #50 from ezeperez26/readme1
+    
+    Más información en el README añadida por ezperez26. ¡Muchas gracias!
+
+[33mcommit ccbd367992bb934847aede9b7c19a65f763931b3[m
+Author: Ezequiel Pérez Dittler <ezeperez26@users.noreply.github.com>
+Date:   Fri Dec 18 08:28:57 2015 -0300
+
+    Issue #49 - Revierto el cambio de ISO a UTF-8 en el archivo hyph_es_ANY.dic
+
+[33mcommit 765f10ddff27a1cd3a1bf9b68ec05940978c6258[m
+Author: Ezequiel Pérez Dittler <ezeperez26@users.noreply.github.com>
+Date:   Fri Dec 18 00:27:27 2015 -0300
+
+    Agrego más información al README
+
+[33mcommit 85dbc66ec0f8c5eff49a8ad4b49c9cfbf25b6f17[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sat Dec 5 21:40:48 2015 +0100
+
+    Issue #44 - Preparación de la publicación de la versión 2.0, cambio en README.md para forzar subida de etiqueta Git
+
+[33mcommit b725acb56306be0e531b35faf0964e1d728166eb[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sat Dec 5 19:38:35 2015 +0100
+
+    Issue #44 - Preparación de la publicación de la versión 2.0
+
+[33mcommit f96aac7504d3b4793291bebfdae13a4e7f386c7a[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sun Nov 29 22:50:33 2015 +0100
+
+    Issue #40 - Revisión de topónimos de España, y renombrado de los de Argentina para homogeneizar nombres de archivos para la 2.0
+
+[33mcommit eeda564b98053944a4621476e8c62ada2e61273a[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sun Nov 29 22:46:48 2015 +0100
+
+    Revert "Issue #39 - Más cambios en el script para permitir varios archivos con topónimos en sus directorios junto con otros que no se deben incluir"
+    
+    This reverts commit f189e7b1faf42320088dd84ccfa68bfe10977e2d.
+
+[33mcommit f189e7b1faf42320088dd84ccfa68bfe10977e2d[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sun Nov 29 22:46:09 2015 +0100
+
+    Issue #39 - Más cambios en el script para permitir varios archivos con topónimos en sus directorios junto con otros que no se deben incluir
+
+[33mcommit 42563974a598dfd151d2cb849d1a5969e639150c[m
+Author: Almorca <almorca@gmail.com>
+Date:   Mon Nov 9 18:50:05 2015 +0100
+
+    Cambio de la codificación de los ficheros de ISO a UTF-8. Faltaban ficheros de noRAE.
+
+[33mcommit cf39376bbe98f74bf52f9aa916aa88f4b34f8deb[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sun Nov 8 23:02:31 2015 +0100
+
+    Issue #29 - Testear en diversas localizaciones
+
+[33mcommit 924bffab3f9d3770deb05046fbe43f12f6c6f1be[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sun Nov 8 22:36:22 2015 +0100
+
+    Issue #1 - Palabras proporcionadas por KNTRO
+
+[33mcommit c75596218ec156bbf4820313733dadefc93c04a8[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sun Nov 8 22:35:48 2015 +0100
+
+    Issue #39 - Cambios en el script para incluir entidades territoriales - Versión provisional
+
+[33mcommit 2c2539683965fd51f3abd548e9b2f905cb42fc0b[m
+Merge: 41ead87 cc4e736
+Author: Almorca <almorca@gmail.com>
+Date:   Wed Nov 4 23:57:02 2015 +0100
+
+    Merge pull request #30 from eksperimental/patch-1
+    
+    Borrar faltantes_issue_11.txt
+
+[33mcommit 41ead870694ae9346d4d1d376663d24d73208a15[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sat Oct 31 19:16:47 2015 +0100
+
+    Issue @36 e issue #38 - revisión de entidades territoriales
+
+[33mcommit fbefdbfb7ca45ae34d440d2a878c8caab2e4b99c[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Wed Oct 28 00:23:15 2015 +0100
+
+    Issue #36 e issue #38 - Eliminar de NombresPropiosSiglas.txt los países incluidos en entidades-territoriales.txt y marcar posibles correcciones en ambos archivos
+
+[33mcommit 0c7a795a8c692e4667b6e0d397b702968d076ca6[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Tue Oct 27 23:07:08 2015 +0100
+
+    Issue 37 - Cambio de codificación de noRAE/NombresPropiosSiglas.txt a UTF-8
+
+[33mcommit be9c38e3fb2f6cfbe6a6dbe0bf66241e5cc83d5c[m
+Merge: 9d7b518 f97a6e7
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Tue Oct 27 19:38:43 2015 +0100
+
+    Merge pull request #35 from EquisTango/master
+    
+    Topónimos y gentilicios - integrado en el repositorio y creado issue #36 para eliminar países duplicados.
+
+[33mcommit f97a6e7748bd68063ea871f2980af3fdb575111f[m
+Author: Ernesto Nicolás Carrea <equistango@gmail.com>
+Date:   Tue Oct 27 11:22:47 2015 -0300
+
+    Rumanía
+
+[33mcommit e31f665d6ca564202486b18df4482d55561b4168[m
+Author: Ernesto Carrea <equistango@gmail.com>
+Date:   Fri Oct 16 15:11:07 2015 -0300
+
+    bareiní -> bahreiní.
+
+[33mcommit 4d4e25b7f37a89825e833e3f108c3dd6e80f1a2e[m
+Author: Ernesto Carrea <equistango@gmail.com>
+Date:   Thu Oct 15 15:06:56 2015 -0300
+
+    Cambio de codificación a UTF-8.
+
+[33mcommit 105aae1dbf905490ce16afb8d9d4bc4733fb3285[m
+Author: Ernesto Carrea <equistango@gmail.com>
+Date:   Wed Oct 14 09:44:50 2015 -0300
+
+    Entidades territoriales de Argentina.
+
+[33mcommit e41eb21e3cd3ce14d68dab24e73a18ab8c478f8f[m
+Author: Ernesto Carrea <equistango@gmail.com>
+Date:   Wed Oct 14 09:43:39 2015 -0300
+
+    Nombres oficiales de los países y estados reconocidos por la ONU.
+
+[33mcommit e1204b9a80942f42f90b9d18009244249fc16cdc[m
+Author: Ernesto Carrea <equistango@gmail.com>
+Date:   Wed Oct 14 09:21:57 2015 -0300
+
+    Gentilicios no RAE.
+
+[33mcommit 0aab208bd43b949441f4fc2e4cf8a69098017d2f[m
+Author: Ernesto Carrea <equistango@gmail.com>
+Date:   Wed Oct 14 09:21:38 2015 -0300
+
+    Gentilicios RAE de todos los países del mundo.
+
+[33mcommit 14f7734b702782b30a44156f2d4de58d500a8f62[m
+Author: Ernesto Carrea <equistango@gmail.com>
+Date:   Tue Oct 13 14:55:40 2015 -0300
+
+    aeróbico, trazable/trazabilidad, categorizar/categorización,
+    digitalizar/digitalización, normalizar/normalización.
+
+[33mcommit 9d7b51829c7862ed2aff282b06f41a33779607a1[m
+Author: Almorca <almorca@gmail.com>
+Date:   Mon Oct 12 17:53:13 2015 +0200
+
+    Cambio de la codificación de los ficheros de ISO a UTF-8.
+
+[33mcommit be3a34b29503a4350606db38dd979eb9c31d3bcc[m
+Author: Almorca <almorca@gmail.com>
+Date:   Mon Sep 7 23:45:32 2015 +0200
+
+    Cambio los ficheros de afijos locales de parches sobre el fichero genérico a ficheros completos de manera que sea más fácil su mantenimiento y el pasar el diccionario a formato UTF-8.
+
+[33mcommit cc4e736769343844be33a2fdb8721c414f8c9704[m
+Author: eksperimental <eksperimental@users.noreply.github.com>
+Date:   Tue Jun 16 07:01:14 2015 +0700
+
+    Delete faltantes_issue_11.txt
+    
+    como propuesto en https://github.com/sbosio/rla-es/issues/25
+
+[33mcommit 32c838310ef4781c330cf64c58039e6bb99d9513[m
+Author: Santiago Bosio <santiago.bosio@gmail.com>
+Date:   Sun Apr 26 12:13:24 2015 -0300
+
+    En el día de la visibilidad lésbica, añado el adjetivo 'lésbico' y sus formas derivadas, y 'safismo' entre los nombres masculinos. Cierra el bug #27.
+
+[33mcommit f2e3014b29715febf3099626368db1bbaa4f5545[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sun Mar 8 22:40:07 2015 +0100
+
+    Actualización de versión en los ficheros que acompañan o declaran las extensiones de OpenOffice.org / LibreOffice
+
+[33mcommit 5f09a9d2cfbf991848f5f3f5c112f2810ead1ee3[m
+Author: Almorca <almorca@gmail.com>
+Date:   Sat Feb 7 19:33:18 2015 +0100
+
+    Bug #682 - Subo los cambios correspondientes a las palabras que quedaban pendientes.
+
+[33mcommit e5f1651dbb83f5dd58209e1d4b35ff585d9d7179[m
+Author: Almorca <almorca@gmail.com>
+Date:   Thu Feb 5 23:35:17 2015 +0100
+
+    Bug #682 - Subo los cambios correspondientes a las palabras que comienzan por i.
+
+[33mcommit 8737de7187f5da10a682426efa99e6fc569ac972[m
+Author: Almorca <almorca@gmail.com>
+Date:   Tue Feb 3 20:50:28 2015 +0100
+
+    Bug 16 - Se suben las versiones locales del fichero de afijos.
+
+[33mcommit 0b06071608701facd989113c1dff8086e416c31d[m
+Author: Santiago Bosio <santiago.bosio@gmail.com>
+Date:   Mon Aug 25 20:35:06 2014 -0300
+
+    Corrección del problema #2
+
+[33mcommit ffcaf6d4919c46eaf27065c78e4d7dbf2c7b4de8[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sun Aug 17 17:30:16 2014 +0200
+
+    Bug 682 de Forja - letras f, g y h
+
+[33mcommit c8653d48e65342cce75378206c9b16227c6984f1[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sun Aug 17 17:21:55 2014 +0200
+
+    Extensión de regla de afijos para el verbo guardar y otros con terminación -ardar
+
+[33mcommit 4c1ffdbea210e5725a5e7d25ebcae998b3fe5a52[m
+Author: Ricardo Palomares <rpmdisguise-java@yahoo.es>
+Date:   Sun Aug 17 16:13:36 2014 +0200
+
+    Bug 682 de Forja - letra e
+
+[33mcommit 455e9a5854b60b3259de96ff15f1d15389b8257d[m
+Author: sbosio <santiago.bosio@gmail.com>
+Date:   Sat Aug 16 22:45:03 2014 -0300
+
+    Corrección del issue #3
+
+[33mcommit 6723e7ccd7977513fba6de2b929c151a580f62fc[m
+Author: Santiago Bosio <santiago.bosio@gmail.com>
+Date:   Sat Aug 16 18:31:39 2014 -0300
+
+    Corrección del issue #7
+
+[33mcommit d4b0ff6a433d397dfffb664fb5c6845b7d445ce9[m
+Author: Santiago Bosio <santiago.bosio@gmail.com>
+Date:   Sat Aug 16 18:09:57 2014 -0300
+
+    Agrego el archivo .gitignore y el listado filtrado de lemas faltantes del issue #11
+
+[33mcommit 527219e4bc31378fa1d4a27744b203b5ba7bbb63[m
+Author: Santiago Bosio <santiago.bosio@gmail.com>
+Date:   Sat Aug 16 09:38:29 2014 -0300
+
+    Corrección bug #10 (https://github.com/sbosio/rla-es/issues/10)
+
+[33mcommit 7dfd4df1b05ea4e972cd15c3275261ee9d51cafa[m
+Author: almorca <almorca@despacho>
+Date:   Fri Jul 25 19:45:11 2014 +0200
+
+    Bug 682 - Arreglo los errores correspondientes a las palabras que comienzan por l.
+
+[33mcommit 83d7e6a99a36e6ac3df1dbd532ad1b9be0bb32be[m
+Author: Santiago Bosio <santiago.bosio@gmail.com>
+Date:   Mon Jul 21 10:43:28 2014 -0300
+
+    Agrego el archivo README para Github
+
+[33mcommit 1c30aa03e7b49380e8533cab28c3c420e5b3bb88[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sat Mar 15 16:43:30 2014 +0000
+
+    Bug 682 - Arreglo los errores correspondientes a las palabras que comienzan por m.
+
+[33mcommit fce1f1ab119f12881be66cf31a1de7ba4867bf79[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Tue Feb 11 22:40:23 2014 +0000
+
+    Bug 682 - Arreglo los errores correspondientes a las palabras que comienzan por n y o.
+
+[33mcommit 0611f57e39a6a5e1fb511f0881212ba6d4d187b2[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sun Feb 2 18:21:07 2014 +0000
+
+    Bug 750 - Arreglo el bug.
+
+[33mcommit 061db49ab676b7d9ff6760af17c73eb31c7ef2f1[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sun Feb 2 18:13:01 2014 +0000
+
+    Bug 756 - Arreglo los errores correspondientes a este bug según la solución propuesta en el mismo.
+
+[33mcommit a0cfd32b9d23991c1634a28954a9912e111e6bb3[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sun Jan 19 20:40:49 2014 +0000
+
+    Bug 682 - Arreglo los errores correspondientes a las palabras del bug 682 que comienzan por p.
+
+[33mcommit d2e25b196369b61cd9fe3f66ec3aaf21fb991551[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Fri Dec 27 10:39:09 2013 +0000
+
+    Bug 682 - Arreglo los errores correspondientes a las palabras del bug 682 que comienzan por r.
+
+[33mcommit 372d1373de5906a0dfcc02f1303dbcbbb694128d[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sun Dec 22 21:57:32 2013 +0000
+
+    Bug 682 - Arreglo los errores correspondientes a las palabras del bug 682 que comienzan por s.
+
+[33mcommit 3f0f7b94012334cc2b7663ae5758097cffc30500[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sun Nov 10 20:38:22 2013 +0000
+
+    Bug 682 - Arreglo los errores correspondientes a las palabras del bug 682 que comienzan por t.
+
+[33mcommit c3bea0f09cabdec5200fbcc44f4fa0ce1dd8418d[m
+Author: rpalomares <rpalomares@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Fri Nov 1 20:20:28 2013 +0000
+
+    Bug 682 - Palabras del bug 682 que comienzan por d y devuelven más de 50.000 resultados en las búsquedas en Google, junto con un lema no incluido en el commit correspondiente a la letra c
+
+[33mcommit 5ee3ba8c300d1a3aeeeb10b1d696049fb29b6de0[m
+Author: rpalomares <rpalomares@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Tue Oct 8 21:50:12 2013 +0000
+
+    Bug 682 - Palabras del bug 682 que comienzan por c y devuelven más de 50.000 resultados en las búsquedas en Google
+
+[33mcommit 2a7e256da670e8f96f34c7215a93bd9debc2fe4a[m
+Author: rpalomares <rpalomares@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Sep 25 16:13:35 2013 +0000
+
+    Bug 682 - Palabras del bug 682 que comienzan por b y devuelven más de 50.000 resultados en las búsquedas en Google
+
+[33mcommit 653b1921a1a25a24575770585cf51328d9d1b646[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Mon Sep 23 21:26:34 2013 +0000
+
+    Bug 682 - Palabras del bug 682 que comienzan por v y w.
+
+[33mcommit eb6ca54613fde4da453085bb47c2b2a799a7e608[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Mon Sep 23 21:01:20 2013 +0000
+
+    Deshaciendo la revisión 77
+
+[33mcommit 544cc7f769e4c5d3227621aa53f5c9d873ce8507[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sun Sep 15 22:09:42 2013 +0000
+
+    Bug 682 - Palabras del bug 682 que comienzan por v y w.
+
+[33mcommit 551676a28fd1e61142213e1983956030eb0a75e9[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Tue Sep 10 21:35:17 2013 +0000
+
+    Bug 682 - Palabras del bug 682 que comienzan por v y w.
+
+[33mcommit b32a6b9eeb8a0fbcbdab697aef73b86d4347d5ee[m
+Author: rpalomares <rpalomares@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sat Sep 7 23:40:57 2013 +0000
+
+    Bug 682 - Palabras del bug 682 que comienzan por a y devuelven más de 50.000 resultados en las búsquedas en Google
+
+[33mcommit 3d2dcde8985935ebe4c1458e3647c1ecb7cd479a[m
+Author: rpalomares <rpalomares@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sat Jul 27 20:17:15 2013 +0000
+
+    Cambio de prueba en index.html para ver si se refleja automáticamente en la web
+
+[33mcommit 0ffab219264aa4e6cd9bdd4ec8cbfc6c9b37fa46[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Jul 24 22:10:41 2013 +0000
+
+    Añado unas pocas palabras nuevas.
+
+[33mcommit c23a1f6231acc01b0a022f06a275ebab5b22bc16[m
+Author: rpalomares <rpalomares@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Fri Jul 19 10:48:22 2013 +0000
+
+    Y esta vez esperemos que sea la última: más correcciones en el script PHP y, en consecuencia, en los ficheros de sinónimos
+
+[33mcommit 783bda9f6aed280f4a3c53dafab466f8e4408111[m
+Author: rpalomares <rpalomares@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Jul 17 22:44:36 2013 +0000
+
+    Bug 718 - una corrección más en el script PHP y en los archivos del tesauro
+
+[33mcommit 496fce38e6b6c7561820be6b1e2535b92229f774[m
+Author: rpalomares <rpalomares@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Jul 17 12:15:32 2013 +0000
+
+    Bug 744 - Cambio en el ChangeLog
+
+[33mcommit 6c22f5a2f3b4ac65ed619f579b8ecf3febf01e44[m
+Author: rpalomares <rpalomares@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Jul 17 11:13:24 2013 +0000
+
+    Bug 718 - corrección en la codificación del script PHP y de los archivos del tesauro
+
+[33mcommit 7b63e87266e128ffb20f6ee08ba488ce0c55eac6[m
+Author: rpalomares <rpalomares@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Tue Jul 16 12:21:26 2013 +0000
+
+    Bug 744 - Publicación de la versión 0.7, fase 1
+
+[33mcommit 35034dd0e22fabe7c12e5123183b5db4dcf9e82d[m
+Author: rpalomares <rpalomares@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Tue Jul 16 12:18:55 2013 +0000
+
+    Bug 718 - Script para corregir los archivos de sinónimos, reorganización de los archivos correspondientes y actualización de los archivos de sinónimos a la última versión disponible
+
+[33mcommit 040f2dbad0b73a27c7569aa778bf3fb563f06c97[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sun Apr 21 14:51:25 2013 +0000
+
+    Añado unas pocas palabras nuevas y añado conjugaciones que faltaban a algunos verbos.
+
+[33mcommit ee03a6003ec38abbe7c502cbacde8dc99c0d7f81[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sun Mar 24 22:56:24 2013 +0000
+
+    Soluciono el bug 718. Había varias palabras que aparecían repetidas en el fichero de tesauro.
+
+[33mcommit cc6f99e7dcf23d09b6df318bff0ce3a79b6b4890[m
+Author: rpalomares <rpalomares@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sun Feb 24 22:13:25 2013 +0000
+
+    Añado la bandera v (prefijo contra-) a la palabra réplica
+
+[33mcommit 14e0235a737c0d85ccbc0f4e37199852a90c4d11[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sun Feb 24 20:51:31 2013 +0000
+
+    Elimino la palabra stock por estar propuesta para ser suprimida por parte de la RAE.
+
+[33mcommit 93091f5932e33f42bb4a1de785b34eb9c3b6791b[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sun Feb 24 20:49:23 2013 +0000
+
+    Modifico en el fichero de afijos la regla que genera las palabra que comienzan por contra para solucionar los casos en que la palabra comience por r.
+
+[33mcommit 2cfb166f371319e43c1c96a95986a077e6434696[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sun Feb 24 20:38:41 2013 +0000
+
+    Se resuelven los problemas detectados por Ricardo en el bug 725.
+
+[33mcommit f51e824333015035379e9a6d1ddece943ad81f58[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Feb 20 23:55:50 2013 +0000
+
+    Resuelvo algún problema con el bug 710.
+
+[33mcommit 43de2b78657023c70a0cb286f237921e323f241b[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Feb 20 23:49:43 2013 +0000
+
+    Actualizo los ficheros de afijos locales y soluciono el bug 710.
+
+[33mcommit 4642f2a2d2b916fab4ebf76886d7dbcfc6b82629[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Tue Feb 19 23:22:40 2013 +0000
+
+    Añado las palabras que faltaban del bug 725 y alguna nueva. Los nombres de barrios y los nombres de personas todavía no los he añadido.
+
+[33mcommit d00e2e1e5d54ecb55001d3cfd324e2f471bd85a0[m
+Author: rpalomares <rpalomares@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Mon Feb 18 18:18:22 2013 +0000
+
+    Bug 678 - Revisión de abreviaturas
+
+[33mcommit 8758514f9cc6607c06cc321c6ce7b49f3d2f3493[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Feb 13 23:00:00 2013 +0000
+
+    Añado nuevas palabras al diccionario. Añado el prefijo contra- y modifico la regla de formación de plurales para que sea correcta para palabras terminadas en -x.
+
+[33mcommit d0910b2df7dcfc972744b209849f82da65d7f5b2[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Mon Feb 11 22:41:11 2013 +0000
+
+    Se resuelve el bug #726 añadiendo como una nueva palabra el plural de las palabras acabadas en 'yod' que hacen su plural en -es.
+
+[33mcommit afcbe790c020ed8b0e5a036ab36182338e9b99d8[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sun Dec 9 23:49:59 2012 +0000
+
+    Añado la opción --ignore-whitespace al comando patch para evitar problemas con los espacios a la hora de generar diccionarios locales.
+
+[33mcommit 7fc309b10fe8b1451ff6f33d28c3e0a1da1b23ca[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sun Dec 9 23:47:36 2012 +0000
+
+    Añado nuevas palabras, la mayoría correspondientes al bug #725.
+
+[33mcommit 7c480cd03295d8d5ac1f78b117166f754ae44abe[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sun Nov 18 22:41:17 2012 +0000
+
+    Añado nuevas palabras, la mayoría correspondientes al bug #725.
+
+[33mcommit 5fced8b9cec61bab769eaab5fe0e452c252a30fd[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Nov 7 21:23:59 2012 +0000
+
+    Se añaden nuevos adjetivos propuestos por Kantabrigian KNTRO
+
+[33mcommit dd043acc5d9159d6c8dec2ddb1f98fec432e9bce[m
+Author: almorca <almorca@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Mon Nov 5 22:38:26 2012 +0000
+
+    Añado los adjetivos abertzale, estiloso y réflex y modifico rojo
+
+[33mcommit f4bdba34143f29b5b805f592bed1aad513aa380f[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Fri Oct 12 09:27:05 2012 +0000
+
+    Corrección enviada por Sergi Sole
+
+[33mcommit 84da5abac53f7689cb57b7da3182cbafbab97257[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sat Jun 30 13:22:09 2012 +0000
+
+    Corrección bug #716
+
+[33mcommit e80a7da34dd20ad908a7bb92b4f70419228a20ae[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sat Apr 14 19:01:48 2012 +0000
+
+    Modificación de los ficheros para la generación de la versión 0.6 de los diccionarios.
+
+[33mcommit 087f71fe214e6d59442c02e9ef83dcae852b52fb[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sat Apr 14 18:44:05 2012 +0000
+
+    Actualización del tesauro. Bug #711.
+
+[33mcommit a99898a133a8bd3541dad5d60b7312cb51bf96ab[m
+Author: rpalomares <rpalomares@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Thu Mar 29 11:42:19 2012 +0000
+
+    Bug #678 - Palabras mencionadas en el bug para su inclusión
+
+[33mcommit 7a6d9e4cec59a78c93e22fe2b32dbe28254f4d5d[m
+Author: rpalomares <rpalomares@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Mon Mar 26 21:45:57 2012 +0000
+
+    Resolución del bug #706 (corrección gracias a Santiago Bosio)
+
+[33mcommit 7b8a56557526c6f96607deb96d6f75d5cba4937c[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sun Mar 25 23:29:36 2012 +0000
+
+    Corrección del bug #709
+
+[33mcommit d87775923d7c77c5bab30d67f636d234a9aab49d[m
+Author: rpalomares <rpalomares@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Mon Mar 19 20:42:02 2012 +0000
+
+    Resolución del bug #706
+
+[33mcommit e2068ad181e5509f01649755e0bfa785f637ca5c[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Tue Nov 29 10:37:43 2011 +0000
+
+    Palabras contribuidas por Gonzalo Higuera Díaz
+
+[33mcommit b9d175e3b8035c9369abc7a2344ae481c67a9b02[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Mon May 16 11:58:41 2011 +0000
+
+    Corrección de un error introducido en la revisión 39. Gracias a Alejandro Moreno.
+
+[33mcommit c7e8e4b0a57d4de32664dbcf607b3612822e6b3b[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Mon May 16 10:25:29 2011 +0000
+
+    Corrección para el bug #662.
+
+[33mcommit c67ff737a5e3dcbb849f17ca837e5c748efaccd5[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Tue May 10 15:18:17 2011 +0000
+
+    Corrección para el bug #658
+
+[33mcommit 35df25225a671322997f83284806a353a8c28e55[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Tue May 10 14:49:17 2011 +0000
+
+    Corrección final para el bug #622 - ¡Gracias Ricardo!
+
+[33mcommit 74d91f8a1e71a49952506fe4cd16aa496e079b26[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Tue May 10 14:38:31 2011 +0000
+
+    Corrección del bug #660 - Palabras contribuidas por Alejandro Moreno (almorca)
+
+[33mcommit 5fbdeffdd691bd0fcd7d935e0e895eb82acdcdc3[m
+Author: rpalomares <rpalomares@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sat Apr 23 12:13:53 2011 +0000
+
+    Bug 622 - Sustitución de ciertos adjetivos terminados en -ble por la regla T en el verbo correspondiente
+
+[33mcommit 87914dbc9d1a16e9db7523162aaa9f24b7fb761f[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Tue Feb 22 15:42:25 2011 +0000
+
+    Modificaciones para las versiones 0.5 del diccionario
+
+[33mcommit bd91b0b04221fc7ce758eeadc9a72107e335910a[m
+Author: olea <olea@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Feb 2 16:42:01 2011 +0000
+
+    cambio solicitado por JZA
+
+[33mcommit 2aef7a36f417a52e199f1667173d7e3368c6d440[m
+Author: olea <olea@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Feb 2 10:31:00 2011 +0000
+
+    por solicitud de JZA
+
+[33mcommit 08ce8de3a519c889416b4a32b287a82136c63488[m
+Author: olea <olea@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Thu Jan 20 11:53:25 2011 +0000
+
+    (otra) errata menor
+
+[33mcommit 76b5d52f27f71324c572172d9dbb1bc5ba6e99b1[m
+Author: olea <olea@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Thu Jan 20 11:51:22 2011 +0000
+
+    Errata menor
+
+[33mcommit 0450bbb328e778775c9f4905dd299eb30cb0bfcd[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Thu Jan 20 10:52:14 2011 +0000
+
+    Añadiendo toponimias al resto de las localizaciones (en proceso)
+
+[33mcommit 0e0bbcd3dd98018fa898fd090695719fa74ca973[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Jan 19 20:10:22 2011 +0000
+
+    Correcciones menores a la interfaz web
+
+[33mcommit 7c3fae43df698cee405093d9d6037401ab4968ac[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Jan 19 19:47:04 2011 +0000
+
+    Agregado de topónimos contribuidos por Ismael
+
+[33mcommit e3a59114f2e4a9c1b5f33000915f3d122b06481b[m
+Author: olea <olea@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Thu Jan 13 14:12:17 2011 +0000
+
+    A viewvc no le sienta bien el UTF-8
+
+[33mcommit 18df791335b1f8d3dd7667951bb2420b6367d746[m
+Author: olea <olea@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Thu Jan 13 14:08:40 2011 +0000
+
+    Primera lista de topónimos
+
+[33mcommit 2ce2354286a474cae44b8631cd04a29cafdeac35[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Thu Dec 30 20:57:47 2010 +0000
+
+    Activación del 'twofold stripping' para plurales. Preparación de la versión 0.4
+
+[33mcommit 0cf684eeebb31378c899321d78b7afe96a77fa13[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Dec 22 15:14:56 2010 +0000
+
+    Resolución del bug #529
+
+[33mcommit e0735711f9887393a345fc19fb5846db674cf07b[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Dec 22 14:00:23 2010 +0000
+
+    Resolución parcial del bug #622
+
+[33mcommit b84a0fefaac0ecc4c0ded6eee3377e6bcf2a1026[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Mar 31 21:29:53 2010 +0000
+
+    Corrección del bug #464
+
+[33mcommit 0eb8d7a22a58341700026e1b0ca38ab4b1013177[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Sat Mar 27 14:07:19 2010 +0000
+
+    Creación y modificación de herramientas
+
+[33mcommit 91b6949e5e8a81ef80e47741e28f000630ab9f9c[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Thu Jan 7 19:40:24 2010 +0000
+
+    Rla-es bug #434: zombi
+
+[33mcommit 63f416f04f7f53d320a836d0bc8eb1dc2bdd01c1[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Tue Nov 3 19:36:24 2009 +0000
+
+    Algunas actualizaciones
+
+[33mcommit f54082bcd186fee21d9a0e852b82d9302dce4c9d[m
+Author: guadalinex <guadalinex@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Oct 7 11:13:15 2009 +0000
+
+    Add first debianized package source code
+
+[33mcommit eb618561df628877cda171ee278f8522310cda3f[m
+Author: guadalinex <guadalinex@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Oct 7 11:10:38 2009 +0000
+
+    Remove bad added files
+
+[33mcommit f4d993ad2a4a58468dc635dbd61c55eb3e02da50[m
+Author: guadalinex <guadalinex@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Oct 7 10:53:56 2009 +0000
+
+    Added debian package source code
+
+[33mcommit 22ba854d2e771d607e831717f30f7f7158c0c681[m
+Author: guadalinex <guadalinex@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Oct 7 10:42:09 2009 +0000
+
+    Add source-code folder
+
+[33mcommit ed689ae4271f7b8080e4153df00fc1a60b1577d2[m
+Author: olea <olea@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Thu Jul 9 21:03:30 2009 +0000
+
+    nueva web
+
+[33mcommit 5dbd372475338f616ed9881ec76246b7aaf9e4af[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Thu Dec 4 15:18:47 2008 +0000
+
+    Agrego el nuevo fichero de patrones de separación silábica.
+
+[33mcommit fca81b63597aeb58a78f3af8f296431f0629c161[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Tue Dec 2 18:43:52 2008 +0000
+
+    Se añaden adverbios enviados por Gonzalo Higuera Díaz
+
+[33mcommit 0d80bda7aac22562018ed3da6675a2bee3ed7460[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Tue Dec 2 15:58:49 2008 +0000
+
+    Modificación de licencias y de la herramienta de generación de los paquetes para obtener extensiones para la versión 3.x de OOo.
+
+[33mcommit c244d726fb1ac764d598877dab53987b1dfd25e5[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Tue Dec 2 11:29:42 2008 +0000
+
+    Correcciones a los ficheros de afijos. Nuevas incorporaciones de palabras contribuidas por varios miembros.
+
+[33mcommit f888c05aa5810ce8199325b3ffc4889175f32c88[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Mon Aug 11 16:42:26 2008 +0000
+
+    Modificación del incorrecto encabezado de licencia.
+
+[33mcommit da389da004a4c3b867bd4a23b9c975cce159059f[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Fri Jun 20 16:16:24 2008 +0000
+
+    Filtrado de lemas desusados
+
+[33mcommit fd328e0d997aa2b3dad83263c1bc9a5f40f6ecd7[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Tue Mar 4 12:40:11 2008 +0000
+
+    Filtrado de lemas desusados, anticuados (avance del 42%).
+
+[33mcommit c7d9ec1b292ddd6bced93bedb38455dd106207e1[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Thu Feb 28 13:04:43 2008 +0000
+
+    Se añade el encabezado de licencia a todos los listados de lemas.
+
+[33mcommit 6ce05a62caba026f412817404b0a5a0fd3b4acc1[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Fri Feb 22 17:22:58 2008 +0000
+
+    Contribuciones de Gonzalo Higuera Díaz.
+
+[33mcommit 8a1540d37c742b8023bcef9e8a852f51fa09203d[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Thu Feb 21 20:43:10 2008 +0000
+
+    Corrección de una eliminación errónea al filtrar lemas.
+
+[33mcommit bf703f073d34a543d39c0f114c7229b0c8979951[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Thu Feb 21 19:55:26 2008 +0000
+
+    Filtrado de lemas desusados (avance del 40%)
+
+[33mcommit ca4bc63f33fe5773dfce900ec12bbb02653d8666[m
+Author: sbosio <sbosio@eaa681d4-987d-46d2-8cf3-7eae43186fd1>
+Date:   Wed Feb 20 20:33:51 2008 +0000
+
+    Importacion inicial

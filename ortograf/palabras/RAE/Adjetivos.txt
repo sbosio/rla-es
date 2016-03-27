@@ -3797,7 +3797,6 @@ desprotegido/GS
 desprovisto/GS
 después
 desquiciador/GS
-destacable/S
 destacado/GS
 destartalado/GS
 desternillante/S
