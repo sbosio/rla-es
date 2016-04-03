@@ -35,6 +35,7 @@ contraloría/S
 criandera/S
 cueriza/S
 diagramación/S
+disquera/S
 escondidas
 estiptiquez/S
 estrictez/S

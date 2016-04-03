@@ -63,6 +63,7 @@ mareomotriz/S
 melamínico/GS
 microinformático/GS
 monopólico/GS
+monotípico/S
 multidisciplinario/GS
 neoguineano/GS
 oligopólico/GS

@@ -328,7 +328,7 @@ camero/GS
 camionero/GS
 camisero/GS
 campechano/GS
-campeón/GS
+campeón/sGS
 campero/GS
 canario/GS
 canastero/GS
@@ -343,6 +343,7 @@ canillero/GS
 canino/GS
 canoero/GS
 cantador/GS
+cantautor/GS
 cantinero/GS
 cantonero/GS
 cantor/GS
@@ -872,6 +873,7 @@ garduño/GS
 gatero/GS
 génesis
 genético/GS
+geógrafo/GS
 gerente/GS
 gestor/GS
 gigantón/GS
@@ -882,6 +884,7 @@ glande/S
 gloria/S
 gobernador/sGS
 godo/GS
+goleador/GS
 golfo/GS
 golilla/S
 golillero/GS
@@ -904,6 +907,7 @@ grosella/S
 grueso/GS
 guajiro/GS
 guantero/GS
+guardameta/S
 guardarropa/S
 guardián/GS
 guarnicionero/GS
@@ -1099,6 +1103,7 @@ malva/S
 mamón/GS
 mampuesto/GS
 maná/S
+mánager
 mancebo/GS
 mandadero/gGS
 mandado/gGS
@@ -1385,6 +1390,7 @@ piscicultor/GS
 pistero/GS
 pitoflero/GS
 pituso/GS
+pívot
 piyama/S
 plagiario/GS
 planchador/GS
@@ -1690,10 +1696,10 @@ taquillero/GS
 tasador/GS
 tatarabuelo/GS
 tataranieto/GS
-tau
+tau/S
 taumaturgo/GS
 taurino/GS
-taus
+teclista/S
 técnico/GS
 teja/S
 tejedor/GS

@@ -22,6 +22,7 @@ cibercafé/S
 datáfono/S
 dimensionamiento/S
 direccionamiento/S
+exjugador/S
 fenólico/S
 flexómetro/S
 franquiciado/S

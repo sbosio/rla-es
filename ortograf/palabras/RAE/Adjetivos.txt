@@ -2601,6 +2601,7 @@ circunvecino/GS
 circunyacente/S
 cirenaico/GS
 cireneo/GS
+cirílico/GS
 cirrípedo/S
 cirrópodo/S
 cirroso/GS
@@ -2680,6 +2681,7 @@ codificador/GSgh
 coercible/kS
 coercitivo/GS
 coetáneo/SG
+cofundador/GS
 cogedero/GS
 cogedor/pGraS
 cogitabundo/GS
@@ -5525,6 +5527,7 @@ francisco/GS
 franco/GS
 francote/SG
 franqueable/kS
+franquista/S
 fraternal/S
 fraterno/GS
 fratricida/S
@@ -5623,6 +5626,7 @@ fusible/kS
 fusiforme/S
 fusilero/GS
 fustigador/GS
+futbolístico/GS
 fútil/S
 futurista/S
 futuro/SG
@@ -8413,6 +8417,7 @@ nacionalsocialista/S
 nadador/GS
 naguatlato/SG
 nahua/S
+náhuatl
 naipesco/GS
 najerano/GS
 najerino/GS
@@ -8514,6 +8519,7 @@ nematodo/S
 nemeo/GS
 nemoroso/GS
 neocatólico/SG
+neoclásico/SG
 neogranadino/GS
 neo/GS
 neolatino/SG
@@ -9700,6 +9706,7 @@ portante/Sk
 portátil/S
 porteador/SG
 portentoso/GS
+porteño/GS
 portera/p
 porteril/S
 portero/pGS
@@ -9983,6 +9990,7 @@ prosimio/S
 prospectivo/GS
 próspero/SG
 prostibulario/SG
+protagónico/S
 proteccionista/S
 protector/GS
 protectorio/GS
@@ -10023,6 +10031,7 @@ prudencial/S
 prudente/kS
 pruriginoso/GS
 prusiano/GS
+pseudónimo/S
 psicoanalista/S
 psicoanalítico/SG
 psicológico/SG
@@ -10227,6 +10236,7 @@ ranunculáceo/GS
 rapador/SG
 rapante/S
 rapaz/SG
+rapero/GS
 rápido/SG
 raposero/GS
 raposino/GS
@@ -12215,7 +12225,7 @@ tropeoleo/SG
 tropezador/GS
 tropezón/SG
 tropezoso/GS
-tropical/Sl
+tropical/sSl
 trópico/SG
 trotador/SG
 trovadoresco/GS
@@ -12629,6 +12639,7 @@ vigilante/S
 vigilativo/SG
 vigorizador/GS
 vigoroso/GS
+vikingo/GS
 vilipendiador/SG
 vilipendioso/SG
 villanesco/SG

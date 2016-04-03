@@ -30,6 +30,7 @@ chavo/GS
 chiche/SG
 cholo/GS
 chueco/GS
+congresional/S
 correntoso/GS
 coto/GS
 coyotero/GS

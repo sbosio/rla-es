@@ -37,6 +37,7 @@ chapín/GS
 choco/SG
 cholo/GS
 chueco/GS
+congresional/S
 correntoso/GS
 coyotero/GS
 droguero/GS

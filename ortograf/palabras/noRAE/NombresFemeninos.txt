@@ -35,6 +35,7 @@ personalización/S
 preproducción/S			# Contribuida por Sergio Medina
 reinvención/S
 sandwichera/S
+sismicidad/S
 sobreutilización/S
 subcultura/S
 subfamilia/S

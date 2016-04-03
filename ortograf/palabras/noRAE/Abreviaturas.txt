@@ -19,6 +19,7 @@ adv
 afmo/G
 ap
 apdo
+aprox
 Arq
 art
 atte
@@ -51,6 +52,7 @@ ctvo
 dcho/G
 del
 depto
+der
 diag
 dicc
 dir
@@ -77,6 +79,7 @@ geom
 gob
 gral
 gta
+hab
 hno/GS
 ib
 ibíd

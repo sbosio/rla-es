@@ -2529,7 +2529,7 @@ campanillero/S
 campanil/S
 campano/GSN
 campeador/S
-campeonato/S
+campeonato/sS
 campestre/S
 camping
 campo/NS
@@ -4127,6 +4127,7 @@ dermatoesqueleto/S
 dermesto/S
 derramamiento/S
 derrame/S
+derrape/S
 derrelicto/S
 derretido/S
 derretimiento/S
@@ -5960,6 +5961,7 @@ frambueso/S
 francolín/S
 franco/S
 frangollo/S
+franquismo
 franklin
 franqueamiento/S
 franqueo/S
@@ -6560,7 +6562,7 @@ herma/S
 hermetismo/S
 hermoseamiento/S
 herodes
-héroe/S
+héroe/tS
 heroísmo/S
 herpetismo/S
 herpil/S
@@ -6865,6 +6867,7 @@ imaginero/S
 imán/S
 imbornal/S
 imoscapo/S
+impacto/S
 impala/S
 impar
 imperativo/S
@@ -8633,6 +8636,7 @@ naranjo/S
 narcisismo/S
 narciso/SO
 narcotismo/S
+narcotráfico
 nardo/S
 narguile/S
 narigón/S
@@ -8660,6 +8664,7 @@ navarca/S
 naviculario/S
 navicular/S
 navío/S
+nazismo
 nearca/S
 neblí/S
 neceser/S
@@ -8713,6 +8718,7 @@ neuroepitelio/S
 neuroesqueleto/S
 neuroma/S
 neuróptero/S
+neutrón/S
 nevazo/S
 nevero/S
 newton
@@ -9616,6 +9622,7 @@ perno/S
 pero/aS
 perol/S
 peroné/S
+peronismo
 peróxido/S
 perpunte/S
 perrengue/S
@@ -10253,6 +10260,7 @@ protocloruro/S
 protocolo/S
 protomedicato/S
 protomédico/S
+protón/S
 protonotario/S
 protoplasma/S
 protosulfuro/S
@@ -10514,6 +10522,7 @@ rango/S
 rano/S
 ranúnculo/S
 raño/S
+rap/S
 rapabarbas
 rapacejo/S
 rapador/S
@@ -10521,7 +10530,7 @@ rapado/S
 rapamiento/S
 rapapolvo/S
 rapavelas
-rape/gS
+rape/S
 rapé/S
 rápido/S
 rapista/S
@@ -10598,6 +10607,7 @@ rebuscamiento/S
 rebusco/S
 rebuzno/S
 recado/S
+recambio/S
 recargador/S
 recatón/H
 recaudamiento/S
