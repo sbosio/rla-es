@@ -143,10 +143,10 @@ if [ ! -f ../afijos/l10n/$LOCALIZACION/afijos.txt ]; then
   # Si se solicitó un diccionario genérico, o la localización no ha
   # definido sus propias reglas para los afijos, utilizamos la versión
   # genérica de los ficheros.
-  ./remover_comentarios.sh < ../afijos/afijos.txt > $AFFIX
+  ./remover_comentarios.sh < ../afijos/afijos.txt > "$AFFIX"
 else
   # Se usa la versión de la localización solicitada.
-  ./remover_comentarios.sh < ../afijos/l10n/$LOCALIZACION/afijos.txt > $AFFIX
+  ./remover_comentarios.sh < ../afijos/l10n/$LOCALIZACION/afijos.txt > "$AFFIX"
 fi
 echo "¡listo!"
 
@@ -158,64 +158,64 @@ WLIST="$MDTMPDIR/wordlist.txt"
 echo -n "Creando la lista de lemas etiquetados... "
 
 # Palabras comunes a todos los idiomas, definidas por la RAE.
-cat ../palabras/RAE/*.txt | ./remover_comentarios.sh > $TMPWLIST
+cat ../palabras/RAE/*.txt | ./remover_comentarios.sh > "$TMPWLIST"
 
 if [ -d "../palabras/RAE/l10n/$LOCALIZACION" ]; then
   # Incluir las palabras de la localización solicitada, definidas por la RAE.
   cat ../palabras/RAE/l10n/$LOCALIZACION/*.txt \
     | ./remover_comentarios.sh \
-    >> $TMPWLIST
+    >> "$TMPWLIST"
 else
   # Diccionario genérico; incluir todas las localizaciones.
   cat $($FIND ../palabras/RAE/l10n/ -iname "*.txt" -and ! -regex '.*/\.svn.*') \
     | ./remover_comentarios.sh \
-    >> $TMPWLIST
+    >> "$TMPWLIST"
 fi
 
 if [ "$RAE" != "SÍ" ]; then
   # Incluir palabras comunes, no definidas por la RAE
-  cat ../palabras/noRAE/*.txt | ./remover_comentarios.sh >> $TMPWLIST
+  cat ../palabras/noRAE/*.txt | ./remover_comentarios.sh >> "$TMPWLIST"
 
   # Issue #39 - Incluir topónimos
   # Se especifica un prefijo de nombre de archivo porque hay directorios que
   # contienen archivos con explicaciones (p.e.: es_ES)
   cat ../palabras/toponimos/toponimos-*.txt \
     | ./remover_comentarios.sh \
-    >> $TMPWLIST
+    >> "$TMPWLIST"
 
   if [ -d "../palabras/noRAE/l10n/$LOCALIZACION" ]; then
     # Incluir las palabras de la localización solicitada.
     cat ../palabras/noRAE/l10n/$LOCALIZACION/*.txt \
       | ./remover_comentarios.sh \
-      >> $TMPWLIST
+      >> "$TMPWLIST"
 
     # Issue #39 - Incluir topónimos de la localización (pendiente de definir
     # condiciones de inclusión)
     cat ../palabras/toponimos/l10n/$LOCALIZACION/toponimos-*.txt \
       | ./remover_comentarios.sh \
-      >> $TMPWLIST
+      >> "$TMPWLIST"
   else
     # Diccionario genérico; incluir todas las localizaciones.
     cat $($FIND ../palabras/noRAE/l10n/ \
                -iname "*.txt" -and ! -regex '.*/\.svn.*') \
       | ./remover_comentarios.sh \
-      >> $TMPWLIST
+      >> "$TMPWLIST"
 
     # Issue #39 - Incluir topónimos de todas las localizaciones (pendiente de
     # definir condiciones de inclusión)
     cat $($FIND ../palabras/toponimos/l10n/ \
                -iname "toponimos-*.txt" -and ! -regex '.*/\.svn.*') \
       | ./remover_comentarios.sh \
-      >> $TMPWLIST
+      >> "$TMPWLIST"
   fi
 fi
 
 # Generar el fichero con la lista de palabras (únicas), indicando en la
 # primera línea el número de palabras que contiene.
 DICFILE="$MDTMPDIR/$LOCALIZACION.dic"
-sort -u < $TMPWLIST | wc -l | cut -d ' ' -f1 > $DICFILE
-sort -u < $TMPWLIST >> $DICFILE
-rm -f $TMPWLIST
+sort -u < "$TMPWLIST" | wc -l | cut -d ' ' -f1 > "$DICFILE"
+sort -u < "$TMPWLIST" >> "$DICFILE"
+rm -f "$TMPWLIST"
 echo "¡listo!"
 
 # Restauramos la variable de entorno LANG
@@ -360,9 +360,9 @@ cat ../docs/README_base.txt \
     /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
     /__LOCALE_TEXT__/ {s//$TEXTO_LOCAL/g; p; };
     /__COUNTRY__/ { s//$PAIS/g; p; }" \
-  > $MDTMPDIR/README.txt
+  > "$MDTMPDIR/README.txt"
 cp ../docs/Changelog.txt ../docs/GPLv3.txt ../docs/LGPLv3.txt \
-  ../docs/MPL-1.1.txt $MDTMPDIR
+  ../docs/MPL-1.1.txt "$MDTMPDIR"
 
 if [ "$VERSION" != "2" ]; then
   if [ "$COMPLETO" != "SÍ" ]; then
@@ -376,7 +376,7 @@ if [ "$VERSION" != "2" ]; then
         /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
         /__ICON__/ { s//$ICONO/g; p; };
         /__COUNTRY__/ { s//$PAIS/g; p; }" \
-      > $MDTMPDIR/dictionaries.xcu
+      > "$MDTMPDIR/dictionaries.xcu"
     cat ../docs/package-description.txt \
       | sed -n --expression="
         /__/! { p; };
@@ -386,7 +386,7 @@ if [ "$VERSION" != "2" ]; then
         /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
         /__ICON__/ { s//$ICONO/g; p; };
         /__COUNTRY__/ { s//$PAIS/g; p; }" \
-      > $MDTMPDIR/package-description.txt
+      > "$MDTMPDIR/package-description.txt"
   else
     DESCRIPCION="Español ($PAIS): Ortografía, separación y sinónimos"
     cat ../docs/dictionaries_full.xcu \
@@ -398,7 +398,7 @@ if [ "$VERSION" != "2" ]; then
         /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
         /__ICON__/ { s//$ICONO/g; p; };
         /__COUNTRY__/ { s//$PAIS/g; p; }" \
-      > $MDTMPDIR/dictionaries.xcu
+      > "$MDTMPDIR/dictionaries.xcu"
     cat ../docs/package-description_full.txt \
       | sed -n --expression="
         /__/! { p; };
@@ -408,12 +408,12 @@ if [ "$VERSION" != "2" ]; then
         /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
         /__ICON__/ { s//$ICONO/g; p; };
         /__COUNTRY__/ { s//$PAIS/g; p; }" \
-      > $MDTMPDIR/package-description.txt
+      > "$MDTMPDIR/package-description.txt"
     cp ../../separacion/hyph_es_ANY.dic \
-      ../../separacion/README_hyph_es_ANY.txt $MDTMPDIR
+      ../../separacion/README_hyph_es_ANY.txt "$MDTMPDIR"
     cp ../../sinonimos/palabras/README_th_es_ES.txt \
       ../../sinonimos/palabras/COPYING_th_es_ES \
-      ../../sinonimos/palabras/th_es_ES_v2.* $MDTMPDIR
+      ../../sinonimos/palabras/th_es_ES_v2.* "$MDTMPDIR"
   fi
   cat ../docs/description.xml \
     | sed -n --expression="
@@ -424,10 +424,10 @@ if [ "$VERSION" != "2" ]; then
       /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
       /__ICON__/ { s//$ICONO/g; p; };
       /__COUNTRY__/ { s//$PAIS/g; p; }" \
-    > $MDTMPDIR/description.xml
-  cp ../docs/$ICONO $MDTMPDIR
+    > "$MDTMPDIR/description.xml"
+  cp ../docs/$ICONO "$MDTMPDIR"
   mkdir "$MDTMPDIR/META-INF"
-  cp ../docs/manifest.xml $MDTMPDIR/META-INF
+  cp ../docs/manifest.xml "$MDTMPDIR/META-INF"
 fi
 
 DIRECTORIO_TRABAJO="$(pwd)"
@@ -440,12 +440,12 @@ else
   ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.oxt"
 fi
 
-cd $MDTMPDIR
-$ZIP -r -q $ZIPFILE *
-cd $DIRECTORIO_TRABAJO
+cd "$MDTMPDIR"
+$ZIP -r -q "$ZIPFILE" *
+cd "$DIRECTORIO_TRABAJO"
 echo "¡listo!"
 
 # Eliminar la carpeta temporal
-rm -Rf $MDTMPDIR
+rm -Rf "$MDTMPDIR"
 
 echo "¡Proceso finalizado!"
