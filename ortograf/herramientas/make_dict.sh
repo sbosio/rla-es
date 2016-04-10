@@ -154,7 +154,6 @@ echo "¡listo!"
 # comunes a todos los idiomas, más los de la localización solicitada.
 # Si se crea el diccionario genérico, se incluyen todas las localizaciones.
 TMPWLIST="$MDTMPDIR/wordlist.tmp"
-WLIST="$MDTMPDIR/wordlist.txt"
 echo -n "Creando la lista de lemas etiquetados... "
 
 # Palabras comunes a todos los idiomas, definidas por la RAE.
@@ -435,7 +434,7 @@ else
 fi
 
 cd "$MDTMPDIR"
-$ZIP -r -q "$ZIPFILE" *
+$ZIP -r -q "$ZIPFILE" ./*
 cd "$DIRECTORIO_TRABAJO"
 echo "¡listo!"
 
