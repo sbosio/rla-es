@@ -1,7 +1,7 @@
-Ortografía 2.1
+Ortografía 2.1.1
 
 Para notificar errores y solicitar la inclusión de nuevos términos,
-hacer clic sobre el enlace. 
+hacer clic sobre el enlace.
 
 Esta extensión añade la compatibilidad en idioma español de __COUNTRY__
 para la herramienta de revisión ortográfica.

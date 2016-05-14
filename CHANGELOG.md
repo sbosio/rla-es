@@ -1,4 +1,7 @@
 # Registro de cambios
+## [v2.1.1](https://github.com/sbosio/rla-es/tree/v2.1.1) (2016-05-14)
+**Errores corregidos**
+- No funcionan los Sinónimos en v2.0 en UbuntuStudio 16.04, pero anterior 0.8 si [\#84](https://github.com/sbosio/rla-es/issues/84)
 
 ## [v2.1](https://github.com/sbosio/rla-es/tree/v2.1) (2016-03-27)
 **Mejoras implementadas**
