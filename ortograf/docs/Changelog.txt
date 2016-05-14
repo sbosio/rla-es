@@ -1,3 +1,7 @@
+Versión 2.1.1:
+- Revertido el cambio de codificación del diccionario de sinónimos, que
+  impedía su correcto funcionamiento.
+
 Versión 2.1:
 
 - Inclusión de Zarautz como topónimo válido en España, en consonancia con otros
