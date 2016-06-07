@@ -11,7 +11,8 @@
 #
 #
 # Utilizamos la codificación UTF-8
-SET UTF-8
+SET UTF-8  # Indica que el .dic está en formato UTF-8
+FLAG UTF-8 # Indica que las reglas de este fichero están en formato UTF-8
 
 # Orden de reemplazo
 TRY aeroinsctldumpbgfvhzóíjáqéñxyúükwAEROINSCTLDUMPBGFVHZÓÍJÁQÉÑXYÚÜKW
