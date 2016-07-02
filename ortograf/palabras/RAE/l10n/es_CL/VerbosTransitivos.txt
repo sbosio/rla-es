@@ -64,6 +64,7 @@ enmadejar/RED
 enmugrar/RED
 enrostrar/REDÂÅ
 entrabar/RED
+graficar/RED
 harnear/RED
 hijuelar/RED
 hormiguillar/RED

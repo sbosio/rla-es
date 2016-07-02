@@ -71,6 +71,7 @@ enrostrar/REDÂÅ
 entropillar/RED
 estaquear/RED
 felpear/RED
+graficar/RED
 hormiguillar/RED
 humear/RED
 hurguetear/RED

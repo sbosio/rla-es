@@ -3905,6 +3905,7 @@ cuanto/S
 cuaquerismo/S
 cuarenta/S
 cuaresmario/S
+cuark/S
 cuartago/S
 cuartal/S
 cuarteador/S
@@ -6449,6 +6450,7 @@ hachote/S
 hacimiento/Sp
 hacinamiento/S
 hado/S
+hadrón/S
 hafiz/S
 halacabuyas
 halacuerda/S
@@ -8555,6 +8557,7 @@ muleto/Sa
 mullidor/S
 mullido/S
 mulo/S
+multímetro/S
 mundial/S
 mundinovi/S
 mundo/NS

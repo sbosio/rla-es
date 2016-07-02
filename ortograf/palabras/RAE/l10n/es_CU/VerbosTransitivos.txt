@@ -52,6 +52,7 @@ enlozar/RED
 enrostrar/REDÂÅ
 enterciar/RED
 entisar/RED
+graficar/RED
 guataquear/RED
 hormiguillar/RED
 humear/RED
