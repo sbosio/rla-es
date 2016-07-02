@@ -4858,6 +4858,7 @@ geodesia/S
 geografía/S
 geología/S
 geometría/S
+geotermia
 geraniácea/S
 gerencia/S
 geriatría/S

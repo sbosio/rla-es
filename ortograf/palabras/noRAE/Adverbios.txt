@@ -140,6 +140,9 @@ cojonudamente
 comedidamente
 cómicamente
 compungidamente
+concadenadamente
+concatenadamente
+concéntricamente
 concretamente
 condenadamente
 conscientemente
@@ -415,6 +418,7 @@ suavísimamente
 subjetivamente
 sublimemente
 submarinamente
+subsecuentemente
 sudorosamente
 sufridamente
 supuestamente		# Contribuida por Sergio Medina

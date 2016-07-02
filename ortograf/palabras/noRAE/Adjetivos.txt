@@ -49,6 +49,7 @@ emiratí/S
 fenólico/GS
 finísimo/GS
 franquiciado/GS
+geotérmico/GS
 globalizado/GS
 grandísimo/GS
 hidrotérmico/GS
