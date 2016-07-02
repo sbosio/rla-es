@@ -3629,6 +3629,7 @@ derechista/S
 derecho/GS
 derivado/GS
 derivativo/GS
+dérmico/GS
 derogador/GS
 derogatorio/GS
 derramado/GS
