@@ -17,6 +17,7 @@
 alnico/S
 autodesarrollo/S
 bailecillo/S
+capacitor/S								# Acordado en https://github.com/sbosio/rla-es/issues/8
 causalismo/S
 cibercafé/S
 datáfono/S
