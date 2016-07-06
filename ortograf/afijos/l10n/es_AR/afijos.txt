@@ -198,6 +198,12 @@ PFX u e         tras      e[^s]
 PFX v Y 1
 PFX v 0         contra      .
 
+# Prefijo ex-: Significa 'que fue y ya no es', 'fuera' o 'más allá'. Desde 2010,
+# va pegado a la palabra a la que se aplica, como el resto de prefijos
+# (ver https://github.com/sbosio/rla-es/issues/10)
+PFX w Y 1
+PFX w 0         ex	     .
+
 
 
 #
