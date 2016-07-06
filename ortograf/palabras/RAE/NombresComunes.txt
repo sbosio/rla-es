@@ -201,7 +201,7 @@ colega/S
 colla/S
 columnista/S
 comandante/S
-combatiente/S
+combatiente/wS
 comemierda/S
 comensal/S
 comentarista/S
@@ -360,7 +360,7 @@ fratricida/S
 frescales
 fresquista/S
 fuguillas
-futbolista/S
+futbolista/wS
 gacetista/S
 gaita/S
 galicista/S

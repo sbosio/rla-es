@@ -1724,7 +1724,7 @@ terminal/S
 terrero/GS
 tertuliano/GS
 tertulio/fGS
-tesorero/GS
+tesorero/wGS
 testador/GS
 testamentario/GS
 tía
