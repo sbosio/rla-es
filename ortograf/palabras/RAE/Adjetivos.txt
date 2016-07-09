@@ -4542,6 +4542,7 @@ enhiesto/GS
 enigmático/GS
 enjalbegador/SG
 enjoyelado/SG
+enjugador/GS
 enjundioso/GS
 enjuto/GS
 enlabiador/GS
@@ -6987,7 +6988,7 @@ judiciario/SG
 judiego/GS
 judío/SG
 juerguista/S
-jugador/SGi
+jugador/wSG
 juglaresco/SG
 juglar/S
 jugoso/GS
