@@ -2750,7 +2750,7 @@ comanditario/GS
 comarcal/S
 comatoso/GS
 comba/S
-combatiente/S
+combatiente/wS
 combativo/SG
 combinable/kS
 combinatorio/GS
@@ -4543,6 +4543,7 @@ enhiesto/GS
 enigmático/GS
 enjalbegador/SG
 enjoyelado/SG
+enjugador/GS
 enjundioso/GS
 enjuto/GS
 enlabiador/GS
@@ -5050,7 +5051,6 @@ exclusivista/S
 exclusivo/GS
 excluso/GS
 excluyente/S
-excombatiente/S
 excrementicio/GS
 excrementoso/GS
 excretorio/GS
@@ -6989,7 +6989,7 @@ judiciario/SG
 judiego/GS
 judío/SG
 juerguista/S
-jugador/SGi
+jugador/wSG
 juglaresco/SG
 juglar/S
 jugoso/GS
