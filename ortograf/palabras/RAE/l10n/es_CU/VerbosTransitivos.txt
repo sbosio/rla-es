@@ -23,6 +23,7 @@ aserruchar/RED
 atojar/RED
 atrincar/RED
 bajear/RED
+calendarizar/REDA
 calimbar/RED
 carnear/RED
 chicotear/RED

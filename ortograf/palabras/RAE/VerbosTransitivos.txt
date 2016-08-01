@@ -2746,7 +2746,7 @@ nimbar/RED
 ningunear/RED
 niquelar/RED
 nitrar/RED
-nombrar/REDÀÁÂÄÅÆ
+nombrar/pREDÀÁÂÄÅÆ
 nominar/REDÀ
 noquear/REDÀÁ
 normalizar/AREDÀÁ
@@ -2822,6 +2822,7 @@ paragonar/RED
 parahusar/IRD
 paralelar/RED
 paramentar/RED
+parametrizar/RED
 parangonar/RED
 parcelar/REDÀ
 parchar/RED
@@ -3583,7 +3584,7 @@ tergiversar/REDÀÄT
 terraplenar/RED
 tersar/RED
 tesaurizar/RED
-testar/RED
+testar/REDÄ
 testificar/RED
 testimoniar/REDÀÂ
 tetar/RED

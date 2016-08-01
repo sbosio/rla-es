@@ -892,7 +892,6 @@ remorar
 rencionar
 rencurarse
 render
-renombrar
 repentirse
 rescribir
 resemblar

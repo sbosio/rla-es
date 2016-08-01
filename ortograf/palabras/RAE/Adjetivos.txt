@@ -3903,6 +3903,7 @@ dieléctrico/SG
 dientimellado/GS
 dientudo/GS
 diestro/GS
+dietético/GS
 diezmesino/GS
 diezmilésimo/SG
 diezmillonésimo/GS
@@ -7297,7 +7298,8 @@ librecambista/S
 libre/GS
 librepensador/SG
 libresco/GS
-licenciado/SG
+licenciado/GS
+licenciador/GS
 licencioso/GS
 liechtensteiniano/GS
 licio/SG
@@ -7673,6 +7675,7 @@ mandinga/S
 mandria/S
 manejable/kS
 manero/GS
+maneto/GS
 mangánico/GS
 mangante/S
 mangoneador/SG
@@ -8663,6 +8666,7 @@ numular/S
 nuncupatorio/GS
 nupcial/S
 nutricio/GS
+nutricional/S
 nutrido/GS
 nutriente/S
 nutritivo/SG
@@ -9087,6 +9091,7 @@ paralímpico/GS
 paralítico/GS
 paralizador/GS
 paralizante/S
+paramétrico/GS
 paramilitar/S
 paranoico/GS
 paranoide/S

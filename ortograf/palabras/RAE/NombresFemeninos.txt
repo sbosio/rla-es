@@ -3529,6 +3529,7 @@ drepanocitosis
 dríade/SG
 driza/S
 droga/LS
+drogadicción/S
 drogodependencia/S
 droguería/S		# Contribuida por Dylan Nicholson
 drosera/S
@@ -5604,6 +5605,7 @@ insipidez/S
 insistencia/S
 insolación/S
 insolencia/S
+insonorización/S
 inspección/S
 inspectoría/S
 inspiración/S
@@ -6514,6 +6516,7 @@ maña/S
 mañera/S
 mapanare/S
 maqueta/S
+maquetación/S
 maquila/S
 maquinación/S
 maquinaria/S

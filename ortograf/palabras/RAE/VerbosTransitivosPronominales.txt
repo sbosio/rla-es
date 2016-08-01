@@ -558,7 +558,7 @@ comprometer/REDÀÁñòø
 computar/REDÀT
 concadenar/RED
 concatenar/RED
-concentrar/REDÀÁÄÅñòôøT
+concentrar/hpREDÀÁÄÅñòôøT
 conchabar/RED
 concienciar/REDAñ
 conciliar/REDñ
@@ -1974,7 +1974,6 @@ recobrar/REDÀÁñ
 recocer/IRD
 recoger/REDÀÁÂÃÄÆÌÍÙñòôø
 recomendar/IRDÀÂÅñòT
-reconcentrar/RED
 reconciliar/REDÁÂñò
 recondenar/RED
 reconocer/IRDÀÁÂÃÄÅñòõ

@@ -27,6 +27,7 @@ arrequintar/RED
 aserruchar/RED
 atrincar/RED
 azorrar/RED
+calendarizar/REDA
 carnear/RED
 cedular/RED
 chiclear/RED

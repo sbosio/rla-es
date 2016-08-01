@@ -4013,6 +4013,7 @@ curie/S
 curio/S
 curioso/S
 currículo/S
+currículum
 curro/S
 curry
 cursillo/S
@@ -6332,10 +6333,11 @@ grullo/S
 grumete/S
 grumo/S
 gruñido/S
-grupo/S
+grupo/sS
 grupúsculo/S
 gruyer/S
 guacamayo/S
+guacamole/S
 guácharo/S
 guacho/S
 guaco/S
@@ -6494,6 +6496,7 @@ hayal/S
 hayedo/S
 hayuco/S
 haz/NS
+hazmerreír/S
 hebillaje/S
 hebreo/S
 hebrero/S
@@ -9250,6 +9253,7 @@ paraboloide/S
 parabrisas
 paracaídas
 paracaidismo/S
+paracetamol
 parachoques
 paracleto/S
 paráclito/S
@@ -11709,6 +11713,7 @@ sobretercero/S
 sobrinazgo/S
 socaire/S
 socarrén/S
+socavón/S
 socaz/S
 sochantre/S
 socialismo/S
@@ -11716,7 +11721,7 @@ socinianismo/S
 socollar/S
 socolor/S
 soconusco/S
-socorro/S
+socorro/OS
 socrocio/S
 sodio/S
 sofá

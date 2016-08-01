@@ -25,6 +25,7 @@ aserruchar/RED
 atrincar/RED
 bogar/RED
 bolsiquear/RED
+calendarizar/REDA
 cangallar/RED
 cargosear/RED
 carnear/RED

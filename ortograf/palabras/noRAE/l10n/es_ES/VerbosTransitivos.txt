@@ -14,14 +14,4 @@
 # Debe haber recibido una copia de la Licencia Pública General de GNU junto
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
-agendar/REDÀ			# Contribuida por Ricardo Goldberger
-deshabilitar/RED		# Contribuida por Gonzalo Higuera Díaz
-dimensionar/REDT
-historificar/RED
-ranurar/RED
-reasignar/RED
-recapturar/RED
-recombinar/RED
-redirigir/RED
-refrentar/RED
-reinventar/RED
+calendarizar/REDA

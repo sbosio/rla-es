@@ -1,5 +1,5 @@
 # Lista de lemas: NombresFemeninos.txt
-# Copyright (C) 2004-2012 de Santiago Bosio (sbosio AT gmail.com)
+# Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
 # conforme a los términos de la Licencia Pública General de GNU, publicada
@@ -14,35 +14,4 @@
 # Debe haber recibido una copia de la Licencia Pública General de GNU junto
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
-acupresión/S			# Contribuida por Ricardo Goldberger
-amigdalectomía/S
-apendicectomía/S
-autocompasión/S
-autoconciencia/S
-autoconfianza/S
-autodisciplina/S
-autoimagen/S
-autoprotección/S		# Contribuida por César Romé
-criolita/S
-cromita/S
-cumplimentación/S
-ferroaleación/S
-fundamentación/S
-interoperatividad/S		# Contribuida por Gonzalo Higuera Díaz
-meritocracia/S
-microinformática/S
-personalización/S
-preproducción/S			# Contribuida por Sergio Medina
-priorización/S
-reinvención/S
-sandwichera/S
-sismicidad/S
-sobreutilización/S
-subcultura/S
-subfamilia/S
-subrutina/S
-temporalización/S
-totalización/S
-usabilidad/S
-vinoteca/S
-vocalía/S
+maneta/S

@@ -667,10 +667,7 @@ dénoslas
 dénoslo
 dénoslos
 dense
-dénsela
-dénselas
-dénselo
-dénselos
+démoselo
 depón
 des
 desabrí
@@ -996,6 +993,7 @@ estando
 estándola
 estándole
 estándoles
+estándolo
 estándome
 estándonos
 estándoos
@@ -1406,6 +1404,7 @@ iría
 iríamos
 irían
 irías
+irlo
 irme
 irnos
 irse

@@ -3767,6 +3767,8 @@ SFX Í obrar     óbrame   obrar
 SFX Í obrar     óbranos  obrar
 SFX Í ocar      ócame    ocar
 SFX Í ocar      ócanos   ocar
+SFX Í ocer      óceme    ocer
+SFX Í ocer      ócenos   ocer
 SFX Í oger      ógeme    oger
 SFX Í oger      ógenos   oger
 SFX Í ojar      ójame    ojar
