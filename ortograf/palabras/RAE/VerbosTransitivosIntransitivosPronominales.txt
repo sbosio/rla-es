@@ -422,7 +422,7 @@ llover/IRDÁñ
 lucir/IRDÀÅñòT
 malcasar/RED
 mancar/RED
-mandar/REDÀÁÂÃÄÅÌÍÙñòô
+mandar/REDÀÁÂÃÄÅÌÍÏÙñòô
 marcar/REDÀÂÄÅñòø
 marear/REDÁñ
 matar/REDÀÄÅÆÌÎñòôp

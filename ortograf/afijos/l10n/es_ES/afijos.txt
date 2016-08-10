@@ -4125,7 +4125,7 @@ SFX Î uscar     úscale   uscar
 # persona, y objeto indirecto en 1ª y 3ª persona, singular y plural; en
 # posición enclítica.
 #
-SFX Ï Y 276
+SFX Ï Y 288
 SFX Ï adir      ádemela     adir
 SFX Ï adir      ádemelas    adir
 SFX Ï adir      ádemelo     adir
@@ -4186,6 +4186,18 @@ SFX Ï ancar     áncasela    ancar
 SFX Ï ancar     áncaselas   ancar
 SFX Ï ancar     áncaselo    ancar
 SFX Ï ancar     áncaselos   ancar
+SFX Ï andar     ándamela    andar
+SFX Ï andar     ándamelas   andar
+SFX Ï andar     ándamelo    andar
+SFX Ï andar     ándamelos   andar
+SFX Ï andar     ándanosla   andar
+SFX Ï andar     ándanoslas  andar
+SFX Ï andar     ándanoslo   andar
+SFX Ï andar     ándanoslos  andar
+SFX Ï andar     ándasela    andar
+SFX Ï andar     ándaselas   andar
+SFX Ï andar     ándaselo    andar
+SFX Ï andar     ándaselos   andar
 SFX Ï antar     ántamela    antar
 SFX Ï antar     ántamelas   antar
 SFX Ï antar     ántamelo    antar
