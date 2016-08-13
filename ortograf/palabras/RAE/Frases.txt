@@ -14,6 +14,13 @@
 # Debe haber recibido una copia de la Licencia Pública General de GNU junto
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
+# En este fichero se ubican palabras cuya ortografía es correcta,
+# pero que no tienen valor semántico sin estar acompañadas por otras palabras.
+# Entre otras, aquí deberían figurar las locuciones, sobre todo latinas,
+# que contienen más de una palabra.
+#
+# Lógicamente, solo puede añadirse una palabra por línea.
+
 apañárselas
 irle
 irles
