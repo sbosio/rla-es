@@ -1,6 +1,21 @@
 # Registro de cambios
+
+## [Unreleased](https://github.com/sbosio/rla-es/tree/HEAD)
+
+**Mejoras implementadas**
+
+- Paralimpiada [\#90](https://github.com/sbosio/rla-es/issues/90)
+- Palabras que faltan en la versión 2.1 [\#76](https://github.com/sbosio/rla-es/issues/76)
+- Palabras faltantes y propuesta [\#8](https://github.com/sbosio/rla-es/issues/8)
+
+**Errores corregidos**
+
+- duplicate flag declarations in ES-ANY [\#86](https://github.com/sbosio/rla-es/issues/86)
+- Dérmico/a no se reconoce [\#31](https://github.com/sbosio/rla-es/issues/31)
+
 ## [v2.1.1](https://github.com/sbosio/rla-es/tree/v2.1.1) (2016-05-14)
 **Errores corregidos**
+
 - No funcionan los Sinónimos en v2.0 en UbuntuStudio 16.04, pero anterior 0.8 si [\#84](https://github.com/sbosio/rla-es/issues/84)
 
 ## [v2.1](https://github.com/sbosio/rla-es/tree/v2.1) (2016-03-27)
@@ -38,20 +53,12 @@
 - Testeado [\#29](https://github.com/sbosio/rla-es/issues/29)
 - Ficheros de afijos erróneos [\#16](https://github.com/sbosio/rla-es/issues/16)
 
-**Issues cerrados**
-
-- Publicación de la versión 2.0 [\#44](https://github.com/sbosio/rla-es/issues/44)
-
 ## [v0.8](https://github.com/sbosio/rla-es/tree/v0.8) (2015-03-08)
 **Mejoras implementadas**
 
 - Falta el adjetivo analfabeto y hay entradas duplicadas del adjetivo alfabeto en varias localizaciones [\#7](https://github.com/sbosio/rla-es/issues/7)
 - Palabras añadidas a la RAE en junio 2012 [\#3](https://github.com/sbosio/rla-es/issues/3)
 - Palabras faltantes [\#2](https://github.com/sbosio/rla-es/issues/2)
-
-**Issues cerrados**
-
-- Publicación de la versión 0.8 [\#19](https://github.com/sbosio/rla-es/issues/19)
 
 ## v0.7 (2013-07-19)
 

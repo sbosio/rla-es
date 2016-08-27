@@ -1,12 +1,21 @@
+# Titulos
 header=# Registro de cambios
 bug-prefix=**Errores corregidos**
 enhancement-prefix=**Mejoras implementadas**
 issue-prefix=**Issues cerrados**
+
+# Pull Requests
+pulls=false
+
+# Que issues se incluyen
 bug-labels=error,Error
 enhancement-labels=mejora,Mejora
-#include-labels=error,mejora
-#exclude-labels=duplicado,pregunta,inválido,solicitud de ayuda,no se arreglará
-pulls=false
+include-labels=error,mejora
+exclude-labels=duplicado,pregunta,inválido,solicitud de ayuda,no se arreglará
+add_issues_wo_labels=false
+add_pr_wo_labels=false
+
+# Miscelánea
 author=false
 compare-link=false
 since-tag=v0.7
