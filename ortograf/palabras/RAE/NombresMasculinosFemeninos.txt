@@ -993,6 +993,7 @@ inquilino/fGS
 inspector/sGS
 intendente/GS
 interino/GS
+internet
 interno/GS
 interventor/GS
 invertido/GS
