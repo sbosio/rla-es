@@ -2637,6 +2637,7 @@ manuscribir/RE
 manutener/XD
 mapear/RED
 maquear/RED
+maquetar/RED
 maquilar/RED
 maquinar/RED
 maquinizar/RED
@@ -3526,7 +3527,6 @@ sufragar/RED
 sugerir/XDÀÁÂÃÉÊ
 suministrar/REDÀÁÂÃÆT
 supeditar/REDÀÄ
-superentender/IRD
 superponer/XÀÈÊ
 supervalorar/RED
 supervisar/REDÀ

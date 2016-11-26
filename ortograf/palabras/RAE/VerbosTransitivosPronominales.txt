@@ -1782,7 +1782,7 @@ medicinar/RED
 melancolizar/RED
 mellar/RED
 memorar/RED
-menear/RED
+menear/REDÍ
 menoscabar/RED
 mentalizar/REDñ
 mercar/RED
@@ -2081,7 +2081,6 @@ retraer/XDÀ
 retratar/REDÀÁñ
 retrotraer/XDÁñó
 reunir/IRDÀÁÂÄÅñòõù
-revacunar/RED
 revalidar/REDÀ
 revalorizar/RED
 revelar/REDÀÁÄÆñòT
@@ -2132,7 +2131,6 @@ situar/IRDÀÁÂÄÅÆñòõù
 sobrealimentar/RED
 sobrecoger/REDÁÂñ
 sobreexcitar/RED
-sobrentender/IRD
 sobreponer/XÁÈÉñó
 sobrevestir/XD
 sobrexcitar/RED
@@ -2163,7 +2161,6 @@ sorprender/REDÀÁÂÄÅÆñòø
 sostener/XDÀÁÂÃÈÉÊÔáñóT
 suavizar/REDÀÂÆ
 subdividir/REDÀÄ
-subentender/IRD
 sublevar/REDÀÁñ
 sublimar/REDÀÄ
 subordinar/REDÀÁÄñ
@@ -2256,7 +2253,7 @@ unir/REDÀÁÂÄÅñòT
 untar/REDÀÁÂÄÆñ
 urbanizar/REDÀ
 utilizar/REDÀÁÂÄÅÆÌÙñòøT
-vacunar/REDÀÁÂÄñ
+vacunar/pAREDÀÁÂÄñ
 vadear/REDÀÄ
 vaporar/RED
 vaporizar/RED

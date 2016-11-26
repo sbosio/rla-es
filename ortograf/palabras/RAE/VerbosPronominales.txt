@@ -217,7 +217,6 @@ desembelesar/RED
 desemboscar/RED
 desempacar/RED
 desenguantar/RED
-desentender/IRDñ
 desgañifar/RED
 desgañitar/RED
 desgargantar/RED

@@ -32,6 +32,7 @@ hipervínculo/S
 iusnaturalismo
 kiosko/S
 máster/S
+metadato/S
 poliestireno/S
 polímetro/S
 portabroca/S

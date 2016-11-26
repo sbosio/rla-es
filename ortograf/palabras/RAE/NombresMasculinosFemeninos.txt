@@ -1405,6 +1405,7 @@ playero/GS
 pleno/GS
 pluriempleado/GS
 poblano/GS
+podólogo/GS
 polaco/GS
 polígrafo/GS
 polio/S

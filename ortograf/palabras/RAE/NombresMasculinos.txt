@@ -1628,6 +1628,7 @@ badén/S
 badián/S
 badilejo/S
 badil/HS
+bádminton
 bagajero/S
 bagaje/S
 bagazo/S
@@ -12158,6 +12159,7 @@ telefonema/S
 teléfono/S
 telégrafo/S
 telegrama/S
+teleindicador/S
 telele/S
 telémetro/S
 teleobjetivo/S
@@ -12967,6 +12969,7 @@ velador/S
 velamen/S
 velarte/S
 velatorio/S
+velcro/S
 velero/S
 velete/S
 vellocino/S

@@ -3889,7 +3889,7 @@ SFX Ì uzar      úzalo    uzar
 # Verbos regulares en imperativo, con clíticos de objeto directo o indirecto
 # en 1ª y 2ª persona, singular y plural; en posición enclítica.
 #
-SFX Í Y 170
+SFX Í Y 172
 SFX Í abar      ábame    abar
 SFX Í abar      ábanos   abar
 SFX Í r         me       r         # 2ª pers. singular (vos)
@@ -3934,6 +3934,8 @@ SFX Í argar     árgame   argar
 SFX Í argar     árganos  argar
 SFX Í arrar     árrame   arrar
 SFX Í arrar     árranos  arrar
+SFX Í asar      ásame    asar
+SFX Í asar      ásanos   asar
 SFX Í atar      átame    atar
 SFX Í atar      átanos   atar
 SFX Í avar      ávame    avar

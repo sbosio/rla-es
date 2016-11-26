@@ -329,7 +329,7 @@ ensanchar/RED
 ensordecer/IRDñ
 entablar/RED
 entallar/REDT
-entender/IRDÀÁÃÄÂÐÑñòù
+entender/hrstIRTDÀÁÃÄÂÐÑñòù
 entonar/REDñ
 entontecer/IRD
 entrar/REDÁÂÅÆñò
@@ -456,7 +456,7 @@ palatalizar/RED
 palmear/REDÀÂò
 parar/REDÀÂÅñòôø
 partir/REDÀÂÃÌÎÙñò
-pasar/REDÀÃÄÅÇÌÏÙÛñòôøT
+pasar/pREDÀÃÄÅÇÍÌÏÙÛñòôøT
 pasear/REDÁÅñò
 pasmar/REDÁñôø
 pegar/REDÀÁÂÄÅÎñòô
@@ -517,7 +517,6 @@ remolinear/RED
 remontar/REDÀÂñòø
 remostar/RED
 reparar/REDÀÂÄø
-repasar/REDÀÄñø
 repatriar/REDÀñ
 repeler/REDÀñ
 repetir/XDÀÂÃÈÉñóúT

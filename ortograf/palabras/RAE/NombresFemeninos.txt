@@ -942,6 +942,7 @@ atabladera/S
 atacamita/S
 atadura/hpS
 atanasia/S
+ataraxia/S
 atarjea/S
 ataxia/S
 atención/hS
@@ -6679,6 +6680,7 @@ medrana/S
 medra/S
 médula/S
 medusa/S
+megafonía/S
 meguez/S
 mehala/S
 meitad/S
@@ -8545,6 +8547,7 @@ prolongación/S
 prominencia/S
 promiscuidad/S
 promulgación/S
+pronación
 pronteza/S
 prontitud/S
 pronunciación/S
@@ -9188,6 +9191,7 @@ rubia/S
 rubicela/S
 rubicundez/S
 rubilla/S
+rúbrica/S
 ruciadera/S
 ruda/S
 rudeza/S

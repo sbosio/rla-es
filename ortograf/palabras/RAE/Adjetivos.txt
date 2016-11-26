@@ -216,7 +216,7 @@ acristalado/GS
 acrobático/GS
 actinomorfo/GS
 activa/flkp
-activo/pGSflk
+activo/opGSflk
 actualizador/SG
 actual/S
 actuante/S
@@ -1505,6 +1505,7 @@ báquico/GS
 barato/SG
 barbadense/S
 barbado/GS
+barbárico/GS
 bárbaro/GS
 barbarote/SG
 barbastrense/S
@@ -5163,6 +5164,7 @@ extraño/GS
 extraoficial/S
 extraordinario/SG
 extraplano/SG
+extrapolable/S
 extra/S
 extrasalarial/S
 extrasensorial/S
@@ -6175,6 +6177,7 @@ hilachoso/GS
 hiladizo/GS
 hilarante/S
 himenóptero/S
+hinchable/S
 hinchado/GS
 hindú
 hindúes
@@ -8894,8 +8897,9 @@ orgiástico/GS
 orgulloso/GS
 orientable/GS
 orientador/hGS
-orientalista/S
 oriental/S
+orientalista/S
+orientativo/GS
 origenista/S
 original/S
 originario/GS
@@ -9387,7 +9391,7 @@ periférico/GS
 periforme/S
 perilustre/S
 perineal/S
-periódico/GS
+periódico/aGS
 periodístico/GS
 peripuesto/SG
 periquito/S
@@ -12365,6 +12369,7 @@ univalvo/GS
 universal/S
 universitario/GS
 universo/GS
+unívocamente
 unívoco/SG
 uno/GS
 un/S
