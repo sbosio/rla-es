@@ -1,0 +1,200 @@
+# Provincias del Perú
+# Fuente: Códigos de Ubicación Geográfica (UBIGEO) del Instituto Nacional de Estadística e Informática del Perú (INEI)
+# Actualización: 07/12/2016
+
+Chachapoyas
+Bagua
+Bongará
+Condorcanqui
+Luya
+Rodríguez de Mendoza
+Utcubamba
+Huaraz
+Aija
+Antonio Raymondi
+Asunción
+Bolognesi
+Carhuaz
+Carlos Fermín Fitzcarrald
+Casma
+Corongo
+Huari
+Huarmey
+Huaylas
+Mariscal Luzuriaga
+Ocros
+Pallasca
+Pomabamba
+Recuay
+Santa
+Sihuas
+Yungay
+Abancay
+Andahuaylas
+Antabamba
+Aymaraes
+Cotabambas
+Chincheros
+Grau
+Arequipa
+Camaná
+Caravelí
+Castilla
+Caylloma
+Condesuyos
+Islay
+La Uniòn
+Huamanga
+Cangallo
+Huanca Sancos
+Huanta
+La Mar
+Lucanas
+Parinacochas
+Pàucar del Sara Sara
+Sucre
+Víctor Fajardo
+Vilcas Huamán
+Cajamarca
+Cajabamba
+Celendín
+Chota
+Contumazá
+Cutervo
+Hualgayoc
+Jaén
+San Ignacio
+San Marcos
+San Miguel
+San Pablo
+Santa Cruz
+Prov. Const. del Callao
+Cusco
+Acomayo
+Anta
+Calca
+Canas
+Canchis
+Chumbivilcas
+Espinar
+La Convención
+Paruro
+Paucartambo
+Quispicanchi
+Urubamba
+Huancavelica
+Acobamba
+Angaraes
+Castrovirreyna
+Churcampa
+Huaytará
+Tayacaja
+Huánuco
+Ambo
+Dos de Mayo
+Huacaybamba
+Huamalíes
+Leoncio Prado
+Marañón
+Pachitea
+Puerto Inca
+Lauricocha 
+Yarowilca 
+Ica 
+Chincha 
+Nasca 
+Palpa 
+Pisco 
+Huancayo 
+Concepción 
+Chanchamayo 
+Jauja 
+Junín 
+Satipo 
+Tarma 
+Yauli 
+Chupaca 
+Trujillo 
+Ascope 
+Bolívar 
+Chepén 
+Julcán 
+Otuzco 
+Pacasmayo 
+Pataz 
+Sánchez Carrión 
+Santiago de Chuco 
+Gran Chimú 
+Virú 
+Chiclayo 
+Ferreñafe 
+Lambayeque 
+Lima 
+Barranca 
+Cajatambo 
+Canta 
+Cañete 
+Huaral 
+Huarochirí 
+Huaura 
+Oyón 
+Yauyos 
+Maynas 
+Alto Amazonas 
+Loreto 
+Mariscal Ramón Castilla 
+Requena 
+Ucayali 
+Datem del Marañón 
+Putumayo
+Tambopata 
+Manu 
+Tahuamanu 
+Mariscal Nieto 
+General Sánchez Cerro 
+Ilo 
+Pasco 
+Daniel Alcides Carrión 
+Oxapampa 
+Piura 
+Ayabaca 
+Huancabamba 
+Morropón 
+Paita 
+Sullana 
+Talara 
+Sechura 
+Puno 
+Azángaro 
+Carabaya 
+Chucuito 
+El Collao 
+Huancané 
+Lampa 
+Melgar 
+Moho 
+San Antonio de Putina 
+San Román 
+Sandia 
+Yunguyo 
+Moyobamba 
+Bellavista 
+El Dorado 
+Huallaga 
+Lamas 
+Mariscal Cáceres 
+Picota 
+Rioja 
+San Martín 
+Tocache 
+Tacna 
+Candarave 
+Jorge Basadre 
+Tarata 
+Tumbes 
+Contralmirante Villar 
+Zarumilla 
+Coronel Portillo 
+Atalaya 
+Padre Abad 
+Purús
