@@ -352,7 +352,7 @@ case $LOCALIZACION in
     ;;
 esac
 
-sed -n --expression="
+sed -n -e "
   /__/! { p; };
   /__LOCALE__/ { s//$LOCALIZACION/g; p; };
   /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
@@ -365,7 +365,7 @@ cp ../docs/Changelog.txt ../docs/GPLv3.txt ../docs/LGPLv3.txt \
 if [ "$VERSION" != "2" ]; then
   if [ "$COMPLETO" != "SÍ" ]; then
     DESCRIPCION="Español ($PAIS): Ortografía"
-    sed -n --expression="
+    sed -n -e "
       /__/! { p; };
       /__LOCALE__/ { s//$LOCALIZACION/g; p; };
       /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
@@ -374,7 +374,7 @@ if [ "$VERSION" != "2" ]; then
       /__ICON__/ { s//$ICONO/g; p; };
       /__COUNTRY__/ { s//$PAIS/g; p; }" \
     ../docs/dictionaries.xcu> "$MDTMPDIR/dictionaries.xcu"
-    sed -n --expression="
+    sed -n -e "
       /__/! { p; };
       /__LOCALE__/ { s//$LOCALIZACION/g; p; };
       /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
@@ -385,7 +385,7 @@ if [ "$VERSION" != "2" ]; then
     ../docs/package-description.txt > "$MDTMPDIR/package-description.txt"
   else
     DESCRIPCION="Español ($PAIS): Ortografía, separación y sinónimos"
-    sed -n --expression="
+    sed -n -e "
       /__/! { p; };
       /__LOCALE__/ { s//$LOCALIZACION/g; p; };
       /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
@@ -394,7 +394,7 @@ if [ "$VERSION" != "2" ]; then
       /__ICON__/ { s//$ICONO/g; p; };
       /__COUNTRY__/ { s//$PAIS/g; p; }" \
     ../docs/dictionaries_full.xcu > "$MDTMPDIR/dictionaries.xcu"
-    sed -n --expression="
+    sed -n -e "
       /__/! { p; };
       /__LOCALE__/ { s//$LOCALIZACION/g; p; };
       /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
@@ -409,7 +409,7 @@ if [ "$VERSION" != "2" ]; then
       ../../sinonimos/palabras/COPYING_th_es_ES \
       ../../sinonimos/palabras/th_es_ES_v2.* "$MDTMPDIR"
   fi
-  sed -n --expression="
+  sed -n -e "
     /__/! { p; };
     /__LOCALE__/ { s//$LOCALIZACION/g; p; };
     /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
