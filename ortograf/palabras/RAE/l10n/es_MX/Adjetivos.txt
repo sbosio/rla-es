@@ -31,8 +31,10 @@ chapín/SG
 chasco/GS
 chavo/GS
 chiche/SG
+chido/GS
 chilero/GS
 chingado/GS
+chingón/GS
 cholo/GS
 chueco/GS
 codo/GS
