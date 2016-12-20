@@ -16,7 +16,7 @@ complementos de cada aplicación.
 
 ### LibreOffice
 
-* [Todas las localizaciones](http://extensions.libreoffice.org/extension-center/spanish-dictionaries)
+* [Todas las localizaciones](https://extensions.libreoffice.org/extensions/spanish-dictionaries)
 
 ### Apache OpenOffice
 
