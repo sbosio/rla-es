@@ -971,6 +971,7 @@ hostelero/GS
 hostiero/GS
 hotelero/GS
 hotentote/S
+huerco/GS
 huésped/GS
 huevero/GS
 hulano/GS
