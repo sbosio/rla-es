@@ -6794,7 +6794,6 @@ huecograbado/S
 hueco/S
 huelgo/S
 huemul/S
-huerco/S
 huerto/S
 hueso/Sr
 huevo/S
