@@ -22,6 +22,7 @@ ajicero/S
 altoparlante/S
 amacayo/S
 amansador/S
+apapacho/S
 ara/S
 arrollado/S
 atole/S
