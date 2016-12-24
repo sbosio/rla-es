@@ -7198,6 +7198,7 @@ kilo/S
 kilovatio/S
 kiosco/S
 kirie/S
+kit/S
 krausismo/S
 laberinto/S
 labiérnago/S
