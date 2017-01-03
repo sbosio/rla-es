@@ -7180,6 +7180,7 @@ justillo/S
 juzgador/S
 juzgado/S
 káiser/S
+kaki/S
 kan/S
 kantismo/S
 karaoke/S
