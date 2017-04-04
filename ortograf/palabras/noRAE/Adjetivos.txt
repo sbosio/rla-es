@@ -80,6 +80,7 @@ poblacional/S
 policéntrico/GS
 polandés/GS
 postraumático/GS
+posvacacional/S
 predictivo/GS
 prescriptor/GS
 ranurado/GS

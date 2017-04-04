@@ -2695,6 +2695,7 @@ cognoscitivo/GS
 cogotudo/GS
 cogujonero/GS
 coherente/Sk
+coherentista/S
 cohesivo/GS
 coimbricense/S
 cojitranco/SG
@@ -4066,6 +4067,7 @@ distinguido/GS
 distinta/k
 distintivo/SG
 distinto/kSG
+distorsionador/GS
 distraído/GS
 distribuidor/GS
 distributivo/SG
@@ -4639,6 +4641,7 @@ epiléptico/GS
 epilogal/S
 epirota/S
 episcopal/S
+epistemológico/GS
 epistolar/S
 epitelial/S
 epizoótico/GS
@@ -5605,7 +5608,9 @@ fumoso/GS
 funcional/S
 funcionarial/S
 fundacional/S
+fundacionista/S
 fundador/SG
+fundamentalista/S
 fundamental/S
 funda/o
 fundente/S
@@ -6801,6 +6806,7 @@ interpersonal/S
 interpolador/SG
 interpretador/GS
 interpretativo/SG
+interrelacionado/GS
 interrogante/S
 interruptor/GS
 intersticial/S
@@ -11711,6 +11717,7 @@ tehuelche/S
 tejano/GS
 teja/S
 tejedor/SGj
+teledirigido/GS
 telefónico/GS
 telegráfico/GS
 telendo/GS

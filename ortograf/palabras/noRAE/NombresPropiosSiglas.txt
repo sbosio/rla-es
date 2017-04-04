@@ -36,6 +36,7 @@ Anna
 Antonia
 Antonio
 Araceli
+Aristóteles
 Arturo
 Beatriz
 Begoña
@@ -50,9 +51,11 @@ Cristian
 Cristóbal
 Daniel
 Darussalam # revisar
+Darwin
 David
 Díez
 Domínguez
+Dorta
 Durán
 DVD
 DVDs # revisar
@@ -66,6 +69,7 @@ Ernesto
 Esther
 Eugenia
 Eugenio
+Eurípides
 Eva
 Fátima
 Félix
@@ -88,6 +92,7 @@ Helena
 Hernández
 Hugo
 Ibáñez
+Ícaro
 Ignacio
 Inés
 Irene
@@ -143,6 +148,7 @@ Muñoz
 Natalia
 Nevis
 Nicolás
+Nietzsche
 Noelia
 Núñez
 Nuria
@@ -154,6 +160,8 @@ Pablo
 Palau
 Pérez
 Pierre
+Plutarco
+Policleto
 Rafael
 Ramírez
 Raquel
@@ -174,7 +182,10 @@ Sara
 Sebastián
 Sergio
 Silvia
+Sócrates
+Sófocles
 Sonia
+Spinoza
 Suárez
 Valentín
 Vanesa

@@ -679,6 +679,7 @@ aniquilación/S
 anisotropía/S			# Contribuida por Gonzalo Higuera Díaz
 anodinia/S
 anomalía/S
+anomia/S
 anonadación/S
 anonimia/S
 anorexia/S
@@ -985,6 +986,7 @@ autoafirmación/S
 autoclave/S
 autocopista/S
 autocracia/S
+autocrítica/S
 autodefensa/S
 autodefinición/S
 automática/S
@@ -2432,6 +2434,7 @@ codicia/S
 codificación/S
 codillera/S
 codorniz/S
+coerción/S
 cofa/S
 cofia/S
 cofradía/S
@@ -2678,6 +2681,7 @@ consonancia/S
 conspiración/S
 constancia/kS
 constante/S
+constatación/S
 constelación/S
 consternación/S
 constitucionalidad/S
@@ -3214,6 +3218,7 @@ derrama/S
 derrengadura/S
 derrota/S
 des
+desaceleración/S
 desainadura/S
 desarrugadura/S
 desbastadura/S
@@ -3684,6 +3689,7 @@ empañadura/S
 empaquetadura/S
 emparejadura/S
 empatadera/S
+empatía/S
 emperatriz/S
 empicotadura/S
 empinadura/S
@@ -3840,6 +3846,7 @@ epigrafía/S
 epilepsia/S
 epiqueya/S
 epistaxis
+epistemología/S
 epístola/S
 epizootia/S
 época/S
@@ -7721,6 +7728,7 @@ paraselene/S
 parasemo/S
 parata/S
 parca/S
+parcelación/S
 parcela/S
 parcialidad/kS
 parecencia/S
@@ -8301,6 +8309,7 @@ poligamia/S
 poliginia/S
 poligonácea/S
 polilla/S
+polimatía/S
 polineuritis
 poliomielitis
 poliptoton/S
@@ -9565,6 +9574,7 @@ sílaba/S
 silba/S
 silepsis
 sílice/S
+silicona/S
 silicosis
 silicua/S
 sillada/S

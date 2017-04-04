@@ -50,6 +50,7 @@ cta
 cte
 ctvo
 dcho/G
+DD.HH.
 del
 depto
 der
@@ -111,6 +112,7 @@ nro
 Ntra
 núm
 ob
+ONU
 op
 pág/S
 pár
@@ -153,7 +155,9 @@ tít
 tpo
 trad
 Ud/S
+UNICEF
 univ
+URSS
 Vdo/G
 Vd/S
 vid
