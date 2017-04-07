@@ -1105,6 +1105,7 @@ aposentamiento/S
 aposento/S
 apostadero/S
 apostolado/S
+apóstrofe/S
 apóstol/S
 apóstrofo/S
 apotegma/S

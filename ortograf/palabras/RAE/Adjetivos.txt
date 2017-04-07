@@ -1117,6 +1117,7 @@ armenio/GS
 armónica/ik
 armónico/GiSk
 armonioso/GS
+armonizador/GS
 armoricano/GS
 aromático/GS
 arpado/GS
@@ -3338,6 +3339,7 @@ cualquier
 cualquiera
 cual/S
 cuántico/GS
+cuantificable/S
 cuantioso/GS
 cuantitativo/GS
 cuarenta/S
@@ -7875,6 +7877,7 @@ mediano/GS
 mediata/k
 mediático/GS
 mediato/kGS
+medible/S
 medicamentoso/SG
 medicinal/S
 medicinante/S
