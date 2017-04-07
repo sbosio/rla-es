@@ -36,6 +36,7 @@ botsuanés/S
 burkinés/GS
 catamarcano/GS
 ceilandés/GS
+coherentista/S
 colaborativo/GS
 combinacional/S			# Contribuida por César Romé
 completísimo/GS
@@ -49,6 +50,7 @@ emiratí/S
 fenólico/GS
 finísimo/GS
 franquiciado/GS
+fundacionista/S
 geotérmico/GS
 globalizado/GS
 grandísimo/GS
@@ -57,6 +59,7 @@ incremental/S
 inefectivo/GS
 inspectorial/S
 interoperable/S			# Contribuida por Gonzalo Higuera Díaz
+interrelacionado/GS
 irakí/S
 larguísimo/GS
 maremotriz/S

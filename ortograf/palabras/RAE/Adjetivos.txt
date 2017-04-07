@@ -2695,7 +2695,6 @@ cognoscitivo/GS
 cogotudo/GS
 cogujonero/GS
 coherente/Sk
-coherentista/S
 cohesivo/GS
 coimbricense/S
 cojitranco/SG
@@ -5608,7 +5607,6 @@ fumoso/GS
 funcional/S
 funcionarial/S
 fundacional/S
-fundacionista/S
 fundador/SG
 fundamentalista/S
 fundamental/S
@@ -6806,7 +6804,6 @@ interpersonal/S
 interpolador/SG
 interpretador/GS
 interpretativo/SG
-interrelacionado/GS
 interrogante/S
 interruptor/GS
 intersticial/S
