@@ -59,6 +59,7 @@ chipote/S
 chipotle/S
 chupaflor/S
 clavado/S
+clóset/S
 coloniaje/S
 comal/S
 comercial/S
