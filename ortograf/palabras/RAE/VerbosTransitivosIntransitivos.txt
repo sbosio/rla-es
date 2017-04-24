@@ -342,6 +342,7 @@ jalar/REDÁÄ
 jarbar/RED
 jinetear/RED
 jornalar/RED
+jugar/REDÀÄT
 jurar/REDÀÁÂÃÅÆÌÍÏÙÚ
 laborar/RED
 laborear/RED
@@ -435,6 +436,7 @@ pitar/REDÂ
 planear/REDÀ
 plantear/REDÀÁÆ
 platicar/REDÀÂÍ
+poder/REDÀÁÂ
 poetizar/RED
 potrear/RED
 practicar/REDÀÄ

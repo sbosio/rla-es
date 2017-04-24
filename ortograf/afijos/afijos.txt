@@ -96,7 +96,7 @@ PFX f Y 6
 PFX f 0         con       [^abehilopru]
 PFX f 0         con       ll
 PFX f 0         com       pb
-PFX f 0         co        [aehiou]
+PFX f 0         co        [aehioupd]
 PFX f 0         co        l[^l]
 PFX f 0         cor       r
 
@@ -143,6 +143,11 @@ PFX l 0         inter     .
 PFX m Y 2
 PFX m 0         micro     [^r]
 PFX m 0         micror    r
+
+# Prefijo pos-/post-: Significa 'detrás de', 'después de'.
+PFX ö Y 2
+PFX ö 0         pos       [^s]
+PFX ö 0         post      [^t]
 
 # Prefijo pre-: Significa 'anterioridad local o temporal', 'prioridad' o
 # 'encarecimiento'.
@@ -259,6 +264,13 @@ SFX F Y 3
 SFX F te        cia/S        ante
 SFX F te        cia/S        [^i]ente
 SFX F iente     encia/S      iente
+
+# Sufijo -nte (-ante, -ente, -iente): Participio activo, que denota capacidad
+# de realizar la acción que expresa el verbo del que deriva.
+SFX ü Y 3
+SFX ü r         nte/S        ar
+SFX ü er        iente/S      er
+SFX ü ir        ente/S       ir
 
 # Sufijo -azo: Tiene sentido aumentativo, expresa sentido despectivo y a veces
 # significa 'golpe'. Relaciona sustantivos y adjetivos con sustantivos
