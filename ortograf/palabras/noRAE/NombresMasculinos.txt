@@ -15,11 +15,13 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 alnico/S
+autoconocimiento/S
 autodesarrollo/S
 bailecillo/S
 capacitor/S								# Acordado en https://github.com/sbosio/rla-es/issues/8
 causalismo/S
 cibercafé/S
+coherentismo/S
 datáfono/S
 dimensionamiento/S
 direccionamiento/S
@@ -27,6 +29,7 @@ exjugador/GS
 fenólico/S
 flexómetro/S
 franquiciado/S
+fundacionismo/S
 hiperenlace/S
 hipervínculo/S
 iusnaturalismo

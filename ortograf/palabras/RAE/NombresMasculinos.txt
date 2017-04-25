@@ -1105,6 +1105,7 @@ aposentamiento/S
 aposento/S
 apostadero/S
 apostolado/S
+apóstrofe/S
 apóstol/S
 apóstrofo/S
 apotegma/S
@@ -1491,6 +1492,7 @@ austro/S
 autismo/S
 autobombo/S
 autobús
+autocontrol/S
 autoestop
 autoestopes
 autógrafo/S
@@ -3968,6 +3970,7 @@ cuero/pS
 cuerpo/cS
 cuervo/S
 cuesco/S
+cuestionamiento/S
 cuestionario/S
 cuestor/S
 cuévano/S
@@ -5948,6 +5951,7 @@ foso/bS
 fotograbado/S
 fotograma/S
 fotolito/S
+fotón/S
 foto/S
 fracaso/S
 fraccionamiento/S
@@ -6027,6 +6031,7 @@ fumista/S
 fumo/S
 funcionalismo/S
 funcionamiento/S
+fundamentalismo/S
 fundamento/S
 funda/S
 fundente/S
@@ -6468,6 +6473,7 @@ hallullo/S
 haloque/S
 halo/S
 hampo/GS
+hámster/S
 hándicap		# Contribuida por Gonzalo Higuera Díaz
 hangar/S
 hanzo/S
@@ -8019,6 +8025,7 @@ medicinamiento/S
 medicinante/S
 medicucho/S
 medievo/S
+medioambiente/S
 mediodía/S
 medioevo/S
 mediomundo/S

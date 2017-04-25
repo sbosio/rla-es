@@ -770,6 +770,7 @@ estenógrafo/GS
 estepero/GS
 estereotipador/GS
 esterero/GS
+esteta/S
 estirado/GS
 estofador/GS
 estrellero/GS
@@ -1282,6 +1283,7 @@ opositor/GS
 orador/GS
 ordeñador/GS
 organillero/GS
+ornitólogo/GS
 ortopédico/GS
 overo/GS
 pacotillero/GS
