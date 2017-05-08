@@ -16,6 +16,7 @@
 
 abatanado/GS
 aborlonado/GS
+acomedido/GS
 alhaja/S
 alón/SG
 aplazado/GS
