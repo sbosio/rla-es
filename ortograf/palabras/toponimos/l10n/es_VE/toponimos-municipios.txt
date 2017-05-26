@@ -1,0 +1,430 @@
+#
+# Municipios del Estado Amazonas
+#
+Alto Orinoco
+Atabapo
+Atures
+Autana
+Manapiare
+Maroa
+# Río Negro
+
+#
+# Municipios del Estado Anzoátegui
+#
+Anaco
+Aragua
+Bolívar
+Bruzual
+Cajigal
+Carvajal
+Freites
+Guanipa
+Guanta
+# Independencia
+# Libertad
+McGregor
+Miranda
+Monagas
+Peñalver
+Píritu
+San Juan de Capistrano
+Santa Ana
+Simón Rodríguez
+Sotillo
+Urbaneja
+
+#
+# Municipios del Estado Apure
+#
+Achaguas
+Biruaca
+Camejo
+Muñoz
+Páez
+Rómulo Gallegos
+San Fernando
+
+#
+# Municipios del Estado Aragua
+#
+Alcántara
+Bolívar
+Camatagua
+Girardot
+Iragorry
+Lamas
+# Libertador
+Mariño
+Michelena
+Ocumare de la Costa de Oro
+Revenga
+Ribas
+San Casimiro
+San Sebastián
+Sucre
+Tovar
+Urdaneta
+Zamora
+
+#
+# Municipios del Estado Barinas
+#
+Alberto Arvelo Torrealba
+Andrés Eloy Blanco
+Antonio José de Sucre
+Arismendi
+Barinas
+Bolívar
+Cruz Paredes
+Ezequiel Zamora
+Obispos
+Pedraza
+Rojas
+Sosa
+
+#
+# Municipios del Estado Bolívar
+#
+Angostura
+Caroní
+Cedeño
+Chien
+El Callao
+Gran Sabana
+Heres
+Piar
+Roscio
+Sifontes
+Sucre
+
+#
+# Municipios del Estado Carabobo
+#
+Bejuma
+Carlos Arvelo
+Diego Ibarra
+Guacara
+Libertador
+Los Guayos
+Miranda
+Mora
+Montalbán
+Naguanagua
+Puerto Cabello
+San Diego
+San Joaquín
+Valencia
+
+#
+# Municipios del Estado Cojedes
+#
+Anzoátegui
+Tinaquillo
+Girardot
+Lima Blanco
+Pao de San Juan Bautista
+Ricaurte
+Rómulo Gallegos
+San Carlos
+Tinaco
+
+#
+# Municipios del Estado Delta Amacuro
+#
+Antonio Díaz
+Casacoima
+Pedernales
+Tucupita
+
+#
+# Municipios del Distrito Capital
+#
+Libertador
+
+#
+# Municipios del Estado Falcón
+#
+Acosta
+Bolívar
+Buchivacoa
+Carirubana
+Colina
+Dabajuro
+# Democracia
+Falcón
+Federación
+Iturriza
+Jacura
+Los Taques
+Manaure
+Mauroa
+Miranda
+Palmasola
+Petit
+Píritu
+San Francisco
+Sucre
+Silva
+Tocópero
+# Unión
+Urumaco
+Zamora
+
+#
+# Municipios del Estado Guárico
+#
+Camaguán
+Chaguaramas
+El Socorro
+Las Mercedes
+Leonardo Infante
+Julián Mellado
+Francisco de Miranda
+Monagas
+Ortiz
+Ribas
+Roscio
+San Gerónimo de Guayabal
+San José de Guaribe
+Santa María de Ipire
+Zaraza
+
+#
+# Municipios del Estado Lara
+#
+Blanco
+Crespo
+Iribarren
+Jiménez
+Morán
+Palavecino
+Planas
+Torres
+Urdaneta
+
+#
+# Municipios del Estado Mérida
+#
+Adriani
+Andrés Bello
+Aricagua
+Briceño
+Chacón
+Campo Elías
+Dávila
+Febres Cordero
+Guaraque
+Libertador
+Miranda
+Noguera
+Parra Olmedo
+Pinto Salinas
+Pueblo Llano
+Quintero
+Rangel
+Ramos de Lora
+Salas
+Marquina
+Sucre
+Tovar
+Zea
+
+#
+# Municipios del Estado Miranda
+#
+Acevedo
+Andrés Bello
+Baruta
+Brión
+Bolívar
+Buroz
+Carrizal
+Chacao
+Cristóbal Rojas
+El Hatillo
+Guaicaipuro
+Gual
+Independencia
+Lander
+Los Salias
+Páez
+Paz Castillo
+Plaza
+Sucre
+Urdaneta
+Zamora
+
+#
+# Municipios del Estado Monagas
+#
+Acosta
+Aguasay
+Bolívar
+Caripe
+Cedeño
+Libertador
+Maturín
+Piar
+Punceres
+Santa Bárbara
+Sotillo
+Uracoa
+Zamora
+
+#
+# Municipios del estado Nueva Esparta
+#
+Antolín del Campo
+Arismendi
+Díaz
+García
+Gómez
+Macanao
+Maneiro
+Marcano
+Mariño
+Tubores
+Villalba
+
+#
+# Municipios del Estado Portuguesa
+#
+Agua Blanca
+Araure
+Esteller
+Guanare
+Guanarito
+Ospino
+Páez
+Papelón
+San Genaro de Boconoíto
+San Rafael de Onoto
+Santa Rosalía
+Sucre
+Turén
+Unda
+
+#
+# Municipios del Estado Sucre
+#
+Arismendi
+Benítez
+Bermúdez
+# Blanco
+Bolívar
+Cajigal
+Cruz Salmerón Acosta
+Libertador
+Mariño
+Mata
+Mejía
+Montes
+Ribero
+Sucre
+Valdez
+
+#
+# Municipios del Estado Táchira
+#
+Andrés Bello
+Ayacucho
+Bolívar
+Cárdenas
+Córdoba
+Fernández
+Guásimos
+Hevia
+# Independencia
+Jáuregui
+Junín
+Libertad
+Libertador
+Lobatera
+Maldonado
+Michelena
+Miranda
+Panamericano
+Rómulo Costa
+San Cristóbal
+San Judas Tadeo
+Seboruco
+Simón Rodríguez
+Sucre
+Torbes
+Urdaneta
+Ureña
+Uribante
+Vargas
+
+#
+# Municipios del Estado Trujillo
+#
+Andrés Bello
+Boconó
+Bolívar
+Candelaria
+Carache
+Campos Elías
+Carvajal
+Escuque
+La Ceiba
+Márquez Cañizales
+Miranda
+Monte Carmelo
+Motatán
+Pampán
+Pampanito
+Rangel
+Sucre
+Trujillo
+Urdaneta
+Valera
+
+#
+# Municipios del Estado Vargas
+#
+Vargas
+
+#
+# Municipios del Estado Yaracuy
+#
+Bastidas
+Bolívar
+Bruzual
+Cocorote
+Independencia
+La Trinidad
+Monge
+Nirgua
+Páez
+Peña
+San Felipe
+Sucre
+Urachiche
+Veroes
+
+#
+# Municipios del Estado Zulia
+#
+Bolívar
+Baralt
+Cabimas
+Catatumbo
+Colón
+Guajira
+Padilla
+# Pulgar
+Losada
+Semprún
+La Cañada de Urdaneta
+Lagunillas
+Machiques
+Mara
+Maracaibo
+Miranda
+Rosario
+San Francisco
+Santa Rita
+Sucre
+Valmore Rodríguez

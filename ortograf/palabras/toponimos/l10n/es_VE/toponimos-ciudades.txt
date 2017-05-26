@@ -1,0 +1,78 @@
+#
+# Ciudades con más de 100.000 habitantes
+#
+
+Caracas
+Maracaibo
+Valencia
+Barquisimeto
+Maracay
+Ciudad Guayana
+Maturín
+Barcelona
+Ciudad Bolívar
+Cumaná
+San Cristóbal
+Barinas
+Cabimas
+Punto Fijo
+Puerto La Cruz
+Guarenas
+# Los Teques
+Teques
+Mérida
+Ciudad Ojeda
+Guanare
+Turmero
+Coro
+Guatire
+Puerto Cabello
+# El Tigre
+Acarigua
+Carora
+Tocuyito
+Guacara
+Santa Teresa del Tuy
+San Fernando de Apure
+Carúpano
+# La Victoria
+Cabudare
+Güigüe
+# Villa de Cura
+Calabozo
+Araure
+Santa Bárbara del Zulia
+Santa Rita
+Los Guayos
+Ocumare del Tuy
+Naguanagua
+Valera
+# El Vigía
+Cúa
+Machiques
+El Tocuyo
+San Juan de Los Morros
+Anaco
+Valle de la Pascua
+Guasdualito
+Zaraza
+Santa Lucía
+Cagua
+Táriba
+Mariara
+# La Concepción
+Upata
+Ejido
+San Felipe
+Tovar
+Quíbor
+San Carlos
+Tinaquillo
+Charallave
+Puerto Ayacucho
+# El Limón
+Caicara del Orinoco
+Yaritagua
+Tucupita
+Porlamar
+Los Puertos de Altagracia
