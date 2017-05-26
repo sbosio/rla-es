@@ -13,19 +13,19 @@ ZIP=$(which zip 2>/dev/null)
 
 # Abandonar si no se encuentra alguna de las herramientas
 if [ "$MKTEMP" == "" ]; then
-  echo "No se encontró el comando 'mktemp'... Abortando." > /dev/stderr
+  echo "No se encontró el comando 'mktemp'... Abortando." >&2
   exit 1
 fi
 if [ "$GREP" == "" ]; then
-  echo "No se encontró el comando 'grep'... Abortando." > /dev/stderr
+  echo "No se encontró el comando 'grep'... Abortando." >&2
   exit 1
 fi
 if [ "$FIND" == "" ]; then
-  echo "No se encontró el comando 'find'... Abortando." > /dev/stderr
+  echo "No se encontró el comando 'find'... Abortando." >&2
   exit 1
 fi
 if [ "$ZIP" == "" ]; then
-  echo "No se encontró el comando 'zip'... Abortando." > /dev/stderr
+  echo "No se encontró el comando 'zip'... Abortando." >&2
   exit 1
 fi
 
@@ -91,8 +91,8 @@ do
 
     *)
       echo
-      echo "Opción no reconocida: '$opcion'." > /dev/stderr
-      echo "Consulte la ayuda del comando: '$0 --ayuda'." > /dev/stderr
+      echo "Opción no reconocida: '$opcion'." >&2
+      echo "Consulte la ayuda del comando: '$0 --ayuda'." >&2
       echo
       exit 1 ;;
   esac
@@ -110,14 +110,14 @@ if [ "$LOCALIZACION" != "" ]; then
     LANG="$LOCALIZACION.UTF-8"
     echo "Creando un diccionario para la localización '$LOCALIZACION'..."
   else
-    echo "No se ha implementado la localización '$LOCALIZACION'." > /dev/stderr
-    echo -ne "¿Desea crear el diccionario genérico? (S/n): " > /dev/stderr
+    echo "No se ha implementado la localización '$LOCALIZACION'." >&2
+    echo -ne "¿Desea crear el diccionario genérico? (S/n): " >&2
     read -r -s -n 1 RESPUESTA
     if [ "$RESPUESTA" == "n" -o "$RESPUESTA" == "N" ]; then
-      echo -e "No.\nProceso abortado.\n" > /dev/stderr
+      echo -e "No.\nProceso abortado.\n" >&2
       exit 2
     else
-      echo "Sí" > /dev/stderr
+      echo "Sí" >&2
       LANG="es_ES.UTF-8"
       LOCALIZACION="es_ANY"
     fi
