@@ -43,11 +43,11 @@ Se hace así necesario remover estos elementos no deseados de nuestras listas, d
      -e 's/ +/\n/g' archivo_compuesto.txt
     sort -u | sed '/^$/d' archivo_compuesto.txt > archivo_descompuesto.txt
 
-Es posible remover algunas palabras comúnes acorde a las reglas especificadas  con la siguiente linea:  
-
-    sed -i -E '/^(De|Del|Ciudad|Y)$/d' arcgivo_descompuesto.txt
-
 Ahora, es necesario que los lemas estén con la convención de sustantivos propios (mayúscula inicial y el resto minúscula).  
 
      cat archivo_descompuesto | tr "[[:upper:]]" "[[:lower:]]" | tr "ÁÉÍÓÚÜÑ" "áéíóúüñ" > toponimos.txt
      sed -i 's/^\(.\)/\u\1/g' toponimos.txt
+
+Es posible remover algunas palabras comúnes acorde a las reglas especificadas  con la siguiente linea:  
+
+      sed -i -E '/^(De|Del|Ciudad|Y)$/d' archivo_descompuesto.txt
