@@ -7268,6 +7268,7 @@ nervosidad/S
 nervura/S
 nesciencia/S
 neumoconiosis
+neumonía/S
 neumonitis
 neuralgia/S
 neurastenia/S
