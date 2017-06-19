@@ -30,12 +30,14 @@ ferroaleación/S
 fundamentación/S
 granularidad/S
 interoperatividad/S		# Contribuida por Gonzalo Higuera Díaz
+mercantilización/S
 meritocracia/S
 microinformática/S
 personalización/S
 preproducción/S			# Contribuida por Sergio Medina
 priorización/S
 reinvención/S
+retroalimentación/S
 sandwichera/S
 sismicidad/S
 sobreutilización/S

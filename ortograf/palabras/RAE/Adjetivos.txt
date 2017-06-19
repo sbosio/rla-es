@@ -1117,6 +1117,7 @@ armenio/GS
 armónica/ik
 armónico/GiSk
 armonioso/GS
+armonizador/GS
 armoricano/GS
 aromático/GS
 arpado/GS
@@ -2106,6 +2107,7 @@ capsular/eS
 captador/GS
 captor/GS
 capuchino/GS
+caqui/S
 caracense/S
 caracho/GS
 característico/SG
@@ -3337,6 +3339,7 @@ cualquier
 cualquiera
 cual/S
 cuántico/GS
+cuantificable/S
 cuantioso/GS
 cuantitativo/GS
 cuarenta/S
@@ -4065,6 +4068,7 @@ distinguido/GS
 distinta/k
 distintivo/SG
 distinto/kSG
+distorsionador/GS
 distraído/GS
 distribuidor/GS
 distributivo/SG
@@ -4638,6 +4642,7 @@ epiléptico/GS
 epilogal/S
 epirota/S
 episcopal/S
+epistemológico/GS
 epistolar/S
 epitelial/S
 epizoótico/GS
@@ -5605,6 +5610,7 @@ funcional/S
 funcionarial/S
 fundacional/S
 fundador/SG
+fundamentalista/S
 fundamental/S
 funda/o
 fundente/S
@@ -7031,6 +7037,7 @@ justo/kGS
 juvenal/S
 juvenil/S
 juzgador/SG
+kaki/S
 kantiano/GS
 kazajo/GS
 kazako/GS
@@ -7870,6 +7877,7 @@ mediano/GS
 mediata/k
 mediático/GS
 mediato/kGS
+medible/S
 medicamentoso/SG
 medicinal/S
 medicinante/S
@@ -11709,6 +11717,7 @@ tehuelche/S
 tejano/GS
 teja/S
 tejedor/SGj
+teledirigido/GS
 telefónico/GS
 telegráfico/GS
 telendo/GS

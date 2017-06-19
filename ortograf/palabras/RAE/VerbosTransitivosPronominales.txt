@@ -466,6 +466,7 @@ bachillerar/RED
 baldar/RED
 baldonear/RED
 balizar/RED
+banalizar/RED
 bandear/RED
 banderizar/RED
 bañar/REDÀÁÄÅÆÌñòôø

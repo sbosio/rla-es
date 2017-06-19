@@ -57,6 +57,7 @@ incremental/S
 inefectivo/GS
 inspectorial/S
 interoperable/S			# Contribuida por Gonzalo Higuera Díaz
+interrelacionado/GS
 irakí/S
 larguísimo/GS
 maremotriz/S
@@ -80,6 +81,7 @@ poblacional/S
 policéntrico/GS
 polandés/GS
 postraumático/GS
+posvacacional/S
 predictivo/GS
 prescriptor/GS
 ranurado/GS
