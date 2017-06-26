@@ -7115,6 +7115,7 @@ mucosa/S
 mucosidad/S
 mudanza/S
 muda/SM
+mueblería/S
 mueca/S
 muela/S
 muera/S
