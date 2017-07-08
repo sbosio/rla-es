@@ -1,0 +1,218 @@
+# Provincias del Perú
+# Fuente: Códigos de Ubicación Geográfica (UBIGEO) del Instituto Nacional de Estadística e Informática del Perú (INEI)
+# Actualización: 07/12/2016
+
+
+Abancay
+Acobamba
+Acomayo
+Aija
+Alcides
+#Alto Amazonas
+Ambo
+Andahuaylas
+Angaraes
+Anta
+Antabamba
+#Antonio Raymondi
+Arequipa
+Ascope 
+Asunción
+Atalaya
+Ayabaca
+Aymaraes
+Azángaro
+Bagua
+Barranca
+Basadre
+Bellavista
+Bolívar
+Bolognesi
+Bongará
+Cañete
+Cajabamba
+Cajamarca
+Cajatambo
+Calca
+Camaná
+Canas
+Canchis
+Candarave
+Cangallo
+Canta
+Carabaya
+Caravelí
+Carhuaz
+Carrión
+#Carlos Fermín Fitzcarrald
+Casma
+Castilla
+Castrovirreyna
+Caylloma
+Celendín
+Chachapoyas
+Chanchamayo
+Chepén
+Chiclayo
+Chimú
+Chincha
+Chincheros
+Chota
+Chuco
+Chucuito
+Chumbivilcas
+Chupaca
+Churcampa
+Collao
+Concepción 
+Condesuyos
+Condorcanqui
+#Contralmirante Villar
+Contumazá
+#Coronel Portillo
+Corongo
+Cotabambas
+Cusco
+Cutervo
+#Daniel Alcides Carrión
+Datem
+#Datem del Marañón
+#Dos de Mayo
+#El Collao
+#El Dorado
+Espinar
+Fermín
+Ferreñafe
+Fitzcarrald
+#General Sánchez Cerro
+#Gran Chimú
+Grau
+Huanca
+Huánuco
+Huacaybamba
+Hualgayoc
+Huallaga 
+Huamalíes
+Huamanga
+#Huanca Sancos
+Huancabamba
+Huancané 
+Huancavelica
+Huancayo
+Huanta
+Huaral
+Huaraz
+Huari
+Huarmey
+Huarochirí
+Huaura 
+Huaylas
+Huaytará
+Ica
+Ilo
+Islay
+Jaén
+Jauja
+#Jorge Basadre
+Julcán
+Junín
+#La Convención
+#La Mar
+#La Unión
+Lamas
+Lambayeque
+Lampa
+Lauricocha
+Leoncio
+#Leoncio Prado
+Lima
+Loreto
+Lucanas
+Luya
+Luzuriaga
+Manu 
+Marañón
+#Mariscal Cáceres
+#Mariscal Luzuriaga
+#Mariscal Nieto
+#Mariscal Ramón Castilla
+Maynas
+Melgar
+Moho
+Morropón
+Moyobamba
+Nasca
+Ocros
+Otuzco
+Oxapampa
+Oyón
+Paúcar 
+#Páucar del Sara Sara
+Pacasmayo
+Pachitea
+#Padre Abad
+Paita
+Pallasca
+Palpa
+Parinacochas
+Paruro
+Pasco
+Pataz
+Paucartambo
+Picota
+Pisco
+Piura
+Pomabamba
+#Provincia Constitucional del Callao
+#Puerto Inca
+Puno
+Purús
+Putina
+Putumayo
+Quispicanchi
+Raymondi
+Recuay
+Requena
+Rioja
+Román
+#Rodríguez de Mendoza
+#Sánchez Carrión
+#San Antonio de Putina
+#San Ignacio
+#San Marcos
+#San Martín
+#San Miguel
+#San Pablo
+#San Román
+Sandia
+#Santa
+#Santa Cruz
+#Santiago de Chuco
+Satipo
+Sechura
+Sihuas
+Sucre
+Sullana
+Tacna
+Tahuamanu
+Talara
+Tambopata
+Tarata
+Tarma
+Tayacaja
+Tocache
+Trujillo
+Tumbes
+Ucayali
+Urubamba
+Utcubamba
+#Víctor Fajardo
+#Vilcas Huamán
+Villar
+Virú
+Yarowilca
+Yauli
+Yauyos
+Yungay
+Yunguyo
+Zarumilla
