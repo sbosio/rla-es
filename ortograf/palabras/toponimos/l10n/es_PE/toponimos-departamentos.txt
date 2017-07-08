@@ -1,0 +1,33 @@
+# Departamentos del Perú y provincia constitucional
+# Fuente: Códigos de Ubicación Geográfica (UBIGEO) del Instituto Nacional de Estadística e Informática del Perú (INEI)
+# Actualización: 07/12/2016
+
+# palabras removidas: "de", "la"
+
+Amazonas
+Áncash
+Apurímac
+Arequipa
+Ayacucho
+Cajamarca
+Callao
+Cusco
+Dios
+Huancavelica
+Huánuco
+Ica
+Junín
+Lambayeque
+Libertad
+Lima
+Loreto
+Madre
+Martín
+Moquegua
+Pasco
+Piura
+Puno
+San
+Tacna
+Tumbes
+Ucayali
