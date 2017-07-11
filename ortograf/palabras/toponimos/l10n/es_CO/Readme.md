@@ -43,6 +43,10 @@ Se hace así necesario remover estos elementos no deseados de nuestras listas, d
      -e 's/ +/\n/g' archivo_compuesto.txt
     sort -u | sed '/^$/d' archivo_compuesto.txt > archivo_descompuesto.txt
 
+En Colombia, múltiples topónimos son acompañados de números romanos, los cuales no son interés de corrección ortográfica en este caso. Para ello, eliminaremos las secuencias asociadas a números romanos válidos.  
+
+    sed -i -E '/^M{0,4}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$/d' archivo_descompuesto.txt
+
 Ahora, es necesario que los lemas estén con la convención de sustantivos propios (mayúscula inicial y el resto minúscula).  
 
      cat archivo_descompuesto | tr "[[:upper:]]" "[[:lower:]]" | tr "ÁÉÍÓÚÜÑ" "áéíóúüñ" > toponimos.txt

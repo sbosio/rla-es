@@ -30,8 +30,6 @@ Almaguer
 Almeida
 Alpujarra
 Altamira
-Alto
-Altos
 Alvarado
 Amagá
 Amalfi
@@ -309,7 +307,6 @@ Curumaní
 Dabeiba
 Dagua
 Darién
-Dc
 Dibulla
 Diego
 Dios

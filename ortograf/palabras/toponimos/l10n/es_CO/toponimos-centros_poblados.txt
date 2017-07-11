@@ -126,8 +126,6 @@ Altaquer
 Altas
 Altavista
 Altico
-Alto
-Altos
 Alvarado
 Alvarez
 Álvarez
@@ -628,7 +626,6 @@ Burubatá
 Burujón
 Busbanzá
 Buturama
-C
 Cabal
 Caballeros
 Caballos
@@ -2123,7 +2120,6 @@ Humbo
 Hungría
 Hurquijo
 Hurtado
-I
 Ibagué
 Ibama
 Iberia
@@ -2140,8 +2136,6 @@ Igridero
 Igua
 Iguaque
 Iguasitos
-Ii
-Iii
 Ilarcuta
 Ilaria
 Iles
@@ -2209,7 +2203,6 @@ Itagüí
 Itaibe
 Italia
 Ituango
-Iv
 Iza
 Izquierdo
 Jabalcón
@@ -2451,7 +2444,6 @@ Luruaco
 Lusitania
 Luz
 Luzón
-M
 Macagua
 Macaján
 Macal
@@ -4489,7 +4481,6 @@ Versalles
 Verso
 Vesubio
 Vetas
-Vi
 Vía
 Viajano
 Vial
@@ -4580,8 +4571,6 @@ Waunaán
 Werima
 Wilches
 Winando
-X
-Xiii
 Ya
 Yacopí
 Yacuanquer
