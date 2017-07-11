@@ -1,0 +1,39 @@
+#! /usr/bin/env bash
+
+A=departamentos
+B=municipios
+C=centros_poblados
+l=lista-
+t=toponimos-
+sc=sincabeceras.csv
+
+function xls_a_categorias() {
+  soffice --convert-to csv --infilter=CSV:44,34,76,1 $1
+  nombrexls="${1%.*}"
+  xlscsv="$nombrexls".csv
+  tail -n +3 $xlscsv | head -n -2 > $sc
+  sed -i 's/","/,/g' $sc
+  cut -d ',' -f 4 $sc | sort -u > $l$A
+  cut -d ',' -f 5 $sc | sort -u > $l$B
+  cut -d ',' -f 6 $sc | sort -u > $l$C
+  rm $xlscsv $sc
+}
+
+function categoria_formato() {
+  sed -E -i \
+    -e 's/([[:punct:]]|[[:digit:]])+//g' \
+    -e 's/ +/\n/g' $l$1
+  sort -u $l$1 | sed '/^$/d' > $t$1.tmp
+  sed -i -E '/^M{0,4}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$/d' $t$1.tmp
+  cat $t$1.tmp | tr "[[:upper:]]" "[[:lower:]]" | tr "ÁÉÍÓÚÜÑ" "áéíóúüñ" > $t$1.txt
+  sed -i -E -e 's/^(.)/\u\1/g' \
+    -e '/^(De|Del|El|Fé|La|Los|Las|Paz|Río|San|Sur|Norte|Y|Ciudad|Ciudadela|Corregimiento|Montaña|Alto|Altos)$/d' \
+    $t$1.txt
+  rm $l$1 $t$1.tmp
+}
+
+xls_a_categorias $1
+entes=($A $B $C)
+for ente in ${entes[@]}; do
+  categoria_formato $ente
+done
