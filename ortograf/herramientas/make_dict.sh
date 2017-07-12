@@ -114,8 +114,8 @@ if [ "$LOCALIZACIONES" != "" ]; then
     echo "No se ha implementado la localización '$LOCALIZACION'." >&2
     echo -ne "¿Desea crear el diccionario genérico? (S/n): " >&2
 =======
-    echo "No se ha implementado la localización '$LOCALIZACION'." > /dev/stderr
-    echo -ne "¿Desea crear el diccionario genérico? (S/n): " > /dev/stderr
+    echo "No se ha implementado la localización '$LOCALIZACION'." >&2
+    echo -ne "¿Desea crear el diccionario genérico? (S/n): " >&2
 >>>>>>> sbosio/master
     read -r -s -n 1 RESPUESTA
     if [ "$RESPUESTA" == "n" -o "$RESPUESTA" == "N" ]; then
@@ -127,7 +127,7 @@ if [ "$LOCALIZACIONES" != "" ]; then
       LANG="es_ES.UTF-8"
       LOCALIZACION="es_ANY"
 =======
-      echo "Sí" > /dev/stderr
+      echo "Sí" >&2
       LOCALIZACIONES="es_ANY"
 >>>>>>> sbosio/master
     fi
