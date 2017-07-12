@@ -7115,6 +7115,7 @@ mucosa/S
 mucosidad/S
 mudanza/S
 muda/SM
+mueblería/S
 mueca/S
 muela/S
 muera/S
@@ -7276,6 +7277,7 @@ nervosidad/S
 nervura/S
 nesciencia/S
 neumoconiosis
+neumonía/S
 neumonitis
 neuralgia/S
 neurastenia/S

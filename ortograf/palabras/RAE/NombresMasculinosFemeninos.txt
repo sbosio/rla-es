@@ -86,6 +86,7 @@ alfonsino/GS
 alforjero/GS
 algalia/S
 algodonero/GS
+alienígena/S
 alijador/GS
 almacenero/GS
 almendrado/GS
@@ -124,6 +125,7 @@ antártico/GS
 antecesor/GS
 anticuario/GS
 antiespañol/GS
+antropólogo/GS
 apagador/GS
 aparador/GS
 aparcero/GS

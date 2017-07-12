@@ -608,7 +608,7 @@ potista/S
 practicante/S
 prensista/S
 prerrafaelista/S
-presidente/S
+presidente/wS
 prestamista/S
 profesional/S
 prologuista/S

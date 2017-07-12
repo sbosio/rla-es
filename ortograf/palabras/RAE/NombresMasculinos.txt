@@ -5610,6 +5610,7 @@ esturión/S
 esviaje/S
 etalaje/S
 etano/S
+etanol/S
 eterismo/S
 eterno/S
 éter/S
@@ -13214,6 +13215,7 @@ vulcanismo/S
 vulgarismo/S
 vulgo/S
 vulturno/S
+waterpolo
 watt/S
 weber
 webers
