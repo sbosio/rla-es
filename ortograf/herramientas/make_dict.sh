@@ -49,9 +49,12 @@ do
   case $opcion in
 
     --localizacion | --localización | --locale | -l)
-      previa="LOCALIZACION" ;;
+      previa="LOCALIZACIONES" ;;
     --localizacion=* | --localización=* | --locale=* | -l=*)
-      LOCALIZACION=$argumento ;;
+      LOCALIZACIONES=$argumento ;;
+
+    --todas | -t)
+      LOCALIZACIONES=$(ls ../../ortograf/palabras/RAE/l10n/) ;;
 
     --rae | -r)
       RAE="SÍ" ;;
@@ -71,6 +74,9 @@ do
       echo "    Localización a utilizar en la generación del diccionario."
       echo "    El argumento LOC debe ser un código ISO de localización"
       echo "    implementado (es_AR, es_ES, es_MX, etc.)"
+      echo
+      echo "--todos | -t"
+      echo "    Generar diccionarios para todas las localizaciones registradas."
       echo
       echo "--rae | -r"
       echo "    Incluir únicamente las palabras pertenecientes al"
@@ -106,30 +112,15 @@ if [ "$LOCALIZACIONES" != "" ]; then
   # Verificar que la localización solicitada esté implementada.
   if ![ -d "../palabras/RAE/l10n/$LOCALIZACION" -o \
        -d "../palabras/noRAE/l10n/$LOCALIZACION" ]; then
-<<<<<<< HEAD
-    # Cambiamos la localización y codificación de caracteres.
-    LANG="$LOCALIZACION.UTF-8"
-    echo "Creando un diccionario para la localización '$LOCALIZACION'..."
-  else
     echo "No se ha implementado la localización '$LOCALIZACION'." >&2
     echo -ne "¿Desea crear el diccionario genérico? (S/n): " >&2
-=======
-    echo "No se ha implementado la localización '$LOCALIZACION'." >&2
-    echo -ne "¿Desea crear el diccionario genérico? (S/n): " >&2
->>>>>>> sbosio/master
     read -r -s -n 1 RESPUESTA
     if [ "$RESPUESTA" == "n" -o "$RESPUESTA" == "N" ]; then
       echo -e "No.\nProceso abortado.\n" >&2
       exit 2
     else
-<<<<<<< HEAD
-      echo "Sí" >&2
-      LANG="es_ES.UTF-8"
-      LOCALIZACION="es_ANY"
-=======
       echo "Sí" >&2
       LOCALIZACIONES="es_ANY"
->>>>>>> sbosio/master
     fi
   fi
 else
@@ -437,72 +428,29 @@ for LOCALIZACION in $LOCALIZACIONES; do
       /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
       /__ICON__/ { s//$ICONO/g; p; };
       /__COUNTRY__/ { s//$PAIS/g; p; }" \
-    ../docs/dictionaries.xcu> "$MDTMPDIR/dictionaries.xcu"
-    sed -n -e "
-      /__/! { p; };
-      /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-      /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
-      /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
-      /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
-      /__ICON__/ { s//$ICONO/g; p; };
-      /__COUNTRY__/ { s//$PAIS/g; p; }" \
-    ../docs/package-description.txt > "$MDTMPDIR/package-description.txt"
-  else
-    DESCRIPCION="Español ($PAIS): Ortografía, separación y sinónimos"
-    sed -n -e "
-      /__/! { p; };
-      /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-      /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
-      /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
-      /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
-      /__ICON__/ { s//$ICONO/g; p; };
-      /__COUNTRY__/ { s//$PAIS/g; p; }" \
-    ../docs/dictionaries_full.xcu > "$MDTMPDIR/dictionaries.xcu"
-    sed -n -e "
-      /__/! { p; };
-      /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-      /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
-      /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
-      /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
-      /__ICON__/ { s//$ICONO/g; p; };
-      /__COUNTRY__/ { s//$PAIS/g; p; }" \
-    ../docs/package-description_full.txt > "$MDTMPDIR/package-description.txt"
-    cp ../../separacion/hyph_es_ANY.dic \
-      ../../separacion/README_hyph_es_ANY.txt "$MDTMPDIR"
-    cp ../../sinonimos/palabras/README_th_es_ES.txt \
-      ../../sinonimos/palabras/COPYING_th_es_ES \
-      ../../sinonimos/palabras/th_es_ES_v2.* "$MDTMPDIR"
+    ../docs/description.xml > "$MDTMPDIR/description.xml"
+    cp ../docs/$ICONO "$MDTMPDIR"
+    mkdir "$MDTMPDIR/META-INF"
+    cp ../docs/manifest.xml "$MDTMPDIR/META-INF"
   fi
-  sed -n -e "
-    /__/! { p; };
-    /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-    /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
-    /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
-    /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
-    /__ICON__/ { s//$ICONO/g; p; };
-    /__COUNTRY__/ { s//$PAIS/g; p; }" \
-  ../docs/description.xml > "$MDTMPDIR/description.xml"
-  cp ../docs/$ICONO "$MDTMPDIR"
-  mkdir "$MDTMPDIR/META-INF"
-  cp ../docs/manifest.xml "$MDTMPDIR/META-INF"
-fi
 
-DIRECTORIO_TRABAJO="$(pwd)"
+  DIRECTORIO_TRABAJO="$(pwd)"
 
-if [ "$VERSION" != "3" ]; then
-  echo -n "Creando paquete comprimido para las versiones 1.x o 2.x de OpenOffice.org... "
-  ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.zip"
-else
-  echo -n "Creando extensión para Apache OpenOffice/LibreOffice 3.x o superior (.oxt)... "
-  ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.oxt"
-fi
+  if [ "$VERSION" != "3" ]; then
+    echo -n "Creando paquete comprimido para las versiones 1.x o 2.x de OpenOffice.org... "
+    ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.zip"
+  else
+    echo -n "Creando extensión para Apache OpenOffice/LibreOffice 3.x o superior (.oxt)... "
+    ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.oxt"
+  fi
 
-cd "$MDTMPDIR"
-$ZIP -r -q "$ZIPFILE" ./*
-cd "$DIRECTORIO_TRABAJO"
-echo "¡listo!"
+  cd "$MDTMPDIR"
+  $ZIP -r -q "$ZIPFILE" ./*
+  cd "$DIRECTORIO_TRABAJO"
+  echo "¡listo!"
 
-# Eliminar la carpeta temporal
-rm -Rf "$MDTMPDIR"
+  # Eliminar la carpeta temporal
+  rm -Rf "$MDTMPDIR"
+done
 
 echo "¡Proceso finalizado!"
