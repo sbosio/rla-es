@@ -2,7 +2,7 @@
 # Municipios del Estado Amazonas
 #
 # Alto Orinoco
-Orinoco
+# (repetido) Orinoco
 Atabapo
 Atures
 Autana
@@ -13,9 +13,9 @@ Maroa
 #
 # Municipios del Estado Anzoátegui
 #
-Anaco
-Aragua
-Bolívar
+# (repetido) Anaco
+# (repetido) Aragua
+# (repetido) Bolívar
 Bruzual
 Cajigal
 Carvajal
@@ -25,14 +25,14 @@ Guanta
 # Independencia
 # Libertad
 McGregor
-Miranda
-Monagas
+# (repetido) Miranda
+# (repetido) Monagas
 Peñalver
 Píritu
 # San Juan de Capistrano
 Capistrano
 # (separado) Santa Ana
-Santa
+# (repetido) Santa
 Ana
 # (separado) Simón Rodríguez
 Simón
@@ -52,8 +52,8 @@ Páez
 Rómulo
 Gallegos
 # San Fernando
-San
-Fernando
+# (repetido) San
+# (repetido) Fernando
 
 #
 # Municipios del Estado Aragua
@@ -68,15 +68,15 @@ Lamas
 Mariño
 Michelena
 # Ocumare de la Costa de Oro
-Ocumare
+# (repetido) Ocumare
 Revenga
 Ribas
 # San Casimiro
 Casimiro
 # San Sebastián
 Sebastián
-Sucre
-Tovar
+# (repetido) Sucre
+# (repetido) Tovar
 Urdaneta
 Zamora
 
@@ -95,7 +95,7 @@ Antonio
 José
 # (repetido) Sucre
 Arismendi
-Barinas
+# (repetido) Barinas
 # Bolívar
 # Cruz Paredes
 # Ezequiel Zamora
@@ -128,36 +128,36 @@ Sifontes
 #
 Bejuma
 # Carlos Arvelo
-Carlos
+# (repetido) Carlos
 # (repetido) Arvelo
 # Diego Ibarra
 Diego
 Ibarra
-Guacara
+# (repetido) Guacara
 Libertador
 # Los Guayos
-Guayos
+# (repetido) Guayos
 # (repetido) Miranda
 Mora
 Montalbán
-Naguanagua
+# (repetido) Naguanagua
 # Puerto Cabello
 # San Diego
 # (repetido) Diego
 # San Joaquín
 Joaquín
-Valencia
+# (repetido) Valencia
 
 #
 # Municipios del Estado Cojedes
 #
-Anzoátegui
-Tinaquillo
+# (repetido) Anzoátegui
+# (repetido) Tinaquillo
 # (repetido) Girardot
 # Lima Blanco
 # Pao de San Juan Bautista
 Pao
-Juan
+# (repetido) Juan
 Bautista
 Ricaurte
 # Rómulo Gallegos
@@ -175,7 +175,7 @@ Tinaco
 Díaz
 Casacoima
 Pedernales
-Tucupita
+# (repetido) Tucupita
 
 #
 # Municipios del Distrito Capital
@@ -192,7 +192,7 @@ Carirubana
 Colina
 Dabajuro
 # Democracia
-Falcón
+# (repetido) Falcón
 Federación
 Iturriza
 Jacura
@@ -229,7 +229,7 @@ Julián
 Mellado
 # (separado) Francisco de Miranda
 # (repetido) Francisco
-de
+# (repetido) de
 # (repetido) Miranda
 # (repetido) Monagas
 Ortiz
@@ -250,7 +250,7 @@ Guaribe
 María
 # (repetido) de
 Ipire
-Zaraza
+# (repetido) Zaraza
 
 #
 # Municipios del Estado Lara
@@ -319,17 +319,17 @@ Buroz
 Carrizal
 Chacao
 # (separado) Cristóbal Rojas
-Cristóbal
+# (repetido) Cristóbal
 # (repetido) Rojas
 # (separado) El Hatillo
-El
+# (repetido) El
 Hatillo
 Guaicaipuro
 Gual
 Independencia
 Lander
 # (separado) Los Salias
-Los
+# (repetido) Los
 Salias
 # (repetido) Páez
 # (separado) Paz Castillo
@@ -349,12 +349,12 @@ Aguasay
 Caripe
 # (repetido) Cedeño
 # (repetido) Libertador
-Maturín
+# (repetido) Maturín
 # (repetido) Piar
 Punceres
 # (separado) Santa Bárbara
 # (repetido) Santa
-Bárbara
+# (repetido) Bárbara
 # (repetido) Sotillo
 Uracoa
 # (repetido) Zamora
@@ -364,7 +364,7 @@ Uracoa
 #
 # (separado) Antolín del Campo
 Antolín
-del
+# (repetido) del
 # (repetido) Campo
 # (repetido) Arismendi
 # (repetido) Díaz
@@ -383,9 +383,9 @@ Villalba
 # (separado) Agua Blanca
 Agua
 Blanca
-Araure
+# (repetido) Araure
 Esteller
-Guanare
+# (repetido) Guanare
 Guanarito
 Ospino
 # (repetido) Páez
@@ -417,7 +417,7 @@ Bermúdez
 # Bolívar
 # (repetido) Cajigal
 # (separado) Cruz Salmerón Acosta
-Cruz
+# (repetido) Cruz
 Salmerón
 # (repetido) Acosta
 # (repetido) Libertador
@@ -434,7 +434,7 @@ Valdez
 #
 # Andrés Bello
 # (repetido) Andrés
-Ayacucho
+# (repetido) Ayacucho
 # Bolívar
 Cárdenas
 Córdoba
@@ -470,7 +470,7 @@ Torbes
 # (repetido) Urdaneta
 Ureña
 Uribante
-Vargas
+# (repetido) Vargas
 
 #
 # Municipios del Estado Trujillo
@@ -487,7 +487,7 @@ Campos
 # (repetido) Carvajal
 Escuque
 # (separado) La Ceiba
-La
+# (repetido) La
 Ceiba
 # (separado) Márquez Cañizales
 Márquez
@@ -501,9 +501,9 @@ Pampán
 Pampanito
 # (repetido) Rangel
 # (repetido) Sucre
-Trujillo
+# (repetido) Trujillo
 # (repetido) Urdaneta
-Valera
+# (repetido) Valera
 
 #
 # Municipios del Estado Vargas
@@ -527,7 +527,7 @@ Nirgua
 Peña
 # (separado) San Felipe
 # (repetido) San
-Felipe
+# (repetido) Felipe
 # (repetido) Sucre
 Urachiche
 Veroes
@@ -537,7 +537,7 @@ Veroes
 #
 # Bolívar
 Baralt
-Cabimas
+# (repetido) Cabimas
 Catatumbo
 Colón
 Guajira
@@ -551,9 +551,9 @@ Cañada
 # (repetido) de
 # (repetido) Urdaneta
 Lagunillas
-Machiques
+# (repetido) Machiques
 Mara
-Maracaibo
+# (repetido) Maracaibo
 # (repetido) Miranda
 Rosario
 # (separado) San Francisco
@@ -561,7 +561,7 @@ Rosario
 # (repetido) Francisco
 # (separado) Santa Rita
 # (repetido) Santa
-Rita
+# (repetido) Rita
 # (repetido) Sucre
 # (separado) Valmore Rodríguez
 Valmore

@@ -4,26 +4,30 @@
 
 Amazonas
 Anzoátegui
-Apure
+# (repetido) Apure
 Aragua
-Barinas
-Bolívar
+# (repetido) Barinas
+# (repetido) Bolívar
 Carabobo
 Cojedes
-Delta Amacuro
+# (separado) Delta Amacuro
+Delta
+Amacuro
 # Distrito Capital
 Falcón
 Guárico
 Lara
-Mérida
+# (repetido) Mérida
 Miranda
 Monagas
-Nueva Esparta
+# (separado) Nueva Esparta
+Nueva
+Esparta
 Portuguesa
 Sucre
 Táchira
 Trujillo
 Vargas
 Yaracuy
-Zulia
+# (repetido) Zulia
 # Dependencias Federales
