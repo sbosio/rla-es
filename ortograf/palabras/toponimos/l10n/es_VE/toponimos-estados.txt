@@ -1,0 +1,33 @@
+#
+# Estados de Venezuela
+#
+
+Amazonas
+Anzoátegui
+# (repetido) Apure
+Aragua
+# (repetido) Barinas
+# (repetido) Bolívar
+Carabobo
+Cojedes
+# (separado) Delta Amacuro
+Delta
+Amacuro
+# Distrito Capital
+Falcón
+Guárico
+Lara
+# (repetido) Mérida
+Miranda
+Monagas
+# (separado) Nueva Esparta
+Nueva
+Esparta
+Portuguesa
+Sucre
+Táchira
+Trujillo
+Vargas
+Yaracuy
+# (repetido) Zulia
+# Dependencias Federales

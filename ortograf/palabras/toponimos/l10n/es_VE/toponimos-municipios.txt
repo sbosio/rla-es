@@ -1,0 +1,568 @@
+#
+# Municipios del Estado Amazonas
+#
+# Alto Orinoco
+# (repetido) Orinoco
+Atabapo
+Atures
+Autana
+Manapiare
+Maroa
+# Río Negro
+
+#
+# Municipios del Estado Anzoátegui
+#
+# (repetido) Anaco
+# (repetido) Aragua
+# (repetido) Bolívar
+Bruzual
+Cajigal
+Carvajal
+Freites
+Guanipa
+Guanta
+# Independencia
+# Libertad
+McGregor
+# (repetido) Miranda
+# (repetido) Monagas
+Peñalver
+Píritu
+# San Juan de Capistrano
+Capistrano
+# (separado) Santa Ana
+# (repetido) Santa
+Ana
+# (separado) Simón Rodríguez
+Simón
+Rodríguez
+Sotillo
+Urbaneja
+
+#
+# Municipios del Estado Apure
+#
+Achaguas
+Biruaca
+Camejo
+Muñoz
+Páez
+# Rómulo Gallegos
+Rómulo
+Gallegos
+# San Fernando
+# (repetido) San
+# (repetido) Fernando
+
+#
+# Municipios del Estado Aragua
+#
+Alcántara
+# (repetido) Bolívar
+Camatagua
+Girardot
+Iragorry
+Lamas
+# Libertador
+Mariño
+Michelena
+# Ocumare de la Costa de Oro
+# (repetido) Ocumare
+Revenga
+Ribas
+# San Casimiro
+Casimiro
+# San Sebastián
+Sebastián
+# (repetido) Sucre
+# (repetido) Tovar
+Urdaneta
+Zamora
+
+#
+# Municipios del Estado Barinas
+#
+# Alberto Arvelo Torrealba
+Alberto
+Arvelo
+Torrealba
+# Andrés Eloy Blanco
+Andrés
+Eloy
+# Antonio José de Sucre
+Antonio
+José
+# (repetido) Sucre
+Arismendi
+# (repetido) Barinas
+# Bolívar
+# Cruz Paredes
+# Ezequiel Zamora
+Ezequiel
+# (repetido) Zamora
+Obispos
+Pedraza
+Rojas
+Sosa
+
+#
+# Municipios del Estado Bolívar
+#
+Angostura
+Caroní
+Cedeño
+Chien
+# El Callao
+Callao
+# Gran Sabana
+Sabana
+Heres
+Piar
+Roscio
+Sifontes
+# (repetido) Sucre
+
+#
+# Municipios del Estado Carabobo
+#
+Bejuma
+# Carlos Arvelo
+# (repetido) Carlos
+# (repetido) Arvelo
+# Diego Ibarra
+Diego
+Ibarra
+# (repetido) Guacara
+Libertador
+# Los Guayos
+# (repetido) Guayos
+# (repetido) Miranda
+Mora
+Montalbán
+# (repetido) Naguanagua
+# Puerto Cabello
+# San Diego
+# (repetido) Diego
+# San Joaquín
+Joaquín
+# (repetido) Valencia
+
+#
+# Municipios del Estado Cojedes
+#
+# (repetido) Anzoátegui
+# (repetido) Tinaquillo
+# (repetido) Girardot
+# Lima Blanco
+# Pao de San Juan Bautista
+Pao
+# (repetido) Juan
+Bautista
+Ricaurte
+# Rómulo Gallegos
+# (repetido) Rómulo
+# (repetido) Gallegos
+# San Carlos
+# (repetido) Carlos
+Tinaco
+
+#
+# Municipios del Estado Delta Amacuro
+#
+# Antonio Díaz
+# (repetido) Antonio
+Díaz
+Casacoima
+Pedernales
+# (repetido) Tucupita
+
+#
+# Municipios del Distrito Capital
+#
+# (repetido) Libertador
+
+#
+# Municipios del Estado Falcón
+#
+Acosta
+# Bolívar
+Buchivacoa
+Carirubana
+Colina
+Dabajuro
+# Democracia
+# (repetido) Falcón
+Federación
+Iturriza
+Jacura
+# Los Taques
+Taques
+Manaure
+Mauroa
+# (repetido) Miranda
+Palmasola
+Petit
+# (repetido) Píritu
+# San Francisco
+Francisco
+# (repetido) Sucre
+Silva
+Tocópero
+# Unión
+Urumaco
+# (repetido) Zamora
+
+#
+# Municipios del Estado Guárico
+#
+Camaguán
+Chaguaramas
+# El Socorro
+# Las Mercedes
+Mercedes
+# Leonardo Infante
+Leonardo
+Infante
+# (separado) Julián Mellado
+Julián
+Mellado
+# (separado) Francisco de Miranda
+# (repetido) Francisco
+# (repetido) de
+# (repetido) Miranda
+# (repetido) Monagas
+Ortiz
+# (repetido) Ribas
+# (repetido) Roscio
+# (separado) San Gerónimo de Guayabal
+# (repetido) San
+Gerónimo
+# (repetido) de
+Guayabal
+# (separado) San José de Guaribe
+# (repetido) San
+# (repetido) José
+# (repetido) de
+Guaribe
+# (separado) Santa María de Ipire
+# (repetido) Santa
+María
+# (repetido) de
+Ipire
+# (repetido) Zaraza
+
+#
+# Municipios del Estado Lara
+#
+Blanco
+Crespo
+Iribarren
+Jiménez
+Morán
+Palavecino
+Planas
+Torres
+# (repetido) Urdaneta
+
+#
+# Municipios del Estado Mérida
+#
+Adriani
+# Andrés Bello
+# (repetido) Andrés
+Aricagua
+Briceño
+Chacón
+# (separado) Campo Elías
+Campo
+Elías
+Dávila
+# (separado) Febres Cordero
+Febres
+Cordero
+Guaraque
+# (repetido) Libertador
+# (repetido) Miranda
+Noguera
+# (separado) Parra Olmedo
+Parra
+Olmedo
+# (separado) Pinto Salinas
+Pinto
+Salinas
+# (separado) Pueblo Llano
+Pueblo
+Llano
+Quintero
+Rangel
+# (separado) Ramos de Lora
+Ramos
+# (repetido) de
+Lora
+Salas
+Marquina
+# (repetido) Sucre
+# (repetido) Tovar
+Zea
+
+#
+# Municipios del Estado Miranda
+#
+Acevedo
+# Andrés Bello
+# (repetido) Andrés
+Baruta
+Brión
+# Bolívar
+Buroz
+Carrizal
+Chacao
+# (separado) Cristóbal Rojas
+# (repetido) Cristóbal
+# (repetido) Rojas
+# (separado) El Hatillo
+# (repetido) El
+Hatillo
+Guaicaipuro
+Gual
+Independencia
+Lander
+# (separado) Los Salias
+# (repetido) Los
+Salias
+# (repetido) Páez
+# (separado) Paz Castillo
+Paz
+Castillo
+Plaza
+# (repetido) Sucre
+# (repetido) Urdaneta
+# (repetido) Zamora
+
+#
+# Municipios del Estado Monagas
+#
+# (repetido) Acosta
+Aguasay
+# Bolívar
+Caripe
+# (repetido) Cedeño
+# (repetido) Libertador
+# (repetido) Maturín
+# (repetido) Piar
+Punceres
+# (separado) Santa Bárbara
+# (repetido) Santa
+# (repetido) Bárbara
+# (repetido) Sotillo
+Uracoa
+# (repetido) Zamora
+
+#
+# Municipios del estado Nueva Esparta
+#
+# (separado) Antolín del Campo
+Antolín
+# (repetido) del
+# (repetido) Campo
+# (repetido) Arismendi
+# (repetido) Díaz
+García
+Gómez
+Macanao
+Maneiro
+Marcano
+# (repetido) Mariño
+Tubores
+Villalba
+
+#
+# Municipios del Estado Portuguesa
+#
+# (separado) Agua Blanca
+Agua
+Blanca
+# (repetido) Araure
+Esteller
+# (repetido) Guanare
+Guanarito
+Ospino
+# (repetido) Páez
+Papelón
+# (separado) San Genaro de Boconoíto
+# (repetido) San
+Genaro
+# (repetido) de
+Boconoíto
+# (separado) San Rafael de Onoto
+# (repetido) San
+Rafael
+# (repetido) de
+Onoto
+# (separado) Santa Rosalía
+# (repetido) Santa
+Rosalía
+# (repetido) Sucre
+Turén
+Unda
+
+#
+# Municipios del Estado Sucre
+#
+# (repetido) Arismendi
+Benítez
+Bermúdez
+# Blanco
+# Bolívar
+# (repetido) Cajigal
+# (separado) Cruz Salmerón Acosta
+# (repetido) Cruz
+Salmerón
+# (repetido) Acosta
+# (repetido) Libertador
+# (repetido) Mariño
+Mata
+Mejía
+Montes
+Ribero
+# (repetido) Sucre
+Valdez
+
+#
+# Municipios del Estado Táchira
+#
+# Andrés Bello
+# (repetido) Andrés
+# (repetido) Ayacucho
+# Bolívar
+Cárdenas
+Córdoba
+Fernández
+Guásimos
+Hevia
+# Independencia
+Jáuregui
+Junín
+Libertad
+# (repetido) Libertador
+Lobatera
+Maldonado
+# (repetido) Michelena
+# (repetido) Miranda
+Panamericano
+# (separado) Rómulo Costa
+# (repetido) Rómulo
+Costa
+# (separado) San Cristóbal
+# (repetido) San
+# (repetido) Cristóbal
+# (separado) San Judas Tadeo
+# (repetido) San
+Judas
+Tadeo
+Seboruco
+# (separado) Simón Rodríguez
+# (repetido) Simón
+# (repetido) Rodríguez
+# (repetido) Sucre
+Torbes
+# (repetido) Urdaneta
+Ureña
+Uribante
+# (repetido) Vargas
+
+#
+# Municipios del Estado Trujillo
+#
+# Andrés Bello
+# (repetido) Andrés
+Boconó
+# Bolívar
+Candelaria
+Carache
+# (separado) Campos Elías
+Campos
+# (repetido) Elías
+# (repetido) Carvajal
+Escuque
+# (separado) La Ceiba
+# (repetido) La
+Ceiba
+# (separado) Márquez Cañizales
+Márquez
+Cañizales
+# (repetido) Miranda
+# (separado) Monte Carmelo
+Monte
+Carmelo
+Motatán
+Pampán
+Pampanito
+# (repetido) Rangel
+# (repetido) Sucre
+# (repetido) Trujillo
+# (repetido) Urdaneta
+# (repetido) Valera
+
+#
+# Municipios del Estado Vargas
+#
+# (repetido) Vargas
+
+#
+# Municipios del Estado Yaracuy
+#
+Bastidas
+# Bolívar
+# (repetido) Bruzual
+Cocorote
+# (repetido) Independencia
+# (separado) La Trinidad
+# (repetido) La
+Trinidad
+Monge
+Nirgua
+# (repetido) Páez
+Peña
+# (separado) San Felipe
+# (repetido) San
+# (repetido) Felipe
+# (repetido) Sucre
+Urachiche
+Veroes
+
+#
+# Municipios del Estado Zulia
+#
+# Bolívar
+Baralt
+# (repetido) Cabimas
+Catatumbo
+Colón
+Guajira
+Padilla
+# Pulgar
+Losada
+Semprún
+# (separado) La Cañada de Urdaneta
+# (repetido) La
+Cañada
+# (repetido) de
+# (repetido) Urdaneta
+Lagunillas
+# (repetido) Machiques
+Mara
+# (repetido) Maracaibo
+# (repetido) Miranda
+Rosario
+# (separado) San Francisco
+# (repetido) San
+# (repetido) Francisco
+# (separado) Santa Rita
+# (repetido) Santa
+# (repetido) Rita
+# (repetido) Sucre
+# (separado) Valmore Rodríguez
+Valmore
+# (repetido) Rodríguez

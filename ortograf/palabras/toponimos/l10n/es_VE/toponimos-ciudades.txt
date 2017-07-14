@@ -1,0 +1,138 @@
+#
+# Ciudades con más de 100.000 habitantes
+#
+
+Caracas
+Maracaibo
+Valencia
+Barquisimeto
+Maracay
+# (separado) Ciudad Guayana
+Ciudad
+Guayana
+Maturín
+Barcelona
+# (separado) Ciudad Bolívar
+# (repetido) Ciudad
+Bolívar
+Cumaná
+# (separado) San Cristóbal
+San
+Cristóbal
+Barinas
+Cabimas
+# (separado) Punto Fijo
+Punto
+Fijo
+# (separado) Puerto La Cruz
+Puerto
+La
+Cruz
+Guarenas
+# Los Teques
+Teques
+Mérida
+# (separado) Ciudad Ojeda
+# (repetido) Ciudad
+Ojeda
+Guanare
+Turmero
+Coro
+Guatire
+# (separado) Puerto Cabello
+# (repetido) Puerto
+Cabello
+# El Tigre
+Acarigua
+Carora
+Tocuyito
+Guacara
+# (separado) Santa Teresa del Tuy
+Santa
+Teresa
+del
+Tuy
+# (separado) San Fernando de Apure
+# (repetido) San
+Fernando
+de
+Apure
+Carúpano
+# La Victoria
+Cabudare
+Güigüe
+# Villa de Cura
+Calabozo
+Araure
+# (separado) Santa Bárbara del Zulia
+# (repetido) Santa
+Bárbara
+# (repetido) del
+Zulia
+# (separado) Santa Rita
+# (repetido) Santa
+Rita
+# (separado) Los Guayos
+Los
+Guayos
+# (separado) Ocumare del Tuy
+Ocumare
+# (repetido) del
+# (repetido) Tuy
+Naguanagua
+Valera
+# El Vigía
+Cúa
+Machiques
+# (separado) El Tocuyo
+El
+Tocuyo
+# (separado) San Juan de Los Morros
+# (repetido) San
+Juan
+# (repetido) de
+# (repetido) Los
+Morros
+Anaco
+# (separado) Valle de la Pascua
+Valle
+# (repetido) de
+la
+Pascua
+Guasdualito
+Zaraza
+# (separado) Santa Lucía
+# (repetido) Santa
+Lucía
+Cagua
+Táriba
+Mariara
+# La Concepción
+Upata
+Ejido
+# (separado) San Felipe
+# (repetido) San
+Felipe
+Tovar
+Quíbor
+# (separado) San Carlos
+# (repetido) San
+Carlos
+Tinaquillo
+Charallave
+# (separado) Puerto Ayacucho
+# (repetido) Puerto
+Ayacucho
+# El Limón
+# (separado) Caicara del Orinoco
+Caicara
+# (repetido) del
+Orinoco
+Yaritagua
+Tucupita
+Porlamar
+# (separado) Los Puertos de Altagracia
+# (repetido) Los
+Puertos
+# (repetido) de
+Altagracia
