@@ -9854,6 +9854,7 @@ placebo/S
 placentario/S
 placer/hS
 placimiento/S
+plafón/S
 planchazo/S
 planco/S
 plancton
