@@ -10462,6 +10462,7 @@ quirate/S
 quirguiz/S
 quirie/S
 quirite/S
+quirófano/S
 quiróptero/S
 quiste/S
 quitador/S
