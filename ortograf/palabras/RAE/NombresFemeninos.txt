@@ -5368,6 +5368,7 @@ hortensia/S
 horticultura/S
 hospedería/S
 hospitalidad/kS
+hospitalización/S
 hosquedad/S
 hostelería/S
 hostería/S
