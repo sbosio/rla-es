@@ -1,0 +1,51 @@
+#
+# Lista de Estados o entidades federativas
+#
+
+#
+# Palabras removidas: "de", "la"
+#
+
+Aguascalientes		#Aguascalientes
+Baja          		#Baja California
+California    		#Baja California
+Sur	          	#Baja California Sur
+Campeche	      	#Campeche
+Coahuila      		#Coahuila de Zaragoza
+Zaragoza      		#Coahuila de Zaragoza
+Colima	      		#Colima
+Chiapas	      		#Chiapas
+Chihuahua	      	#Chihuahua
+Ciudad      		#Ciudad de México
+México	      		#Ciudad de México
+Durango	      		#Durango
+Guanajuato	    	#Guanajuato
+Guerrero      		#Guerrero
+Hidalgo	      		#Hidalgo
+Jalisco     		#Jalisco
+Estado      		#Estado de México
+México	      		#Estado de México
+Michoacán     		#Michoacán de Ocampo
+Ocampo      		#Michoacán de Ocampo
+Morelos	      		#Morelos
+Nayarit			#Nayarit
+Nuevo	        	#Nuevo León
+León	        	#Nuevo León
+Oaxaca	      		#Oaxaca
+Puebla	      		#Puebla
+Querétaro	      	#Querétaro
+Quintana	      	#Quintana Roo
+Roo	          	#Quintana Roo
+San	          	#San Luis Potosí
+Luis	        	#San Luis Potosí
+Potosí	      		#San Luis Potosí
+Sinaloa	      		#Sinaloa
+Sonora	      		#Sonora
+Tabasco     		#Tabasco
+Tamaulipas    		#Tamaulipas
+Tlaxcala	      	#Tlaxcala
+Veracruz	      	#Veracruz de Ignacio de la Llave
+Ignacio		      	#Veracruz de Ignacio de la Llave
+Llave		        #Veracruz de Ignacio de la Llave
+Yucatán		      	#Yucatán
+Zacatecas	      	#Zacatecas
