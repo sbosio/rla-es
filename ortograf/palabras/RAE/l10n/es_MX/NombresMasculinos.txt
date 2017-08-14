@@ -175,6 +175,7 @@ tiliche/S
 timbiriche/S
 tiste/S
 tlaco/S
+tlacoyo/S
 tlacuache/S
 tocomate/S
 torito/S
