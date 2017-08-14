@@ -79,6 +79,7 @@ improbar/IRD
 lamber/RED
 lechar/RED
 nalguear/RED
+pambacear/RED
 parquear/RED
 peticionar/RED
 pialar/RED
