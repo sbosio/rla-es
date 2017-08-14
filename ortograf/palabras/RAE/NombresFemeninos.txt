@@ -2214,6 +2214,7 @@ chicoria/aS
 chifladura/S
 chifla/pS
 chilaba/S
+chilindrina/S
 chilla/S
 chimenea/S
 china/S
