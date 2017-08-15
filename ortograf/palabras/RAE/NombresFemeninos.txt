@@ -7707,6 +7707,7 @@ papera/S
 papila/S
 papilionácea/S
 papiroflexia
+paquetería/S
 paquidermia/S
 parábola/S
 paracentesis
