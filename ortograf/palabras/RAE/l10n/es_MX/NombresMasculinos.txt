@@ -68,6 +68,7 @@ conguito/S
 convertible/S
 correcaminos
 cuerazo/S
+cuitlacoche/S
 cunchu
 curado/S
 desgarreate/S
@@ -103,6 +104,7 @@ guarache/S
 guarapo/S
 huacal/S
 huarache/S
+huitlacoche/S
 ilícito/S
 jeringatorio/S
 jícaro/S
