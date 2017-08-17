@@ -1936,6 +1936,7 @@ café/S
 cafetalero/GS
 cafetero/GS
 cafre/S
+cahíta/S
 caída/g
 caído/gSG
 calagurritano/SG
@@ -12809,6 +12810,8 @@ yuglandáceo/GS
 yugoslavo/SG
 yunto/SG
 yusero/GS
+yutoazteca/S
+yutonahua/S
 zafio/SG
 zaguero/GS
 zahareño/GS
