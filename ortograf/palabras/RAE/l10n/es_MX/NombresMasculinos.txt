@@ -110,6 +110,7 @@ jeringatorio/S
 jícaro/S
 jicote/S
 jilote/S
+jitomate/S
 llegue/S
 machero/S
 maguey/S
