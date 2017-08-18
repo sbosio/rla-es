@@ -87,6 +87,8 @@ encasquillador/S
 enojada/S
 envuelto/S
 equipal/S
+escamol
+escamole/S
 escobilleo/S
 expendio/S
 extensible/S
