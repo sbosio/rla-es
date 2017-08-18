@@ -1,5 +1,7 @@
 #
 # Lista de Estados o entidades federativas
+# Fuente: Instituto Nacional de Estadística y Geografía (INEGI)
+# Enlace: http://www.inegi.org.mx/geo/contenidos/geoestadistica/catalogoclaves.aspx
 #
 
 #
