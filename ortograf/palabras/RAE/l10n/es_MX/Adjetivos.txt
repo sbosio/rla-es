@@ -75,6 +75,7 @@ maicero/GS
 maturrango/GS
 mazorquero/GS
 meco/GS
+méndigo/GS
 menso/GS
 mitotero/GS
 mujerero/S
