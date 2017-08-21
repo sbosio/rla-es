@@ -8616,6 +8616,7 @@ psi
 psicología/S
 psicopatía/S
 psicopatología/S
+psicopedagogía/S
 psicosis
 psicotecnia/S
 psicoterapia/S
@@ -9557,7 +9558,13 @@ sexualidad/S
 sexualización/S
 sibila/S
 sicalipsis
+sicología/S
+sicopatía/S
+sicopatología/S
+sicopedagogía/S
 sicosis
+sicotecnia/S
+sicoterapia/S
 siderita/S
 siderosa/S
 siderosis
@@ -9640,6 +9647,7 @@ sintonía/S
 sinuosidad/S
 sinusitis
 sinusoide/S
+siquiatría/S
 sirena/S
 siringe/SG
 sirria/S
