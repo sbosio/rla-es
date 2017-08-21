@@ -10059,6 +10059,7 @@ psicótico/GS
 psiquiátrico/GS
 psíquico/SG
 pteridofito/GS
+pteridófito/GS
 ptolemaico/GS
 pubescente/S
 pubiano/SG
@@ -11221,8 +11222,11 @@ sibilante/S
 sibilino/GS
 siciliano/GS
 sicionio/GS
+sicoanalista/S
+sicoanalítico/GS
 sicológico/GS
 sicopedagógico/GS
+sicótico/GS
 sideral/S
 sidéreo/GS
 siderúrgico/SG
@@ -11311,6 +11315,8 @@ sinuoso/GS
 sinusoidal/S
 sinvergüenza/S
 sionista/S
+siquiátrico/GS
+síquico/GS
 siracusano/SG
 sirenio/S
 siria/a
@@ -11803,6 +11809,7 @@ teresiano/GS
 terete/S
 tergiversador/GS
 teridofito/GS
+teridófito/GS
 termal/S
 térmico/GS
 terminable/Skg
