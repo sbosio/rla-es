@@ -10054,6 +10054,7 @@ pseudónimo/S
 psicoanalista/S
 psicoanalítico/SG
 psicológico/SG
+psicopedagógico/GS
 psicótico/GS
 psiquiátrico/GS
 psíquico/SG
@@ -11221,6 +11222,7 @@ sibilino/GS
 siciliano/GS
 sicionio/GS
 sicológico/GS
+sicopedagógico/GS
 sideral/S
 sidéreo/GS
 siderúrgico/SG
