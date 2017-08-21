@@ -76,6 +76,7 @@ puches
 radio/S
 rafe/S
 reuma/S
+sicoanálisis
 teletipo/S
 testuz/S
 tilde/S
