@@ -1934,6 +1934,7 @@ cartivana/S
 cartolas
 cartomancia/S
 cartonera/S
+cartoteca/S
 cartuchera/S
 cartuja/S
 cartulina/S
