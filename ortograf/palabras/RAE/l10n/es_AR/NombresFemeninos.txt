@@ -64,6 +64,7 @@ luca/S
 maloca/S
 manganeta/S
 mantequillera/S
+mapoteca/S
 membresía/S
 nochecita/S
 ña

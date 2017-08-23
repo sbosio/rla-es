@@ -51,6 +51,7 @@ jaba/S
 jora/S
 maloca/S
 mantequillera/S
+mapoteca/S
 ña
 oroya/S
 pachamanca/S

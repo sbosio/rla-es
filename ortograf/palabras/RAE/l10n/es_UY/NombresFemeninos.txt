@@ -60,6 +60,7 @@ luca/S
 maloca/S
 manganeta/S
 mantequillera/S
+mapoteca/S
 negrada/S
 nochecita/S
 ña

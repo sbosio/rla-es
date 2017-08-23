@@ -69,6 +69,7 @@ malanga/S
 maloca/S
 mana/S
 mantequillera/S
+mapoteca/S
 ña
 oroya/S
 pachamanca/S

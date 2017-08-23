@@ -53,6 +53,7 @@ laucha/S
 maloca/S
 mamancona/S
 mantequillera/S
+mapoteca/S
 ña
 oroya/S
 pachamanca/S

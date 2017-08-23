@@ -49,6 +49,7 @@ jaba/S
 manila/S
 mantenedora/S
 mantequillera/S
+mapoteca/S
 milpa/S
 narizona/S
 ña

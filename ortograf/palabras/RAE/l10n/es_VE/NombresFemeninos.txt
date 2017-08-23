@@ -59,6 +59,7 @@ jicotea/S
 jora/S
 maloca/S
 mantequillera/S
+mapoteca/S
 matada/S
 negrada/S
 ña

@@ -67,6 +67,7 @@ loneta/S
 maloca/S
 manguilla
 mantequillera/S
+mapoteca/S
 nalca/S
 ña
 oroya/S

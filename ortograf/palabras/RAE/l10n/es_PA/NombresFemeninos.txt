@@ -45,6 +45,7 @@ huaca/S
 jaba/S
 malanga/S
 mantequillera/S
+mapoteca/S
 membresía/S
 milpa/S
 ña
