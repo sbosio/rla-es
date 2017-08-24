@@ -1,3 +1,11 @@
+# Lista de lemas: toponimos-centros_poblados.txt
+# Topónimos de los centros poblados de Colombia según actualización del 30 de
+# septiembre de 2015.
+# Esta lista es elaborada por Edward Villegas Pulgarin (github:@cosmoscalibur)
+# para el Proyecto RLA-ES https://github.com/sbosio/rla-es/.
+# Información para Topónimos Colombianos:
+# https://github.com/cosmoscalibur/rla-es/wiki/Top%C3%B3nimos-de-Colombia#entidades-territoriales
+
 Abad
 Abadía
 Abajo
