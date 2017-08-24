@@ -4615,6 +4615,7 @@ fotonovela/S
 foto/S
 fotosfera/S
 fotosíntesis
+fototeca/S
 fototerapia/S
 fóvea/S
 fracción/pkS
