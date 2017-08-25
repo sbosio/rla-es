@@ -1,4 +1,4 @@
-# Lista de lemas: NombresPropiosSiglas.txt
+# Lista de lemas: Abreviaturas.txt
 # Copyright (C) 2004-2012 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
@@ -14,26 +14,11 @@
 # Debe haber recibido una copia de la Licencia Pública General de GNU junto
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
-Axel
-Alanís
-Brenda
-Danae
-Dayani
-Derek
-Donaji
-Edgar
-Edgardo
-Elia
-Fernanda
-Gabriela
-Horacio
-Marcela
-Mojica
-Nestor
-Nidia
-Noé
-Octavio
-Odín
-René
-Ríos
-Trujillo
+C				#[topónimo] Juan C. Bonilla
+Dr				#[topónimo] Dr. Belisario Domínguez
+I				#[topónimo] Francisco I. Madero
+INEGI				#Instituto Nacional de Estadística y Geografía
+N				#[topónimo] Juan N. Méndez
+P				#[topónimo] Othón P. Blanco
+R				#[topónimo] Juan R. Escudero, Angel R. Cabada, General Francisco R. Murguía
+Z				#[topónimo] Francisco Z. Mena, Camerino Z. Mendoza
