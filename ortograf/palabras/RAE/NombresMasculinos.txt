@@ -2756,6 +2756,7 @@ carretón/SN
 carricoche/S
 carrilete/S
 carril/S
+carrito/S
 carrizo/S
 carrocero/S
 carromatero/S
