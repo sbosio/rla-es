@@ -11684,6 +11684,7 @@ sirenio/S
 sirguero/S
 sirle/S
 siroco/S
+sirope/S
 sís
 sí/S
 sisallo/S
