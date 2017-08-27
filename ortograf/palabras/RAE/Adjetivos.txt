@@ -2065,6 +2065,7 @@ canoro/SG
 canoso/GS
 cansada/h
 cansado/hSG
+cansador/GS
 cansino/GS
 canso/GS
 cantable/kS
@@ -2489,6 +2490,7 @@ chillador/GS
 chillón/GS
 chinche/GS
 chinchorrero/GS
+chinchoso/GS
 chinesco/GS
 chino/GS
 chipriota/S
@@ -6223,6 +6225,7 @@ hispánico/nSG
 hispanoamericano/GS
 hispano/GS
 hispanohablante/S
+hispanoparlante/S
 histérico/GS
 historiado/GS
 historial/S
@@ -9648,6 +9651,7 @@ pobre/S
 pobrete/GS
 pobretón/GS
 pocho/SG
+pocholo/GS
 poco/GS
 podador/aGS
 poderoso/GS
@@ -9670,6 +9674,7 @@ poligonal/S
 polígono/GS
 polimorfo/SG
 polinesio/GS
+polisémico/GS
 politécnico/SG
 política/a
 político/GaS
