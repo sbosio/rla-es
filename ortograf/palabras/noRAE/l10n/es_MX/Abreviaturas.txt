@@ -16,6 +16,7 @@
 
 C				#[topónimo] Juan C. Bonilla
 Dr				#[topónimo] Dr. Belisario Domínguez
+G				#[topónimo] Praxedis G. Guerrero
 I				#[topónimo] Francisco I. Madero
 INEGI				#Instituto Nacional de Estadística y Geografía
 N				#[topónimo] Juan N. Méndez

@@ -52,6 +52,7 @@ carángano/S
 carato/S
 carpidor/S
 celular/S
+cempasúchil/S
 cencuate/S
 chiche/S
 chile/S
@@ -194,6 +195,7 @@ vuelto/S
 zacatón/S
 zanate/S
 zapoyolito/S
+zempasúchil/S
 zompopo/S
 zorrillo/S
 zumbador/S
