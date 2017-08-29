@@ -30,7 +30,9 @@ atrenzo/S
 balero
 banderillazo/S
 belduque/S
+billullo
 bodegaje/S
+budare/S
 cabildante/S
 cachimbo/S
 cachumbo/S
@@ -101,6 +103,7 @@ macondo/S
 macuco/S
 maduro/S
 maguey/S
+mecato/S
 merey/S
 muérgano/S
 multifamiliar/S
@@ -156,6 +159,7 @@ tlaco/S
 toche/S
 totoral/S
 totumo/S
+trancón/S
 traspatio/S
 turmequé/S
 uveral/S
