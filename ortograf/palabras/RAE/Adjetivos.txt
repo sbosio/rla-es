@@ -698,6 +698,7 @@ ambientalista/S
 ambiente/SG
 ambiguo/GS
 ambivalente/S
+ambliope/S
 ambos
 ambrosiano/GS
 ambulacral/S

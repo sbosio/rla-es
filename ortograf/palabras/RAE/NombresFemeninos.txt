@@ -550,6 +550,7 @@ ambición/S
 ambientación/S
 ambigüedad/S
 ambivalencia/S
+ambliopía/S
 ambrosía/S
 ambuesta/S
 ambulancia/S
@@ -878,6 +879,8 @@ artillería/S
 artimaña/S
 artolas
 artritis
+artroscopia/S
+artroscopía/S
 artrosis/i
 arvejana/S
 arveja/S
@@ -4615,6 +4618,7 @@ fotonovela/S
 foto/S
 fotosfera/S
 fotosíntesis
+fototeca/S
 fototerapia/S
 fóvea/S
 fracción/pkS
@@ -7997,6 +8001,7 @@ perinola/S
 perinquina/S
 periodicidad/S
 periodización/S
+periodoncia/S
 periostitis
 peripecia/S
 peri/S

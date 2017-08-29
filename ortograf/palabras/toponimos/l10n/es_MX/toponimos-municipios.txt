@@ -1,0 +1,2866 @@
+#
+# Lista de municipios de las 32 entidades federativas
+# Fuente: Instituto Nacional de Estadística y Geografía (INEGI)
+# Enlace: http://www.inegi.org.mx/geo/contenidos/geoestadistica/catalogoclaves.aspx
+#
+
+#
+# Palabras y letras removidas: "de", "del", "el", "gran", "la", "las", "los", "san", "santa", "santo", "y"
+#
+
+#
+# [01] Aguascalientes
+#
+
+Aguascalientes			#Aguascalientes
+Asientos			#Asientos
+Calvillo			#Calvillo
+Cosío				#Cosío
+María				#Jesús María
+Pabellón			#Pabellón de Arteaga
+Arteaga				#Pabellón de Arteaga
+Rincón				#Rincón de Romos
+Romos				#Rincón de Romos
+José				#San José de Gracia
+Gracia				#San José de Gracia
+Tepezalá			#Tepezalá
+Llano				#El Llano
+Romo				#San Francisco de los Romo
+
+#
+# [02] Baja California
+#
+
+Ensenada			#Ensenada
+Mexicali			#Mexicali
+Tecate				#Tecate
+Tijuana				#Tijuana
+Playas				#Playas de Rosarito
+Rosarito			#Playas de Rosarito
+
+#
+# [03] Baja California Sur
+#
+
+Comondú				#Comondú
+Mulegé				#Mulegé
+Paz				#La Paz
+Cabos				#Los Cabos
+Loreto				#Loreto
+
+#
+# [04] Campeche
+#
+
+Calkiní				#Calkiní
+Campeche			#Campeche
+Carmen				#Carmen
+Champotón			#Champotón
+Hecelchakán			#Hecelchakán
+Hopelchén			#Hopelchén
+Palizada			#Palizada
+Tenabo				#Tenabo
+Escárcega			#Escárcega
+Calakmul			#Calakmul
+Candelaria			#Candelaria
+
+#
+# [05] Coahuila de Zaragoza
+#
+
+Abasolo				#Abasolo
+Acuña				#Acuña
+Allende				#Allende
+Arteaga				#Arteaga
+Candela				#Candela
+Castaños			#Castaños
+Cuatro				#Cuatro Ciénegas
+Ciénegas			#Cuatro Ciénegas
+Escobedo			#Escobedo
+Madero				#Francisco I. Madero
+Frontera			#Frontera
+General				#General Cepeda
+Cepeda				#General Cepeda
+Guerrero			#Guerrero
+Hidalgo				#Hidalgo
+Jiménez				#Jiménez
+Juárez				#Juárez
+Lamadrid			#Lamadrid
+Matamoros			#Matamoros
+Monclova			#Monclova
+Morelos				#Morelos
+Múzquiz				#Múzquiz
+Nadadores			#Nadadores
+Nava				#Nava
+Ocampo				#Ocampo
+Parras				#Parras
+Piedras				#Piedras Negras
+Negras				#Piedras Negras
+Progreso			#Progreso
+Ramos				#Ramos Arizpe
+Arizpe				#Ramos Arizpe
+Sabinas				#Sabinas
+Sacramento			#Sacramento
+Saltillo			#Saltillo
+Buenaventura			#San Buenaventura
+Juan				#San Juan de Sabinas
+Sabinas				#San Juan de Sabinas
+Pedro				#San Pedro
+Sierra				#Sierra Mojada
+Mojada				#Sierra Mojada
+Torreón				#Torreón
+Viesca				#Viesca
+Villa				#Villa Unión
+Unión				#Villa Unión
+Zaragoza			#Zaragoza
+
+#
+# [06] Colima
+#
+
+Armería				#Armería
+Colima				#Colima
+Comala				#Comala
+Coquimatlán			#Coquimatlán
+Cuauhtémoc			#Cuauhtémoc
+Ixtlahuacán			#Ixtlahuacán
+Manzanillo			#Manzanillo
+Minatitlán			#Minatitlán
+Tecomán				#Tecomán
+Álvarez				#Villa de Álvarez
+
+#
+# [07] Chiapas
+#
+
+Acacoyagua			#Acacoyagua
+Acala				#Acala
+Acapetahua			#Acapetahua
+Altamirano			#Altamirano
+Amatán				#Amatán
+Amatenango			#Amatenango de la Frontera
+Frontera			#Amatenango de la Frontera
+Amatenango			#Amatenango del Valle
+Angel				#Angel Albino Corzo
+Albino				#Angel Albino Corzo
+Corzo				#Angel Albino Corzo
+Arriaga				#Arriaga
+Bejucal				#Bejucal de Ocampo
+Bella				#Bella Vista
+Vista				#Bella Vista
+Berriozábal			#Berriozábal
+Bochil				#Bochil
+Bosque				#El Bosque
+Cacahoatán			#Cacahoatán
+Catazajá			#Catazajá
+Cintalapa			#Cintalapa
+Coapilla			#Coapilla
+Comitán				#Comitán de Domínguez
+Domínguez			#Comitán de Domínguez
+Concordia			#La Concordia
+Copainalá			#Copainalá
+Chalchihuitán			#Chalchihuitán
+Chamula				#Chamula
+Chanal				#Chanal
+Chapultenango			#Chapultenango
+Chenalhó			#Chenalhó
+Chiapa				#Chiapa de Corzo
+Corzo				#Chiapa de Corzo
+Chiapilla			#Chiapilla
+Chicoasén			#Chicoasén
+Chicomuselo			#Chicomuselo
+Chilón				#Chilón
+Escuintla			#Escuintla
+Francisco			#Francisco León
+Frontera			#Frontera Comalapa
+Comalapa			#Frontera Comalapa
+Hidalgo				#Frontera Hidalgo
+Grandeza			#La Grandeza
+Huehuetán			#Huehuetán
+Huixtán				#Huixtán
+Huitiupán			#Huitiupán
+Huixtla				#Huixtla
+Independencia			#La Independencia
+Ixhuatán			#Ixhuatán
+Ixtacomitán			#Ixtacomitán
+Ixtapa				#Ixtapa
+Ixtapangajoya			#Ixtapangajoya
+Jiquipilas			#Jiquipilas
+Jitotol				#Jitotol
+Juárez				#Juárez
+Larráinzar			#Larráinzar
+Libertad			#La Libertad
+Mapastepec			#Mapastepec
+Margaritas			#Las Margaritas
+Mazapa				#Mazapa de Madero
+Mazatán				#Mazatán
+Metapa				#Metapa
+Mitontic			#Mitontic
+Motozintla			#Motozintla
+Nicolás				#Nicolás Ruíz
+Ocosingo			#Ocosingo
+Ocotepec			#Ocotepec
+Ocozocoautla			#Ocozocoautla de Espinosa
+Espinosa			#Ocozocoautla de Espinosa
+Ostuacán			#Ostuacán
+Osumacinta			#Osumacinta
+Oxchuc				#Oxchuc
+Palenque			#Palenque
+Pantelhó			#Pantelhó
+Pantepec			#Pantepec
+Pichucalco			#Pichucalco
+Pijijiapan			#Pijijiapan
+Porvenir			#El Porvenir
+Comaltitlán			#Villa Comaltitlán
+Solistahuacán			#Pueblo Nuevo Solistahuacán
+Rayón				#Rayón
+Reforma				#Reforma
+Rosas				#Las Rosas
+Sabanilla			#Sabanilla
+Salto				#Salto de Agua
+Agua				#Salto de Agua
+Cristóbal			#San Cristóbal de las Casas
+Casas				#San Cristóbal de las Casas
+Fernando			#San Fernando
+Siltepec			#Siltepec
+Simojovel			#Simojovel
+Sitalá				#Sitalá
+Socoltenango			#Socoltenango
+Solosuchiapa			#Solosuchiapa
+Soyaló				#Soyaló
+Suchiapa			#Suchiapa
+Suchiate			#Suchiate
+Sunuapa				#Sunuapa
+Tapachula			#Tapachula
+Tapalapa			#Tapalapa
+Tapilula			#Tapilula
+Tecpatán			#Tecpatán
+Tenejapa			#Tenejapa
+Teopisca			#Teopisca
+Tila				#Tila
+Tonalá				#Tonalá
+Totolapa			#Totolapa
+Trinitaria			#La Trinitaria
+Tumbalá				#Tumbalá
+Tuxtla				#Tuxtla Gutiérrez
+Gutiérrez			#Tuxtla Gutiérrez
+Chico				#Tuxtla Chico
+Tuzantán			#Tuzantán
+Tzimol				#Tzimol
+Unión				#Unión Juárez
+Venustiano			#Venustiano Carranza
+Corzo				#Villa Corzo
+Villaflores			#Villaflores
+Yajalón				#Yajalón
+Lucas				#San Lucas
+Zinacantán			#Zinacantán
+Cancuc				#San Juan Cancuc
+Aldama				#Aldama
+Benemérito			#Benemérito de las Américas
+Américas			#Benemérito de las Américas
+Maravilla			#Maravilla Tenejapa
+Tenejapa			#Maravilla Tenejapa
+Marqués				#Marqués de Comillas
+Comillas			#Marqués de Comillas
+Montecristo			#Montecristo de Guerrero
+Andrés				#San Andrés Duraznal
+Duraznal			#San Andrés Duraznal
+Santiago			#Santiago el Pinar
+Pinar				#Santiago el Pinar
+
+#
+# [08] Chihuahua
+#
+
+Ahumada				#Ahumada
+Aldama				#Aldama
+Allende				#Allende
+Aquiles				#Aquiles Serdán
+Serdán				#Aquiles Serdán
+Ascensión			#Ascensión
+Bachíniva			#Bachíniva
+Balleza				#Balleza
+Batopilas			#Batopilas de Manuel Gómez Morín
+Morín				#Batopilas de Manuel Gómez Morín
+Bocoyna				#Bocoyna
+Buenaventura			#Buenaventura
+Camargo				#Camargo
+Carichí				#Carichí
+Casas				#Casas Grandes
+Grandes				#Casas Grandes
+Coronado			#Coronado
+Coyame				#Coyame del Sotol
+Sotol				#Coyame del Sotol
+Cruz				#La Cruz
+Cuauhtémoc			#Cuauhtémoc
+Cusihuiriachi			#Cusihuiriachi
+Chihuahua			#Chihuahua
+Chínipas			#Chínipas
+Delicias			#Delicias
+Belisario			#Dr. Belisario Domínguez
+Domínguez			#Dr. Belisario Domínguez
+Galeana				#Galeana
+Isabel				#Santa Isabel
+Gómez				#Gómez Farías
+Farías				#Gómez Farías
+Morelos				#Gran Morelos
+Guachochi			#Guachochi
+Guadalupe			#Guadalupe
+Calvo				#Guadalupe y Calvo
+Guazapares			#Guazapares
+Guerrero			#Guerrero
+Parral				#Hidalgo del Parral
+Huejotitán			#Huejotitán
+Ignacio				#Ignacio Zaragoza
+Janos				#Janos
+Jiménez				#Jiménez
+Juárez				#Juárez
+Julimes				#Julimes
+López				#López
+Madera				#Madera
+Maguarichi			#Maguarichi
+Manuel				#Manuel Benavides
+Benavides			#Manuel Benavides
+Matachí				#Matachí
+Matamoros			#Matamoros
+Meoqui				#Meoqui
+Morelos				#Morelos
+Moris				#Moris
+Namiquipa			#Namiquipa
+Nonoava				#Nonoava
+Nuevo				#Nuevo Casas Grandes
+Ocampo				#Ocampo
+Ojinaga				#Ojinaga
+Praxedis			#Praxedis G. Guerrero
+Riva				#Riva Palacio
+Palacio				#Riva Palacio
+Rosales				#Rosales
+Rosario				#Rosario
+Borja				#San Francisco de Borja
+Conchos				#San Francisco de Conchos
+Oro				#San Francisco del Oro
+Bárbara				#Santa Bárbara
+Satevó				#Satevó
+Saucillo			#Saucillo
+Temósachic			#Temósachic
+Tule				#El Tule
+Urique				#Urique
+Uruachi				#Uruachi
+Valle				#Valle de Zaragoza
+
+#
+# [09] Ciudad de México
+#
+
+Azcapotzalco			#Azcapotzalco
+Coyoacán			#Coyoacán
+Cuajimalpa			#Cuajimalpa de Morelos
+Gustavo				#Gustavo A. Madero
+Iztacalco			#Iztacalco
+Iztapalapa			#Iztapalapa
+Magdalena			#La Magdalena Contreras
+Contreras			#La Magdalena Contreras
+Milpa				#Milpa Alta
+Alta				#Milpa Alta
+Álvaro				#Álvaro Obregón
+Obregón				#Álvaro Obregón
+Tláhuac				#Tláhuac
+Tlalpan				#Tlalpan
+Xochimilco			#Xochimilco
+Benito				#Benito Juárez
+Cuauhtémoc			#Cuauhtémoc
+Miguel				#Miguel Hidalgo
+Carranza			#Venustiano Carranza
+
+#
+# [10] Durango
+#
+
+Canatlán			#Canatlán
+Canelas				#Canelas
+Coneto				#Coneto de Comonfort
+Comonfort			#Coneto de Comonfort
+Cuencamé			#Cuencamé
+Durango				#Durango
+Simón				#General Simón Bolívar
+Bolívar				#General Simón Bolívar
+Palacio				#Gómez Palacio
+Guadalupe			#Guadalupe Victoria
+Victoria			#Guadalupe Victoria
+Guanaceví			#Guanaceví
+Hidalgo				#Hidalgo
+Indé				#Indé
+Lerdo				#Lerdo
+Mapimí				#Mapimí
+Mezquital			#Mezquital
+Nazas				#Nazas
+Nombre				#Nombre de Dios
+Dios				#Nombre de Dios
+Ocampo				#Ocampo
+Oro				#El Oro
+Otáez				#Otáez
+Pánuco				#Pánuco de Coronado
+Coronado			#Pánuco de Coronado
+Peñón				#Peñón Blanco
+Poanas				#Poanas
+Pueblo				#Pueblo Nuevo
+Rodeo				#Rodeo
+Bernardo			#San Bernardo
+Dimas				#San Dimas
+Guadalupe			#San Juan de Guadalupe
+Río				#San Juan del Río
+Luis				#San Luis del Cordero
+Cordero				#San Luis del Cordero
+Gallo				#San Pedro del Gallo
+Clara				#Santa Clara
+Papasquiaro			#Santiago Papasquiaro
+Súchil				#Súchil
+Tamazula			#Tamazula
+Tepehuanes			#Tepehuanes
+Tlahualilo			#Tlahualilo
+Topia				#Topia
+Vicente				#Vicente Guerrero
+Ideal				#Nuevo Ideal
+
+#
+# [11] Guanajuato
+#
+
+Abasolo				#Abasolo
+Acámbaro			#Acámbaro
+Allende				#San Miguel de Allende
+Apaseo				#Apaseo el Alto
+Alto				#Apaseo el Alto
+Grande				#Apaseo el Grande
+Atarjea				#Atarjea
+Celaya				#Celaya
+Manuel				#Manuel Doblado
+Doblado				#Manuel Doblado
+Comonfort			#Comonfort
+Coroneo				#Coroneo
+Cortazar			#Cortazar
+Cuerámaro			#Cuerámaro
+Doctor				#Doctor Mora
+Mora				#Doctor Mora
+Dolores				#Dolores Hidalgo Cuna de la Independencia Nacional
+Cuna				#Dolores Hidalgo Cuna de la Independencia Nacional
+Nacional			#Dolores Hidalgo Cuna de la Independencia Nacional
+Guanajuato			#Guanajuato
+Huanímaro			#Huanímaro
+Irapuato			#Irapuato
+Jaral				#Jaral del Progreso
+Jerécuaro			#Jerécuaro
+León				#León
+Moroleón			#Moroleón
+Ocampo				#Ocampo
+Pénjamo				#Pénjamo
+Pueblo				#Pueblo Nuevo
+Purísima			#Purísima del Rincón
+Rincón				#Purísima del Rincón
+Romita				#Romita
+Salamanca			#Salamanca
+Salvatierra			#Salvatierra
+Diego				#San Diego de la Unión
+Felipe				#San Felipe
+Rincón				#San Francisco del Rincón
+Iturbide			#San José Iturbide
+Paz				#San Luis de la Paz
+Catarina			#Santa Catarina
+Juventino			#Santa Cruz de Juventino Rosas
+Rosas				#Santa Cruz de Juventino Rosas
+Maravatío			#Santiago Maravatío
+Silao				#Silao de la Victoria
+Victoria			#Silao de la Victoria
+Tarandacuao			#Tarandacuao
+Tarimoro			#Tarimoro
+Tierra				#Tierra Blanca
+Blanca				#Tierra Blanca
+Uriangato			#Uriangato
+Valle				#Valle de Santiago
+Victoria			#Victoria
+Villagrán			#Villagrán
+Xichú				#Xichú
+Yuriria				#Yuriria
+
+#
+# [12] Guerrero
+#
+
+Acapulco			#Acapulco de Juárez
+Ahuacuotzingo			#Ahuacuotzingo
+Ajuchitlán			#Ajuchitlán del Progreso
+Alcozauca			#Alcozauca de Guerrero
+Alpoyeca			#Alpoyeca
+Apaxtla				#Apaxtla
+Arcelia				#Arcelia
+Atenango			#Atenango del Río
+Atlamajalcingo			#Atlamajalcingo del Monte
+Monte				#Atlamajalcingo del Monte
+Atlixtac			#Atlixtac
+Atoyac				#Atoyac de Álvarez
+Ayutla				#Ayutla de los Libres
+Libres				#Ayutla de los Libres
+Azoyú				#Azoyú
+Benito				#Benito Juárez
+Buenavista			#Buenavista de Cuéllar
+Cuéllar				#Buenavista de Cuéllar
+Coahuayutla			#Coahuayutla de José María Izazaga
+Izazaga				#Coahuayutla de José María Izazaga
+Cocula				#Cocula
+Copala				#Copala
+Copalillo			#Copalillo
+Copanatoyac			#Copanatoyac
+Coyuca				#Coyuca de Benítez
+Benítez				#Coyuca de Benítez
+Catalán				#Coyuca de Catalán
+Cuajinicuilapa			#Cuajinicuilapa
+Cualác				#Cualác
+Cuautepec			#Cuautepec
+Cuetzala			#Cuetzala del Progreso
+Cutzamala			#Cutzamala de Pinzón
+Pinzón				#Cutzamala de Pinzón
+Chilapa				#Chilapa de Álvarez
+Chilpancingo			#Chilpancingo de los Bravo
+Florencio			#Florencio Villarreal
+Villarreal			#Florencio Villarreal
+Canuto				#General Canuto A. Neri
+Neri				#General Canuto A. Neri
+Heliodoro			#General Heliodoro Castillo
+Castillo			#General Heliodoro Castillo
+Huamuxtitlán			#Huamuxtitlán
+Huitzuco			#Huitzuco de los Figueroa
+Figueroa			#Huitzuco de los Figueroa
+Iguala				#Iguala de la Independencia
+Igualapa			#Igualapa
+Ixcateopan			#Ixcateopan de Cuauhtémoc
+Zihuatanejo			#Zihuatanejo de Azueta
+Azueta				#Zihuatanejo de Azueta
+Escudero			#Juan R. Escudero
+Leonardo			#Leonardo Bravo
+Malinaltepec			#Malinaltepec
+Mártir				#Mártir de Cuilapan
+Cuilapan			#Mártir de Cuilapan
+Metlatónoc			#Metlatónoc
+Mochitlán			#Mochitlán
+Olinalá				#Olinalá
+Ometepec			#Ometepec
+Ascencio			#Pedro Ascencio Alquisiras
+Alquisiras			#Pedro Ascencio Alquisiras
+Petatlán			#Petatlán
+Pilcaya				#Pilcaya
+Pungarabato			#Pungarabato
+Quechultenango			#Quechultenango
+Acatlán				#San Luis Acatlán
+Marcos				#San Marcos
+Totolapan			#San Miguel Totolapan
+Taxco				#Taxco de Alarcón
+Alarcón				#Taxco de Alarcón
+Tecoanapa			#Tecoanapa
+Técpan				#Técpan de Galeana
+Teloloapan			#Teloloapan
+Tepecoacuilco			#Tepecoacuilco de Trujano
+Trujano				#Tepecoacuilco de Trujano
+Tetipac				#Tetipac
+Tixtla				#Tixtla de Guerrero
+Tlacoachistlahuaca		#Tlacoachistlahuaca
+Tlacoapa			#Tlacoapa
+Tlalchapa			#Tlalchapa
+Tlalixtaquilla			#Tlalixtaquilla de Maldonado
+Maldonado			#Tlalixtaquilla de Maldonado
+Tlapa				#Tlapa de Comonfort
+Comonfort			#Tlapa de Comonfort
+Tlapehuala			#Tlapehuala
+Isidoro				#La Unión de Isidoro Montes de Oca
+Montes				#La Unión de Isidoro Montes de Oca
+Oca				#La Unión de Isidoro Montes de Oca
+Xalpatláhuac			#Xalpatláhuac
+Xochihuehuetlán			#Xochihuehuetlán
+Xochistlahuaca			#Xochistlahuaca
+Zapotitlán			#Zapotitlán Tablas
+Tablas				#Zapotitlán Tablas
+Zirándaro			#Zirándaro
+Zitlala				#Zitlala
+Eduardo				#Eduardo Neri
+Neri				#Eduardo Neri
+Acatepec			#Acatepec
+Marquelia			#Marquelia
+Cochoapa			#Cochoapa el Grande
+Herrera				#José Joaquín de Herrera
+Juchitán			#Juchitán
+Iliatenco			#Iliatenco
+
+#
+# [13] Hidalgo
+#
+
+Acatlán				#Acatlán
+Acaxochitlán			#Acaxochitlán
+Actopan				#Actopan
+Iturbide			#Agua Blanca de Iturbide
+Ajacuba				#Ajacuba
+Alfajayucan			#Alfajayucan
+Almoloya			#Almoloya
+Apan				#Apan
+Arenal				#El Arenal
+Atitalaquia			#Atitalaquia
+Atlapexco			#Atlapexco
+Atotonilco			#Atotonilco el Grande
+Tula				#Atotonilco de Tula
+Calnali				#Calnali
+Cardonal			#Cardonal
+Cuautepec			#Cuautepec de Hinojosa
+Hinojosa			#Cuautepec de Hinojosa
+Chapantongo			#Chapantongo
+Chapulhuacán			#Chapulhuacán
+Chilcuautla			#Chilcuautla
+Eloxochitlán			#Eloxochitlán
+Zapata				#Emiliano Zapata
+Epazoyucan			#Epazoyucan
+Francisco			#Francisco I. Madero
+Huasca				#Huasca de Ocampo
+Huautla				#Huautla
+Huazalingo			#Huazalingo
+Huehuetla			#Huehuetla
+Huejutla			#Huejutla de Reyes
+Huichapan			#Huichapan
+Ixmiquilpan			#Ixmiquilpan
+Jacala				#Jacala de Ledezma
+Ledezma				#Jacala de Ledezma
+Jaltocán			#Jaltocán
+Hidalgo				#Juárez Hidalgo
+Lolotla				#Lolotla
+Metepec				#Metepec
+Agustín				#San Agustín Metzquititlán
+Metzquititlán			#San Agustín Metzquititlán
+Metztitlán			#Metztitlán
+Mineral				#Mineral del Chico
+Mineral				#Mineral del Monte
+Misión				#La Misión
+Mixquiahuala			#Mixquiahuala de Juárez
+Molango				#Molango de Escamilla
+Escamilla			#Molango de Escamilla
+Flores				#Nicolás Flores
+Nopala				#Nopala de Villagrán
+Villagrán			#Nopala de Villagrán
+Omitlán				#Omitlán de Juárez
+Orizatlán			#San Felipe Orizatlán
+Pacula				#Pacula
+Pachuca				#Pachuca de Soto
+Soto				#Pachuca de Soto
+Pisaflores			#Pisaflores
+Obregón				#Progreso de Obregón
+Mineral				#Mineral de la Reforma
+Tlaxiaca			#San Agustín Tlaxiaca
+Bartolo				#San Bartolo Tutotepec
+Tutotepec			#San Bartolo Tutotepec
+Salvador			#San Salvador
+Anaya				#Santiago de Anaya
+Tulantepec			#Santiago Tulantepec de Lugo Guerrero
+Lugo				#Santiago Tulantepec de Lugo Guerrero
+Singuilucan			#Singuilucan
+Tasquillo			#Tasquillo
+Tecozautla			#Tecozautla
+Tenango				#Tenango de Doria
+Doria				#Tenango de Doria
+Tepeapulco			#Tepeapulco
+Tepehuacán			#Tepehuacán de Guerrero
+Tepeji				#Tepeji del Río de Ocampo
+Tepetitlán			#Tepetitlán
+Tetepango			#Tetepango
+Tezontepec			#Villa de Tezontepec
+Aldama				#Tezontepec de Aldama
+Tianguistengo			#Tianguistengo
+Tizayuca			#Tizayuca
+Tlahuelilpan			#Tlahuelilpan
+Tlahuiltepa			#Tlahuiltepa
+Tlanalapa			#Tlanalapa
+Tlanchinol			#Tlanchinol
+Tlaxcoapan			#Tlaxcoapan
+Tolcayuca			#Tolcayuca
+Tula				#Tula de Allende
+Allende				#Tula de Allende
+Tulancingo			#Tulancingo de Bravo
+Xochiatipan			#Xochiatipan
+Xochicoatlán			#Xochicoatlán
+Yahualica			#Yahualica
+Zacualtipán			#Zacualtipán de Ángeles
+Zapotlán			#Zapotlán de Juárez
+Zempoala			#Zempoala
+Zimapán				#Zimapán
+
+#
+# [14] Jalisco
+#
+
+Acatic				#Acatic
+Acatlán				#Acatlán de Juárez
+Ahualulco			#Ahualulco de Mercado
+Mercado				#Ahualulco de Mercado
+Amacueca			#Amacueca
+Amatitán			#Amatitán
+Ameca				#Ameca
+Juanito				#San Juanito de Escobedo
+Arandas				#Arandas
+Arenal				#El Arenal
+Atemajac			#Atemajac de Brizuela
+Brizuela			#Atemajac de Brizuela
+Atengo				#Atengo
+Atenguillo			#Atenguillo
+Atotonilco			#Atotonilco el Alto
+Atoyac				#Atoyac
+Autlán				#Autlán de Navarro
+Navarro				#Autlán de Navarro
+Ayotlán				#Ayotlán
+Ayutla				#Ayutla
+Barca				#La Barca
+Bolaños				#Bolaños
+Cabo				#Cabo Corrientes
+Corrientes			#Cabo Corrientes
+Casimiro			#Casimiro Castillo
+Cihuatlán			#Cihuatlán
+Zapotlán			#Zapotlán el Grande
+Cocula				#Cocula
+Colotlán			#Colotlán
+Concepción			#Concepción de Buenos Aires
+Buenos				#Concepción de Buenos Aires
+Barragán			#Cuautitlán de García Barragán
+Cuautla				#Cuautla
+Cuquío				#Cuquío
+Chapala				#Chapala
+Chimaltitán			#Chimaltitán
+Chiquilistlán			#Chiquilistlán
+Degollado			#Degollado
+Ejutla				#Ejutla
+Encarnación			#Encarnación de Díaz
+Díaz				#Encarnación de Díaz
+Etzatlán			#Etzatlán
+Grullo				#El Grullo
+Guachinango			#Guachinango
+Guadalajara			#Guadalajara
+Hostotipaquillo			#Hostotipaquillo
+Huejúcar			#Huejúcar
+Huejuquilla			#Huejuquilla el Alto
+Huerta				#La Huerta
+Ixtlahuacán			#Ixtlahuacán de los Membrillos
+Membrillos			#Ixtlahuacán de los Membrillos
+Ixtlahuacán			#Ixtlahuacán del Río
+Jalostotitlán			#Jalostotitlán
+Jamay				#Jamay
+Jesús				#Jesús María
+Jilotlán			#Jilotlán de los Dolores
+Dolores				#Jilotlán de los Dolores
+Jocotepec			#Jocotepec
+Juanacatlán			#Juanacatlán
+Juchitlán			#Juchitlán
+Lagos				#Lagos de Moreno
+Moreno				#Lagos de Moreno
+Limón				#El Limón
+Magdalena			#Magdalena
+Oro				#Santa María del Oro
+Manzanilla			#La Manzanilla de la Paz
+Paz				#La Manzanilla de la Paz
+Mascota				#Mascota
+Mazamitla			#Mazamitla
+Mexticacán			#Mexticacán
+Mezquitic			#Mezquitic
+Mixtlán				#Mixtlán
+Ocotlán				#Ocotlán
+Ojuelos				#Ojuelos de Jalisco
+Jalisco				#Ojuelos de Jalisco
+Pihuamo				#Pihuamo
+Poncitlán			#Poncitlán
+Vallarta			#Puerto Vallarta
+Purificación			#Villa Purificación
+Quitupan			#Quitupan
+Salto				#El Salto
+Barranca			#San Cristóbal de la Barranca
+Alejandría			#San Diego de Alejandría
+Lagos				#San Juan de los Lagos
+Julián				#San Julián
+Marcos				#San Marcos
+Bolaños				#San Martín de Bolaños
+Martín				#San Martín Hidalgo
+Alto				#San Miguel el Alto
+Farías				#Gómez Farías
+Sebastián			#San Sebastián del Oeste
+Oeste				#San Sebastián del Oeste
+Ángeles				#Santa María de los Ángeles
+Sayula				#Sayula
+Tala				#Tala
+Talpa				#Talpa de Allende
+Allende				#Talpa de Allende
+Tamazula			#Tamazula de Gordiano
+Gordiano			#Tamazula de Gordiano
+Tapalpa				#Tapalpa
+Tecalitlán			#Tecalitlán
+Tecolotlán			#Tecolotlán
+Techaluta			#Techaluta de Montenegro
+Montenegro			#Techaluta de Montenegro
+Tenamaxtlán			#Tenamaxtlán
+Teocaltiche			#Teocaltiche
+Teocuitatlán			#Teocuitatlán de Corona
+Tepatitlán			#Tepatitlán de Morelos
+Tequila				#Tequila
+Teuchitlán			#Teuchitlán
+Tizapán				#Tizapán el Alto
+Tlajomulco			#Tlajomulco de Zúñiga
+Zúñiga				#Tlajomulco de Zúñiga
+Tlaquepaque			#San Pedro Tlaquepaque
+Tolimán				#Tolimán
+Tomatlán			#Tomatlán
+Tonalá				#Tonalá
+Tonaya				#Tonaya
+Tonila				#Tonila
+Totatiche			#Totatiche
+Tototlán			#Tototlán
+Tuxcacuesco			#Tuxcacuesco
+Tuxcueca			#Tuxcueca
+Tuxpan				#Tuxpan
+Antonio				#Unión de San Antonio
+Tula				#Unión de Tula
+Guadalupe			#Valle de Guadalupe
+Juárez				#Valle de Juárez
+Gabriel				#San Gabriel
+Corona				#Villa Corona
+Guerrero			#Villa Guerrero
+Hidalgo				#Villa Hidalgo
+Cañadas				#Cañadas de Obregón
+Obregón				#Cañadas de Obregón
+Yahualica			#Yahualica de González Gallo
+Gallo				#Yahualica de González Gallo
+Zacoalco			#Zacoalco de Torres
+Torres				#Zacoalco de Torres
+Zapopan				#Zapopan
+Zapotiltic			#Zapotiltic
+Zapotitlán			#Zapotitlán de Vadillo
+Vadillo				#Zapotitlán de Vadillo
+Zapotlán			#Zapotlán del Rey
+Rey				#Zapotlán del Rey
+Zapotlanejo			#Zapotlanejo
+Gordo				#San Ignacio Cerro Gordo
+
+#
+# [15] México
+#
+
+Acambay				#Acambay de Ruíz Castañeda
+Ruíz				#Acambay de Ruíz Castañeda
+Castañeda			#Acambay de Ruíz Castañeda
+Acolman				#Acolman
+Aculco				#Aculco
+Almoloya			#Almoloya de Alquisiras
+Alquisiras			#Almoloya de Alquisiras
+Juárez				#Almoloya de Juárez
+Río				#Almoloya del Río
+Amanalco			#Amanalco
+Amatepec			#Amatepec
+Amecameca			#Amecameca
+Apaxco				#Apaxco
+Atenco				#Atenco
+Atizapán			#Atizapán
+Zaragoza			#Atizapán de Zaragoza
+Atlacomulco			#Atlacomulco
+Atlautla			#Atlautla
+Axapusco			#Axapusco
+Ayapango			#Ayapango
+Calimaya			#Calimaya
+Capulhuac			#Capulhuac
+Coacalco			#Coacalco de Berriozábal
+Berriozábal			#Coacalco de Berriozábal
+Coatepec			#Coatepec Harinas
+Harinas				#Coatepec Harinas
+Cocotitlán			#Cocotitlán
+Coyotepec			#Coyotepec
+Cuautitlán			#Cuautitlán
+Chalco				#Chalco
+Chapa				#Chapa de Mota
+Mota				#Chapa de Mota
+Chapultepec			#Chapultepec
+Chiautla			#Chiautla
+Chicoloapan			#Chicoloapan
+Chiconcuac			#Chiconcuac
+Chimalhuacán			#Chimalhuacán
+Donato				#Donato Guerra
+Guerra				#Donato Guerra
+Ecatepec			#Ecatepec de Morelos
+Ecatzingo			#Ecatzingo
+Huehuetoca			#Huehuetoca
+Hueypoxtla			#Hueypoxtla
+Huixquilucan			#Huixquilucan
+Isidro				#Isidro Fabela
+Fabela				#Isidro Fabela
+Ixtapaluca			#Ixtapaluca
+Ixtapan				#Ixtapan de la Sal
+Sal				#Ixtapan de la Sal
+Oro				#Ixtapan del Oro
+Ixtlahuaca			#Ixtlahuaca
+Xalatlaco			#Xalatlaco
+Jaltenco			#Jaltenco
+Jilotepec			#Jilotepec
+Jilotzingo			#Jilotzingo
+Jiquipilco			#Jiquipilco
+Jocotitlán			#Jocotitlán
+Joquicingo			#Joquicingo
+Juchitepec			#Juchitepec
+Lerma				#Lerma
+Malinalco			#Malinalco
+Melchor				#Melchor Ocampo
+Metepec				#Metepec
+Mexicaltzingo			#Mexicaltzingo
+Morelos				#Morelos
+Naucalpan			#Naucalpan de Juárez
+Nezahualcóyotl			#Nezahualcóyotl
+Nextlalpan			#Nextlalpan
+Romero				#Nicolás Romero
+Nopaltepec			#Nopaltepec
+Ocoyoacac			#Ocoyoacac
+Ocuilan				#Ocuilan
+Oro				#El Oro
+Otumba				#Otumba
+Otzoloapan			#Otzoloapan
+Otzolotepec			#Otzolotepec
+Ozumba				#Ozumba
+Papalotla			#Papalotla
+Paz				#La Paz
+Polotitlán			#Polotitlán
+Rayón				#Rayón
+Isla				#San Antonio la Isla
+Progreso			#San Felipe del Progreso
+Pirámides			#San Martín de las Pirámides
+Mateo				#San Mateo Atenco
+Atenco				#San Mateo Atenco
+Simón				#San Simón de Guerrero
+Tomás				#Santo Tomás
+Soyaniquilpan			#Soyaniquilpan de Juárez
+Sultepec			#Sultepec
+Tecámac				#Tecámac
+Tejupilco			#Tejupilco
+Temamatla			#Temamatla
+Temascalapa			#Temascalapa
+Temascalcingo			#Temascalcingo
+Temascaltepec			#Temascaltepec
+Temoaya				#Temoaya
+Tenancingo			#Tenancingo
+Tenango				#Tenango del Aire
+Aire				#Tenango del Aire
+Valle				#Tenango del Valle
+Teoloyucan			#Teoloyucan
+Teotihuacán			#Teotihuacán
+Tepetlaoxtoc			#Tepetlaoxtoc
+Tepetlixpa			#Tepetlixpa
+Tepotzotlán			#Tepotzotlán
+Tequixquiac			#Tequixquiac
+Texcaltitlán			#Texcaltitlán
+Texcalyacac			#Texcalyacac
+Texcoco				#Texcoco
+Tezoyuca			#Tezoyuca
+Tianguistenco			#Tianguistenco
+Timilpan			#Timilpan
+Tlalmanalco			#Tlalmanalco
+Tlalnepantla			#Tlalnepantla de Baz
+Baz				#Tlalnepantla de Baz
+Tlatlaya			#Tlatlaya
+Toluca				#Toluca
+Tonatico			#Tonatico
+Tultepec			#Tultepec
+Tultitlán			#Tultitlán
+Bravo				#Valle de Bravo
+Allende				#Villa de Allende
+Carbón				#Villa del Carbón
+Guerrero			#Villa Guerrero
+Victoria			#Villa Victoria
+Xonacatlán			#Xonacatlán
+Zacazonapan			#Zacazonapan
+Zacualpan			#Zacualpan
+Zinacantepec			#Zinacantepec
+Zumpahuacán			#Zumpahuacán
+Zumpango			#Zumpango
+Izcalli				#Cuautitlán Izcalli
+Chalco				#Valle de Chalco Solidaridad
+Luvianos			#Luvianos
+Rincón				#San José del Rincón
+Tonanitla			#Tonanitla
+
+#
+# [16] Michoacán de Ocampo
+#
+
+Acuitzio			#Acuitzio
+Aguililla			#Aguililla
+Álvaro				#Álvaro Obregón
+Obregón				#Álvaro Obregón
+Angamacutiro			#Angamacutiro
+Angangueo			#Angangueo
+Apatzingán			#Apatzingán
+Aporo				#Aporo
+Aquila				#Aquila
+Ario				#Ario
+Arteaga				#Arteaga
+Briseñas			#Briseñas
+Buenavista			#Buenavista
+Carácuaro			#Carácuaro
+Coahuayana			#Coahuayana
+Coalcomán			#Coalcomán de Vázquez Pallares
+Vázquez				#Coalcomán de Vázquez Pallares
+Pallares			#Coalcomán de Vázquez Pallares
+Coeneo				#Coeneo
+Contepec			#Contepec
+Copándaro			#Copándaro
+Cotija				#Cotija
+Cuitzeo				#Cuitzeo
+Charapan			#Charapan
+Charo				#Charo
+Chavinda			#Chavinda
+Cherán				#Cherán
+Chilchota			#Chilchota
+Chinicuila			#Chinicuila
+Chucándiro			#Chucándiro
+Churintzio			#Churintzio
+Churumuco			#Churumuco
+Ecuandureo			#Ecuandureo
+Epitacio			#Epitacio Huerta
+Erongarícuaro			#Erongarícuaro
+Zamora				#Gabriel Zamora
+Hidalgo				#Hidalgo
+Huacana				#La Huacana
+Huandacareo			#Huandacareo
+Huaniqueo			#Huaniqueo
+Huetamo				#Huetamo
+Huiramba			#Huiramba
+Indaparapeo			#Indaparapeo
+Irimbo				#Irimbo
+Ixtlán				#Ixtlán
+Jacona				#Jacona
+Jiménez				#Jiménez
+Jiquilpan			#Jiquilpan
+Juárez				#Juárez
+Jungapeo			#Jungapeo
+Lagunillas			#Lagunillas
+Madero				#Madero
+Maravatío			#Maravatío
+Castellanos			#Marcos Castellanos
+Lázaro				#Lázaro Cárdenas
+Cárdenas			#Lázaro Cárdenas
+Morelia				#Morelia
+Morelos				#Morelos
+Múgica				#Múgica
+Nahuatzen			#Nahuatzen
+Nocupétaro			#Nocupétaro
+Parangaricutiro			#Nuevo Parangaricutiro
+Urecho				#Nuevo Urecho
+Numarán				#Numarán
+Ocampo				#Ocampo
+Pajacuarán			#Pajacuarán
+Panindícuaro			#Panindícuaro
+Parácuaro			#Parácuaro
+Paracho				#Paracho
+Pátzcuaro			#Pátzcuaro
+Penjamillo			#Penjamillo
+Peribán				#Peribán
+Piedad				#La Piedad
+Purépero			#Purépero
+Puruándiro			#Puruándiro
+Queréndaro			#Queréndaro
+Quiroga				#Quiroga
+Cojumatlán			#Cojumatlán de Régules
+Régules				#Cojumatlán de Régules
+Reyes				#Los Reyes
+Sahuayo				#Sahuayo
+Lucas				#San Lucas
+Ana				#Santa Ana Maya
+Maya				#Santa Ana Maya
+Escalante			#Salvador Escalante
+Senguio				#Senguio
+Susupuato			#Susupuato
+Tacámbaro			#Tacámbaro
+Tancítaro			#Tancítaro
+Tangamandapio			#Tangamandapio
+Tangancícuaro			#Tangancícuaro
+Tanhuato			#Tanhuato
+Taretan				#Taretan
+Tarímbaro			#Tarímbaro
+Tepalcatepec			#Tepalcatepec
+Tingambato			#Tingambato
+Tingüindín			#Tingüindín
+Tiquicheo			#Tiquicheo de Nicolás Romero
+Tlalpujahua			#Tlalpujahua
+Tlazazalca			#Tlazazalca
+Tocumbo				#Tocumbo
+Tumbiscatío			#Tumbiscatío
+Turicato			#Turicato
+Tuxpan				#Tuxpan
+Tuzantla			#Tuzantla
+Tzintzuntzan			#Tzintzuntzan
+Tzitzio				#Tzitzio
+Uruapan				#Uruapan
+Carranza			#Venustiano Carranza
+Villamar			#Villamar
+Hermosa				#Vista Hermosa
+Yurécuaro			#Yurécuaro
+Zacapu				#Zacapu
+Zamora				#Zamora
+Zináparo			#Zináparo
+Zinapécuaro			#Zinapécuaro
+Ziracuaretiro			#Ziracuaretiro
+Zitácuaro			#Zitácuaro
+Sixto				#José Sixto Verduzco
+Verduzco			#José Sixto Verduzco
+
+#
+# [17] Morelos
+#
+
+Amacuzac			#Amacuzac
+Atlatlahucan			#Atlatlahucan
+Axochiapan			#Axochiapan
+Ayala				#Ayala
+Coatlán				#Coatlán del Río
+Cuautla				#Cuautla
+Cuernavaca			#Cuernavaca
+Zapata				#Emiliano Zapata
+Huitzilac			#Huitzilac
+Jantetelco			#Jantetelco
+Jiutepec			#Jiutepec
+Jojutla				#Jojutla
+Jonacatepec			#Jonacatepec de Leandro Valle
+Leandro				#Jonacatepec de Leandro Valle
+Mazatepec			#Mazatepec
+Miacatlán			#Miacatlán
+Ocuituco			#Ocuituco
+Puente				#Puente de Ixtla
+Ixtla				#Puente de Ixtla
+Temixco				#Temixco
+Tepalcingo			#Tepalcingo
+Tepoztlán			#Tepoztlán
+Tetecala			#Tetecala
+Tetela				#Tetela del Volcán
+Volcán				#Tetela del Volcán
+Tlalnepantla			#Tlalnepantla
+Tlaltizapán			#Tlaltizapán de Zapata
+Tlaquiltenango			#Tlaquiltenango
+Tlayacapan			#Tlayacapan
+Totolapan			#Totolapan
+Xochitepec			#Xochitepec
+Yautepec			#Yautepec
+Yecapixtla			#Yecapixtla
+Zacatepec			#Zacatepec
+Zacualpan			#Zacualpan de Amilpas
+Amilpas				#Zacualpan de Amilpas
+Temoac				#Temoac
+
+#
+# [18] Nayarit
+#
+
+Acaponeta			#Acaponeta
+Ahuacatlán			#Ahuacatlán
+Cañas				#Amatlán de Cañas
+Compostela			#Compostela
+Huajicori			#Huajicori
+Ixtlán				#Ixtlán del Río
+Jala				#Jala
+Xalisco				#Xalisco
+Nayar				#Del Nayar
+Rosamorada			#Rosamorada
+Ruíz				#Ruíz
+Blas				#San Blas
+Lagunillas			#San Pedro Lagunillas
+Oro				#Santa María del Oro
+Ixcuintla			#Santiago Ixcuintla
+Tecuala				#Tecuala
+Tepic				#Tepic
+Tuxpan				#Tuxpan
+Yesca				#La Yesca
+Bahía				#Bahía de Banderas
+Banderas			#Bahía de Banderas
+
+#
+# [19] Nuevo León
+#
+
+Abasolo				#Abasolo
+Agualeguas			#Agualeguas
+Aldamas				#Los Aldamas
+Allende				#Allende
+Anáhuac				#Anáhuac
+Apodaca				#Apodaca
+Aramberri			#Aramberri
+Bustamante			#Bustamante
+Cadereyta			#Cadereyta Jiménez
+Carmen				#El Carmen
+Cerralvo			#Cerralvo
+Ciénega				#Ciénega de Flores
+China				#China
+Doctor				#Doctor Arroyo
+Arroyo				#Doctor Arroyo
+Coss				#Doctor Coss
+González			#Doctor González
+Galeana				#Galeana
+García				#García
+Garza				#San Pedro Garza García
+Bravo				#General Bravo
+Escobedo			#General Escobedo
+Terán				#General Terán
+Treviño				#General Treviño
+Zaragoza			#General Zaragoza
+Zuazua				#General Zuazua
+Guadalupe			#Guadalupe
+Herreras			#Los Herreras
+Higueras			#Higueras
+Hualahuises			#Hualahuises
+Iturbide			#Iturbide
+Juárez				#Juárez
+Lampazos			#Lampazos de Naranjo
+Naranjo				#Lampazos de Naranjo
+Linares				#Linares
+Marín				#Marín
+Melchor				#Melchor Ocampo
+Mier				#Mier y Noriega
+Noriega				#Mier y Noriega
+Mina				#Mina
+Montemorelos			#Montemorelos
+Monterrey			#Monterrey
+Parás				#Parás
+Pesquería			#Pesquería
+Ramones				#Los Ramones
+Rayones				#Rayones
+Sabinas				#Sabinas Hidalgo
+Salinas				#Salinas Victoria
+Victoria			#Salinas Victoria
+Garza				#San Nicolás de los Garza
+Hidalgo				#Hidalgo
+Catarina			#Santa Catarina
+Santiago			#Santiago
+Vallecillo			#Vallecillo
+Villaldama			#Villaldama
+
+#
+# [20] Oaxaca
+#
+
+Abejones			#Abejones
+Acatlán				#Acatlán de Pérez Figueroa
+Figueroa			#Acatlán de Pérez Figueroa
+Asunción			#Asunción Cacalotepec
+Cacalotepec			#Asunción Cacalotepec
+Cuyotepeji			#Asunción Cuyotepeji
+Ixtaltepec			#Asunción Ixtaltepec
+Nochixtlán			#Asunción Nochixtlán
+Ocotlán				#Asunción Ocotlán
+Tlacolulita			#Asunción Tlacolulita
+Ayotzintepec			#Ayotzintepec
+Barrio				#El Barrio de la Soledad
+Soledad				#El Barrio de la Soledad
+Calihualá			#Calihualá
+Candelaria			#Candelaria Loxicha
+Loxicha				#Candelaria Loxicha
+Ciénega				#Ciénega de Zimatlán
+Zimatlán			#Ciénega de Zimatlán
+Ciudad				#Ciudad Ixtepec
+Ixtepec				#Ciudad Ixtepec
+Coatecas			#Coatecas Altas
+Altas				#Coatecas Altas
+Coicoyán			#Coicoyán de las Flores
+Compañía			#La Compañía
+Concepción			#Concepción Buenavista
+Buenavista			#Concepción Buenavista
+Pápalo				#Concepción Pápalo
+Constancia			#Constancia del Rosario
+Rosario				#Constancia del Rosario
+Cosolapa			#Cosolapa
+Cosoltepec			#Cosoltepec
+Cuilápam			#Cuilápam de Guerrero
+Cuyamecalco			#Cuyamecalco Villa de Zaragoza
+Chahuites			#Chahuites
+Chalcatongo			#Chalcatongo de Hidalgo
+Chiquihuitlán			#Chiquihuitlán de Benito Juárez
+Heroica				#Heroica Ciudad de Ejutla de Crespo
+Ejutla				#Heroica Ciudad de Ejutla de Crespo
+Crespo				#Heroica Ciudad de Ejutla de Crespo
+Eloxochitlán			#Eloxochitlán de Flores Magón
+Magón				#Eloxochitlán de Flores Magón
+Espinal				#El Espinal
+Tamazulápam			#Tamazulápam del Espíritu Santo
+Espíritu			#Tamazulápam del Espíritu Santo
+Fresnillo			#Fresnillo de Trujano
+Guadalupe			#Guadalupe Etla
+Etla				#Guadalupe Etla
+Ramírez				#Guadalupe de Ramírez
+Guelatao			#Guelatao de Juárez
+Guevea				#Guevea de Humboldt
+Humboldt			#Guevea de Humboldt
+Mesones				#Mesones Hidalgo
+Hidalgo				#Villa Hidalgo
+Huajuapan			#Heroica Ciudad de Huajuapan de León
+Huautepec			#Huautepec
+Huautla				#Huautla de Jiménez
+Ixtlán				#Ixtlán de Juárez
+Juchitán			#Heroica Ciudad de Juchitán de Zaragoza
+Loma				#Loma Bonita
+Bonita				#Loma Bonita
+Apasco				#Magdalena Apasco
+Jaltepec			#Magdalena Jaltepec
+Jicotlán			#Santa Magdalena Jicotlán
+Mixtepec			#Magdalena Mixtepec
+Ocotlán				#Magdalena Ocotlán
+Peñasco				#Magdalena Peñasco
+Teitipac			#Magdalena Teitipac
+Tequisistlán			#Magdalena Tequisistlán
+Tlacotepec			#Magdalena Tlacotepec
+Zahuatlán			#Magdalena Zahuatlán
+Mariscala			#Mariscala de Juárez
+Mártires			#Mártires de Tacubaya
+Tacubaya			#Mártires de Tacubaya
+Matías				#Matías Romero Avendaño
+Avendaño			#Matías Romero Avendaño
+Mazatlán			#Mazatlán Villa de Flores
+Miahuatlán			#Miahuatlán de Porfirio Díaz
+Porfirio			#Miahuatlán de Porfirio Díaz
+Mixistlán			#Mixistlán de la Reforma
+Monjas				#Monjas
+Natividad			#Natividad
+Nazareno			#Nazareno Etla
+Etla				#Nazareno Etla
+Nejapa				#Nejapa de Madero
+Ixpantepec			#Ixpantepec Nieves
+Nieves				#Ixpantepec Nieves
+Niltepec			#Santiago Niltepec
+Oaxaca				#Oaxaca de Juárez
+Ocotlán				#Ocotlán de Morelos
+Pe				#La Pe
+Pinotepa			#Pinotepa de Don Luis
+Don				#Pinotepa de Don Luis
+Pluma				#Pluma Hidalgo
+Progreso			#San José del Progreso
+Putla				#Putla Villa de Guerrero
+Quioquitani			#Santa Catarina Quioquitani
+Pineda				#Reforma de Pineda
+Reforma				#La Reforma
+Etla				#Reyes Etla
+Rojas				#Rojas de Cuauhtémoc
+Salina				#Salina Cruz
+Amatengo			#San Agustín Amatengo
+Atenango			#San Agustín Atenango
+Chayuco				#San Agustín Chayuco
+Juntas				#San Agustín de las Juntas
+Etla				#San Agustín Etla
+Loxicha				#San Agustín Loxicha
+Tlacotepec			#San Agustín Tlacotepec
+Yatareni			#San Agustín Yatareni
+Cabecera			#San Andrés Cabecera Nueva
+Nueva				#San Andrés Cabecera Nueva
+Dinicuiti			#San Andrés Dinicuiti
+Huaxpaltepec			#San Andrés Huaxpaltepec
+Huayápam			#San Andrés Huayápam
+Ixtlahuaca			#San Andrés Ixtlahuaca
+Lagunas				#San Andrés Lagunas
+Nuxiño				#San Andrés Nuxiño
+Paxtlán				#San Andrés Paxtlán
+Sinaxtla			#San Andrés Sinaxtla
+Solaga				#San Andrés Solaga
+Teotilálpam			#San Andrés Teotilálpam
+Tepetlapa			#San Andrés Tepetlapa
+Yaá				#San Andrés Yaá
+Zabache				#San Andrés Zabache
+Zautla				#San Andrés Zautla
+Antonino			#San Antonino Castillo Velasco
+Velasco				#San Antonino Castillo Velasco
+Alto				#San Antonino el Alto
+Verde				#San Antonino Monte Verde
+Acutla				#San Antonio Acutla
+Cal				#San Antonio de la Cal
+Huitepec			#San Antonio Huitepec
+Nanahuatípam			#San Antonio Nanahuatípam
+Sinicahua			#San Antonio Sinicahua
+Tepetlapa			#San Antonio Tepetlapa
+Baltazar			#San Baltazar Chichicápam
+Chichicápam			#San Baltazar Chichicápam
+Loxicha				#San Baltazar Loxicha
+Yatzachi			#San Baltazar Yatzachi el Bajo
+Bajo				#San Baltazar Yatzachi el Bajo
+Coyotepec			#San Bartolo Coyotepec
+Bartolomé			#San Bartolomé Ayautla
+Ayautla				#San Bartolomé Ayautla
+Loxicha				#San Bartolomé Loxicha
+Quialana			#San Bartolomé Quialana
+Yucuañe				#San Bartolomé Yucuañe
+Zoogocho			#San Bartolomé Zoogocho
+Soyaltepec			#San Bartolo Soyaltepec
+Yautepec			#San Bartolo Yautepec
+Bernardo			#San Bernardo Mixtepec
+Mixtepec			#San Bernardo Mixtepec
+Atempa				#San Blas Atempa
+Yautepec			#San Carlos Yautepec
+Amatlán				#San Cristóbal Amatlán
+Amoltepec			#San Cristóbal Amoltepec
+Lachirioag			#San Cristóbal Lachirioag
+Suchixtlahuaca			#San Cristóbal Suchixtlahuaca
+Dionisio			#San Dionisio del Mar
+Mar				#San Dionisio del Mar
+Ocotepec			#San Dionisio Ocotepec
+Ocotlán				#San Dionisio Ocotlán
+Esteban				#San Esteban Atatlahuca
+Atatlahuca			#San Esteban Atatlahuca
+Jalapa				#San Felipe Jalapa de Díaz
+Tejalápam			#San Felipe Tejalápam
+Usila				#San Felipe Usila
+Cahuacuá			#San Francisco Cahuacuá
+Cajonos				#San Francisco Cajonos
+Chapulapa			#San Francisco Chapulapa
+Chindúa				#San Francisco Chindúa
+Mar				#San Francisco del Mar
+Huehuetlán			#San Francisco Huehuetlán
+Ixhuatán			#San Francisco Ixhuatán
+Jaltepetongo			#San Francisco Jaltepetongo
+Lachigoló			#San Francisco Lachigoló
+Logueche			#San Francisco Logueche
+Nuxaño				#San Francisco Nuxaño
+Ozolotepec			#San Francisco Ozolotepec
+Sola				#San Francisco Sola
+Telixtlahuaca			#San Francisco Telixtlahuaca
+Teopan				#San Francisco Teopan
+Tlapancingo			#San Francisco Tlapancingo
+Mixtepec			#San Gabriel Mixtepec
+Ildefonso			#San Ildefonso Amatlán
+Sola				#San Ildefonso Sola
+Alta				#San Ildefonso Villa Alta
+Jacinto				#San Jacinto Amilpas
+Amilpas				#San Jacinto Amilpas
+Tlacotepec			#San Jacinto Tlacotepec
+Jerónimo			#San Jerónimo Coatlán
+Coatlán				#San Jerónimo Coatlán
+Silacayoapilla			#San Jerónimo Silacayoapilla
+Sosola				#San Jerónimo Sosola
+Taviche				#San Jerónimo Taviche
+Tecóatl				#San Jerónimo Tecóatl
+Jorge				#San Jorge Nuchita
+Nuchita				#San Jorge Nuchita
+Ayuquila			#San José Ayuquila
+Chiltepec			#San José Chiltepec
+Peñasco				#San José del Peñasco
+Estancia			#San José Estancia Grande
+Independencia			#San José Independencia
+Lachiguiri			#San José Lachiguiri
+Tenango				#San José Tenango
+Achiutla			#San Juan Achiutla
+Atepec				#San Juan Atepec
+Ánimas				#Ánimas Trujano
+Bautista			#San Juan Bautista Atatlahuca
+Atatlahuca			#San Juan Bautista Atatlahuca
+Coixtlahuaca			#San Juan Bautista Coixtlahuaca
+Cuicatlán			#San Juan Bautista Cuicatlán
+Guelache			#San Juan Bautista Guelache
+Jayacatlán			#San Juan Bautista Jayacatlán
+Lo				#San Juan Bautista Lo de Soto
+Suchitepec			#San Juan Bautista Suchitepec
+Tlacoatzintepec			#San Juan Bautista Tlacoatzintepec
+Tlachichilco			#San Juan Bautista Tlachichilco
+Tuxtepec			#San Juan Bautista Tuxtepec
+Cacahuatepec			#San Juan Cacahuatepec
+Cieneguilla			#San Juan Cieneguilla
+Coatzóspam			#San Juan Coatzóspam
+Colorado			#San Juan Colorado
+Comaltepec			#San Juan Comaltepec
+Cotzocón			#San Juan Cotzocón
+Chicomezúchil			#San Juan Chicomezúchil
+Chilateca			#San Juan Chilateca
+Estado				#San Juan del Estado
+Río				#San Juan del Río
+Diuxi				#San Juan Diuxi
+Evangelista			#San Juan Evangelista Analco
+Analco				#San Juan Evangelista Analco
+Guelavía			#San Juan Guelavía
+Guichicovi			#San Juan Guichicovi
+Ihualtepec			#San Juan Ihualtepec
+Juquila				#San Juan Juquila Mixes
+Mixes				#San Juan Juquila Mixes
+Juquila				#San Juan Juquila Vijanos
+Vijanos				#San Juan Juquila Vijanos
+Lachao				#San Juan Lachao
+Lachigalla			#San Juan Lachigalla
+Lajarcia			#San Juan Lajarcia
+Lalana				#San Juan Lalana
+Cués				#San Juan de los Cués
+Mazatlán			#San Juan Mazatlán
+Mixtepec			#San Juan Mixtepec [Distrito 08]
+Mixtepec			#San Juan Mixtepec [Distrito 26]
+Ñumí				#San Juan Ñumí
+Ozolotepec			#San Juan Ozolotepec
+Petlapa				#San Juan Petlapa
+Quiahije			#San Juan Quiahije
+Quiotepec			#San Juan Quiotepec
+Sayultepec			#San Juan Sayultepec
+Tabaá				#San Juan Tabaá
+Tamazola			#San Juan Tamazola
+Teita				#San Juan Teita
+Teitipac			#San Juan Teitipac
+Tepeuxila			#San Juan Tepeuxila
+Teposcolula			#San Juan Teposcolula
+Yaeé				#San Juan Yaeé
+Yatzona				#San Juan Yatzona
+Yucuita				#San Juan Yucuita
+Lorenzo				#San Lorenzo
+Albarradas			#San Lorenzo Albarradas
+Cacaotepec			#San Lorenzo Cacaotepec
+Cuaunecuiltitla			#San Lorenzo Cuaunecuiltitla
+Texmelúcan			#San Lorenzo Texmelúcan
+Victoria			#San Lorenzo Victoria
+Lucas				#San Lucas Camotlán
+Camotlán			#San Lucas Camotlán
+Ojitlán				#San Lucas Ojitlán
+Quiaviní			#San Lucas Quiaviní
+Zoquiápam			#San Lucas Zoquiápam
+Amatlán				#San Luis Amatlán
+Marcial				#San Marcial Ozolotepec
+Ozolotepec			#San Marcial Ozolotepec
+Arteaga				#San Marcos Arteaga
+Cansecos			#San Martín de los Cansecos
+Huamelúlpam			#San Martín Huamelúlpam
+Itunyoso			#San Martín Itunyoso
+Lachilá				#San Martín Lachilá
+Peras				#San Martín Peras
+Tilcajete			#San Martín Tilcajete
+Toxpalan			#San Martín Toxpalan
+Zacatepec			#San Martín Zacatepec
+Cajonos				#San Mateo Cajonos
+Capulálpam			#Capulálpam de Méndez
+Méndez				#Capulálpam de Méndez
+Mar				#San Mateo del Mar
+Yoloxochitlán			#San Mateo Yoloxochitlán
+Etlatongo			#San Mateo Etlatongo
+Nejápam				#San Mateo Nejápam
+Peñasco				#San Mateo Peñasco
+Piñas				#San Mateo Piñas
+Hondo				#San Mateo Río Hondo
+Sindihui			#San Mateo Sindihui
+Tlapiltepec			#San Mateo Tlapiltepec
+Betaza				#San Melchor Betaza
+Achiutla			#San Miguel Achiutla
+Ahuehuetitlán			#San Miguel Ahuehuetitlán
+Aloápam				#San Miguel Aloápam
+Amatitlán			#San Miguel Amatitlán
+Amatlán				#San Miguel Amatlán
+Coatlán				#San Miguel Coatlán
+Chicahua			#San Miguel Chicahua
+Chimalapa			#San Miguel Chimalapa
+Puerto				#San Miguel del Puerto
+Río				#San Miguel del Río
+Ejutla				#San Miguel Ejutla
+Grande				#San Miguel el Grande
+Huautla				#San Miguel Huautla
+Mixtepec			#San Miguel Mixtepec
+Panixtlahuaca			#San Miguel Panixtlahuaca
+Peras				#San Miguel Peras
+Piedras				#San Miguel Piedras
+Quetzaltepec			#San Miguel Quetzaltepec
+Flor				#San Miguel Santa Flor
+Vega				#Villa Sola de Vega
+Soyaltepec			#San Miguel Soyaltepec
+Suchixtepec			#San Miguel Suchixtepec
+Talea				#Villa Talea de Castro
+Castro				#Villa Talea de Castro
+Tecomatlán			#San Miguel Tecomatlán
+Tenango				#San Miguel Tenango
+Tequixtepec			#San Miguel Tequixtepec
+Tilquiápam			#San Miguel Tilquiápam
+Tlacamama			#San Miguel Tlacamama
+Tlacotepec			#San Miguel Tlacotepec
+Tulancingo			#San Miguel Tulancingo
+Yotao				#San Miguel Yotao
+Nicolás				#San Nicolás
+Hidalgo				#San Nicolás Hidalgo
+Pablo				#San Pablo Coatlán
+Coatlán				#San Pablo Coatlán
+Venados				#San Pablo Cuatro Venados
+Etla				#San Pablo Etla
+Huitzo				#San Pablo Huitzo
+Huixtepec			#San Pablo Huixtepec
+Macuiltianguis			#San Pablo Macuiltianguis
+Tijaltepec			#San Pablo Tijaltepec
+Mitla				#San Pablo Villa de Mitla
+Yaganiza			#San Pablo Yaganiza
+Amuzgos				#San Pedro Amuzgos
+Apóstol				#San Pedro Apóstol
+Atoyac				#San Pedro Atoyac
+Cajonos				#San Pedro Cajonos
+Coxcaltepec			#San Pedro Coxcaltepec Cántaros
+Cántaros			#San Pedro Coxcaltepec Cántaros
+Comitancillo			#San Pedro Comitancillo
+Alto				#San Pedro el Alto
+Huamelula			#San Pedro Huamelula
+Huilotepec			#San Pedro Huilotepec
+Ixcatlán			#San Pedro Ixcatlán
+Ixtlahuaca			#San Pedro Ixtlahuaca
+Jaltepetongo			#San Pedro Jaltepetongo
+Jicayán				#San Pedro Jicayán
+Jocotipac			#San Pedro Jocotipac
+Juchatengo			#San Pedro Juchatengo
+Mártir				#San Pedro Mártir
+Quiechapa			#San Pedro Mártir Quiechapa
+Yucuxaco			#San Pedro Mártir Yucuxaco
+Mixtepec			#San Pedro Mixtepec
+Mixtepec			#San Pedro Mixtepec
+Molinos				#San Pedro Molinos
+Nopala				#San Pedro Nopala
+Ocopetatillo			#San Pedro Ocopetatillo
+Ocotepec			#San Pedro Ocotepec
+Pochutla			#San Pedro Pochutla
+Quiatoni			#San Pedro Quiatoni
+Sochiápam			#San Pedro Sochiápam
+Tapanatepec			#San Pedro Tapanatepec
+Taviche				#San Pedro Taviche
+Teozacoalco			#San Pedro Teozacoalco
+Teutila				#San Pedro Teutila
+Tidaá				#San Pedro Tidaá
+Topiltepec			#San Pedro Topiltepec
+Totolápam			#San Pedro Totolápam
+Tututepec			#Villa de Tututepec
+Yaneri				#San Pedro Yaneri
+Yólox				#San Pedro Yólox
+Ayutla				#San Pedro y San Pablo Ayutla
+Etla				#Villa de Etla
+Teposcolula			#San Pedro y San Pablo Teposcolula
+Tequixtepec			#San Pedro y San Pablo Tequixtepec
+Yucunama			#San Pedro Yucunama
+Raymundo			#San Raymundo Jalpan
+Jalpan				#San Raymundo Jalpan
+Abasolo				#San Sebastián Abasolo
+Coatlán				#San Sebastián Coatlán
+Ixcapa				#San Sebastián Ixcapa
+Nicananduta			#San Sebastián Nicananduta
+Hondo				#San Sebastián Río Hondo
+Tecomaxtlahuaca			#San Sebastián Tecomaxtlahuaca
+Teitipac			#San Sebastián Teitipac
+Tutla				#San Sebastián Tutla
+Almolongas			#San Simón Almolongas
+Zahuatlán			#San Simón Zahuatlán
+Ana				#Santa Ana
+Ateixtlahuaca			#Santa Ana Ateixtlahuaca
+Cuauhtémoc			#Santa Ana Cuauhtémoc
+Valle				#Santa Ana del Valle
+Tavela				#Santa Ana Tavela
+Tlapacoyan			#Santa Ana Tlapacoyan
+Yareni				#Santa Ana Yareni
+Zegache				#Santa Ana Zegache
+Catalina			#Santa Catalina Quierí
+Quierí				#Santa Catalina Quierí
+Cuixtla				#Santa Catarina Cuixtla
+Ixtepeji			#Santa Catarina Ixtepeji
+Juquila				#Santa Catarina Juquila
+Lachatao			#Santa Catarina Lachatao
+Loxicha				#Santa Catarina Loxicha
+Mechoacán			#Santa Catarina Mechoacán
+Minas				#Santa Catarina Minas
+Quiané				#Santa Catarina Quiané
+Tayata				#Santa Catarina Tayata
+Ticuá				#Santa Catarina Ticuá
+Yosonotú			#Santa Catarina Yosonotú
+Zapoquila			#Santa Catarina Zapoquila
+Acatepec			#Santa Cruz Acatepec
+Amilpas				#Santa Cruz Amilpas
+Bravo				#Santa Cruz de Bravo
+Itundujia			#Santa Cruz Itundujia
+Mixtepec			#Santa Cruz Mixtepec
+Nundaco				#Santa Cruz Nundaco
+Papalutla			#Santa Cruz Papalutla
+Tacache				#Santa Cruz Tacache de Mina
+Tacahua				#Santa Cruz Tacahua
+Tayata				#Santa Cruz Tayata
+Xitla				#Santa Cruz Xitla
+Xoxocotlán			#Santa Cruz Xoxocotlán
+Zenzontepec			#Santa Cruz Zenzontepec
+Gertrudis			#Santa Gertrudis
+Inés				#Santa Inés del Monte
+Yatzeche			#Santa Inés Yatzeche
+Lucía				#Santa Lucía del Camino
+Camino				#Santa Lucía del Camino
+Miahuatlán			#Santa Lucía Miahuatlán
+Monteverde			#Santa Lucía Monteverde
+Ocotlán				#Santa Lucía Ocotlán
+Alotepec			#Santa María Alotepec
+Apazco				#Santa María Apazco
+Asunción			#Santa María la Asunción
+Tlaxiaco			#Heroica Ciudad de Tlaxiaco
+Ayoquezco			#Ayoquezco de Aldama
+Aldama				#Ayoquezco de Aldama
+Atzompa				#Santa María Atzompa
+Camotlán			#Santa María Camotlán
+Colotepec			#Santa María Colotepec
+Cortijo				#Santa María Cortijo
+Coyotepec			#Santa María Coyotepec
+Chachoápam			#Santa María Chachoápam
+Chilapa				#Villa de Chilapa de Díaz
+Chilchotla			#Santa María Chilchotla
+Chimalapa			#Santa María Chimalapa
+Rosario				#Santa María del Rosario
+Tule				#Santa María del Tule
+Ecatepec			#Santa María Ecatepec
+Guelacé				#Santa María Guelacé
+Guienagati			#Santa María Guienagati
+Huatulco			#Santa María Huatulco
+Huazolotitlán			#Santa María Huazolotitlán
+Ipalapa				#Santa María Ipalapa
+Ixcatlán			#Santa María Ixcatlán
+Jacatepec			#Santa María Jacatepec
+Marqués				#Santa María Jalapa del Marqués
+Jaltianguis			#Santa María Jaltianguis
+Lachixío			#Santa María Lachixío
+Mixtequilla			#Santa María Mixtequilla
+Nativitas			#Santa María Nativitas
+Nduayaco			#Santa María Nduayaco
+Ozolotepec			#Santa María Ozolotepec
+Pápalo				#Santa María Pápalo
+Peñoles				#Santa María Peñoles
+Petapa				#Santa María Petapa
+Quiegolani			#Santa María Quiegolani
+Sola				#Santa María Sola
+Tataltepec			#Santa María Tataltepec
+Tecomavaca			#Santa María Tecomavaca
+Temaxcalapa			#Santa María Temaxcalapa
+Temaxcaltepec			#Santa María Temaxcaltepec
+Teopoxco			#Santa María Teopoxco
+Tepantlali			#Santa María Tepantlali
+Texcatitlán			#Santa María Texcatitlán
+Tlahuitoltepec			#Santa María Tlahuitoltepec
+Tlalixtac			#Santa María Tlalixtac
+Tonameca			#Santa María Tonameca
+Totolapilla			#Santa María Totolapilla
+Xadani				#Santa María Xadani
+Yalina				#Santa María Yalina
+Yavesía				#Santa María Yavesía
+Yolotepec			#Santa María Yolotepec
+Yosoyúa				#Santa María Yosoyúa
+Yucuhiti			#Santa María Yucuhiti
+Zacatepec			#Santa María Zacatepec
+Zaniza				#Santa María Zaniza
+Zoquitlán			#Santa María Zoquitlán
+Amoltepec			#Santiago Amoltepec
+Apoala				#Santiago Apoala
+Apóstol				#Santiago Apóstol
+Astata				#Santiago Astata
+Atitlán				#Santiago Atitlán
+Ayuquililla			#Santiago Ayuquililla
+Cacaloxtepec			#Santiago Cacaloxtepec
+Camotlán			#Santiago Camotlán
+Comaltepec			#Santiago Comaltepec
+Chazumba			#Santiago Chazumba
+Choápam				#Santiago Choápam
+Río				#Santiago del Río
+Huajolotitlán			#Santiago Huajolotitlán
+Huauclilla			#Santiago Huauclilla
+Ihuitlán			#Santiago Ihuitlán Plumas
+Plumas				#Santiago Ihuitlán Plumas
+Ixcuintepec			#Santiago Ixcuintepec
+Ixtayutla			#Santiago Ixtayutla
+Jamiltepec			#Santiago Jamiltepec
+Jocotepec			#Santiago Jocotepec
+Juxtlahuaca			#Santiago Juxtlahuaca
+Lachiguiri			#Santiago Lachiguiri
+Lalopa				#Santiago Lalopa
+Laollaga			#Santiago Laollaga
+Laxopa				#Santiago Laxopa
+Llano				#Santiago Llano Grande
+Matatlán			#Santiago Matatlán
+Miltepec			#Santiago Miltepec
+Minas				#Santiago Minas
+Nacaltepec			#Santiago Nacaltepec
+Nejapilla			#Santiago Nejapilla
+Nundiche			#Santiago Nundiche
+Nuyoó				#Santiago Nuyoó
+Pinotepa			#Santiago Pinotepa Nacional
+Suchilquitongo			#Santiago Suchilquitongo
+Tamazola			#Santiago Tamazola
+Tapextla			#Santiago Tapextla
+Tejúpam				#Villa Tejúpam de la Unión
+Tenango				#Santiago Tenango
+Tepetlapa			#Santiago Tepetlapa
+Tetepec				#Santiago Tetepec
+Texcalcingo			#Santiago Texcalcingo
+Textitlán			#Santiago Textitlán
+Tilantongo			#Santiago Tilantongo
+Tillo				#Santiago Tillo
+Tlazoyaltepec			#Santiago Tlazoyaltepec
+Xanica				#Santiago Xanica
+Xiacuí				#Santiago Xiacuí
+Yaitepec			#Santiago Yaitepec
+Yaveo				#Santiago Yaveo
+Yolomécatl			#Santiago Yolomécatl
+Yosondúa			#Santiago Yosondúa
+Yucuyachi			#Santiago Yucuyachi
+Zacatepec			#Santiago Zacatepec
+Zoochila			#Santiago Zoochila
+Zoquiápam			#Nuevo Zoquiápam
+Ingenio				#Santo Domingo Ingenio
+Albarradas			#Santo Domingo Albarradas
+Armenta				#Santo Domingo Armenta
+Chihuitán			#Santo Domingo Chihuitán
+Morelos				#Santo Domingo de Morelos
+Ixcatlán			#Santo Domingo Ixcatlán
+Nuxaá				#Santo Domingo Nuxaá
+Ozolotepec			#Santo Domingo Ozolotepec
+Petapa				#Santo Domingo Petapa
+Roayaga				#Santo Domingo Roayaga
+Tehuantepec			#Santo Domingo Tehuantepec
+Teojomulco			#Santo Domingo Teojomulco
+Tepuxtepec			#Santo Domingo Tepuxtepec
+Tlatayápam			#Santo Domingo Tlatayápam
+Tomaltepec			#Santo Domingo Tomaltepec
+Tonalá				#Santo Domingo Tonalá
+Tonaltepec			#Santo Domingo Tonaltepec
+Xagacía				#Santo Domingo Xagacía
+Yanhuitlán			#Santo Domingo Yanhuitlán
+Yodohino			#Santo Domingo Yodohino
+Zanatepec			#Santo Domingo Zanatepec
+Santos				#Santos Reyes Nopala
+Nopala				#Santos Reyes Nopala
+Pápalo				#Santos Reyes Pápalo
+Tepejillo			#Santos Reyes Tepejillo
+Yucuná				#Santos Reyes Yucuná
+Jalieza				#Santo Tomás Jalieza
+Mazaltepec			#Santo Tomás Mazaltepec
+Ocotepec			#Santo Tomás Ocotepec
+Tamazulapan			#Santo Tomás Tamazulapan
+Coatlán				#San Vicente Coatlán
+Lachixío			#San Vicente Lachixío
+Nuñú				#San Vicente Nuñú
+Silacayoápam			#Silacayoápam
+Sitio				#Sitio de Xitlapehua
+Xitlapehua			#Xitlapehua
+Etla				#Soledad Etla
+Tamazulápam			#Villa de Tamazulápam del Progreso
+Tanetze				#Tanetze de Zaragoza
+Taniche				#Taniche
+Tataltepec			#Tataltepec de Valdés
+Valdés				#Tataltepec de Valdés
+Teococuilco			#Teococuilco de Marcos Pérez
+Pérez				#Teococuilco de Marcos Pérez
+Teotitlán			#Teotitlán de Flores Magón
+Teotitlán			#Teotitlán del Valle
+Teotongo			#Teotongo
+Tepelmeme			#Tepelmeme Villa de Morelos
+Tezoatlán			#Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca
+Segura				#Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca
+Luna				#Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca
+Tlacochahuaya			#San Jerónimo Tlacochahuaya
+Tlacolula			#Tlacolula de Matamoros
+Tlacotepec			#Tlacotepec Plumas
+Tlalixtac			#Tlalixtac de Cabrera
+Cabrera				#Tlalixtac de Cabrera
+Totontepec			#Totontepec Villa de Morelos
+Trinidad			#Trinidad Zaachila
+Zaachila			#Trinidad Zaachila
+Hermosa				#La Trinidad Vista Hermosa
+Unión				#Unión Hidalgo
+Valerio				#Valerio Trujano
+Nacional			#San Juan Bautista Valle Nacional
+Ordaz				#Villa Díaz Ordaz
+Yaxe				#Yaxe
+Yodocono			#Magdalena Yodocono de Porfirio Díaz
+Yogana				#Yogana
+Yutanduchi			#Yutanduchi de Guerrero
+Zaachila			#Villa de Zaachila
+Yucutindoo			#San Mateo Yucutindoo
+Zapotitlán			#Zapotitlán Lagunas
+Palmas				#Zapotitlán Palmas
+Inés				#Santa Inés de Zaragoza
+Zimatlán			#Zimatlán de Álvarez
+
+#
+# [21] Puebla
+#
+
+Acajete				#Acajete
+Acateno				#Acateno
+Acatlán				#Acatlán
+Acatzingo			#Acatzingo
+Acteopan			#Acteopan
+Ahuacatlán			#Ahuacatlán
+Ahuatlán			#Ahuatlán
+Ahuazotepec			#Ahuazotepec
+Ahuehuetitla			#Ahuehuetitla
+Ajalpan				#Ajalpan
+Zertuche			#Albino Zertuche
+Aljojuca			#Aljojuca
+Altepexi			#Altepexi
+Amixtlán			#Amixtlán
+Amozoc				#Amozoc
+Aquixtla			#Aquixtla
+Atempan				#Atempan
+Atexcal				#Atexcal
+Atlixco				#Atlixco
+Atoyatempan			#Atoyatempan
+Atzala				#Atzala
+Atzitzihuacán			#Atzitzihuacán
+Atzitzintla			#Atzitzintla
+Axutla				#Axutla
+Ayotoxco			#Ayotoxco de Guerrero
+Calpan				#Calpan
+Caltepec			#Caltepec
+Camocuautla			#Camocuautla
+Caxhuacan			#Caxhuacan
+Coatepec			#Coatepec
+Coatzingo			#Coatzingo
+Cohetzala			#Cohetzala
+Cohuecan			#Cohuecan
+Coronango			#Coronango
+Coxcatlán			#Coxcatlán
+Coyomeapan			#Coyomeapan
+Coyotepec			#Coyotepec
+Cuapiaxtla			#Cuapiaxtla de Madero
+Cuautempan			#Cuautempan
+Cuautinchán			#Cuautinchán
+Cuautlancingo			#Cuautlancingo
+Cuayuca				#Cuayuca de Andrade
+Andrade				#Cuayuca de Andrade
+Cuetzalan			#Cuetzalan del Progreso
+Cuyoaco				#Cuyoaco
+Chalchicomula			#Chalchicomula de Sesma
+Sesma				#Chalchicomula de Sesma
+Chapulco			#Chapulco
+Chiautla			#Chiautla
+Chiautzingo			#Chiautzingo
+Chiconcuautla			#Chiconcuautla
+Chichiquila			#Chichiquila
+Chietla				#Chietla
+Chigmecatitlán			#Chigmecatitlán
+Chignahuapan			#Chignahuapan
+Chignautla			#Chignautla
+Chila				#Chila
+Sal				#Chila de la Sal
+Honey				#Honey
+Chilchotla			#Chilchotla
+Chinantla			#Chinantla
+Arenas				#Domingo Arenas
+Eloxochitlán			#Eloxochitlán
+Epatlán				#Epatlán
+Esperanza			#Esperanza
+Mena				#Francisco Z. Mena
+Ángeles				#General Felipe Ángeles
+Guadalupe			#Guadalupe
+Victoria			#Guadalupe Victoria
+Hermenegildo			#Hermenegildo Galeana
+Huaquechula			#Huaquechula
+Huatlatlauca			#Huatlatlauca
+Huauchinango			#Huauchinango
+Huehuetla			#Huehuetla
+Huehuetlán			#Huehuetlán el Chico
+Huejotzingo			#Huejotzingo
+Hueyapan			#Hueyapan
+Hueytamalco			#Hueytamalco
+Hueytlalpan			#Hueytlalpan
+Huitzilan			#Huitzilan de Serdán
+Huitziltepec			#Huitziltepec
+Atlequizayan			#Atlequizayan
+Ixcamilpa			#Ixcamilpa de Guerrero
+Ixcaquixtla			#Ixcaquixtla
+Ixtacamaxtitlán			#Ixtacamaxtitlán
+Ixtepec				#Ixtepec
+Izúcar				#Izúcar de Matamoros
+Jalpan				#Jalpan
+Jolalpan			#Jolalpan
+Jonotla				#Jonotla
+Jopala				#Jopala
+Bonilla				#Juan C. Bonilla
+Galindo				#Juan Galindo
+Méndez				#Juan N. Méndez
+Lafragua			#Lafragua
+Libres				#Libres
+Tlatlauquitepec			#La Magdalena Tlatlauquitepec
+Mazapiltepec			#Mazapiltepec de Juárez
+Mixtla				#Mixtla
+Molcaxac			#Molcaxac
+Cañada				#Cañada Morelos
+Naupan				#Naupan
+Nauzontla			#Nauzontla
+Nealtican			#Nealtican
+Bravo				#Nicolás Bravo
+Nopalucan			#Nopalucan
+Ocotepec			#Ocotepec
+Ocoyucan			#Ocoyucan
+Olintla				#Olintla
+Oriental			#Oriental
+Pahuatlán			#Pahuatlán
+Palmar				#Palmar de Bravo
+Pantepec			#Pantepec
+Petlalcingo			#Petlalcingo
+Piaxtla				#Piaxtla
+Puebla				#Puebla
+Quecholac			#Quecholac
+Quimixtlán			#Quimixtlán
+Rafael				#Rafael Lara Grajales
+Lara				#Rafael Lara Grajales
+Grajales			#Rafael Lara Grajales
+Reyes				#Los Reyes de Juárez
+Cholula				#San Andrés Cholula
+Cañada				#San Antonio Cañada
+Mesa				#San Diego la Mesa Tochimiltzingo
+Tochimiltzingo			#San Diego la Mesa Tochimiltzingo
+Teotlalcingo			#San Felipe Teotlalcingo
+Tepatlán			#San Felipe Tepatlán
+Chilac				#San Gabriel Chilac
+Gregorio			#San Gregorio Atzompa
+Atzompa				#San Gregorio Atzompa
+Tecuanipan			#San Jerónimo Tecuanipan
+Xayacatlán			#San Jerónimo Xayacatlán
+Chiapa				#San José Chiapa
+Miahuatlán			#San José Miahuatlán
+Atenco				#San Juan Atenco
+Atzompa				#San Juan Atzompa
+Texmelucan			#San Martín Texmelucan
+Totoltepec			#San Martín Totoltepec
+Tlalancaleca			#San Matías Tlalancaleca
+Ixitlán				#San Miguel Ixitlán
+Xoxtla				#San Miguel Xoxtla
+Aires				#San Nicolás Buenos Aires
+Ranchos				#San Nicolás de los Ranchos
+Anicano				#San Pablo Anicano
+Cholula				#San Pedro Cholula
+Yeloixtlahuaca			#San Pedro Yeloixtlahuaca
+Seco				#San Salvador el Seco
+Verde				#San Salvador el Verde
+Huixcolotla			#San Salvador Huixcolotla
+Tlacotepec			#San Sebastián Tlacotepec
+Tlaltempan			#Santa Catarina Tlaltempan
+Ahuatempan			#Santa Inés Ahuatempan
+Cholula				#Santa Isabel Cholula
+Miahuatlán			#Santiago Miahuatlán
+Huehuetlán			#Huehuetlán el Grande
+Hueyotlipan			#Santo Tomás Hueyotlipan
+Soltepec			#Soltepec
+Tecali				#Tecali de Herrera
+Tecamachalco			#Tecamachalco
+Tecomatlán			#Tecomatlán
+Tehuacán			#Tehuacán
+Tehuitzingo			#Tehuitzingo
+Tenampulco			#Tenampulco
+Teopantlán			#Teopantlán
+Teotlalco			#Teotlalco
+Tepanco				#Tepanco de López
+Tepango				#Tepango de Rodríguez
+Rodríguez			#Tepango de Rodríguez
+Tepatlaxco			#Tepatlaxco de Hidalgo
+Tepeaca				#Tepeaca
+Tepemaxalco			#Tepemaxalco
+Tepeojuma			#Tepeojuma
+Tepetzintla			#Tepetzintla
+Tepexco				#Tepexco
+Tepexi				#Tepexi de Rodríguez
+Tepeyahualco			#Tepeyahualco
+Cuauhtémoc			#Tepeyahualco de Cuauhtémoc
+Tetela				#Tetela de Ocampo
+Teteles				#Teteles de Avila Castillo
+Avila				#Teteles de Avila Castillo
+Teziutlán			#Teziutlán
+Tianguismanalco			#Tianguismanalco
+Tilapa				#Tilapa
+Tlacotepec			#Tlacotepec de Benito Juárez
+Tlacuilotepec			#Tlacuilotepec
+Tlachichuca			#Tlachichuca
+Tlahuapan			#Tlahuapan
+Tlaltenango			#Tlaltenango
+Tlanepantla			#Tlanepantla
+Tlaola				#Tlaola
+Tlapacoya			#Tlapacoya
+Tlapanalá			#Tlapanalá
+Tlatlauquitepec			#Tlatlauquitepec
+Tlaxco				#Tlaxco
+Tochimilco			#Tochimilco
+Tochtepec			#Tochtepec
+Totoltepec			#Totoltepec de Guerrero
+Tulcingo			#Tulcingo
+Tuzamapan			#Tuzamapan de Galeana
+Tzicatlacoyan			#Tzicatlacoyan
+Carranza			#Venustiano Carranza
+Guerrero			#Vicente Guerrero
+Xayacatlán			#Xayacatlán de Bravo
+Xicotepec			#Xicotepec
+Xicotlán			#Xicotlán
+Xiutetelco			#Xiutetelco
+Xochiapulco			#Xochiapulco
+Xochiltepec			#Xochiltepec
+Xochitlán			#Xochitlán de Vicente Suárez
+Suárez				#Xochitlán de Vicente Suárez
+Xochitlán			#Xochitlán Todos Santos
+Todos				#Xochitlán Todos Santos
+Yaonáhuac			#Yaonáhuac
+Yehualtepec			#Yehualtepec
+Zacapala			#Zacapala
+Zacapoaxtla			#Zacapoaxtla
+Zacatlán			#Zacatlán
+Zapotitlán			#Zapotitlán
+Méndez				#Zapotitlán de Méndez
+Zaragoza			#Zaragoza
+Zautla				#Zautla
+Zihuateutla			#Zihuateutla
+Zinacatepec			#Zinacatepec
+Zongozotla			#Zongozotla
+Zoquiapan			#Zoquiapan
+Zoquitlán			#Zoquitlán
+
+#
+# [22] Querétaro
+#
+
+Amealco				#Amealco de Bonfil
+Bonfil				#Amealco de Bonfil
+Pinal				#Pinal de Amoles
+Amoles				#Pinal de Amoles
+Seco				#Arroyo Seco
+Cadereyta			#Cadereyta de Montes
+Colón				#Colón
+Corregidora			#Corregidora
+Ezequiel			#Ezequiel Montes
+Huimilpan			#Huimilpan
+Jalpan				#Jalpan de Serra
+Serra				#Jalpan de Serra
+Landa				#Landa de Matamoros
+Marqués				#El Marqués
+Escobedo			#Pedro Escobedo
+Peñamiller			#Peñamiller
+Querétaro			#Querétaro
+Joaquín				#San Joaquín
+Juan				#San Juan del Río
+Tequisquiapan			#Tequisquiapan
+Tolimán				#Tolimán
+
+#
+# [23] Quintana Roo
+#
+
+Cozumel				#Cozumel
+Carrillo			#Felipe Carrillo Puerto
+Mujeres				#Isla Mujeres
+Othón				#Othón P. Blanco
+Juárez				#Benito Juárez
+José				#José María Morelos
+Cárdenas			#Lázaro Cárdenas
+Solidaridad			#Solidaridad
+Tulum				#Tulum
+Bacalar				#Bacalar
+Puerto				#Puerto Morelos
+
+#
+# [24] San Luis Potosí
+#
+
+Ahualulco			#Ahualulco
+Alaquines			#Alaquines
+Aquismón			#Aquismón
+Armadillo			#Armadillo de los Infante
+Infante				#Armadillo de los Infante
+Cárdenas			#Cárdenas
+Catorce				#Catorce
+Cedral				#Cedral
+Cerritos			#Cerritos
+Cerro				#Cerro de San Pedro
+Maíz				#Ciudad del Maíz
+Fernández			#Ciudad Fernández
+Tancanhuitz			#Tancanhuitz
+Valles				#Ciudad Valles
+Coxcatlán			#Coxcatlán
+Charcas				#Charcas
+Ebano				#Ebano
+Guadalcázar			#Guadalcázar
+Huehuetlán			#Huehuetlán
+Lagunillas			#Lagunillas
+Matehuala			#Matehuala
+Mexquitic			#Mexquitic de Carmona
+Carmona				#Mexquitic de Carmona
+Moctezuma			#Moctezuma
+Rayón				#Rayón
+Rioverde			#Rioverde
+Salinas				#Salinas
+Antonio				#San Antonio
+Ciro				#San Ciro de Acosta
+Acosta				#San Ciro de Acosta
+Potosí				#San Luis Potosí
+Chalchicuautla			#San Martín Chalchicuautla
+Tolentino			#San Nicolás Tolentino
+Catarina			#Santa Catarina
+Río				#Santa María del Río
+Domingo				#Santo Domingo
+Tancuayalab			#San Vicente Tancuayalab
+Graciano			#Soledad de Graciano Sánchez
+Sánchez				#Soledad de Graciano Sánchez
+Tamasopo			#Tamasopo
+Tamazunchale			#Tamazunchale
+Tampacán			#Tampacán
+Tampamolón			#Tampamolón Corona
+Tamuín				#Tamuín
+Tanlajás			#Tanlajás
+Tanquián			#Tanquián de Escobedo
+Tierra				#Tierra Nueva
+Vanegas				#Vanegas
+Venado				#Venado
+Arriaga				#Villa de Arriaga
+Guadalupe			#Villa de Guadalupe
+Paz				#Villa de la Paz
+Ramos				#Villa de Ramos
+Reyes				#Villa de Reyes
+Hidalgo				#Villa Hidalgo
+Juárez				#Villa Juárez
+Axtla				#Axtla de Terrazas
+Terrazas			#Axtla de Terrazas
+Xilitla				#Xilitla
+Zaragoza			#Zaragoza
+Arista				#Villa de Arista
+Matlapa				#Matlapa
+Naranjo				#El Naranjo
+
+#
+# [25] Sinaloa
+#
+
+Ahome				#Ahome
+Angostura			#Angostura
+Badiraguato			#Badiraguato
+Concordia			#Concordia
+Cosalá				#Cosalá
+Culiacán			#Culiacán
+Choix				#Choix
+Elota				#Elota
+Escuinapa			#Escuinapa
+Fuerte				#El Fuerte
+Guasave				#Guasave
+Mazatlán			#Mazatlán
+Mocorito			#Mocorito
+Rosario				#Rosario
+Alvarado			#Salvador Alvarado
+Ignacio				#San Ignacio
+Sinaloa				#Sinaloa
+Navolato			#Navolato
+
+#
+# [26] Sonora
+#
+
+Aconchi				#Aconchi
+Prieta				#Agua Prieta
+Alamos				#Alamos
+Altar				#Altar
+Arivechi			#Arivechi
+Arizpe				#Arizpe
+Atil				#Atil
+Bacadéhuachi			#Bacadéhuachi
+Bacanora			#Bacanora
+Bacerac				#Bacerac
+Bacoachi			#Bacoachi
+Bácum				#Bácum
+Banámichi			#Banámichi
+Baviácora			#Baviácora
+Bavispe				#Bavispe
+Benjamín			#Benjamín Hill
+Hill				#Benjamín Hill
+Caborca				#Caborca
+Cajeme				#Cajeme
+Cananea				#Cananea
+Carbó				#Carbó
+Colorada			#La Colorada
+Cucurpe				#Cucurpe
+Cumpas				#Cumpas
+Divisaderos			#Divisaderos
+Empalme				#Empalme
+Etchojoa			#Etchojoa
+Fronteras			#Fronteras
+Granados			#Granados
+Guaymas				#Guaymas
+Hermosillo			#Hermosillo
+Huachinera			#Huachinera
+Huásabas			#Huásabas
+Huatabampo			#Huatabampo
+Huépac				#Huépac
+Imuris				#Imuris
+Magdalena			#Magdalena
+Mazatán				#Mazatán
+Moctezuma			#Moctezuma
+Naco				#Naco
+Nácori				#Nácori Chico
+Nacozari			#Nacozari de García
+Navojoa				#Navojoa
+Nogales				#Nogales
+Onavas				#Onavas
+Opodepe				#Opodepe
+Oquitoa				#Oquitoa
+Pitiquito			#Pitiquito
+Peñasco				#Puerto Peñasco
+Quiriego			#Quiriego
+Rayón				#Rayón
+Rosario				#Rosario
+Sahuaripa			#Sahuaripa
+Jesús				#San Felipe de Jesús
+Javier				#San Javier
+Colorado			#San Luis Río Colorado
+Horcasitas			#San Miguel de Horcasitas
+Cueva				#San Pedro de la Cueva
+Ana				#Santa Ana
+Cruz				#Santa Cruz
+Sáric				#Sáric
+Soyopa				#Soyopa
+Suaqui				#Suaqui Grande
+Tepache				#Tepache
+Trincheras			#Trincheras
+Tubutama			#Tubutama
+Ures				#Ures
+Hidalgo				#Villa Hidalgo
+Pesqueira			#Villa Pesqueira
+Yécora				#Yécora
+Plutarco			#General Plutarco Elías Calles
+Elías				#General Plutarco Elías Calles
+Calles				#General Plutarco Elías Calles
+Juárez				#Benito Juárez
+Muerto				#San Ignacio Río Muerto
+
+#
+# [27] Tabasco
+#
+
+Balancán			#Balancán
+Cárdenas			#Cárdenas
+Centla				#Centla
+Centro				#Centro
+Comalcalco			#Comalcalco
+Cunduacán			#Cunduacán
+Emiliano			#Emiliano Zapata
+Huimanguillo			#Huimanguillo
+Jalapa				#Jalapa
+Jalpa				#Jalpa de Méndez
+Jonuta				#Jonuta
+Macuspana			#Macuspana
+Nacajuca			#Nacajuca
+Paraíso				#Paraíso
+Tacotalpa			#Tacotalpa
+Teapa				#Teapa
+Tenosique			#Tenosique
+
+#
+# [28] Tamaulipas
+#
+
+Abasolo				#Abasolo
+Aldama				#Aldama
+Altamira			#Altamira
+Antiguo				#Antiguo Morelos
+Burgos				#Burgos
+Bustamante			#Bustamante
+Camargo				#Camargo
+Casas				#Casas
+Madero				#Ciudad Madero
+Cruillas			#Cruillas
+Farías				#Gómez Farías
+González			#González
+Güémez				#Güémez
+Guerrero			#Guerrero
+Ordaz				#Gustavo Díaz Ordaz
+Hidalgo				#Hidalgo
+Jaumave				#Jaumave
+Jiménez				#Jiménez
+Llera				#Llera
+Mainero				#Mainero
+Mante				#El Mante
+Matamoros			#Matamoros
+Méndez				#Méndez
+Mier				#Mier
+Alemán				#Miguel Alemán
+Miquihuana			#Miquihuana
+Laredo				#Nuevo Laredo
+Morelos				#Nuevo Morelos
+Ocampo				#Ocampo
+Padilla				#Padilla
+Palmillas			#Palmillas
+Reynosa				#Reynosa
+Bravo				#Río Bravo
+Carlos				#San Carlos
+Fernando			#San Fernando
+Nicolás				#San Nicolás
+Marina				#Soto la Marina
+Tampico				#Tampico
+Tula				#Tula
+Hermoso				#Valle Hermoso
+Victoria			#Victoria
+Villagrán			#Villagrán
+Xicoténcatl			#Xicoténcatl
+
+#
+# [29] Tlaxcala
+#
+
+Amaxac				#Amaxac de Guerrero
+Apetatitlán			#Apetatitlán de Antonio Carvajal
+Carvajal			#Apetatitlán de Antonio Carvajal
+Atlangatepec			#Atlangatepec
+Atltzayanca			#Atltzayanca
+Apizaco				#Apizaco
+Calpulalpan			#Calpulalpan
+Tequexquitla			#El Carmen Tequexquitla
+Cuapiaxtla			#Cuapiaxtla
+Cuaxomulco			#Cuaxomulco
+Chiautempan			#Chiautempan
+Muñoz				#Muñoz de Domingo Arenas
+Españita			#Españita
+Huamantla			#Huamantla
+Hueyotlipan			#Hueyotlipan
+Ixtacuixtla			#Ixtacuixtla de Mariano Matamoros
+Mariano				#Ixtacuixtla de Mariano Matamoros
+Ixtenco				#Ixtenco
+Mazatecochco			#Mazatecochco José María Morelos
+Contla				#Contla de Juan Cuamatzi
+Cuamatzi			#Contla de Juan Cuamatzi
+Tepetitla			#Tepetitla de Lardizábal
+Lardizábal			#Tepetitla de Lardizábal
+Sanctórum			#Sanctórum de Lázaro Cárdenas
+Nanacamilpa			#Nanacamilpa de Mariano Arista
+Acuamanala			#Acuamanala de Miguel Hidalgo
+Natívitas			#Natívitas
+Panotla				#Panotla
+Monte				#San Pablo del Monte
+Tlaxcala			#Santa Cruz Tlaxcala
+Tenancingo			#Tenancingo
+Teolocholco			#Teolocholco
+Tepeyanco			#Tepeyanco
+Terrenate			#Terrenate
+Tetla				#Tetla de la Solidaridad
+Tetlatlahuca			#Tetlatlahuca
+Xicohténcatl			#Tlaxcala [de Xicohténcatl]
+Tlaxco				#Tlaxco
+Tocatlán			#Tocatlán
+Totolac				#Totolac
+Ziltlaltépec			#Ziltlaltépec de Trinidad Sánchez Santos
+Tzompantepec			#Tzompantepec
+Xaloztoc			#Xaloztoc
+Xaltocan			#Xaltocan
+Papalotla			#Papalotla de Xicohténcatl
+Xicohtzinco			#Xicohtzinco
+Yauhquemehcan			#Yauhquemehcan
+Zacatelco			#Zacatelco
+Juárez				#Benito Juárez
+Zapata				#Emiliano Zapata
+Cárdenas			#Lázaro Cárdenas
+Tlaltelulco			#La Magdalena Tlaltelulco
+Damián				#San Damián Texóloc
+Texóloc				#San Damián Texóloc
+Tetlanohcan			#San Francisco Tetlanohcan
+Zacualpan			#San Jerónimo Zacualpan
+Teacalco			#San José Teacalco
+Huactzinco			#San Juan Huactzinco
+Axocomanitla			#San Lorenzo Axocomanitla
+Tecopilco			#San Lucas Tecopilco
+Nopalucan			#Santa Ana Nopalucan
+Apolonia			#Santa Apolonia Teacalco
+Teacalco			#Santa Apolonia Teacalco
+Ayometla			#Santa Catarina Ayometla
+Quilehtla			#Santa Cruz Quilehtla
+Xiloxoxtla			#Santa Isabel Xiloxoxtla
+
+#
+# [30] Veracruz de Ignacio de la Llave
+#
+
+Acajete				#Acajete
+Acatlán				#Acatlán
+Acayucan			#Acayucan
+Actopan				#Actopan
+Acula				#Acula
+Acultzingo			#Acultzingo
+Camarón				#Camarón de Tejeda
+Tejeda				#Camarón de Tejeda
+Alpatláhuac			#Alpatláhuac
+Lucero				#Alto Lucero de Gutiérrez Barrios
+Barrios				#Alto Lucero de Gutiérrez Barrios
+Altotonga			#Altotonga
+Alvarado			#Alvarado
+Amatitlán			#Amatitlán
+Naranjos			#Naranjos Amatlán
+Reyes				#Amatlán de los Reyes
+Cabada				#Angel R. Cabada
+Antigua				#La Antigua
+Apazapan			#Apazapan
+Aquila				#Aquila
+Astacinga			#Astacinga
+Atlahuilco			#Atlahuilco
+Atoyac				#Atoyac
+Atzacan				#Atzacan
+Atzalan				#Atzalan
+Tlaltetela			#Tlaltetela
+Ayahualulco			#Ayahualulco
+Banderilla			#Banderilla
+Juárez				#Benito Juárez
+Río				#Boca del Río
+Calcahualco			#Calcahualco
+Camerino			#Camerino Z. Mendoza
+Mendoza				#Camerino Z. Mendoza
+Carrillo			#Carrillo Puerto
+Catemaco			#Catemaco
+Cazones				#Cazones de Herrera
+Azul				#Cerro Azul
+Citlaltépetl			#Citlaltépetl
+Coacoatzintla			#Coacoatzintla
+Coahuitlán			#Coahuitlán
+Coatepec			#Coatepec
+Coatzacoalcos			#Coatzacoalcos
+Coatzintla			#Coatzintla
+Coetzala			#Coetzala
+Colipa				#Colipa
+Comapa				#Comapa
+Córdoba				#Córdoba
+Cosamaloapan			#Cosamaloapan de Carpio
+Carpio				#Cosamaloapan de Carpio
+Cosautlán			#Cosautlán de Carvajal
+Coscomatepec			#Coscomatepec
+Cosoleacaque			#Cosoleacaque
+Cotaxtla			#Cotaxtla
+Coxquihui			#Coxquihui
+Coyutla				#Coyutla
+Cuichapa			#Cuichapa
+Cuitláhuac			#Cuitláhuac
+Chacaltianguis			#Chacaltianguis
+Chalma				#Chalma
+Chiconamel			#Chiconamel
+Chiconquiaco			#Chiconquiaco
+Chicontepec			#Chicontepec
+Chinameca			#Chinameca
+Chinampa			#Chinampa de Gorostiza
+Gorostiza			#Chinampa de Gorostiza
+Choapas				#Las Choapas
+Chocamán			#Chocamán
+Chontla				#Chontla
+Chumatlán			#Chumatlán
+Zapata				#Emiliano Zapata
+Espinal				#Espinal
+Filomeno			#Filomeno Mata
+Mata				#Filomeno Mata
+Fortín				#Fortín
+Zamora				#Gutiérrez Zamora
+Hidalgotitlán			#Hidalgotitlán
+Huatusco			#Huatusco
+Huayacocotla			#Huayacocotla
+Hueyapan			#Hueyapan de Ocampo
+Huiloapan			#Huiloapan de Cuauhtémoc
+Llave				#Ignacio de la Llave
+Ilamatlán			#Ilamatlán
+Isla				#Isla
+Ixcatepec			#Ixcatepec
+Ixhuacán			#Ixhuacán de los Reyes
+Ixhuatlán			#Ixhuatlán del Café
+Café				#Ixhuatlán del Café
+Ixhuatlancillo			#Ixhuatlancillo
+Sureste				#Ixhuatlán del Sureste
+Madero				#Ixhuatlán de Madero
+Ixmatlahuacan			#Ixmatlahuacan
+Ixtaczoquitlán			#Ixtaczoquitlán
+Jalacingo			#Jalacingo
+Xalapa				#Xalapa
+Jalcomulco			#Jalcomulco
+Jáltipan			#Jáltipan
+Jamapa				#Jamapa
+Carranza			#Jesús Carranza
+Xico				#Xico
+Jilotepec			#Jilotepec
+Clara				#Juan Rodríguez Clara
+Juchique			#Juchique de Ferrer
+Ferrer				#Juchique de Ferrer
+Landero				#Landero y Coss
+Tejada				#Lerdo de Tejada
+Magdalena			#Magdalena
+Maltrata			#Maltrata
+Manlio				#Manlio Fabio Altamirano
+Fabio				#Manlio Fabio Altamirano
+Escobedo			#Mariano Escobedo
+Martínez			#Martínez de la Torre
+Mecatlán			#Mecatlán
+Mecayapan			#Mecayapan
+Medellín			#Medellín de Bravo
+Miahuatlán			#Miahuatlán
+Minas				#Las Minas
+Minatitlán			#Minatitlán
+Misantla			#Misantla
+Mixtla				#Mixtla de Altamirano
+Moloacán			#Moloacán
+Naolinco			#Naolinco
+Naranjal			#Naranjal
+Nautla				#Nautla
+Nogales				#Nogales
+Oluta				#Oluta
+Omealca				#Omealca
+Orizaba				#Orizaba
+Otatitlán			#Otatitlán
+Oteapan				#Oteapan
+Ozuluama			#Ozuluama de Mascareñas
+Mascareñas			#Ozuluama de Mascareñas
+Pajapan				#Pajapan
+Pánuco				#Pánuco
+Papantla			#Papantla
+Paso				#Paso del Macho
+Macho				#Paso del Macho
+Ovejas				#Paso de Ovejas
+Perla				#La Perla
+Perote				#Perote
+Platón				#Platón Sánchez
+Playa				#Playa Vicente
+Poza				#Poza Rica de Hidalgo
+Rica				#Poza Rica de Hidalgo
+Vigas				#Las Vigas de Ramírez
+Viejo				#Pueblo Viejo
+Nacional			#Puente Nacional
+Delgado				#Rafael Delgado
+Lucio				#Rafael Lucio
+Reyes				#Los Reyes
+Blanco				#Río Blanco
+Saltabarranca			#Saltabarranca
+Tenejapan			#San Andrés Tenejapan
+Tuxtla				#San Andrés Tuxtla
+Evangelista			#San Juan Evangelista
+Santiago			#Santiago Tuxtla
+Sayula				#Sayula de Alemán
+Soconusco			#Soconusco
+Sochiapa			#Sochiapa
+Atzompa				#Soledad Atzompa
+Doblado				#Soledad de Doblado
+Soteapan			#Soteapan
+Tamalín				#Tamalín
+Tamiahua			#Tamiahua
+Tampico				#Tampico Alto
+Tancoco				#Tancoco
+Tantima				#Tantima
+Tantoyuca			#Tantoyuca
+Tatatila			#Tatatila
+Teayo				#Castillo de Teayo
+Tecolutla			#Tecolutla
+Tehuipango			#Tehuipango
+Álamo				#Álamo Temapache
+Temapache			#Álamo Temapache
+Tempoal				#Tempoal
+Tenampa				#Tenampa
+Tenochtitlán			#Tenochtitlán
+Teocelo				#Teocelo
+Tepatlaxco			#Tepatlaxco
+Tepetlán			#Tepetlán
+Tepetzintla			#Tepetzintla
+Tequila				#Tequila
+Azueta				#José Azueta
+Texcatepec			#Texcatepec
+Texhuacán			#Texhuacán
+Texistepec			#Texistepec
+Tezonapa			#Tezonapa
+Tierra				#Tierra Blanca
+Tihuatlán			#Tihuatlán
+Tlacojalpan			#Tlacojalpan
+Tlacolulan			#Tlacolulan
+Tlacotalpan			#Tlacotalpan
+Mejía				#Tlacotepec de Mejía
+Tlachichilco			#Tlachichilco
+Tlalixcoyan			#Tlalixcoyan
+Tlalnelhuayocan			#Tlalnelhuayocan
+Tlapacoyan			#Tlapacoyan
+Tlaquilpa			#Tlaquilpa
+Tlilapan			#Tlilapan
+Tomatlán			#Tomatlán
+Tonayán				#Tonayán
+Totutla				#Totutla
+Tuxpan				#Tuxpan
+Tuxtilla			#Tuxtilla
+Ursulo				#Ursulo Galván
+Galván				#Ursulo Galván
+Alatorre			#Vega de Alatorre
+Veracruz			#Veracruz
+Aldama				#Villa Aldama
+Xoxocotla			#Xoxocotla
+Yanga				#Yanga
+Yecuatla			#Yecuatla
+Zacualpan			#Zacualpan
+Zaragoza			#Zaragoza
+Zentla				#Zentla
+Zongolica			#Zongolica
+Zontecomatlán			#Zontecomatlán de López y Fuentes
+Fuentes				#Zontecomatlán de López y Fuentes
+Zozocolco			#Zozocolco de Hidalgo
+Dulce				#Agua Dulce
+Higo				#El Higo
+Nanchital			#Nanchital de Lázaro Cárdenas del Río
+Tres				#Tres Valles
+Carrillo			#Carlos A. Carrillo
+Tatahuicapan			#Tatahuicapan de Juárez
+Uxpanapa			#Uxpanapa
+Rafael				#San Rafael
+Sochiapan			#Santiago Sochiapan
+
+#
+# [31] Yucatán
+#
+
+Abalá				#Abalá
+Acanceh				#Acanceh
+Akil				#Akil
+Baca				#Baca
+Bokobá				#Bokobá
+Buctzotz			#Buctzotz
+Cacalchén			#Cacalchén
+Calotmul			#Calotmul
+Cansahcab			#Cansahcab
+Cantamayec			#Cantamayec
+Celestún			#Celestún
+Cenotillo			#Cenotillo
+Conkal				#Conkal
+Cuncunul			#Cuncunul
+Cuzamá				#Cuzamá
+Chacsinkín			#Chacsinkín
+Chankom				#Chankom
+Chapab				#Chapab
+Chemax				#Chemax
+Chicxulub			#Chicxulub Pueblo
+Chichimilá			#Chichimilá
+Chikindzonot			#Chikindzonot
+Chocholá			#Chocholá
+Chumayel			#Chumayel
+Dzán				#Dzán
+Dzemul				#Dzemul
+Dzidzantún			#Dzidzantún
+Dzilam				#Dzilam de Bravo
+González			#Dzilam González
+Dzitás				#Dzitás
+Dzoncauich			#Dzoncauich
+Espita				#Espita
+Halachó				#Halachó
+Hocabá				#Hocabá
+Hoctún				#Hoctún
+Homún				#Homún
+Huhí				#Huhí
+Hunucmá				#Hunucmá
+Ixil				#Ixil
+Izamal				#Izamal
+Kanasín				#Kanasín
+Kantunil			#Kantunil
+Kaua				#Kaua
+Kinchil				#Kinchil
+Kopomá				#Kopomá
+Mama				#Mama
+Maní				#Maní
+Maxcanú				#Maxcanú
+Mayapán				#Mayapán
+Mérida				#Mérida
+Mocochá				#Mocochá
+Motul				#Motul
+Muna				#Muna
+Muxupip				#Muxupip
+Opichén				#Opichén
+Oxkutzcab			#Oxkutzcab
+Panabá				#Panabá
+Peto				#Peto
+Progreso			#Progreso
+Quintana			#Quintana Roo
+Roo				#Quintana Roo
+Lagartos			#Río Lagartos
+Sacalum				#Sacalum
+Samahil				#Samahil
+Sanahcat			#Sanahcat
+Felipe				#San Felipe
+Elena				#Santa Elena
+Seyé				#Seyé
+Sinanché			#Sinanché
+Sotuta				#Sotuta
+Sucilá				#Sucilá
+Sudzal				#Sudzal
+Suma				#Suma
+Tahdziú				#Tahdziú
+Tahmek				#Tahmek
+Teabo				#Teabo
+Tecoh				#Tecoh
+Tekal				#Tekal de Venegas
+Venegas				#Tekal de Venegas
+Tekantó				#Tekantó
+Tekax				#Tekax
+Tekit				#Tekit
+Tekom				#Tekom
+Telchac				#Telchac Pueblo
+Puerto				#Telchac Puerto
+Temax				#Temax
+Temozón				#Temozón
+Tepakán				#Tepakán
+Tetiz				#Tetiz
+Teya				#Teya
+Ticul				#Ticul
+Timucuy				#Timucuy
+Tinum				#Tinum
+Tixcacalcupul			#Tixcacalcupul
+Tixkokob			#Tixkokob
+Tixmehuac			#Tixmehuac
+Tixpéhual			#Tixpéhual
+Tizimín				#Tizimín
+Tunkás				#Tunkás
+Tzucacab			#Tzucacab
+Uayma				#Uayma
+Ucú				#Ucú
+Umán				#Umán
+Valladolid			#Valladolid
+Xocchel				#Xocchel
+Yaxcabá				#Yaxcabá
+Yaxkukul			#Yaxkukul
+Yobaín				#Yobaín
+
+#
+# [32] Zacatecas
+#
+
+Apozol				#Apozol
+Apulco				#Apulco
+Atolinga			#Atolinga
+Benito				#Benito Juárez
+Calera				#Calera
+Cañitas				#Cañitas de Felipe Pescador
+Pescador			#Cañitas de Felipe Pescador
+Concepción			#Concepción del Oro
+Cuauhtémoc			#Cuauhtémoc
+Chalchihuites			#Chalchihuites
+Fresnillo			#Fresnillo
+Cadena				#Trinidad García de la Cadena
+Genaro				#Genaro Codina
+Codina				#Genaro Codina
+Enrique				#General Enrique Estrada
+Estrada				#General Enrique Estrada
+Murguía				#General Francisco R. Murguía
+Plateado			#El Plateado de Joaquín Amaro
+Amaro				#El Plateado de Joaquín Amaro
+Pánfilo				#General Pánfilo Natera
+Natera				#General Pánfilo Natera
+Guadalupe			#Guadalupe
+Huanusco			#Huanusco
+Jalpa				#Jalpa
+Jerez				#Jerez
+Teul				#Jiménez del Teul
+Aldama				#Juan Aldama
+Juchipila			#Juchipila
+Loreto				#Loreto
+Moya				#Luis Moya
+Mazapil				#Mazapil
+Melchor				#Melchor Ocampo
+Mezquital			#Mezquital del Oro
+Auza				#Miguel Auza
+Momax				#Momax
+Escobedo			#Monte Escobedo
+Morelos				#Morelos
+Moyahua				#Moyahua de Estrada
+Nochistlán			#Nochistlán de Mejía
+Noria				#Noria de Ángeles
+Ojocaliente			#Ojocaliente
+Pánuco				#Pánuco
+Pinos				#Pinos
+Grande				#Río Grande
+Sain				#Sain Alto
+Salvador			#El Salvador
+Sombrerete			#Sombrerete
+Susticacán			#Susticacán
+Tabasco				#Tabasco
+Tepechitlán			#Tepechitlán
+Tepetongo			#Tepetongo
+Teúl				#Teúl de González Ortega
+Tlaltenango			#Tlaltenango de Sánchez Román
+Román				#Tlaltenango de Sánchez Román
+Valparaíso			#Valparaíso
+Vetagrande			#Vetagrande
+Cos				#Villa de Cos
+García				#Villa García
+Ortega				#Villa González Ortega
+Hidalgo				#Villa Hidalgo
+Villanueva			#Villanueva
+Zacatecas			#Zacatecas
+Trancoso			#Trancoso
+Paz				#Santa María de la Paz
