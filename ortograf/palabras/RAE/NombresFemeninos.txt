@@ -3338,6 +3338,7 @@ diapositiva/S
 diaprea/S
 diarrea/S
 diartrosis
+diáspora/S
 diastasa/S
 diastrofia/S
 diatermia/S
