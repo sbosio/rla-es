@@ -1327,6 +1327,7 @@ artimón/S
 artiodáctilo/S
 artritismo/S
 artrópodo/S
+artroscopio/S
 arúspice/S
 arzobispado/S
 arzobispo/S
@@ -9615,6 +9616,7 @@ periodicucho/S
 periodismo/S
 periodo/S
 período/Sq
+periodonto/S
 periostio/S
 peripato/S
 periplo/S
