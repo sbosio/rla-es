@@ -23,6 +23,8 @@ araguato/GS
 arracacho/GS
 arruinado/GS
 avispón/SG
+bacán/GS
+bacano/GS
 barrial/S
 batato/GS
 bizcorneto/SG
@@ -30,8 +32,10 @@ botado/GS
 cachaco/GS
 cachudo/GS
 canchero/GS
+cansón/GS
 cebado/SG
 chancho/GS
+chandoso/GS
 chapeado/GS
 chapín/GS
 choco/SG
