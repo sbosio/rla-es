@@ -16,6 +16,7 @@
 
 actitudinal/S
 acultural/S
+afrodescendiente/S
 anatomoclínico/GS
 anatomopatológico/GS
 antiautoritario/GS
@@ -102,4 +103,3 @@ yibutense/S
 yibutí/S
 zambés/GS
 zambio/GS
-
