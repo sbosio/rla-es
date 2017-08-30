@@ -6841,6 +6841,7 @@ husmo/S
 huso/SN
 ibérico/S
 iberismo/S
+ibis
 icaco/S
 iceberg/S
 ichal/S

@@ -46,6 +46,7 @@ guatusa/S
 gurbia/S
 huaca/S
 jaba/S
+jamaica
 manila/S
 mantenedora/S
 mantequillera/S

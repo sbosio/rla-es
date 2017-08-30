@@ -60,6 +60,7 @@ hablada/S
 huaca/S
 huesuda/S
 jaba/S
+jamaica
 juana/S
 julia/S
 lastimada/S

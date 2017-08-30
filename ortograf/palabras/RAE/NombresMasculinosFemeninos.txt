@@ -1500,6 +1500,7 @@ receptor/GS
 recetador/GS
 recipiendario/GS
 recluta/S
+reclutador/GS
 recomendado/GS
 recopilador/GS
 recovero/GS

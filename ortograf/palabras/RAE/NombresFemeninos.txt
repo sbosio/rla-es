@@ -5425,7 +5425,6 @@ husada/S
 husera/S
 huta/S
 hutía/S
-ibis
 iconografía/S
 ictericia/S
 ida

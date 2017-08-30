@@ -46,6 +46,7 @@ guaraná/S
 gurbia/S
 huaca/S
 jaba/S
+jamaica
 mantequillera/S
 milpa/S
 natilla/S
