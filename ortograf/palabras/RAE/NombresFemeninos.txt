@@ -5182,6 +5182,7 @@ hepatitis
 heráldica/S
 herbera/S
 herbología/S
+herboristería/S
 heredad/S
 herejía/S
 herencia/fS
@@ -10929,6 +10930,7 @@ yeguada/S
 yegua/S
 yema/S
 yerba/Sh
+yerbabuena/S
 yerbera/S
 yes
 yesca/S

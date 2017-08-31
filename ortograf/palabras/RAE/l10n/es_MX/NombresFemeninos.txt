@@ -57,6 +57,7 @@ guaraná/S
 guatusa/S
 gurbia/S
 hablada/S
+hierbería/S
 huaca/S
 huesuda/S
 jaba/S
@@ -67,6 +68,7 @@ lastimada/S
 mantequillera/S
 mapoteca/S
 mara/S
+marmaja
 mazorquera/S
 membresía/S
 memela/S

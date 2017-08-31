@@ -6681,6 +6681,7 @@ inguinal/S
 inguinario/GS
 inhabitado/SG
 inherente/S
+inhibidor/GS
 inhibitorio/GS
 inhospitable/S
 inhóspito/GS
@@ -10284,6 +10285,7 @@ rastillador/GS
 rastreador/SG
 rastrero/GS
 rastrillador/SG
+rasurador/GS
 ratero/SG
 ratificatorio/SG
 ratonero/GS

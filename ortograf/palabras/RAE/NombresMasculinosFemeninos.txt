@@ -1462,6 +1462,7 @@ puelche/S
 puente/S
 puericultor/GS
 puestero/GS
+pugilista/S
 pujador/GS
 pulguero/GS
 puntero/GS

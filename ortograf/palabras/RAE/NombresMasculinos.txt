@@ -3590,6 +3590,7 @@ consignador/S
 consignatario/S
 consiguiente/S
 consistorio/S
+consomé/S
 consonantismo/S
 consorcio/S
 constitucionalismo/S

@@ -32,6 +32,7 @@ enseriar/RED
 ensopar/RED
 espelucar/RED
 hamaquear/RED
+mallugar/RED
 opacar/RED
 peluquear/RED
 premunir/RED
