@@ -894,6 +894,7 @@ antiguo/SG
 antihistamínico/GS
 antihelmíntico/GS
 antiinflamatorio/GS
+antillano/GS
 antimicrobiano/GS
 antimonial/S
 antiniebla/S
@@ -1770,6 +1771,7 @@ bordelés/GS
 borde/S
 bordonero/GS
 boreal/S
+boricua/S
 borrachín/SG
 borracho/GS
 borrador/GS
@@ -5229,6 +5231,7 @@ falsario/GS
 falseador/SG
 falsificador/SG
 falso/SG
+faltante/S
 falto/SG
 faltoso/GS
 famélico/GS
@@ -10079,6 +10082,7 @@ puelche/S
 puerco/GS
 pueril/S
 puerperal/S
+puertorriqueño/GS
 puesta/apk
 puesto/pGSka
 pugnante/pS

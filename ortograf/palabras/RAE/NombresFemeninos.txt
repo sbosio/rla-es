@@ -8653,6 +8653,7 @@ puericultura/S
 puerilidad/S
 puerta/Srb
 puertaventana/S
+puertorriqueñidad/S
 puesta/aSo
 puga/S
 pugnacidad/S

@@ -1004,6 +1004,7 @@ antígeno/S
 antiguo/S
 antihistamínico/S
 antiinflamatorio/S
+antillanismo/S
 antílope/S
 antimonio/S
 antipendio/S
@@ -10327,6 +10328,7 @@ puerco/S
 puerperio/S
 puerro/S
 puerto/bS
+puertorriqueñismo/S
 puesta/aS
 puesto/kprS
 puf
