@@ -76,6 +76,7 @@ pitanga/S
 postrera/S
 pringamoza/S
 pulpería/S
+radioemisora/S
 rara/S
 reclame/S
 regañada/S

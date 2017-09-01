@@ -2450,6 +2450,7 @@ chacho/SG
 chaconero/GS
 chacotero/GS
 chadiano/GS
+chalán/GS
 chalanesco/GS
 chaleco/S
 chambergo/GS
@@ -8122,6 +8123,7 @@ misionero/GS
 misivo/GSp
 mismo/GS
 mis/O
+misógino/GS
 misterioso/SG
 místico/GS
 mistral/S
@@ -10241,6 +10243,7 @@ radiante/S
 radical/S
 radicular/S
 radioactivo/GS
+radiodifusor/GS
 radioeléctrico/GS
 radiofónico/GS
 radiográfico/GS
