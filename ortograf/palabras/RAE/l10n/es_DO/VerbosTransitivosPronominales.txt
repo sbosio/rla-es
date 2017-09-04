@@ -24,5 +24,6 @@ embochinchar/RED
 encampanar/RED
 espelucar/RED
 hamaquear/RED
+mallugar/RED
 opacar/RED
 premunir/RED

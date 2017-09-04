@@ -52,6 +52,7 @@ guanábana/S
 guasca/S
 gurbia/S
 harneadura/S
+hierbería/S
 huaca/S
 huasca/S
 huesera/S

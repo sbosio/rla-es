@@ -1,5 +1,5 @@
-# Lista de lemas: NombresFemeninos.txt
-# Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
+# Lista de lemas: VerbosTransitivos.txt
+# Copyright (C) 2004-2012 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
 # conforme a los términos de la Licencia Pública General de GNU, publicada
@@ -14,47 +14,4 @@
 # Debe haber recibido una copia de la Licencia Pública General de GNU junto
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
-acreencia/S
-amanezca/S
-auyama/S
-babosería/S
-bellísima/S
-bija/S
-bombacha/S
-calilla/S
-calla/S
-cañabrava/S
-chaperona/S
-cigarrería/S
-contesta/S
-contraloría/S
-criandera/S
-cueriza/S
-escondidas
-estiptiquez/S
-estrictez/S
-follisca/S
-guanabanada/S
-guanábana/S
-guasca/S
-gurbia/S
-jaba/S
-jicotea/S
-mantequillera/S
-ña
-oroya/S
-pitahaya/S
-pulpería/S
-rara/S
-reclame/S
-renguera/S
-renquera/S
-seringa/S
-soca/S
-tapisca/S
-tigra/S
-tinterillada/S
-totuma/S
-tracalada/S
-veladora/S
-zoncera/S
+enmicar/RED

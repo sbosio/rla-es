@@ -36,6 +36,7 @@ ensartar/REDÀ
 ensopar/RED
 espelucar/RED
 hamaquear/RED
+mallugar/RED
 opacar/RED
 peluquear/RED
 pepenar/RED

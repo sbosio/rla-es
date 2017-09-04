@@ -16,6 +16,7 @@
 
 acreencia/S
 amanezca/S
+babosería/S
 bombacha/S
 calilla/S
 calla/S

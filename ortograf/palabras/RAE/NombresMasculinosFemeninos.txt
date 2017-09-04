@@ -1462,6 +1462,7 @@ puelche/S
 puente/S
 puericultor/GS
 puestero/GS
+pugilista/S
 pujador/GS
 pulguero/GS
 puntero/GS
@@ -1500,6 +1501,7 @@ receptor/GS
 recetador/GS
 recipiendario/GS
 recluta/S
+reclutador/GS
 recomendado/GS
 recopilador/GS
 recovero/GS

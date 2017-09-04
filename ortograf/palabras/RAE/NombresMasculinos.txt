@@ -1004,6 +1004,7 @@ antígeno/S
 antiguo/S
 antihistamínico/S
 antiinflamatorio/S
+antillanismo/S
 antílope/S
 antimonio/S
 antipendio/S
@@ -3590,6 +3591,7 @@ consignador/S
 consignatario/S
 consiguiente/S
 consistorio/S
+consomé/S
 consonantismo/S
 consorcio/S
 constitucionalismo/S
@@ -6842,6 +6844,7 @@ husmo/S
 huso/SN
 ibérico/S
 iberismo/S
+ibis
 icaco/S
 iceberg/S
 ichal/S
@@ -10327,6 +10330,7 @@ puerco/S
 puerperio/S
 puerro/S
 puerto/bS
+puertorriqueñismo/S
 puesta/aS
 puesto/kprS
 puf

@@ -46,6 +46,7 @@ guaraná/S
 gurbia/S
 huaca/S
 jaba/S
+jamaica
 mantequillera/S
 milpa/S
 natilla/S
@@ -53,6 +54,7 @@ natilla/S
 oroya/S
 pitahaya/S
 pulpería/S
+radioemisora/S
 rara/S
 reclame/S
 renguera/S

@@ -5183,6 +5183,7 @@ hepatitis
 heráldica/S
 herbera/S
 herbología/S
+herboristería/S
 heredad/S
 herejía/S
 herencia/fS
@@ -5426,7 +5427,6 @@ husada/S
 husera/S
 huta/S
 hutía/S
-ibis
 iconografía/S
 ictericia/S
 ida
@@ -8655,6 +8655,7 @@ puericultura/S
 puerilidad/S
 puerta/Srb
 puertaventana/S
+puertorriqueñidad/S
 puesta/aSo
 puga/S
 pugnacidad/S
@@ -10930,6 +10931,7 @@ yeguada/S
 yegua/S
 yema/S
 yerba/Sh
+yerbabuena/S
 yerbera/S
 yes
 yesca/S

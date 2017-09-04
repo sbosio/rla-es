@@ -57,15 +57,18 @@ guaraná/S
 guatusa/S
 gurbia/S
 hablada/S
+hierbería/S
 huaca/S
 huesuda/S
 jaba/S
+jamaica
 juana/S
 julia/S
 lastimada/S
 mantequillera/S
 mapoteca/S
 mara/S
+marmaja
 mazorquera/S
 membresía/S
 memela/S
@@ -80,6 +83,7 @@ podada/S
 portación/S
 pulpería/S
 quitada/S
+radioemisora/S
 rajada/S
 rara/S
 rasgada/S
