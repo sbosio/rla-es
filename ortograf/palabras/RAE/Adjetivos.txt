@@ -9402,6 +9402,8 @@ perfilado/GS
 perforador/GS
 perfumador/GS
 pericial/S
+perico/GS
+pericón/GS
 perieco/GS
 periférico/GS
 periforme/S
@@ -9410,7 +9412,7 @@ perineal/S
 periódico/aGS
 periodístico/GS
 peripuesto/SG
-periquito/S
+periquito/GS
 perisodáctilo/S
 perito/GS
 perjudicado/GS

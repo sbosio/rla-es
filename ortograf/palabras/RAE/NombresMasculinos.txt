@@ -9602,6 +9602,7 @@ perianto/S
 pericardio/S
 pericarpio/S
 pericial/S
+perico/S
 pericote/S
 peridoto/S
 periférico/S
