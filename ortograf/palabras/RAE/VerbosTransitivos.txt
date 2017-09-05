@@ -964,6 +964,7 @@ decapar/RED
 decapitar/REDÀÁÂ
 decodificar/REDÀ
 decomisar/REDÀÂ
+deconstruir/RED
 decorar/REDÀÄÅÌ
 decorticar/RED
 decretar/REDÀÄ
