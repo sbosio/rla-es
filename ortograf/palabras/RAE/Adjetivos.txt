@@ -12293,6 +12293,7 @@ tudesco/GS
 tuerca/S
 tuerta/p
 tuerto/pGS
+tuitero/GS
 tuitiva/k
 tuitivo/kSG
 tumbado/SG
