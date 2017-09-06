@@ -1020,6 +1020,7 @@ juguetero/GS
 juntero/GS
 jurisconsulto/GS
 jurisperito/GS
+jurista/S
 justicia/S
 labrado/GS
 labrador/GS

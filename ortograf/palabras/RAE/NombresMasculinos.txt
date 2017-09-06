@@ -7559,6 +7559,7 @@ lofobranquio/S
 logadero/S
 logaritmo/S
 logar/S
+logo/S
 logogrifo/S
 logotipo/S
 logro/S
