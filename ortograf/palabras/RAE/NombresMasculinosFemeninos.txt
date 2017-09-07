@@ -1274,6 +1274,7 @@ ocal/S
 ochavo/GS
 ocioso/GS
 octavo/GS
+oftalmólogo/GS
 ojalador/GS
 oleado/GS
 olímpico/GS

@@ -7465,7 +7465,9 @@ ofita/S
 ofrenda/S
 oftalmia/S
 oftalmía/S
+oftalmología/S
 oftalmoscopia/S
+oftalmoscopía/S
 ofuscación/S
 oída/S
 ojaladera/S
