@@ -2927,6 +2927,7 @@ confiado/hGS
 confianzudo/GS
 confidencial/S
 confidente/Sk
+configurador/GS
 confinante/S
 confín/S
 confirmador/SG
