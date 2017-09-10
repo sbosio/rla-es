@@ -5,5 +5,4 @@
 
 # Elaborado para el proyecto [RLA-ES](https://github.com/sbosio/rla-es/).
 
-cicla/S
 jartera/S
