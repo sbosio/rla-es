@@ -22,6 +22,7 @@ alón/SG
 aparatero/GS
 aplazado/GS
 arruinado/GS
+bacán/GS
 barrial/S
 boratero/GS
 cachiporra/S

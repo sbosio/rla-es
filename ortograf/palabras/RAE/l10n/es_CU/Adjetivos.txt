@@ -19,6 +19,7 @@ aceituno/GS
 ahorcado
 alón/SG
 aplazado/GS
+bacán/GS
 baqueta/S
 barrial/S
 botado/GS

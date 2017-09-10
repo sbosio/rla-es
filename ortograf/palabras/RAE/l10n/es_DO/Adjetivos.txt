@@ -19,6 +19,7 @@ abatanado/GS
 acomedido/GS
 alón/SG
 aplazado/GS
+bacán/GS
 barrial/S
 canchero/GS
 cansón/GS
