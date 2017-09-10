@@ -9,6 +9,6 @@ areta/S
 cicla/S
 ciclorruta/S
 jartera/S
-mamera
+mamera/S
 pola/S
 registraduría/S
