@@ -1,4 +1,4 @@
-# Lista de lemas: NombresFemeninos.txt
+# Lista de lemas: NombresMasculinosFemeninos.txt
 
 # Colaboradores:
 # + Edward Villegas Pulgarin (@cosmoscalibur).
@@ -6,4 +6,3 @@
 # Elaborado para el proyecto [RLA-ES](https://github.com/sbosio/rla-es/).
 
 cansón/GS
-parcero/GS
