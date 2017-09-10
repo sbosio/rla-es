@@ -60,6 +60,7 @@ comisariato/S
 conguito/S
 convertible/S
 correcaminos
+corrientazo/S
 cortés
 crespillo/S
 cuerazo/S

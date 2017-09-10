@@ -59,6 +59,7 @@ conuco/S
 convertible/S
 copéis		# Plural de copey
 copey
+corrientazo/S
 cuerazo/S
 cuis		# Plural de cuy
 cunchu
