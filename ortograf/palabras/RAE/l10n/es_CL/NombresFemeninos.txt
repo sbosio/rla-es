@@ -31,6 +31,7 @@ catanga/S
 caucha/S
 chala/S
 chaperona/S
+ciclovía/S
 cigarrería/S
 colilarga/S
 contesta/S
