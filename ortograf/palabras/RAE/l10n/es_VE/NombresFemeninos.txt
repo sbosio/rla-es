@@ -64,6 +64,7 @@ mapoteca/S
 matada/S
 negrada/S
 ña
+ñapa/S
 oroya/S
 pachamanca/S
 paraulata/S

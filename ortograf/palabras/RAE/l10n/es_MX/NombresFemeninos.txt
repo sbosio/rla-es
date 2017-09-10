@@ -76,6 +76,7 @@ memela/S
 milpa/S
 neja/S
 ña
+ñapa/S
 oroya/S
 piruja/S
 pitahaya/S
