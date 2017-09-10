@@ -6,6 +6,7 @@
 # https://github.com/cosmoscalibur/rla-es/wiki/Colombianismos
 
 berraco/GS
+cansón/GS
 enguayabado/GS
 hostigante/S
 mamerto/GS

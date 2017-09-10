@@ -32,7 +32,6 @@ botado/GS
 cachaco/GS
 cachudo/GS
 canchero/GS
-cansón/GS
 cebado/SG
 chancho/GS
 chandoso/GS
