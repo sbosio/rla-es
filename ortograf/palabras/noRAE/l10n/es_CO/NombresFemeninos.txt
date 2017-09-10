@@ -12,3 +12,4 @@ jartera/S
 mamera/S
 pola/S
 registraduría/S
+remontadora/S
