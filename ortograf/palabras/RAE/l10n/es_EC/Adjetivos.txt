@@ -27,6 +27,7 @@ barrial/S
 cachudo/GS
 camarón/GS
 canchero/GS
+cansón/GS
 cañizo/SG
 carrozable/S
 cebado/SG

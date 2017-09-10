@@ -26,6 +26,7 @@ botellero/SG
 buchipluma/S
 calambuco/SG
 canchero/GS
+cansón/GS
 carón/GS
 cebado/SG
 chancho/GS

@@ -21,6 +21,7 @@ alón/SG
 aplazado/GS
 barrial/S
 canchero/GS
+cansón/GS
 cebado/SG
 chancho/GS
 chapín/SG
