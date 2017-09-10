@@ -30,6 +30,7 @@ ara/S
 arrollado/S
 atrenzo/S
 berlín/S
+billullo
 bodegaje/S
 caballazo/S
 cabildante/S
