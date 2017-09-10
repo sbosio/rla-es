@@ -16,6 +16,7 @@
 
 acreencia/S
 agachadera/S
+arepa/S
 arranquera/S
 bartolina/S
 bija/S
