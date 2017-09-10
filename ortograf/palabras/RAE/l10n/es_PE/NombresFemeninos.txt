@@ -26,6 +26,7 @@ calla/S
 cantuta/S
 cañabrava/S
 chala/S
+chucha/S
 chuva/S
 cigarrería/S
 contesta/S
