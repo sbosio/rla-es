@@ -20,7 +20,6 @@ agrandado/GS
 alojado/GS
 aplazado/GS
 arrimado/GS
-averigüetas
 bananero/GS
 batato/GS
 boletero/GS
@@ -35,7 +34,6 @@ cucarachero/S
 desocupado/GS
 entrador/GS
 ferrocarrilero/GS
-guache/S
 guarango/GS
 hierbatero/GS
 hulero/GS
