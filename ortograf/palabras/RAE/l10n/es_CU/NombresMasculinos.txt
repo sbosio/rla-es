@@ -44,6 +44,7 @@ celular/S
 chavo/S
 chiche/S
 chuchero/S
+chucho/S
 cogollero/S
 coloniaje/S
 comercial/S

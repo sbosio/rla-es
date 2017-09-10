@@ -51,6 +51,7 @@ celular/S
 chamicero/S
 chiche/S
 chontaduro/S
+chucho/S
 chupaflor/S
 cocacho/S
 cochayuyo/S

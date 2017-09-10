@@ -53,6 +53,7 @@ carpidor/S
 cay
 celular/S
 chiche/S
+chucho/S
 chumbo/S
 cielito/S
 cimarrón/S
