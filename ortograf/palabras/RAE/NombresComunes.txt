@@ -399,6 +399,7 @@ hincha/S
 hippie/S
 hippy/S
 hispanista/S
+hispanoparlante/S
 hojaldrista/S
 huelguista/S
 huésped/S
