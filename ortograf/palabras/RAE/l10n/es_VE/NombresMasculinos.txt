@@ -26,6 +26,7 @@ ara/S
 atol/S
 atrenzo/S
 banderillazo/S
+budare/S
 cabildante/S
 cachimbo/S
 cachito/S
