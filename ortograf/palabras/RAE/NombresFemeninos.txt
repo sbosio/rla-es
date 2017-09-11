@@ -2620,6 +2620,7 @@ conducción/S
 conducencia/S
 conducta/S
 conductividad/S
+conectividad/S
 coneja/S
 conejuna/S
 conexión/S
@@ -4924,8 +4925,10 @@ glucina/S
 glucosa/S
 glutinosidad/S
 gnomónica/S
+gobernabilidad/S
 gobernación/S
 gobernanta/S
+gobernanza/S
 gobierna/S
 gocha/S
 gola/qS
@@ -7465,7 +7468,10 @@ ofimática/S
 ofita/S
 ofrenda/S
 oftalmia/S
+oftalmía/S
+oftalmología/S
 oftalmoscopia/S
+oftalmoscopía/S
 ofuscación/S
 oída/S
 ojaladera/S

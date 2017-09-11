@@ -2929,6 +2929,7 @@ confiado/hGS
 confianzudo/GS
 confidencial/S
 confidente/Sk
+configurador/GS
 confinante/S
 confín/S
 confirmador/SG
@@ -9405,6 +9406,8 @@ perfilado/GS
 perforador/GS
 perfumador/GS
 pericial/S
+perico/GS
+pericón/GS
 perieco/GS
 periférico/GS
 periforme/S
@@ -9413,7 +9416,7 @@ perineal/S
 periódico/aGS
 periodístico/GS
 peripuesto/SG
-periquito/S
+periquito/GS
 perisodáctilo/S
 perito/GS
 perjudicado/GS
@@ -12296,6 +12299,7 @@ tudesco/GS
 tuerca/S
 tuerta/p
 tuerto/pGS
+tuitero/GS
 tuitiva/k
 tuitivo/kSG
 tumbado/SG

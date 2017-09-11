@@ -7560,6 +7560,7 @@ lofobranquio/S
 logadero/S
 logaritmo/S
 logar/S
+logo/S
 logogrifo/S
 logotipo/S
 logro/S
@@ -8182,6 +8183,7 @@ metropolitano/S
 metro/S
 mexicanismo/S
 mexicano/S
+mezcal/S
 mezclado/S
 mezclamiento/S
 mezquino/S
@@ -9603,6 +9605,7 @@ perianto/S
 pericardio/S
 pericarpio/S
 pericial/S
+perico/S
 pericote/S
 peridoto/S
 periférico/S
@@ -12547,6 +12550,7 @@ trallazo/S
 trámite/S
 tramojo/S
 tramo/S
+trampantojo/S
 trampazo/S
 trampero/S
 trampolín/S
@@ -12785,6 +12789,8 @@ tueste/S
 tuétano/S
 tufo/S
 tugurio/S
+tuit/S
+tuiteo/S
 tulio/S
 tulipán/S
 tullimiento/S
