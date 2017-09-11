@@ -52,6 +52,7 @@ fondeado/GS
 fregado/GS
 fundido/GS
 gallero/S
+guache/S
 hierbatero/SG
 hostigoso/GS
 invalorable/S
