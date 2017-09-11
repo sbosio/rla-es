@@ -8182,6 +8182,7 @@ metropolitano/S
 metro/S
 mexicanismo/S
 mexicano/S
+mezcal/S
 mezclado/S
 mezclamiento/S
 mezquino/S
@@ -12547,6 +12548,7 @@ trallazo/S
 trámite/S
 tramojo/S
 tramo/S
+trampantojo/S
 trampazo/S
 trampero/S
 trampolín/S
