@@ -20,6 +20,7 @@ biyuyo
 corrientazo/S
 cununo/S
 currulao/S
+ficho/S
 guayo/S
 herpo/S
 jurgo/S
