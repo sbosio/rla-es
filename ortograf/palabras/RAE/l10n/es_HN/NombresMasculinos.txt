@@ -58,8 +58,10 @@ comal/S
 comercial/S
 comisariato/S
 conguito/S
+conversatorio/S
 convertible/S
 correcaminos
+corrientazo/S
 cortés
 crespillo/S
 cuerazo/S

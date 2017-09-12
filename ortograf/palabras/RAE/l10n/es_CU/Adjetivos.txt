@@ -19,6 +19,7 @@ aceituno/GS
 ahorcado
 alón/SG
 aplazado/GS
+bacán/GS
 baqueta/S
 barrial/S
 botado/GS
@@ -26,6 +27,7 @@ botellero/SG
 buchipluma/S
 calambuco/SG
 canchero/GS
+cansón/GS
 carón/GS
 cebado/SG
 chancho/GS

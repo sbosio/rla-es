@@ -24,6 +24,7 @@ calla/S
 cantuta/S
 cañabrava/S
 cepillada/S
+ciclovía/S
 cigarrería/S
 contesta/S
 contraloría/S
@@ -53,6 +54,7 @@ membresía/S
 naranjillada/S
 narigada/S
 ña
+ñapa/S
 oroya/S
 pachamanca/S
 pitahaya/S

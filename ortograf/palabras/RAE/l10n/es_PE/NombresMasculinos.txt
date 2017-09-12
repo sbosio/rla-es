@@ -50,6 +50,7 @@ coloniaje/S
 comercial/S
 conguito/S
 conscripto/S
+conversatorio/S
 convertible/S
 cuerazo/S
 cuis		# Plural de cuy

@@ -26,11 +26,13 @@ andinismo/S
 anisal/S
 añares
 ara/S
+arequipe/S
 atrenzo/S
 balero
 banderillazo/S
 belduque/S
 bodegaje/S
+budare/S
 cabildante/S
 cachimbo/S
 cachumbo/S
@@ -50,6 +52,7 @@ celular/S
 chamicero/S
 chiche/S
 chontaduro/S
+chucho/S
 chupaflor/S
 cocacho/S
 cochayuyo/S
@@ -58,6 +61,7 @@ comercial/S
 comisariato/S
 conguito/S
 conscripto/S
+conversatorio/S
 convertible/S
 coralito/S
 cuerazo/S
@@ -100,7 +104,9 @@ jeringatorio/S
 macondo/S
 macuco/S
 maduro/S
+magíster/S
 maguey/S
+mecato/S
 merey/S
 muérgano/S
 multifamiliar/S
@@ -120,6 +126,7 @@ pizarrón/S
 platón/S
 polvillo/S
 poroto/S
+pregrado/S
 prensero/S
 pucho/S
 quijo/S
@@ -156,6 +163,7 @@ tlaco/S
 toche/S
 totoral/S
 totumo/S
+trancón/S
 traspatio/S
 turmequé/S
 uveral/S

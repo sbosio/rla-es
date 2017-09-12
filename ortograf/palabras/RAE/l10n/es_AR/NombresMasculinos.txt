@@ -53,6 +53,7 @@ carpidor/S
 cay
 celular/S
 chiche/S
+chucho/S
 chumbo/S
 cielito/S
 cimarrón/S
@@ -112,6 +113,7 @@ jeringatorio/S
 jote/S
 laburo/S
 ladero/S
+magíster/S
 maguey/S
 martillero/S
 matambre/S

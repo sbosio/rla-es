@@ -76,6 +76,7 @@ jeringatorio/S
 jícaro/S
 jicote/S
 jilote/S
+magíster/S
 maguey/S
 manigordo/S
 manjarete/S

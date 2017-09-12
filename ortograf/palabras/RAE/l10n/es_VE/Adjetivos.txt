@@ -27,6 +27,7 @@ buchipluma/S
 burrero/SG
 cachudo/GS
 canchero/GS
+cansón/GS
 cañizo/SG
 carón/GS
 casquite/S

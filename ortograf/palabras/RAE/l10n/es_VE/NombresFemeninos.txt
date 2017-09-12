@@ -15,10 +15,12 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 acreencia/S
+arepa/S
 auyama/S
 azua/S
 bellísima/S
 bombacha/S
+cachapa/S
 calilla/S
 calla/S
 camaza/S
@@ -63,6 +65,7 @@ mapoteca/S
 matada/S
 negrada/S
 ña
+ñapa/S
 oroya/S
 pachamanca/S
 paraulata/S

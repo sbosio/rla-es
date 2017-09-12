@@ -23,9 +23,11 @@ altoparlante/S
 amacayo/S
 andinismo/S
 ara/S
+arequipe/S
 atol/S
 atrenzo/S
 banderillazo/S
+budare/S
 cabildante/S
 cachimbo/S
 cachito/S
@@ -59,6 +61,7 @@ conuco/S
 convertible/S
 copéis		# Plural de copey
 copey
+corrientazo/S
 cuerazo/S
 cuis		# Plural de cuy
 cunchu
@@ -102,6 +105,7 @@ huesero/S
 irrespeto/S
 jeringatorio/S
 jojoto/S
+magíster/S
 maguey/S
 majarete/S
 malojal/S

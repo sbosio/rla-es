@@ -27,6 +27,7 @@ briago/GS
 buzo/GS
 cachudo/GS
 canchero/GS
+cansón/GS
 cebado/SG
 chancho/GS
 chapeado/GS

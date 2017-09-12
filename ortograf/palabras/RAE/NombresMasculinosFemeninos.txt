@@ -434,6 +434,7 @@ chocolatero/GS
 choricero/GS
 chorizo/GS
 chorra/S
+chucho/GS
 chufero/GS
 chulapo/GS
 chulo/GS

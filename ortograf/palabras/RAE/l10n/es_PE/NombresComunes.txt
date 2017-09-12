@@ -20,6 +20,7 @@ buscapleitos
 campana/S
 conferencista/S
 esgrimista/S
+lustrabotas
 oficialista/S
 palangana/S
 palomilla/S

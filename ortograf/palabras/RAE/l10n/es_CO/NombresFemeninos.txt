@@ -18,6 +18,7 @@ acreencia/S
 aguadulce/S
 ahuyama/S
 anda/S
+arepa/S
 auyama/S
 azua/S
 banana/S
@@ -26,13 +27,18 @@ bellísima/S
 bija/S
 bombacha/S
 bullaranga/S
+cachapa/S
 calilla/S
 calla/S
 canta/S
 cantuta/S
 cañabrava/S
+chanda/S
+chanfa/S
 cheque/S
 chivaza/S
+chucha/S
+ciclovía/S
 cigarrería/S
 collareja/S
 conduerma/S
@@ -71,6 +77,7 @@ mana/S
 mantequillera/S
 mapoteca/S
 ña
+ñapa/S
 oroya/S
 pachamanca/S
 petaquita/S

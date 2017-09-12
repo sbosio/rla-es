@@ -55,6 +55,7 @@ comercial/S
 comisariato/S
 conguito/S
 conscripto/S
+conversatorio/S
 convertible/S
 coscacho/S
 cuerazo/S
@@ -115,6 +116,7 @@ platón/S
 plazuela/S
 polvillo/S
 poroto/S
+pregrado/S
 pucho/S
 pulque/S
 quesillo/S

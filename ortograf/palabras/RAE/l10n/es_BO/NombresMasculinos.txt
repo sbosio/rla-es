@@ -104,6 +104,7 @@ pizarrón/S
 platón/S
 polvillo/S
 poroto/S
+pregrado/S
 pucho/S
 quijo/S
 quilláis	# Plural de quillay

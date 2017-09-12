@@ -103,6 +103,7 @@ pizote/S
 platón/S
 pochote/S
 polvillo/S
+pregrado/S
 quijongo/S
 quijo/S
 romerillo/S

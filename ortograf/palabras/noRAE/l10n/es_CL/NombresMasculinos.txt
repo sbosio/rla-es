@@ -15,4 +15,5 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 emprendimiento/S
+bicicletero/S
 monitoreo/S

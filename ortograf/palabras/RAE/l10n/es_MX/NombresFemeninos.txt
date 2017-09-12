@@ -32,6 +32,7 @@ carcacha/S
 cemita/S
 chachalaca/S
 chingada/S
+ciclovía/S
 cigarrería/S
 contesta/S
 contraloría/S
@@ -75,6 +76,7 @@ memela/S
 milpa/S
 neja/S
 ña
+ñapa/S
 oroya/S
 piruja/S
 pitahaya/S

@@ -14,4 +14,14 @@
 # Debe haber recibido una copia de la Licencia Pública General de GNU junto
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
+bicicletero/S
+billullo
+biyuyo
+corrientazo/S
+cununo/S
+currulao/S
+ficho/S
+guayo/S
+herpo/S
+jurgo/S
 monitoreo/S

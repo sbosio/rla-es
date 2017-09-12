@@ -15,9 +15,13 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 alzafuelles
+averigüetas
 buscapleitos
 colino/S
 conferencista/S
 cucharón/S
 esgrimista/S
+guache/S
+lustrabotas
+magíster/S
 oficialista/S

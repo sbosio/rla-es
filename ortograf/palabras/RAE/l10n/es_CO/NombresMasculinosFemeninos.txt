@@ -32,6 +32,7 @@ corroncho/GS
 coyotero/GS
 cucarachero/S
 desocupado/GS
+embolador/GS
 entrador/GS
 ferrocarrilero/GS
 guarango/GS

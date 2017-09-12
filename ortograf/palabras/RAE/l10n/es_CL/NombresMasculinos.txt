@@ -30,6 +30,7 @@ ara/S
 arrollado/S
 atrenzo/S
 berlín/S
+billullo
 bodegaje/S
 caballazo/S
 cabildante/S
@@ -125,6 +126,7 @@ piure/S
 pizarrón/S
 platón/S
 polvillo/S
+pregrado/S
 pucho/S
 puntaje/S
 queule/S

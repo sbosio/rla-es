@@ -58,6 +58,7 @@ chiche/S
 chile/S
 chipote/S
 chipotle/S
+chucho/S
 chupaflor/S
 clavado/S
 clóset/S
@@ -66,6 +67,7 @@ comal/S
 comercial/S
 congal/S
 conguito/S
+conversatorio/S
 convertible/S
 correcaminos
 cuerazo/S

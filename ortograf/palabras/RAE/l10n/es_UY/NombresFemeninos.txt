@@ -30,6 +30,7 @@ cepillada/S
 chala/S
 chirusa/S
 chiruza/S
+ciclovía/S
 cigarrería/S
 contesta/S
 contraloría/S
@@ -64,6 +65,7 @@ mapoteca/S
 negrada/S
 nochecita/S
 ña
+ñapa/S
 oroya/S
 pachamanca/S
 pálida/S

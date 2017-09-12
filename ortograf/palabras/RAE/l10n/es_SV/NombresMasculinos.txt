@@ -45,6 +45,7 @@ coloniaje/S
 comercial/S
 conguito/S
 convertible/S
+corrientazo/S
 cuerazo/S
 cunchu
 despilaramiento/S

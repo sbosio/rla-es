@@ -19,5 +19,6 @@ buscapleitos
 conferencista/S
 esgrimista/S
 jeringa/S
+lustrabotas
 oficialista/S
 palomilla/S

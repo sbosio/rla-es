@@ -1,0 +1,12 @@
+# Lista de lemas: Adjetivos.txt
+
+# Esta lista es elaborada por Edward Villegas Pulgarin (github:@cosmoscalibur)
+# para el Proyecto RLA-ES https://github.com/sbosio/rla-es/.
+# Información sobre colombianismos:
+# https://github.com/cosmoscalibur/rla-es/wiki/Colombianismos
+
+berraco/GS
+cansón/GS
+enguayabado/GS
+hostigante/S
+mamerto/GS
