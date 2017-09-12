@@ -126,6 +126,7 @@ pizarrón/S
 platón/S
 polvillo/S
 poroto/S
+pregrado/S
 prensero/S
 pucho/S
 quijo/S

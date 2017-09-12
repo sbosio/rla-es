@@ -126,6 +126,7 @@ piure/S
 pizarrón/S
 platón/S
 polvillo/S
+pregrado/S
 pucho/S
 puntaje/S
 queule/S
