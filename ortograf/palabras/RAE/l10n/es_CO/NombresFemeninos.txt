@@ -27,6 +27,7 @@ bellísima/S
 bija/S
 bombacha/S
 bullaranga/S
+cachapa/S
 calilla/S
 calla/S
 canta/S
