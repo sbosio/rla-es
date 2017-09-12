@@ -23,6 +23,7 @@ altoparlante/S
 amacayo/S
 andinismo/S
 ara/S
+arequipe/S
 atol/S
 atrenzo/S
 banderillazo/S

@@ -26,6 +26,7 @@ andinismo/S
 anisal/S
 añares
 ara/S
+arequipe/S
 atrenzo/S
 balero
 banderillazo/S
