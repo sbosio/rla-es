@@ -67,6 +67,7 @@ comal/S
 comercial/S
 congal/S
 conguito/S
+conversatorio/S
 convertible/S
 correcaminos
 cuerazo/S

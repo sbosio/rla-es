@@ -55,6 +55,7 @@ comercial/S
 comisariato/S
 conguito/S
 conscripto/S
+conversatorio/S
 convertible/S
 coscacho/S
 cuerazo/S

@@ -58,6 +58,7 @@ comal/S
 comercial/S
 comisariato/S
 conguito/S
+conversatorio/S
 convertible/S
 correcaminos
 corrientazo/S
