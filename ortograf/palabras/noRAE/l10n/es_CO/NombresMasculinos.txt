@@ -20,4 +20,6 @@ corrientazo/S
 cununo/S
 currulao/S
 guayo/S
+herpo/S
+jurgo/S
 monitoreo/S
