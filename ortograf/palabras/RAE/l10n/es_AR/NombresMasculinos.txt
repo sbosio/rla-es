@@ -113,6 +113,7 @@ jeringatorio/S
 jote/S
 laburo/S
 ladero/S
+magíster/S
 maguey/S
 martillero/S
 matambre/S

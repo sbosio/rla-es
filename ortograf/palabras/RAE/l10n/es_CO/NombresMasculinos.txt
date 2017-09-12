@@ -104,6 +104,7 @@ jeringatorio/S
 macondo/S
 macuco/S
 maduro/S
+magíster/S
 maguey/S
 mecato/S
 merey/S

@@ -23,6 +23,7 @@ gaita/S
 grasa/S
 hurguete/S
 lustrabotas
+magíster/S
 oficialista/S
 palangana/S
 pierna/S

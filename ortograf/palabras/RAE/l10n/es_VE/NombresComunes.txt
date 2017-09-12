@@ -20,5 +20,6 @@ buscapleitos
 conferencista/S
 emergente/S
 esgrimista/S
+magíster/S
 oficialista/S
 pana/S

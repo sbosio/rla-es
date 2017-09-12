@@ -17,6 +17,7 @@
 buscapleitos
 calcetas
 conferencista/S
+magíster/S
 oficialista/S
 palangana/S
 panderetas

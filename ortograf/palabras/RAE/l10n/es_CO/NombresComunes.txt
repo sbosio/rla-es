@@ -23,4 +23,5 @@ cucharón/S
 esgrimista/S
 guache/S
 lustrabotas
+magíster/S
 oficialista/S
