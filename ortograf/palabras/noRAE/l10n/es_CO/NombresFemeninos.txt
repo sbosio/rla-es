@@ -10,6 +10,7 @@ cicla/S
 ciclorruta/S
 jartera/S
 mamera/S
+planeación/S
 pola/S
 registraduría/S
 remontadora/S
