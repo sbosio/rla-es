@@ -17,5 +17,6 @@
 buscapleitos
 conferencista/S
 esgrimista/S
+lustrabotas
 oficialista/S
 pana/S

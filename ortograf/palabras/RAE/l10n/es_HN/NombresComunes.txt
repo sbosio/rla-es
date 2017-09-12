@@ -17,6 +17,7 @@
 buscapleitos
 conferencista/S
 cucharón/S
+lustrabotas
 oficialista/S
 pelis
 yegua/S

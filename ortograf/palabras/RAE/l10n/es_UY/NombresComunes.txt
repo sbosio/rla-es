@@ -25,6 +25,7 @@ grasa/S
 jeringa/S
 lechuza/S
 lenteja/S
+lustrabotas
 oficialista/S
 palangana/S
 pergenio/S

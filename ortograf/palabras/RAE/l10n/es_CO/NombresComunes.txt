@@ -22,4 +22,5 @@ conferencista/S
 cucharón/S
 esgrimista/S
 guache/S
+lustrabotas
 oficialista/S

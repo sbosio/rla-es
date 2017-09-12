@@ -19,6 +19,7 @@ buscapleitos
 conferencista/S
 esgrimista/S
 hurguete/S
+lustrabotas
 machi/S
 oficialista/S
 palomilla/S
