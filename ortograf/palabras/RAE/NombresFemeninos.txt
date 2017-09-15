@@ -913,6 +913,7 @@ asignación/S
 asimetría/S
 asimétricas
 asimilación/S
+asíntota/S
 asistencia/hkS
 asistenta/S
 asistolia/S
@@ -938,7 +939,10 @@ astenia/S
 astilla/S
 astricción/S
 astringencia/S
+astrobiología
+astrofísica
 astrología/S
+astronáutica
 astronave/S
 astronomía/S
 astucia/S
@@ -1284,6 +1288,7 @@ bicha/S
 bicicleta/S
 bici/S
 bicoca/S
+bidimensionalidad
 biela/S
 bienal/S
 bienandanza/S
@@ -1969,6 +1974,7 @@ castaña/S
 castañeta/S
 castañuela/S
 casta/S
+castellanización/S
 casticidad/S
 castidad/S
 castillería/S
@@ -2902,6 +2908,7 @@ cosetada/S
 cosidura/S
 cosmogonía/S
 cosmografía/S
+cosmología/S
 cosmovisión/S
 cosquillas
 costalada/S
@@ -3151,7 +3158,9 @@ definición/S
 definitiva/S
 deflación/S
 deflagración/S
+deflexión/S
 defoliación/S
+deforestación/S
 deformidad/S
 defraudación/S
 deglución/S
@@ -3325,6 +3334,7 @@ diabla/S
 diablesa/S
 diablura/S
 diaconisa/S
+díada/S
 diadema/S
 diafanidad/S
 diaforesis/a
@@ -3595,6 +3605,7 @@ echada/S
 echadura/S
 echazón/S
 eclampsia/S
+eclíptica
 eclosión/S
 ecolalia/S
 ecolocación/S
@@ -3846,6 +3857,7 @@ epanortosis
 epicicloide/S
 epidemia/S
 epidemicidad/S
+epidemiología
 epidermis
 epifanía/S
 epifonema/S
@@ -4042,6 +4054,7 @@ especificación/S
 especificidad/S
 especiota/S
 espectacularidad/S
+espectrografía/S
 espectroscopia/S
 especulación/S
 especulativa/S
@@ -4874,6 +4887,7 @@ gentualla/S
 gentuza/S
 geoda/S
 geodesia/S
+geofísica
 geografía/S
 geología/S
 geometría/S
@@ -5128,6 +5142,7 @@ harpa/S
 harpía/S
 harpillera/S
 harria/S
+hartera/S
 hartura/S
 hataca/S
 hatería/S
@@ -6736,6 +6751,8 @@ melosidad/S
 melosilla/S
 melva/S
 membrana/S
+membrecía/S
+membresía/S
 membrilla/S
 memez/S
 memnónida/S
@@ -6954,6 +6971,7 @@ mochila/S
 moción/dSpof
 modalidad/S
 moda/S
+modelización/S
 moderación/S
 modernidad/S
 modernización/S
@@ -7396,6 +7414,7 @@ nuez/SG
 nulidad/S
 numeración/S
 numeradora/S
+numismática
 numulita/S
 nunciatura/S
 nupcias
@@ -9477,6 +9496,7 @@ segur/KS
 selección/S
 selectas
 selectividad/S
+selenografía
 selenosis
 selladura/Sg
 selva/S
@@ -9704,6 +9724,7 @@ soda/S
 sodomía/S
 soeza/S
 sofística/S
+sofisticación/S
 sofistiquez/S
 sofocación/S
 sofoquina/S
