@@ -5963,10 +5963,11 @@ fotograma/S
 fotolito/S
 fotón/S
 foto/S
+frac/S
 fracaso/S
 fraccionamiento/S
 fraccionario/S
-frac/S
+fractal/S
 fragmento/S
 fragor/S
 frailecito/S
@@ -11259,6 +11260,7 @@ sacudidor/S
 sacudimiento/S
 sadismo/S
 saetazo/S
+safari/S
 safismo/S
 sagapeno/S
 sagitario/S
