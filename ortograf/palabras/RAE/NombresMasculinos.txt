@@ -1385,6 +1385,7 @@ aspro/S
 as/S
 astado/S
 asterisco/S
+asterismo/S
 asteroide/S
 astero/S
 aster/S
@@ -1488,6 +1489,7 @@ aumento/S
 áureo/S
 auricular/S
 auriga/S
+ausentismo/S
 auspicio/S
 austral/S
 austro/S
@@ -2130,6 +2132,7 @@ borrón/SN
 boruca/S
 borujo/S
 boscaje/S
+bosón/S
 bosquejo/S
 bosque/S
 bosquete/S
@@ -5757,6 +5760,7 @@ fárrago/S
 farro/S
 farsante/S
 fas
+fascículo/S
 fascismo/cS
 fastidio/S
 fasto/S
@@ -5788,6 +5792,7 @@ fenotipo/S
 féretro/S
 ferial/S
 fermento/S
+fermión/S
 ferodo/S
 ferrador/S
 ferrero/S
@@ -6191,6 +6196,7 @@ gentilhombre/S
 gentilicio/S
 gentilismo/S
 gentío/S
+geocentrismo
 geranio/S
 geriátrico/S
 gerifalte/S
@@ -10313,6 +10319,7 @@ pruno/S
 prurigo/S
 prurito/S
 prusiato/S
+pseudónimo/S
 psiquiátrico/S
 psiquismo/S
 psitacismo/S
@@ -10643,6 +10650,7 @@ recelador/S
 recelamiento/S
 recelo
 receptáculo/S
+receso/S
 rechazamiento/S
 rechazo/S
 rechinamiento/S

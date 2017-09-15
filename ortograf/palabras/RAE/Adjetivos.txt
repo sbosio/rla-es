@@ -1255,7 +1255,9 @@ astorgano/GS
 astral/S
 astrictivo/GS
 astringente/S
+astrofísico/GS
 astrólogo/GS
+astronáutico/GS
 astronómico/GS
 astrosa/h
 astroso/GhS
@@ -1646,6 +1648,7 @@ bíceps
 bicolor/S
 bicorne/S
 bidente/S
+bidimensional/S
 bielorruso/GS
 bienal/S
 bienandante/S
@@ -2842,6 +2845,7 @@ compromisorio/SG
 compuesta/h
 compuesto/hSG
 compulsivo/GS
+computacional/S
 computador/SG
 comulgante/S
 comunal/hS
@@ -2859,6 +2863,7 @@ cóncavo/SG
 concebible/kS
 concejil/S
 concentrador/GS
+concéntrico/GS
 concepcionista/S
 conceptista/S
 conceptivo/SGcv
@@ -3224,6 +3229,7 @@ cosechero/GS
 cosetano/GS
 cosmético/GS
 cósmico/GS
+cosmológico/GS
 cosmopolita/S
 cosquilloso/GS
 costal/lSs
@@ -4311,6 +4317,7 @@ elaborador/GS
 elamita/S
 elástico/SG
 elato/GS
+eleático/GS
 electivo/GS
 electoralista/S
 electoral/S
@@ -5172,6 +5179,7 @@ extraembrionario/GS
 extraescolar/S
 extrajudicial/S
 extralingüístico/GS
+extramatrimonial/S
 extranjero/GS
 extraño/GS
 extraoficial/S
@@ -5530,6 +5538,7 @@ fotocopiador/GS
 fotoeléctrico/GS
 fotográfico/SG
 fotométrico/SG
+fotónico/GS
 fotosensible/S
 fotovoltaico/GS
 fraccionario/GS
@@ -5775,8 +5784,10 @@ gentilicio/GS
 gentílico/GS
 gentil/S
 genuino/GS
+geocéntrico/GS
 geodésico/GS
 geoestacionario/GS
+geofísico/GS
 geográfico/GS
 geológico/GS
 geométrico/GS
@@ -5920,6 +5931,7 @@ gravativo/GS
 grave/SG
 grávida/k
 grávido/SGk
+gravitacional/S
 gravitatorio/GS
 gravoso/SG
 graznador/GS
@@ -6252,6 +6264,7 @@ holgazán/GS
 holladero/SG
 hollejudo/GS
 holliniento/GS
+holográfico/GS
 holotúrido/S
 hombruno/GS
 homeópata/S
@@ -6799,6 +6812,8 @@ intento/GS
 interceptor/GS
 intercesor/GS
 intercultural/S
+interdisciplinar/S
+interdisciplinario/GS
 interesada/h
 interesado/hSG
 interesante/S
@@ -6865,6 +6880,7 @@ invocador/GS
 invocatorio/GS
 involucionista/S
 inyectivo/GS
+iónico/GS
 iracundo/GS
 iraní/S
 iranio/GS
@@ -7557,6 +7573,7 @@ machuno/GS
 macilento/GS
 macizo/GS
 macrocéfalo/GS
+macroscópico/GS
 macruro/GS
 macular/S
 macuquino/GS
@@ -8578,6 +8595,7 @@ neurótico/GS
 neurotransmisor/GS
 neurovegetativo/GS
 neutral/S
+neutralizador/GS
 neutro/SG
 nevado/GS
 nevoso/GS
@@ -8613,6 +8631,7 @@ noctámbulo/GS
 nocturnal/S
 nocturnino/GS
 nocturno/GS
+nodal/S
 nodular/S
 nogal/S
 noguerado/SG
@@ -8685,6 +8704,7 @@ numeraria/t
 numerario/SGt
 numérico/SG
 numeroso/GS
+numismático/GS
 numular/S
 nuncupatorio/GS
 nupcial/S
@@ -9684,6 +9704,7 @@ poligonal/S
 polígono/GS
 polimorfo/SG
 polinesio/GS
+polinómico/GS
 polisémico/GS
 politécnico/SG
 política/a
@@ -10065,7 +10086,7 @@ prudencial/S
 prudente/kS
 pruriginoso/GS
 prusiano/GS
-pseudónimo/S
+pseudónimo/GS
 psicoanalista/S
 psicoanalítico/SG
 psicológico/SG
@@ -12163,6 +12184,8 @@ tratable/Sk
 tratador/GS
 tratante/Sf
 traumado/GS
+traumático/GS
+traumatizante/S
 travesero/GS
 travesío/SG
 travieso/GS
@@ -12795,6 +12818,7 @@ volteador/SG
 volteriano/SG
 voltizo/GS
 voluble/S
+volumétrico/GS
 voluminoso/GS
 voluntaria/k
 voluntario/kGS

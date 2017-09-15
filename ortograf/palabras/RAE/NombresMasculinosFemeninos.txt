@@ -114,6 +114,7 @@ andado/GS
 andador/GS
 andino/uGS
 anémico/GS	# Contribuida por Gonzalo Higuera Díaz
+anestesiólogo/GS
 anexo/GS
 anfitrión/GS
 angelino/GS
@@ -168,6 +169,7 @@ asertor/GS
 asilado/GS
 asociado/GS
 aspirador/GS
+astrofísico/GS
 astrólogo/GS
 astrónomo/GS
 atajador/GS
@@ -675,6 +677,7 @@ editor/GS
 editorial/S
 ejecutivo/GS
 elástico/GS
+eleático/GS
 electorero/GS
 electromecánico/GS
 electrónico/GS
@@ -727,7 +730,9 @@ entrenador/GS
 entrevistador/GS
 enviado/GS
 épico/GS
+epidemiólogo/GS
 epigrama/S
+epistemólogo/GS
 ermitaño/GS
 erudito/GS
 escandaloso/GS
@@ -877,6 +882,7 @@ garduño/GS
 gatero/GS
 génesis
 genético/GS
+geofísico/GS
 geógrafo/GS
 gerente/GS
 gestor/GS
@@ -1266,6 +1272,7 @@ novicio/GS
 novillero/GS
 novio/GS
 nuecero/GS
+numismático/GS
 oblato/GS
 obligado/GS
 obligatorio/GS
@@ -1624,6 +1631,7 @@ seguido/GS
 segundo/GS
 segundón/GS
 seleccionador/GS
+selenógrafo/GS
 sembrador/GS
 semideo/GS
 semidiós/GS
@@ -1716,6 +1724,7 @@ técnico/GS
 teja/S
 tejedor/GS
 tejero/GS
+telespectador/GS
 teletrabajador/GS
 tema/S
 tembladero/GS
