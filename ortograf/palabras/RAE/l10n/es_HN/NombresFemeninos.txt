@@ -62,6 +62,7 @@ mantequillera/S
 mara/S
 matada/S
 membresía/S
+mezcalería/S
 milpa/S
 nambira/S
 negrada/S

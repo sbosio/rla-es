@@ -78,6 +78,7 @@ hurguetear/RED
 improbar/IRD
 lamber/RED
 lechar/RED
+mezcalear/RED
 nalguear/RED
 pambacear/RED
 parquear/RED

@@ -55,6 +55,7 @@ afrentador/GS
 africano/GS
 afroamericano/GS
 afrocubano/GS
+agave/S
 agitador/GS
 agregado/GS
 agricultor/GS

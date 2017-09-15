@@ -47,6 +47,7 @@ mano/GS
 maturrango/GS
 meco/GS
 mesero/GS
+mezcalero/GS
 mitotero/GS
 naco/GS
 obrajero/GS
