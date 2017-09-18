@@ -124,6 +124,7 @@ tunco/S
 uveral/S
 video/S
 vuelto/S
+zacate/S
 zacatón/S
 zapoyolito/S
 zompopo/S

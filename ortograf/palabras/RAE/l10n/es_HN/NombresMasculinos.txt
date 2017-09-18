@@ -176,6 +176,7 @@ tuyo/S
 uveral/S
 video/S
 vuelto/S
+zacate/S
 zacatón/S
 zamuro/S
 zanate/S

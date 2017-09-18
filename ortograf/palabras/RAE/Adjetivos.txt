@@ -3887,6 +3887,7 @@ diapreado/GS
 diario/GS
 diarreico/GS
 diatónico/SG
+diatópico/GS
 dibranquial/S
 dibujante/S
 dicente/S

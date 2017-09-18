@@ -39,6 +39,7 @@ belduque/S
 bingarrote/S
 binguí/S
 botellón/S
+box
 burrito/S
 caballazo/S
 cacalote/S
@@ -195,6 +196,7 @@ tunco/S
 uveral/S
 video/S
 vuelto/S
+zacate/S
 zacatón/S
 zanate/S
 zapoyolito/S

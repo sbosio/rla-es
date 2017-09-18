@@ -133,6 +133,7 @@ tuco/S
 uveral/S
 video/S
 vuelto/S
+zacate/S
 zacatón/S
 zanate/S
 zapoyolito/S

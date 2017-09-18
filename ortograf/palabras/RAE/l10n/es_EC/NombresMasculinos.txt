@@ -30,6 +30,7 @@ balero
 bananal
 bodegaje/S
 bolsico/S
+box
 cabildante/S
 cachimbo/S
 cachiporra/S
