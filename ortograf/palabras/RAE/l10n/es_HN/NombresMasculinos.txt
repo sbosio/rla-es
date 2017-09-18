@@ -29,6 +29,7 @@ atole/S
 atol/S
 atrenzo/S
 balagre/S
+beisbol/S
 bodegaje/S
 cacalote/S
 cachimbo/S

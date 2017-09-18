@@ -26,6 +26,7 @@ arrollado/S
 atol/S
 atorrante/S
 atrenzo/S
+beisbol/S
 cacalote/S
 cachimbo/S
 cachumbo/S

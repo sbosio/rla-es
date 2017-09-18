@@ -1821,6 +1821,8 @@ basamento/S
 basculante/S
 basilicón/S
 basilisco/S
+básquetbol/S
+basquetbol/S
 bastardelo/S
 bastero/aS
 bastidor/S
@@ -6063,6 +6065,7 @@ fusil/HS
 fusor/S
 fuste/aS
 fútbol/S
+futbol/S
 gabán/S
 gabarrero/S
 gabarro/S
@@ -12021,6 +12024,7 @@ taconeo/S
 tacón/HS
 taco/SH
 tacto/Sf
+taekwondo/S
 tafanario/S
 tafetán/S
 tafilete/S

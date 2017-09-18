@@ -9699,6 +9699,8 @@ polifacético/GS
 polifásico/GS
 polifónico/GS
 polígamo/SG
+políglota/S
+poliglota/S
 poligonáceo/GS
 poligonal/S
 polígono/GS

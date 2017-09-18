@@ -27,6 +27,7 @@ arequipe/S
 atol/S
 atrenzo/S
 banderillazo/S
+beisbol/S
 budare/S
 cabildante/S
 cachimbo/S

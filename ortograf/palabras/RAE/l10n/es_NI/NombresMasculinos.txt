@@ -26,6 +26,7 @@ ara/S
 arrollado/S
 atol/S
 atrenzo/S
+beisbol/S
 bodegaje/S
 cacalote/S
 cachimbo/S

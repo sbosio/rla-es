@@ -24,6 +24,7 @@ ara/S
 atol/S
 atrenzo/S
 bananar/S
+beisbol/S
 cacalote/S
 cachimbo/S
 cachumbo/S
