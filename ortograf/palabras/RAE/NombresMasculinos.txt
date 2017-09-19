@@ -5475,6 +5475,7 @@ estacionero/S
 estadero/S
 estadio/S
 estado/nS
+estadounidismo/S
 estafermo/S
 estafilococo/S
 estafiloma/S
