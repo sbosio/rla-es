@@ -64,6 +64,7 @@ chucho/S
 chupaflor/S
 clavado/S
 clóset/S
+cocotazo/S
 coloniaje/S
 comal/S
 comercial/S

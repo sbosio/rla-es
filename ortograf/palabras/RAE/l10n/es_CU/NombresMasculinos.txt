@@ -45,6 +45,7 @@ chavo/S
 chiche/S
 chuchero/S
 chucho/S
+cocotazo/S
 cogollero/S
 coloniaje/S
 comercial/S
