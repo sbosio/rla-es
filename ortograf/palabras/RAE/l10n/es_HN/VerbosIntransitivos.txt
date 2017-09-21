@@ -21,6 +21,7 @@ arrechar/RED
 arrendar/RID
 barajustar/RED
 camaronear/RED
+camellar/RED
 carretear/RED
 chambonear/RED
 chucanear/RED

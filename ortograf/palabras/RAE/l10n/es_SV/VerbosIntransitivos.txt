@@ -18,6 +18,7 @@ antipatizar/RED
 aparatar/RED
 averiguar/RED
 buitrear/RED
+camellar/RED
 carretear/RED
 chambonear/RED
 chotear/RED
