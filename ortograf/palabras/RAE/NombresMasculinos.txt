@@ -3049,6 +3049,7 @@ chaleco/S
 chalé/S
 chalet/S
 chal/S
+chamanismo/S
 chamariz/S
 chambelán/S
 chamizo/S
@@ -3092,7 +3093,7 @@ chascarro/SN
 chasco/S
 chasis
 chasquido/S
-chat
+chat/S
 chauvinismo/S
 chavetero/S
 chavo/S
@@ -4458,7 +4459,7 @@ díptero/S
 díptico/S
 diptongo/S
 dique/S
-directorio/S
+directorio/Ss
 dirigible/S
 disacárido/S
 disanto/S
@@ -10789,6 +10790,7 @@ regoldo/S
 regreso/S
 regüeldo/S
 reguero/S
+reguetón/S
 reguilete/S
 regulador/S
 regular/S
@@ -12206,6 +12208,7 @@ telescopio/S
 telesilla/S
 teletexto/S
 teletipo/S
+teletrabajo/S
 televisor/S
 tell
 telliz/S
@@ -12582,6 +12585,7 @@ transatlántico/S
 transbordador/S
 transcendentalismo/S
 transductor/S
+transexualismo/S
 transformador/S
 transformamiento/S
 transformismo/S
@@ -12646,6 +12650,7 @@ traumatismo/S
 travesaño/S
 travesero/S
 través/S
+travestismo/S
 trayecto/S
 trazado/S
 trazo/S

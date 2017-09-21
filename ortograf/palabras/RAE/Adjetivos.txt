@@ -2457,6 +2457,7 @@ chadiano/GS
 chalán/GS
 chalanesco/GS
 chaleco/S
+chamánico/GS
 chambergo/GS
 chamicero/GS
 chamorro/GS
@@ -4658,6 +4659,7 @@ epiléptico/GS
 epilogal/S
 epirota/S
 episcopal/S
+episódico/GS
 epistemológico/GS
 epistolar/S
 epitelial/S
@@ -5779,6 +5781,7 @@ genial/S
 génico/SG
 genital/S
 genitivo/GS
+genitor/GS
 genitourinario/GS
 genovés/SG
 gentilicio/GS
@@ -8400,6 +8403,7 @@ mulso/GS
 multicaule/S
 multicolor/S
 multicopista/S
+multicultural/S
 multifloro/GS
 multiforme/S
 multilateral/S
@@ -10092,6 +10096,7 @@ prusiano/GS
 pseudónimo/GS
 psicoanalista/S
 psicoanalítico/SG
+psicofisiológico/GS
 psicológico/SG
 psicopedagógico/GS
 psicótico/GS
@@ -11266,6 +11271,7 @@ siciliano/GS
 sicionio/GS
 sicoanalista/S
 sicoanalítico/GS
+sicofisiológico/GS
 sicológico/GS
 sicopedagógico/GS
 sicótico/GS
@@ -12106,6 +12112,7 @@ transbordador/GS
 transcendental/S
 transcontinental/S
 transeúnte/S
+transexual
 transferible/Sk
 transferidor/GS
 transfijo/GS

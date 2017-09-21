@@ -55,6 +55,7 @@ abuela/S
 abulaga/S
 abulia/S
 abundancia/rtS
+aburrición/S
 abyección/S
 acacia/S
 academia/S
@@ -4360,6 +4361,7 @@ extrusión/S
 extrusor/S
 exuberancia/S
 exudación/S
+eyaculación/S
 fabada/S
 fabla/S
 fabricación/S
@@ -5654,6 +5656,7 @@ institución/S
 institutriz/S
 instrucción/S
 instrumentación/S
+instrumentalización/S
 insubstancialidad/S
 ínsula/S
 insulina/S
@@ -5692,6 +5695,7 @@ intimidación/S
 intimidad/S
 intoxicación/hS
 intransitividad/S
+intranet
 intransmutabilidad/S
 intratabilidad/S
 intrepidez/S
@@ -7128,6 +7132,7 @@ motolita/S
 motonave/S
 motorización/S
 moto/S
+motricidad/S
 movedura/S
 movilidad/Ska
 movilización/S
@@ -8478,6 +8483,7 @@ preciosidad/S
 precipitación/S
 precisión/S
 precocidad/S
+precuela/S
 predela/S
 predicación/S
 predicaderas
@@ -8645,6 +8651,7 @@ prudencia/Sk
 prueba/pS
 pruna/S
 psi
+psicofisiología
 psicología/S
 psicopatía/S
 psicopatología/S
@@ -9592,6 +9599,7 @@ sexualidad/S
 sexualización/S
 sibila/S
 sicalipsis
+sicofisiología
 sicología/S
 sicopatía/S
 sicopatología/S
@@ -9717,6 +9725,7 @@ socarrina/S
 socarronería/S
 sociabilidad/Sk
 socialdemocracia/S
+socialización/S
 sociedad/S
 sociología/S
 socollada/S
@@ -10376,6 +10385,7 @@ transacción/S
 transcendencia/S
 transcripción/S
 transducción/S
+transexualidad/S
 transferencia/S
 transfiguración/S
 transfusión/S

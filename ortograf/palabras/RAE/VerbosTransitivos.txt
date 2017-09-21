@@ -2458,6 +2458,7 @@ instaurar/REDÀÂ
 instigar/RED
 instilar/RED
 instituir/IRDÀ
+instrumentalizar/RED
 instrumentar/REDÀÄ
 insuflar/REDÂÆ
 insumir/RED
@@ -3738,6 +3739,7 @@ vendar/REDÀÁÂÆÍÙÚ
 vendimiar/RED
 venerar/REDÀT
 ventar/IRD
+verbalizar/RED
 verguear/RED
 verruguetar/RED
 vertebrar/RED

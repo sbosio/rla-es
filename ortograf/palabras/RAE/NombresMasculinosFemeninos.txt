@@ -883,6 +883,7 @@ garduño/GS
 gatero/GS
 génesis
 genético/GS
+genitor/GS
 geofísico/GS
 geógrafo/GS
 gerente/GS
@@ -1796,6 +1797,7 @@ tosco/GS
 tostado/GS
 trabajador/GS
 tramitador/GS
+transexual/S
 tranviario/GS
 trapero/GS
 trapichero/GS
@@ -1803,6 +1805,9 @@ trasero/GS
 trasguero/GS
 trasplantado/GS
 travesío/GS
+travesti/S
+travestí/S
+travestista/S
 travieso/GS
 trepador/GS
 triaquero/GS
