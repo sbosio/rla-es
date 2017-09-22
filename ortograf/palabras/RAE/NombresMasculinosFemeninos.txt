@@ -1299,6 +1299,7 @@ orador/GS
 ordeñador/GS
 organillero/GS
 ornitólogo/GS
+ortógrafo/GS
 ortopédico/GS
 overo/GS
 pacotillero/GS

@@ -939,6 +939,7 @@ cuadruplicar/RED
 cualificar/RED
 cuantiar/IRD
 cuantificar/REDÀ
+cuantizar/RED
 cuartar/RED
 cuartelar/RED
 cuatrodoblar/RED

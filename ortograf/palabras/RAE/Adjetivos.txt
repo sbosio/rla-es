@@ -3881,6 +3881,7 @@ dialéctico/GS
 dialogal/S
 dialogístico/SG
 dial/S
+diamagnético/GS
 diamantino/GS
 diametral/S
 diandro/GS
@@ -9142,6 +9143,7 @@ paralímpico/GS
 paralítico/GS
 paralizador/GS
 paralizante/S
+paramagnético/GS
 paramétrico/GS
 paramilitar/S
 paranoico/GS

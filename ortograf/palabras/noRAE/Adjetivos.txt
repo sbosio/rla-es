@@ -19,6 +19,7 @@ acultural/S
 afrodescendiente/S
 anatomoclínico/GS
 anatomopatológico/GS
+ansiogénico/GS
 antiautoritario/GS
 anticomercial/S
 antihorario/GS

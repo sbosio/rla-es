@@ -2490,6 +2490,7 @@ calmazo/S
 calomelanos
 calomel/S
 calorífero/S
+calorímetro/S
 caló/S
 calostro/S
 calvario/S
@@ -5520,6 +5521,7 @@ estercolar/S
 estercolero/S
 estercuelo/S
 estéreo/S
+estereorradián/S
 estereoscopio/S
 estereotipo/S
 esterilizador/S

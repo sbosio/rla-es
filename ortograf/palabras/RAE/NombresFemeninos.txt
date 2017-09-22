@@ -1798,6 +1798,7 @@ caobilla/S
 capacha/S
 capacidad/kS
 capacitación/S
+capacitancia/S
 capadura/S
 caparidácea/S
 caparra/S
