@@ -5,6 +5,7 @@
 # Información sobre colombianismos:
 # https://github.com/cosmoscalibur/rla-es/wiki/Colombianismos
 
+actualizado/GSh
 berraco/GS
 cansón/GS
 enguayabado/GS

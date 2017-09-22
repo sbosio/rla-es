@@ -1647,6 +1647,7 @@ bibliográfico/GS
 bíceps
 bicolor/S
 bicorne/S
+bicultural/S
 bidente/S
 bidimensional/S
 bielorruso/GS
@@ -8123,6 +8124,7 @@ minorista/S
 minoritario/GS
 minucioso/SG
 minúsculo/GS
+minusválido/GS
 minuta/S
 mioceno/GS
 miope/S

@@ -55,6 +55,7 @@ bisalto/S
 bodollo/S
 bolagar/S
 bolichero/S
+botellón/S
 botrino/S
 bucardo/S
 cabalero/S

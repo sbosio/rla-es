@@ -1200,6 +1200,7 @@ mimbrero/GS
 minero/GS
 mínimo/GS
 ministro/GS
+minusválido/GS
 mirado/GS
 misántropo/GS
 misio/GS
@@ -1797,7 +1798,6 @@ tosco/GS
 tostado/GS
 trabajador/GS
 tramitador/GS
-transexual/S
 tranviario/GS
 trapero/GS
 trapichero/GS
@@ -1805,9 +1805,6 @@ trasero/GS
 trasguero/GS
 trasplantado/GS
 travesío/GS
-travesti/S
-travestí/S
-travestista/S
 travieso/GS
 trepador/GS
 triaquero/GS
@@ -1870,6 +1867,7 @@ veterano/GS
 veterinario/GS
 viajero/GS
 vicario/GS
+vicedirector/GS
 viceconsiliario/GS
 vicegobernador/GS
 vicepresidente/GS

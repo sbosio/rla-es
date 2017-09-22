@@ -3009,7 +3009,7 @@ cuadrada/S
 cuadra/NS
 cuadranura/S
 cuadratura/S
-cuadrícula/S
+cuadrícula/Ss
 cuadriga/S
 cuadropea/S
 cuajada/S
@@ -3210,6 +3210,7 @@ denticina/S
 dentición/S
 dentina/S
 denuncia/S
+deontología/S
 dependencia/klS
 dependienta/S
 depilación/S
@@ -5506,6 +5507,7 @@ importunidad/S
 imposta/S
 impracticabilidad/S
 imprecación/S
+impregnación/S
 imprenta/S
 imprescriptibilidad/S
 impresionabilidad/S
@@ -5653,6 +5655,7 @@ instantánea/S
 instauración/S
 instigación/S
 institución/S
+institucionalización/S
 institutriz/S
 instrucción/S
 instrumentación/S
@@ -5852,6 +5855,7 @@ judiada/S
 judía/S
 judicatura/S
 juerga/S
+jueza/S
 jugada/S
 jugadera/S
 jugarreta/S
@@ -9066,6 +9070,7 @@ repugnancia/S
 repulsa/S
 repulsión/S
 reputación/S
+requisición/S
 res
 resbaladura/S
 resbalera/S

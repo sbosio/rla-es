@@ -1969,6 +1969,7 @@ bigote/S
 bigotudo/S
 bikini/S
 bilao/S
+bilingüismo/S
 billar/S
 billete/SC
 billón/S
@@ -4602,6 +4603,7 @@ dril/S
 drino/iS
 droguete/S
 dromedario/S
+dron/S
 dropacismo/S
 drope/S
 druida/OS
@@ -5700,6 +5702,7 @@ extrarradio/S
 extravío/S
 extremismo/S
 extremo/S
+exutorio/S
 exvoto/S
 fa
 fabriquero/S
@@ -5785,6 +5788,7 @@ federativo/S
 feldespato/S
 félido/S
 felpudo/S
+feminicidio/S
 femenino/S
 feminismo/S
 femoral/S
@@ -7174,6 +7178,7 @@ judas
 judiar/S
 juego/S
 jueves
+juez/S
 juglar/S
 jugo/S
 jugueteo/S
