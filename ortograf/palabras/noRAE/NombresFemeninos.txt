@@ -23,6 +23,7 @@ autoconfianza/S
 autodisciplina/S
 autoimagen/S
 autoprotección/S		# Contribuida por César Romé
+coparentalidad
 criolita/S
 cromita/S
 cumplimentación/S

@@ -55,6 +55,7 @@ abuela/S
 abulaga/S
 abulia/S
 abundancia/rtS
+aburrición/S
 abyección/S
 acacia/S
 academia/S
@@ -1797,6 +1798,7 @@ caobilla/S
 capacha/S
 capacidad/kS
 capacitación/S
+capacitancia/S
 capadura/S
 caparidácea/S
 caparra/S
@@ -3008,7 +3010,7 @@ cuadrada/S
 cuadra/NS
 cuadranura/S
 cuadratura/S
-cuadrícula/S
+cuadrícula/Ss
 cuadriga/S
 cuadropea/S
 cuajada/S
@@ -3209,6 +3211,7 @@ denticina/S
 dentición/S
 dentina/S
 denuncia/S
+deontología/S
 dependencia/klS
 dependienta/S
 depilación/S
@@ -4360,6 +4363,7 @@ extrusión/S
 extrusor/S
 exuberancia/S
 exudación/S
+eyaculación/S
 fabada/S
 fabla/S
 fabricación/S
@@ -5504,6 +5508,7 @@ importunidad/S
 imposta/S
 impracticabilidad/S
 imprecación/S
+impregnación/S
 imprenta/S
 imprescriptibilidad/S
 impresionabilidad/S
@@ -5651,9 +5656,11 @@ instantánea/S
 instauración/S
 instigación/S
 institución/S
+institucionalización/S
 institutriz/S
 instrucción/S
 instrumentación/S
+instrumentalización/S
 insubstancialidad/S
 ínsula/S
 insulina/S
@@ -5692,6 +5699,7 @@ intimidación/S
 intimidad/S
 intoxicación/hS
 intransitividad/S
+intranet
 intransmutabilidad/S
 intratabilidad/S
 intrepidez/S
@@ -5848,6 +5856,7 @@ judiada/S
 judía/S
 judicatura/S
 juerga/S
+jueza/S
 jugada/S
 jugadera/S
 jugarreta/S
@@ -7128,6 +7137,7 @@ motolita/S
 motonave/S
 motorización/S
 moto/S
+motricidad/S
 movedura/S
 movilidad/Ska
 movilización/S
@@ -8478,6 +8488,7 @@ preciosidad/S
 precipitación/S
 precisión/S
 precocidad/S
+precuela/S
 predela/S
 predicación/S
 predicaderas
@@ -8645,6 +8656,7 @@ prudencia/Sk
 prueba/pS
 pruna/S
 psi
+psicofisiología
 psicología/S
 psicopatía/S
 psicopatología/S
@@ -9059,6 +9071,7 @@ repugnancia/S
 repulsa/S
 repulsión/S
 reputación/S
+requisición/S
 res
 resbaladura/S
 resbalera/S
@@ -9592,6 +9605,7 @@ sexualidad/S
 sexualización/S
 sibila/S
 sicalipsis
+sicofisiología
 sicología/S
 sicopatía/S
 sicopatología/S
@@ -9717,6 +9731,7 @@ socarrina/S
 socarronería/S
 sociabilidad/Sk
 socialdemocracia/S
+socialización/S
 sociedad/S
 sociología/S
 socollada/S
@@ -10376,6 +10391,7 @@ transacción/S
 transcendencia/S
 transcripción/S
 transducción/S
+transexualidad/S
 transferencia/S
 transfiguración/S
 transfusión/S

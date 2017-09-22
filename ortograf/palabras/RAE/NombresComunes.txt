@@ -258,6 +258,7 @@ cotilla/S
 cronista/S
 cronologista/S
 cuchareta/S
+cuentacuentos
 cuentista/S
 cultureta/S
 curalotodo/S
@@ -749,6 +750,7 @@ tragaleguas
 tragamallas
 tragasantos
 tramoyista/S
+transexual/S
 transformista/S
 trapecista/S
 trapisondista/S
@@ -756,6 +758,9 @@ trasmano/S
 traspunte/S
 tratadista/S
 tratante/S
+travesti/S
+travestí/S
+travestista/S
 trepa/S
 tresillista/S
 tripulante/S

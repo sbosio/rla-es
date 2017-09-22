@@ -38,6 +38,7 @@ encalamocar/RED
 encamotar/RED
 endrogar/RED
 enguarapar/RED
+enguayabar/RED
 espitar/RED
 fondear/RED
 fregar/IRDñõ

@@ -6,4 +6,3 @@
 # Elaborado para el proyecto [RLA-ES](https://github.com/sbosio/rla-es/).
 
 actualizado/GSh
-cansón/GS

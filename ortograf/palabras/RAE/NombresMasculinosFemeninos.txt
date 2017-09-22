@@ -883,6 +883,7 @@ garduño/GS
 gatero/GS
 génesis
 genético/GS
+genitor/GS
 geofísico/GS
 geógrafo/GS
 gerente/GS
@@ -1199,6 +1200,7 @@ mimbrero/GS
 minero/GS
 mínimo/GS
 ministro/GS
+minusválido/GS
 mirado/GS
 misántropo/GS
 misio/GS
@@ -1297,6 +1299,7 @@ orador/GS
 ordeñador/GS
 organillero/GS
 ornitólogo/GS
+ortógrafo/GS
 ortopédico/GS
 overo/GS
 pacotillero/GS
@@ -1865,6 +1868,7 @@ veterano/GS
 veterinario/GS
 viajero/GS
 vicario/GS
+vicedirector/GS
 viceconsiliario/GS
 vicegobernador/GS
 vicepresidente/GS

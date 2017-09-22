@@ -1647,6 +1647,7 @@ bibliográfico/GS
 bíceps
 bicolor/S
 bicorne/S
+bicultural/S
 bidente/S
 bidimensional/S
 bielorruso/GS
@@ -2457,6 +2458,7 @@ chadiano/GS
 chalán/GS
 chalanesco/GS
 chaleco/S
+chamánico/GS
 chambergo/GS
 chamicero/GS
 chamorro/GS
@@ -3879,6 +3881,7 @@ dialéctico/GS
 dialogal/S
 dialogístico/SG
 dial/S
+diamagnético/GS
 diamantino/GS
 diametral/S
 diandro/GS
@@ -4658,6 +4661,7 @@ epiléptico/GS
 epilogal/S
 epirota/S
 episcopal/S
+episódico/GS
 epistemológico/GS
 epistolar/S
 epitelial/S
@@ -5779,6 +5783,7 @@ genial/S
 génico/SG
 genital/S
 genitivo/GS
+genitor/GS
 genitourinario/GS
 genovés/SG
 gentilicio/GS
@@ -8120,6 +8125,7 @@ minorista/S
 minoritario/GS
 minucioso/SG
 minúsculo/GS
+minusválido/GS
 minuta/S
 mioceno/GS
 miope/S
@@ -8400,6 +8406,7 @@ mulso/GS
 multicaule/S
 multicolor/S
 multicopista/S
+multicultural/S
 multifloro/GS
 multiforme/S
 multilateral/S
@@ -9136,6 +9143,7 @@ paralímpico/GS
 paralítico/GS
 paralizador/GS
 paralizante/S
+paramagnético/GS
 paramétrico/GS
 paramilitar/S
 paranoico/GS
@@ -10092,6 +10100,7 @@ prusiano/GS
 pseudónimo/GS
 psicoanalista/S
 psicoanalítico/SG
+psicofisiológico/GS
 psicológico/SG
 psicopedagógico/GS
 psicótico/GS
@@ -11266,6 +11275,7 @@ siciliano/GS
 sicionio/GS
 sicoanalista/S
 sicoanalítico/GS
+sicofisiológico/GS
 sicológico/GS
 sicopedagógico/GS
 sicótico/GS
@@ -12106,6 +12116,7 @@ transbordador/GS
 transcendental/S
 transcontinental/S
 transeúnte/S
+transexual
 transferible/Sk
 transferidor/GS
 transfijo/GS

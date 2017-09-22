@@ -17,6 +17,7 @@
 antipatizar/RED
 barajustar/RED
 camaronear/RED
+camellar/RED
 cancanear/RED
 carretear/RED
 chambonear/RED
@@ -37,6 +38,7 @@ hostigar/RED
 joropear/RED
 leñatear/RED
 magancear/RED
+mecatear/RED
 pallar/RED
 pampear/RED
 pendejear/RED
