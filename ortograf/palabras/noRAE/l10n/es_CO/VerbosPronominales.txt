@@ -1,17 +1,8 @@
-# Lista de lemas: NombresFemeninos.txt
+# Lista de lemas: VerbosPronominales.txt
 
 # Esta lista es elaborada por Edward Villegas Pulgarin (github:@cosmoscalibur)
 # para el Proyecto RLA-ES https://github.com/sbosio/rla-es/.
 # Información sobre colombianismos:
 # https://github.com/cosmoscalibur/rla-es/wiki/Colombianismos
 
-areta/S
-cicla/S
-ciclorruta/S
-jartera/S
-mamera/S
-marimonda/S
-planeación/S
-pola/S
-registraduría/S
-remontadora/S
+arrunchar/RED

@@ -92,4 +92,5 @@ una
 uno
 usted/S
 vos
+vosotros/G
 yo

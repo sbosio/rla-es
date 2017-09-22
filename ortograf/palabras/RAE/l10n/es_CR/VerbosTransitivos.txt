@@ -58,6 +58,7 @@ humear/RED
 hurguetear/RED
 improbar/IRD
 manojear/RED
+mecatear/RED
 nalguear/RED
 obstinar/RED
 pajear/RED

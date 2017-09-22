@@ -31,6 +31,7 @@ encamotar/RED
 enguarapar/RED
 fondear/RED
 fregar/IRDñõ
+mecatear/RED
 pajear/RED
 rebuscar/RED
 sobar/REDñò

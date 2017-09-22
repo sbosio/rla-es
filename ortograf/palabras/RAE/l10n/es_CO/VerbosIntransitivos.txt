@@ -38,6 +38,7 @@ hostigar/RED
 joropear/RED
 leñatear/RED
 magancear/RED
+mecatear/RED
 pallar/RED
 pampear/RED
 pendejear/RED
