@@ -714,6 +714,7 @@ amenazante/S
 ameno/SG
 amerengado/SG
 americanista/S
+americanístico/GS
 americano/GS
 amerindio/SG
 amestizado/GS
@@ -1670,6 +1671,7 @@ bigotudo/GS
 bilbilitano/GS
 biliario/GS
 biliar/S
+bilingüe/S
 billonario/GS
 bimano/GS
 bimembre/S
@@ -6404,6 +6406,7 @@ identificador/GS
 identificativo/GS
 ideológico/GS
 idílico/SG
+idiomático/GS
 idiota/S
 idólatra/S
 idóneo/GS
@@ -7116,6 +7119,7 @@ lacónico/GS
 laconio/GS
 lacre/SG
 lacrimal/S
+lacrimógeno/GS
 lacrimoso/GS
 lactante/S
 lactario/GS
@@ -8215,6 +8219,7 @@ mojador/GS
 mojigato/GS
 molar/nS
 moldavo/GS
+moldeable/S
 moldeador/GS
 molecular/S
 moledero/GS

@@ -30,6 +30,7 @@ carón/GS
 carrozable/S
 cebado/SG
 chancho/GS
+chévere/S
 chivillo/GS
 cholo/GS
 chueco/GS

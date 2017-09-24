@@ -31,6 +31,7 @@ chapeado/GS
 chapín/SG
 chasco/GS
 chavo/GS
+chévere/S
 choco/SG
 cholo/GS
 chueco/GS

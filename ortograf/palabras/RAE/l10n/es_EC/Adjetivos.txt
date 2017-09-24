@@ -32,6 +32,7 @@ cañizo/SG
 carrozable/S
 cebado/SG
 chancho/GS
+chévere/S
 cholo/GS
 chueco/GS
 codo/GS

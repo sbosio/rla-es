@@ -834,6 +834,7 @@ amelo/S
 amén/S
 amento/S
 ameos
+americanismo/S
 amerizaje/S
 ametrallamiento/S
 ami
@@ -947,6 +948,7 @@ angelote/S
 angioma/S
 anglicanismo/S
 anglicismo/S
+angloamericanismo/S
 anglosajón/S
 anguilazo/S
 angular/S
@@ -6309,6 +6311,7 @@ gradiente/S
 grado/aS
 graduador/S
 gradual/S
+grafeno/S
 grafito/S
 grafo/S
 grais			# Plural de gray
@@ -9885,6 +9888,7 @@ placer/hS
 placimiento/S
 plafón/S
 planchazo/S
+planchón/S
 planco/S
 plancton
 plánctones

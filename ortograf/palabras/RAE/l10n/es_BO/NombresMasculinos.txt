@@ -98,6 +98,7 @@ noticioso/S
 overol/S
 papelerío/S
 parlante/S
+parqueadero/S
 patrullero/S
 pichiruche/S
 pizarrón/S

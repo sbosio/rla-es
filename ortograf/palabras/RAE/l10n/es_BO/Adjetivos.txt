@@ -27,6 +27,7 @@ cachudo/GS
 canchero/GS
 cebado/SG
 chancho/GS
+chévere/S
 chiche/SG
 choco/SG
 cholo/GS

@@ -122,6 +122,7 @@ olaje/S
 overol/S
 papelerío/S
 parlante/S
+parqueadero/S
 patrullero/S
 pizarrón/S
 platón/S

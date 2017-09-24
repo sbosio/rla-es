@@ -561,6 +561,7 @@ amenaza/S
 amenidad/S
 amenorrea/S
 americanada/S
+americanística
 ametista/S
 ametrallador/S
 amia/S
@@ -2566,6 +2567,7 @@ compilación/S
 complacencia/S
 complejidad/S
 complementación/S
+complementariedad/S
 completas
 completud/S
 complexidad/S
@@ -4931,6 +4933,7 @@ gleba/S
 glicerina/S
 glicina/S
 glicinia/S
+globalización/S
 glorieta/S
 glorificación/S
 Gloriosa
@@ -5238,6 +5241,7 @@ hética/S
 hetiquez/S
 hevea/S
 hez/S
+hibridación/S
 hicotea/S
 hidalguez/S
 hidalguía/S

@@ -24,6 +24,7 @@ canchero/GS
 cebado/SG
 chancho/GS
 chasco/GS
+chévere/S
 cholo/GS
 chueco/GS
 correntoso/GS
