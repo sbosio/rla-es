@@ -46,6 +46,7 @@ complementos de cada aplicación.
 
 * [Argentina](https://addons.mozilla.org/es/firefox/addon/diccionario-espa%C3%B1ol-argentina/)
 * [España](https://addons.mozilla.org/es/firefox/addon/spanish-spain-dictionary/)
+* [México](https://addons.mozilla.org/es/firefox/addon/spanish-mexico-dictionary/)
 
 ## Colaboración
 
