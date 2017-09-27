@@ -55,6 +55,7 @@ orillero/GS
 paletero/GS
 penoso/GS
 pocho/GS
+profesionista/S
 resbaloso/GS
 rielero/GS
 tachero/GS
