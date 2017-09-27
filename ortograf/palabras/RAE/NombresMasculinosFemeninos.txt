@@ -445,6 +445,7 @@ chupón/GS
 churrero/GS
 churro/GS
 chusco/GS
+cibernauta/S
 cigarrero/GS
 cincelador/GS
 cintero/GS
