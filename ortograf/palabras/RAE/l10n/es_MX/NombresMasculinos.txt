@@ -110,6 +110,7 @@ guachinango/S
 guajolote/S
 guarache/S
 guarapo/S
+güey/S
 huacal/S
 huarache/S
 huitlacoche/S
