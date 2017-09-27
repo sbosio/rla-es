@@ -20,3 +20,4 @@ esgrimista/S
 lustrabotas
 oficialista/S
 pana/S
+tallerista/S

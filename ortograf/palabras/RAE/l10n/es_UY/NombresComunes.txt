@@ -31,6 +31,7 @@ palangana/S
 pergenio/S
 pierna/S
 sota/S
+tallerista/S
 terraja/S
 traga/S
 tranca/S

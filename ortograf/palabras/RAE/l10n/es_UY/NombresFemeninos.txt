@@ -86,6 +86,7 @@ renguera/S
 renquera/S
 salamanca/S
 salivadera/S
+seccional/S
 señalada/S
 seringa/S
 silbatina/S

@@ -71,6 +71,7 @@ reclame/S
 renguera/S
 renquera/S
 salivadera/S
+seccional/S
 seringa/S
 silbatina/S
 soca/S

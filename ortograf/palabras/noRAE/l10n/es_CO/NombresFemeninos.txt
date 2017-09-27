@@ -15,3 +15,4 @@ planeación/S
 pola/S
 registraduría/S
 remontadora/S
+seccional/S

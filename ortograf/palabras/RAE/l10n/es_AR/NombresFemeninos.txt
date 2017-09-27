@@ -98,6 +98,7 @@ saltana/S
 salvilora/S
 sampa/S
 sariama/S
+seccional/S
 señalada/S
 seringa/S
 silbatina/S

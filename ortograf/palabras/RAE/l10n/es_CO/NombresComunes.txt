@@ -25,3 +25,4 @@ guache/S
 lustrabotas
 magíster/S
 oficialista/S
+tallerista/S
