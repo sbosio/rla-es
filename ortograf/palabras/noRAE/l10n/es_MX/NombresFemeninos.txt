@@ -15,5 +15,6 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 aberracidad/S
+carrilla/S
 cheve/S
 tlayuda/S
