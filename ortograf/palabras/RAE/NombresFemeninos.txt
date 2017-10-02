@@ -3246,6 +3246,7 @@ desbastadura/S
 desborradora/S
 descalabradura/S
 descalcez/S
+descalificación/S
 descamación/S
 descargadura/S
 descarriladura/S

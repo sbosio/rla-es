@@ -3145,6 +3145,7 @@ copiador/GSa
 copilador/GS
 copioso/GS
 coproductor/GS
+coprológico/GS
 copropietario/GS
 copto/GS
 copudo/SG
