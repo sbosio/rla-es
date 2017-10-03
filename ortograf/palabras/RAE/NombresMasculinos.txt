@@ -1499,6 +1499,7 @@ autismo/S
 autobombo/S
 autobús
 autocontrol/S
+autodidactismo
 autoestop
 autoestopes
 autógrafo/S

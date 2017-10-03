@@ -486,6 +486,7 @@ matricida/S
 maula/S
 mayorazguista/S
 mayorista/S
+medellinense/S
 medievalista/S
 médium
 memorialista/S
@@ -615,6 +616,7 @@ presidente/wS
 prestamista/S
 profesional/S
 prologuista/S
+proponente/S
 prosista/S
 protagonista/S
 provenzalista/S

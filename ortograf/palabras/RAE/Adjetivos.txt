@@ -5035,6 +5035,7 @@ evacuante/S
 evacuativo/GS
 evacuatorio/GS
 evaluador/GS
+evaluativo/GS
 evanescente/S
 evangélico/GS
 evangelizador/GS
@@ -7908,6 +7909,7 @@ mecano/GS
 mecedor/GS
 mechoso/GS
 medanoso/GS
+medellinense/S
 mediado/GS
 mediador/pGSl
 media/l
@@ -10049,6 +10051,7 @@ propicio/GS
 propietario/GS
 propincuo/GS
 propio/kGS
+proponente/S
 proporcionada/h
 proporcionado/hSG
 proporcional/S
