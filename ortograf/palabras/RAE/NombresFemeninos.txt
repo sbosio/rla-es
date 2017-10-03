@@ -7834,6 +7834,7 @@ pasada/S
 pasadera/pS
 pasadura/S
 pasamanería/S
+pasantía/S
 pasarela/S
 pasa/S
 pascua/S

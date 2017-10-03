@@ -86,7 +86,9 @@ postraumático/GS
 posvacacional/S
 predictivo/GS
 prescriptor/GS
+propositivo/GS
 ranurado/GS
+reproducible/S
 santaluciano/GS
 semiconsciente/S
 semielaborado/GS

@@ -27,6 +27,7 @@ coparentalidad
 criolita/S
 cromita/S
 cumplimentación/S
+desconferencia/S
 ferroaleación/S
 fundamentación/S
 granularidad/S
