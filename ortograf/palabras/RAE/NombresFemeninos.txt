@@ -708,6 +708,7 @@ antigüedad/S
 antimonita/S
 antinomia/S
 antipara/S
+antipartícula/S
 antipatía/S
 antipirina/S
 antisepsia/S
@@ -1285,6 +1286,7 @@ bibijagua/S
 biblia/S
 bibliofilia/S
 bibliografía/S
+bibliología
 biblioteca/S
 bicha/S
 bicicleta/S

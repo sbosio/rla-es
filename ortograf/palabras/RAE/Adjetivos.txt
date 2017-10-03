@@ -775,6 +775,7 @@ anarquista/S
 anarquizante/S
 anatematizador/GS
 anatolio/GS
+anatómico/GS
 ancado/GS
 ancestral/S
 ancha/j
@@ -1302,8 +1303,7 @@ atlántico/uSG
 atlético/GS
 atmosférico/SG
 atolondrado/GS
-atómica/a
-atómico/aSG
+atómico/sSG
 atomístico/GS
 atónito/SG
 átono/GS

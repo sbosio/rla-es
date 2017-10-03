@@ -3744,6 +3744,7 @@ ventar/IRD
 verbalizar/RED
 verguear/RED
 verruguetar/RED
+versionar/RED
 vertebrar/RED
 verticalizar/REDA
 vetar/REDÀ
