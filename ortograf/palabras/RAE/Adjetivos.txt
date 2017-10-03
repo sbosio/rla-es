@@ -548,6 +548,7 @@ alesnado/GS
 alevoso/GS
 alfabeta/a
 alfabético/GS
+alfabetizable/S
 alfanumérico/GS
 alfar/S
 alfonsino/SG
@@ -2546,6 +2547,7 @@ chusco/SG
 chusquero/S
 ciánico/GS
 cibeleo/GS
+cibernético/GS
 cicatero/GS
 cicatrizante/S
 cicatrizativo/GS
