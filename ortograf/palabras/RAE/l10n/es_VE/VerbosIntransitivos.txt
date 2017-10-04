@@ -36,6 +36,7 @@ joropear/RED
 pallar/RED
 pampear/RED
 pendejear/RED
+pichar/RED
 rumbear/RED
 sabanear/RED
 sufragar/RED

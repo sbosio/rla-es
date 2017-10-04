@@ -37,6 +37,7 @@ lerdear/RED
 nancear/RED
 pampear/RED
 pendejear/RED
+pichar/RED
 recesar/RED
 rumbear/RED
 sabanear/RED
