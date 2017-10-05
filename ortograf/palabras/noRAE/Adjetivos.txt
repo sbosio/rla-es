@@ -29,6 +29,7 @@ autodenominado/GS
 autodeterminado/GS
 autolubricante/S
 autosustentable/S
+bariónico/GS
 belaruso/GS
 belorruso/GS
 bidireccional/S
@@ -36,12 +37,14 @@ bisauguineano/GS
 booleano/GS
 botsuanés/S
 burkinés/GS
+cataclísmico/GS
 catamarcano/GS
 ceilandés/GS
 colaborativo/GS
 combinacional/S			# Contribuida por César Romé
 completísimo/GS
 contextualizado/GS
+cromodinámico/GS
 desarrollador/GS
 desorbitante/S
 destellante/S
@@ -49,14 +52,20 @@ desvaneciente/S
 diédrico/GS
 emiratí/S
 fenólico/GS
+ferrimagnético/GS
 finísimo/GS
 franquiciado/GS
 geotérmico/GS
 globalizado/GS
 grandísimo/GS
+gravable/S
 hidrotérmico/GS
+hipergeométrico/GS
+holofónico/GS
 incremental/S
 inefectivo/GS
+inentendible/S
+inferencial/S
 inspectorial/S
 interoperable/S			# Contribuida por Gonzalo Higuera Díaz
 interrelacionado/GS
@@ -69,11 +78,14 @@ microinformático/GS
 monopólico/GS
 monotípico/S
 multidisciplinario/GS
+multiescala/S
+nanométrico/GS
 neoguineano/GS
 oligopólico/GS
 omanés/GS
 omnidireccional/S
 organizacional/S
+ortotipográfico/GS
 papuano/GS
 participativo/GS
 patrocinante/S
@@ -89,6 +101,7 @@ prescriptor/GS
 propositivo/GS
 ranurado/GS
 reproducible/S
+reumatoide/S
 santaluciano/GS
 semiconsciente/S
 semielaborado/GS

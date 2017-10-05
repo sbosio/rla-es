@@ -31,6 +31,7 @@ hermanito/GS
 hijito/GS
 igualito/GS
 indignadísimo/GS
+jovencito/GS
 jovenzuelo/GS
 lentísimo/GS
 mayorcito/GS		# Contribuida por Gonzalo Higuera Díaz

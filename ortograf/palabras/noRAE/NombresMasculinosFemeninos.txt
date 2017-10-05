@@ -18,3 +18,4 @@ capacitador/GS
 desarrollador/GS
 originador/GS
 prescriptor/GS
+productorio/GS

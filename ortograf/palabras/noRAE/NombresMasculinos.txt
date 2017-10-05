@@ -15,18 +15,25 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 alnico/S
+anticuark/S
+arché
+arjé
 autoconocimiento/S
 autodesarrollo/S
 bailecillo/S
+barión/S
 capacitor/S								# Acordado en https://github.com/sbosio/rla-es/issues/8
 causalismo/S
 cibercafé/S
+clúster/S
 coherentismo/S
 datáfono/S
 dimensionamiento/S
 direccionamiento/S
+espectrógrafo/S
 exjugador/GS
 fenólico/S
+ferrimagnetismo
 flexómetro/S
 franquiciado/S
 fundacionismo/S
@@ -36,13 +43,22 @@ iusnaturalismo
 kiosko/S
 máster/S
 metadato/S
+microcurrículo/S
+nanomaterial/S
+nanómetro/S
 poliestireno/S
 polímetro/S
 portabroca/S
+posprocesamiento/S
+precálculo/S
+preprocesamiento/S
 punzonado/S
 ratito/S
 ranurado/S
 rebarbado/S
 refrentado/S
-renting
-swing
+renting # extranjerismo no adaptado #139
+swing # extranjerismo no adaptado #139
+titán/S
+versionamiento/S
+vivario/S

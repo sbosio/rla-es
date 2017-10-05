@@ -17,24 +17,35 @@
 acupresión/S			# Contribuida por Ricardo Goldberger
 amigdalectomía/S
 apendicectomía/S
+astrometría
 autocompasión/S
 autoconciencia/S
 autoconfianza/S
 autodisciplina/S
 autoimagen/S
 autoprotección/S		# Contribuida por César Romé
+bibliometría
+comerciabilidad
+convolución/S
 coparentalidad
 criolita/S
 cromita/S
+cromodinámica
+cuantización/S
 cumplimentación/S
 desconferencia/S
 ferroaleación/S
 fundamentación/S
 granularidad/S
+holofonía/S
 interoperatividad/S		# Contribuida por Gonzalo Higuera Díaz
+magnificación/S
 mercantilización/S
 meritocracia/S
 microinformática/S
+modelación/S
+nanoindentación/S
+ortotipografía
 personalización/S
 preproducción/S			# Contribuida por Sergio Medina
 priorización/S
@@ -46,7 +57,10 @@ sobreutilización/S
 subcultura/S
 subfamilia/S
 subrutina/S
+sumatoria/S
+supersimetría/S
 temporalización/S
+titánide/S
 totalización/S
 usabilidad/S
 vinoteca/S
