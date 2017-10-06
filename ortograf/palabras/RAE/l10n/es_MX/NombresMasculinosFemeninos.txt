@@ -27,6 +27,7 @@ chaperón/GS
 chapín/GS
 chavo/GS
 chilero/GS
+chilpayate/GS
 cholo/GS
 chueco/GS
 cogotudo/GS
