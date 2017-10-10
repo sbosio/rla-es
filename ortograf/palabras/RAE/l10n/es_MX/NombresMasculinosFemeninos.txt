@@ -35,6 +35,7 @@ coyotero/GS
 cuate/GS
 desocupado/GS
 entrador/GS
+escuincle/GS
 ferrocarrilero/GS
 güiro/GS
 hierbatero/GS
