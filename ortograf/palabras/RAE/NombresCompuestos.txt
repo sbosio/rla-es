@@ -480,6 +480,7 @@ repelada/S
 restringido/S
 resucitado/S
 retrocarga/S
+reumatoide/S
 reversa/S
 ribonucleico/S
 ripiao/S

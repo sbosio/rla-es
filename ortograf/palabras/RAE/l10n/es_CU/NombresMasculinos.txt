@@ -27,6 +27,7 @@ atol/S
 atrenzo/S
 aurero/S
 bajillo/S
+bluyín/S
 bocabajo/S
 boniatillo/S
 brillador/S
@@ -86,6 +87,7 @@ güin/S
 irrespeto/S
 jan/S
 jeringatorio/S
+jonrón/S
 maguey/S
 majarete/S
 malojero/S

@@ -367,6 +367,7 @@ gacetista/S
 gaita/S
 galicista/S
 gallina/S
+gánster/S
 gatera/S
 genealogista/S
 general/S

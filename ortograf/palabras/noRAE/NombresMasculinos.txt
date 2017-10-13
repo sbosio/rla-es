@@ -62,3 +62,4 @@ swing # extranjerismo no adaptado #139
 titán/S
 versionamiento/S
 vivario/S
+yacusi/S

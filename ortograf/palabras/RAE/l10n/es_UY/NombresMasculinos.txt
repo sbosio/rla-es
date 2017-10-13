@@ -39,6 +39,7 @@ barbijo/S
 benteveo/S
 bizcochuelo/S
 blandengue/S
+bluyín/S
 cabildante/S
 cachimbo/S
 cachumbo/S
@@ -94,6 +95,7 @@ guindado/S
 hembraje/S
 huaco/S
 jeringatorio/S
+jonrón/S
 laburo/S
 leuco/S
 maguey/S

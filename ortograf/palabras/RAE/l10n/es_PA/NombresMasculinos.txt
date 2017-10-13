@@ -23,6 +23,7 @@ amacayo/S
 ara/S
 atrenzo/S
 beisbol/S
+bluyín/S
 bulón/S
 cacalote/S
 cachimbo/S
@@ -69,6 +70,7 @@ jeringatorio/S
 jícaro/S
 jicote/S
 jilote/S
+jonrón/S
 maguey/S
 mecate/S
 multifamiliar/S

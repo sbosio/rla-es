@@ -43,6 +43,7 @@ dote/S
 dracma/S
 duermevela/S
 enzima/S
+escúter/S
 esperma/S
 estambre/S
 eximente/S

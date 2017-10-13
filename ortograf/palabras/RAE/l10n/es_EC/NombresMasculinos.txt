@@ -28,6 +28,7 @@ ara/S
 atrenzo/S
 balero
 bananal
+bluyín/S
 bodegaje/S
 bolsico/S
 box
@@ -91,6 +92,7 @@ hembraje/S
 huacal/S
 huaco/S
 jeringatorio/S
+jonrón/S
 lastimado/S
 llapingacho/S
 lleve/S

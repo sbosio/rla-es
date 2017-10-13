@@ -1649,6 +1649,7 @@ bailable/S
 bailadero/S
 bailecito/S
 baile/S
+baipás/S
 bajalato/S
 bajamanero/S
 bajamano/S
@@ -2022,6 +2023,7 @@ blastodermo/S
 bledo/S
 ble/S
 blindaje/S
+blíster/S
 bloc
 blocao/S
 blog/S
@@ -3884,6 +3886,7 @@ crono/S
 croquis
 cross
 crótalo/S
+cruasán/S
 crucero/S
 cruce/S
 cruces/r

@@ -27,6 +27,7 @@ atol/S
 atorrante/S
 atrenzo/S
 beisbol/S
+bluyín/S
 cacalote/S
 cachimbo/S
 cachumbo/S
@@ -77,6 +78,7 @@ jeringatorio/S
 jícaro/S
 jicote/S
 jilote/S
+jonrón/S
 magíster/S
 maguey/S
 manigordo/S

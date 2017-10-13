@@ -38,6 +38,7 @@ beisbol/S
 belduque/S
 bingarrote/S
 binguí/S
+bluyín/S
 botellón/S
 box
 burrito/S
@@ -120,6 +121,7 @@ jícaro/S
 jicote/S
 jilote/S
 jitomate/S
+jonrón/S
 llegue/S
 machero/S
 maguey/S

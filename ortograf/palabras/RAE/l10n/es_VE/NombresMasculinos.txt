@@ -28,6 +28,7 @@ atol/S
 atrenzo/S
 banderillazo/S
 beisbol/S
+bluyín/S
 budare/S
 cabildante/S
 cachimbo/S
@@ -106,6 +107,7 @@ huesero/S
 irrespeto/S
 jeringatorio/S
 jojoto/S
+jonrón/S
 magíster/S
 maguey/S
 majarete/S

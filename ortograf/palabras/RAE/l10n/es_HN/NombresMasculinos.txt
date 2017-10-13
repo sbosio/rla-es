@@ -30,6 +30,7 @@ atol/S
 atrenzo/S
 balagre/S
 beisbol/S
+bluyín/S
 bodegaje/S
 cacalote/S
 cachimbo/S
@@ -93,6 +94,7 @@ jetazo/S
 jícaro/S
 jicote/S
 jilote/S
+jonrón/S
 lana/S
 maguey/S
 manigordo/S

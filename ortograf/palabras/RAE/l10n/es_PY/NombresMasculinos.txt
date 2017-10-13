@@ -28,6 +28,7 @@ armado/S
 atrenzo/S
 bananal
 barbijo/S
+bluyín/S
 cabildante/S
 cachimbo/S
 cachumbo/S
@@ -71,6 +72,7 @@ hembraje/S
 huaco/S
 jaguarundí/S
 jeringatorio/S
+jonrón/S
 maguey/S
 martillero/S
 matambre/S

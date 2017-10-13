@@ -24,6 +24,7 @@ amacayo/S
 ara/S
 atrenzo/S
 balero
+bluyín/S
 bocabajo/S
 cachimbo/S
 cachumbo/S
@@ -58,6 +59,7 @@ guarapo/S
 guascazo/S
 guayo/S
 jeringatorio/S
+jonrón/S
 maguey/S
 majarete/S
 merey/S

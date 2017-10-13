@@ -31,6 +31,7 @@ atrenzo/S
 balero
 banderillazo/S
 belduque/S
+bluyín/S
 bodegaje/S
 budare/S
 cabildante/S
@@ -102,6 +103,7 @@ hembraje/S
 huacal/S
 huaco/S
 jeringatorio/S
+jonrón/S
 macondo/S
 macuco/S
 maduro/S

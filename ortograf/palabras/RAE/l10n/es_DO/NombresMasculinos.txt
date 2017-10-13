@@ -22,6 +22,7 @@ amacayo/S
 ara/S
 atorrante/S
 atrenzo/S
+bluyín/S
 cachimbo/S
 cachumbo/S
 camarotero/S
@@ -55,6 +56,7 @@ gachumbo/S
 guarapo/S
 guascazo/S
 jeringatorio/S
+jonrón/S
 maguey/S
 matahambre/S
 multifamiliar/S

@@ -25,6 +25,7 @@ atol/S
 atrenzo/S
 bananar/S
 beisbol/S
+bluyín/S
 cacalote/S
 cachimbo/S
 cachumbo/S
@@ -68,6 +69,7 @@ jeringatorio/S
 jícaro/S
 jicote/S
 jilote/S
+jonrón/S
 lana/S
 maguey/S
 mecate/S

@@ -31,6 +31,7 @@ arrollado/S
 atrenzo/S
 berlín/S
 billullo
+bluyín/S
 bodegaje/S
 caballazo/S
 cabildante/S
@@ -97,6 +98,7 @@ huaco/S
 huilte/S
 imbunche/S
 jeringatorio/S
+jonrón/S
 jote/S
 laque/S
 linao/S

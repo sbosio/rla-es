@@ -24,6 +24,7 @@ apretazón/S
 ara/S
 atol/S
 atrenzo/S
+bluyín/S
 cachimbo/S
 cachudo/S
 cachumbo/S
@@ -69,6 +70,7 @@ jeringatorio/S
 jícaro/S
 jicote/S
 jilote/S
+jonrón/S
 lucas
 maguey/S
 mantenido/S

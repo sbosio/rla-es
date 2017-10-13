@@ -32,6 +32,7 @@ armado/S
 arrollado/S
 atrenzo/S
 barbijo/S
+bluyín/S
 burrito/S
 caballazo/S
 cabildante/S
@@ -84,6 +85,7 @@ hierbal/S
 horneado/S
 huaco/S
 jeringatorio/S
+jonrón/S
 laque/S
 macuco/S
 maduro/S

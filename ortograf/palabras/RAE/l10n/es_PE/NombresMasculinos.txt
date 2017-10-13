@@ -27,6 +27,7 @@ amasiato/S
 andinismo/S
 ara/S
 atrenzo/S
+bluyín/S
 caballazo/S
 cabildante/S
 cachaco/S
@@ -80,6 +81,7 @@ hembraje/S
 huaco/S
 huaico/S
 jeringatorio/S
+jonrón/S
 juanillo/S
 maguey/S
 martillero/S

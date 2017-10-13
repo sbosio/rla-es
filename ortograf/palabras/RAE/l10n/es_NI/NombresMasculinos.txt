@@ -27,6 +27,7 @@ arrollado/S
 atol/S
 atrenzo/S
 beisbol/S
+bluyín/S
 bodegaje/S
 cacalote/S
 cachimbo/S
@@ -73,6 +74,7 @@ jeringatorio/S
 jícaro/S
 jicote/S
 jilote/S
+jonrón/S
 maguey/S
 marquesote/S
 mecate/S
