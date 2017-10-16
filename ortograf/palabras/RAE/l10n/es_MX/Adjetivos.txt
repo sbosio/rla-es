@@ -58,6 +58,7 @@ faceto/SG
 federico/GS
 ferrocarrilero/GS
 fifiriche/S
+fijón/GS
 filudo/GS
 fondeado/GS
 fregado/GS

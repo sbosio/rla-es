@@ -41,6 +41,7 @@ desactualizado/GS
 exfoliador/GS
 federico/GS
 ferrocarrilero/GS
+fijón/GS
 filudo/GS
 fondeado/GS
 fregado/GS
