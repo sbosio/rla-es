@@ -1933,6 +1933,7 @@ carretela/S
 carretera/S
 carretonada/S
 carricera/S
+carrillada/S
 carriola/S
 carrocería/S
 carroña/S
