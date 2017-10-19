@@ -1758,6 +1758,7 @@ tía
 tigre/S
 timador/GS
 timbalero/GS
+timbrador/GS
 timonero/GS
 tinajero/GS
 tinelero/GS
