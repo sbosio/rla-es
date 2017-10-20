@@ -7382,6 +7382,8 @@ limador/GS
 limícola/S
 limitada/k
 limitado/GSk
+limitador/GS
+limitante/S
 limitativo/GS
 limítrofe/S
 limonado/GS
@@ -9778,6 +9780,7 @@ pornográfico/SG
 porno/S
 poroso/GS
 porro/GS
+portable/S
 portador/kSG
 portante/Sk
 portátil/S

@@ -8424,6 +8424,7 @@ porreta/S
 porrilla/S
 porrina/S
 portabandera/S
+portabilidad
 porta/bS
 portacaja/S
 portacarabina/S
@@ -8468,6 +8469,7 @@ potajera/LS
 potala/S
 potasa/S
 potencia/kSn
+potenciación/S
 potencialidad/S
 potenza/S
 poterna/S

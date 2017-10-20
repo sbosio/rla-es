@@ -84,6 +84,7 @@ neoguineano/GS
 oligopólico/GS
 omanés/GS
 omnidireccional/S
+opcionado/GS
 organizacional/S
 ortotipográfico/GS
 papuano/GS
@@ -111,6 +112,7 @@ sudsudanés/GS
 sursudanés/GS
 texturado/GS
 torsor/S
+unario/GS
 unipolar/S
 uzbeco/GS
 vigorizante/S
