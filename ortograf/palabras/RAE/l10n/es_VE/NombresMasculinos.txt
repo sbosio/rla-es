@@ -49,6 +49,7 @@ celular/S
 chiche/S
 chupaflor/S
 clavado/S
+cloche/S
 cochayuyo/S
 cocoliso/S
 cogollero/S
