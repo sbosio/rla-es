@@ -35,8 +35,10 @@ exjugador/GS
 fenólico/S
 ferrimagnetismo
 flexómetro/S
+flujómetro/S
 franquiciado/S
 fundacionismo/S
+gaussímetro/S
 hiperenlace/S
 hipervínculo/S
 iusnaturalismo
@@ -59,6 +61,7 @@ rebarbado/S
 refrentado/S
 renting # extranjerismo no adaptado #139
 swing # extranjerismo no adaptado #139
+teslámetro/S
 titán/S
 versionamiento/S
 vivario/S
