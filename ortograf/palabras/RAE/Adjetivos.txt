@@ -7330,6 +7330,7 @@ leve/aS
 levítico/GS
 levógiro/GS
 léxico/SG
+lexicográfico/GS
 leyendario/SG
 lezne/GS
 libanés/GS

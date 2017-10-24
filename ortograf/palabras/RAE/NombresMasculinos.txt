@@ -7419,6 +7419,7 @@ legisperito/S
 leima/S
 lejos
 lema/S
+lemario/S
 lembario/S
 lembo/S
 leme/S
@@ -9005,7 +9006,6 @@ once/S
 ondeado/S
 ontologismo/S
 ópalo/S
-open
 operativo/S
 opérculo/S
 opio/S
