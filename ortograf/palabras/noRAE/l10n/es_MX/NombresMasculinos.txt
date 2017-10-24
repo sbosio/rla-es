@@ -16,5 +16,6 @@
 
 cocolazo/S
 monitoreo/S
+mugrero/S
 pambazo/S
 piquín/S
