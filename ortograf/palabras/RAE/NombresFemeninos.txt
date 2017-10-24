@@ -8934,6 +8934,7 @@ razón/S
 rea/fS
 realeza/S
 realidad/kS
+realimentación/S
 realización/S
 reanudación/S
 reata/S
@@ -9130,6 +9131,7 @@ retractación/S
 retractilidad/S
 retranca/S
 retribución/S
+retroacción/S
 retroactividad/S
 retroguardia/S
 retroventa/S

@@ -877,6 +877,7 @@ amoscamiento/S
 amotinamiento/S
 amparo/hS
 ampere/S
+amperímetro/S
 amperio/S
 amplexo/S
 amplificador/S
@@ -1701,6 +1702,7 @@ balduque/S
 balear/S
 balero/S
 balido/S
+balín/S
 balizamiento/S
 ballenato/S
 ballener/S
@@ -2889,6 +2891,7 @@ cauce/S
 caucho/S
 caudal/S
 caudatario/S
+caudalímetro/S
 caudillismo/S
 caudillo/SC
 cauro/S
@@ -3330,6 +3333,7 @@ clérigo/S
 clero/S
 cliché/S
 clic/S
+clientelismo/S
 clima/S
 climaterio/S
 clinopodio/S
@@ -6925,6 +6929,7 @@ imperio/S
 impermeable/S
 impertinente/S
 ímpetu
+implemento/S
 impluvio/S
 imponderable/S
 impresionismo/S
@@ -9080,6 +9085,7 @@ osambre/S
 osario/S
 osar/S
 oscilador/S
+osciloscopio/S
 osco/S
 ósculo/S
 oscurantismo/S
@@ -10548,6 +10554,7 @@ racord
 rácord
 radar/S
 radiador/S
+radián/S
 radicalismo/S
 radical/SO
 radiocasete/S
@@ -13256,6 +13263,7 @@ volquete/S
 voltaje/S
 volteo/S
 volterianismo/S
+voltímetro/S
 voltio/S
 volt/S
 volumen/S

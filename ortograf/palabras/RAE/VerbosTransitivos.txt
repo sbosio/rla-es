@@ -2442,6 +2442,7 @@ ingletear/RED
 ingurgitar/RED
 inhestar/IR
 inhumar/REDÀ
+inicializar/RED
 injertar/REDÁÂÆ
 injuriar/REDÀÁÂ
 inmunizar/REDÀ
@@ -3066,6 +3067,7 @@ reacuñar/RED
 readmitir/REDÀÂ
 reagrupar/REDÀÁÄ
 reajustar/REDÀ
+realimentar/RED
 realquilar/RED
 reamar/RED
 reapretar/IRD

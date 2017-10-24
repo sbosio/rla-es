@@ -3977,7 +3977,7 @@ diluvial/S
 diluviana/b
 diluviano/GbS
 diluyente/S
-dimensional/S
+dimensional/Sa
 dimiario/S
 diminutivo/SG
 diminuto/GS
