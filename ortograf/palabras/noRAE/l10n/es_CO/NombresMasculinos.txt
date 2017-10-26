@@ -24,6 +24,7 @@ bullerengue/S
 corrientazo/S
 cununo/S
 currulao/S
+deshuesadero/S
 ficho/S
 guayo/S
 herpo/S
