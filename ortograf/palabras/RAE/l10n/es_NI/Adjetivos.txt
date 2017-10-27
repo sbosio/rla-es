@@ -53,6 +53,7 @@ goyo/GS
 guaje/S
 leguleyo/GS
 macanudo/GS
+malgeniado/GS
 maturrango/GS
 menso/GS
 mitotero/GS

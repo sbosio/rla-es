@@ -127,6 +127,7 @@ tempisque/S
 tigrillo/S
 tilichero/S
 tiliche/S
+tipeo/S
 tiste/S
 tlaco/S
 tocomate/S

@@ -55,6 +55,7 @@ hostigoso/GS
 impago/GS
 invalorable/S
 macanudo/GS
+malgeniado/GS
 matero/GS
 maturrango/GS
 menso/GS

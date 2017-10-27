@@ -124,6 +124,7 @@ tata/S
 teruteru
 tigrillo/S
 tijeral/S
+tipeo/S
 tlaco/S
 tondero/S
 torito/S

@@ -160,6 +160,7 @@ tata/S
 temu/S
 teruteru
 tijeral/S
+tipeo/S
 tiuque/S
 tlaco/S
 tomatillo/S

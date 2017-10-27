@@ -63,6 +63,7 @@ guayabero/GS
 hueste/S
 hulero/GS
 macanudo/GS
+malgeniado/GS
 marucho/GS
 maturrango/GS
 mazorquero/GS

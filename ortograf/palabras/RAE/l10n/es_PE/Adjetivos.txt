@@ -51,6 +51,7 @@ impago/GS
 invalorable/S
 macanudo/GS
 macuco/GS
+malgeniado/GS
 matero/GS
 maturrango/GS
 maula/S
