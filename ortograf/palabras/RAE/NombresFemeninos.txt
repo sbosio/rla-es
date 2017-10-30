@@ -9091,6 +9091,7 @@ resbalera/S
 rescaza/S
 rescisión/S
 rescoldera/S
+reservación/S
 resfriadura/S
 residencia/S
 resignación/S
