@@ -15,4 +15,5 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 actualizado/GSh
+agachón/GS
 boludo/GS

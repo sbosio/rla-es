@@ -5,5 +5,6 @@
 
 # Elaborado para el proyecto [RLA-ES](https://github.com/sbosio/rla-es/).
 
+agachón/GS
 bebeleche/S
 cansón/GS
