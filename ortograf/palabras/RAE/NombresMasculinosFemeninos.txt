@@ -90,6 +90,7 @@ algodonero/GS
 alienígena/S
 alijador/GS
 almacenero/GS
+almanaquero/GS
 almendrado/GS
 almíbar/S
 almizclero/GS
