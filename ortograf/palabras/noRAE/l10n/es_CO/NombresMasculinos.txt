@@ -25,6 +25,7 @@ corrientazo/S
 cununo/S
 currulao/S
 deshuesadero/S
+desparche/S
 ficho/S
 guayo/S
 herpo/S

@@ -16,4 +16,5 @@
 
 calendarizar/REDA
 desmeritar/RED
+graficar/RED
 monitorear/RED

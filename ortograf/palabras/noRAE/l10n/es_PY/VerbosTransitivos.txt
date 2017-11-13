@@ -15,4 +15,5 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 calendarizar/REDA
+graficar/RED
 monitorear/RED
