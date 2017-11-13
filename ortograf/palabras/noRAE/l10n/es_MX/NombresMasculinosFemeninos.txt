@@ -7,4 +7,5 @@
 
 agachón/GS
 bebeleche/S
+bocabierta/S
 cansón/GS
