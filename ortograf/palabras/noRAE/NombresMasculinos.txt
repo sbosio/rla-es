@@ -46,6 +46,7 @@ kiosko/S
 máster/S
 meme/S
 metadato/S
+microcontrolador/S
 microcurrículo/S
 nanomaterial/S
 nanómetro/S

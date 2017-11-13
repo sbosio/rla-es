@@ -25,7 +25,8 @@ autodisciplina/S
 autoimagen/S
 autoprotección/S		# Contribuida por César Romé
 bibliometría
-comerciabilidad
+comerciabilidad/S
+compactación/S
 convolución/S
 coparentalidad
 criolita/S
@@ -45,6 +46,7 @@ meritocracia/S
 microinformática/S
 modelación/S
 nanoindentación/S
+némesis
 ortotipografía
 personalización/S
 preproducción/S			# Contribuida por Sergio Medina

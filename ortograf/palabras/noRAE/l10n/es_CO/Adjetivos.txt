@@ -10,6 +10,7 @@ afrocolombiano/GS
 arrunchado/GS
 berraco/GS
 cansón/GS
+desparchado/GS
 enguayabado/GS
 hostigante/S
 mamerto/GS
