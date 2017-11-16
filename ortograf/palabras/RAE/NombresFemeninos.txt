@@ -2162,6 +2162,7 @@ cervical/S
 cerviz/S
 ces
 cesación/S
+cesantía/S
 cesárea/S
 cesión/floS
 cesta/S
@@ -3268,6 +3269,7 @@ desempolvoradura/S
 desenfadaderas
 deserción/S
 desesperación/S
+desestabilización/S
 desfachatez/S
 desgajadura/S
 desgarradura/S

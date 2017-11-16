@@ -542,6 +542,7 @@ obsequiante/S
 obstetra/S
 oculista/S
 ocultista/S
+ofertante/S
 oficial/sS
 oficinista/S
 okupa/S

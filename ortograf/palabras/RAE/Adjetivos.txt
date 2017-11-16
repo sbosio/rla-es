@@ -8831,6 +8831,7 @@ ofensiva/k
 ofensivo/kSG
 ofensor/SG
 oferente/S
+ofertante/S
 oficial/S
 oficiante/S
 oficiosa/k
