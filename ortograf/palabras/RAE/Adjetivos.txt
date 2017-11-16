@@ -5059,7 +5059,6 @@ exacto/GSk
 exagerado/GS
 exagerador/GS
 exagerativo/GS
-exagonal/S
 exaltado/GS
 exaltador/GS
 examinante/S
