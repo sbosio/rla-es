@@ -145,6 +145,7 @@ compungidamente
 concadenadamente
 concatenadamente
 concéntricamente
+conceptualmente
 concretamente
 condenadamente
 conscientemente
@@ -157,6 +158,7 @@ cortesísimamente
 cortésmente
 cristalinamente
 cristianamente
+cualitativamente
 cuánticamente
 cuestionablemente
 cuidadamente
@@ -312,6 +314,7 @@ laceradamente
 licántropamente
 licantrópicamente
 ligítimamente
+linealmente
 lingüísticamente
 listamente
 localmente

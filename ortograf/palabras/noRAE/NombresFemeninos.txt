@@ -40,6 +40,7 @@ fundamentación/S
 granularidad/S
 holofonía/S
 interoperatividad/S		# Contribuida por Gonzalo Higuera Díaz
+ludificación
 magnificación/S
 mercantilización/S
 meritocracia/S

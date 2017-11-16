@@ -16,6 +16,7 @@
 
 alnico/S
 anticuark/S
+antinodo/S
 arché
 arjé
 autoconocimiento/S
@@ -54,6 +55,7 @@ periodograma/S
 poliestireno/S
 polímetro/S
 portabroca/S
+portapesas
 posprocesamiento/S
 precálculo/S
 preprocesamiento/S
