@@ -54,6 +54,7 @@ priorización/S
 reinvención/S
 retroalimentación/S
 sandwichera/S
+senoide/S
 sismicidad/S
 sobreutilización/S
 subcultura/S

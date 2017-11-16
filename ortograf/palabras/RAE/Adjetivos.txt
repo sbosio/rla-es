@@ -4679,6 +4679,7 @@ equinoccial/S
 equinodermo/S
 equino/GS
 equipolente/S
+equipotencial/S
 equis
 equisetíneo/GS
 equitativo/GS
@@ -7754,6 +7755,7 @@ maniobrista/S
 manipulador/GS
 maniqueo/GS
 manirroto/SG
+manométrico/GS
 manoseador/GS
 manresano/GS
 mansionario/S
@@ -8837,6 +8839,7 @@ ofidio/S
 ofrecedor/GS
 oftalmológico/GS
 ofuscador/SG
+óhmico/GS
 oidor/SG
 ojeroso/GS
 ojerudo/GS

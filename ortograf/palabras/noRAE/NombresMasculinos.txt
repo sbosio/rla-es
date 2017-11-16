@@ -50,6 +50,7 @@ microcontrolador/S
 microcurrículo/S
 nanomaterial/S
 nanómetro/S
+periodograma/S
 poliestireno/S
 polímetro/S
 portabroca/S

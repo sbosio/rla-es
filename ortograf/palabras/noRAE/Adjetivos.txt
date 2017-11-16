@@ -106,6 +106,7 @@ reumatoide/S
 santaluciano/GS
 semiconsciente/S
 semielaborado/GS
+senoidal/S
 sexualizado/GS
 srilanqués/GS
 sudsudanés/GS

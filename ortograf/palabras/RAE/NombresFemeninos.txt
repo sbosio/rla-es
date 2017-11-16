@@ -8060,6 +8060,7 @@ permanencia/S
 permeabilidad/Sk
 permisión/S
 permisividad/S
+permitividad/S
 permutabilidad/kS
 permuta/S
 pernada/S
