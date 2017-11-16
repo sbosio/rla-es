@@ -2125,7 +2125,6 @@ estoquear/REDÀ
 estorbar/REDÀÁÂÅÆ
 estordir/RED
 estovar/RED
-estresar/RED
 estropajear/RED
 estrujar/REDÀÁÂÃÄÅÆ
 estucar/RED

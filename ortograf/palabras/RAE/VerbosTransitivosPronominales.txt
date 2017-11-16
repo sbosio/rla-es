@@ -1487,6 +1487,7 @@ estrellar/REDÀÁÄÆñ
 estremecer/IRDÀÁÂÄÅñò
 estrenar/REDÀÁÄñ
 estreñir/XD
+estresar/RED
 estriar/IRD
 estropear/REDÀÁÂÃÄñ
 estructurar/REDÀÄ
