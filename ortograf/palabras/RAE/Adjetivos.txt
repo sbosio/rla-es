@@ -544,6 +544,7 @@ alentoso/GS
 alergénico/GS
 alérgico/GS
 alero/S
+alerta/S
 alesnado/GS
 alevoso/GS
 alfabeta/a
