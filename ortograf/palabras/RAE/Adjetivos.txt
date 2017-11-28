@@ -6928,6 +6928,7 @@ isleño/GS
 isobárico/GS
 isobaro/GS
 isócrono/GS
+isómero/GS
 isomorfo/GS
 isópodo/S
 isotérmico/GS
@@ -10304,6 +10305,7 @@ radiante/S
 radical/S
 radicular/S
 radioactivo/GS
+radioastronómico/GS
 radiodifusor/GS
 radioeléctrico/GS
 radiofónico/GS

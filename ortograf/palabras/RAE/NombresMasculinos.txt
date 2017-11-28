@@ -3882,6 +3882,7 @@ crol/S
 cromatismo/Sa
 cromo/S
 cromosoma/S
+cron/S
 cronicismo/S
 crónico/SG
 cronograma/S
@@ -6269,6 +6270,7 @@ glosario/S
 glotón/S
 glucógeno/S
 glucósido/S
+gluon/S
 gluten/S
 glúteo/S
 gneis
@@ -7055,7 +7057,7 @@ islote/S
 isocronismo/S
 isomorfismo/S
 isópodo/S
-isotopo/S
+isótopo/S
 isquion/S
 istmo/S
 italianismo/S
@@ -7446,6 +7448,7 @@ leopardo/S
 leotardo/S
 lepidio/S
 lepidóptero/S
+leptón/S
 lesbianismo/S
 lesnordeste/S
 leste/S
@@ -8779,6 +8782,7 @@ neuroepitelio/S
 neuroesqueleto/S
 neuroma/S
 neuróptero/S
+neutrino/S
 neutrón/S
 nevazo/S
 nevero/S
@@ -10563,6 +10567,7 @@ radiolario/S
 radiorreceptor/S
 radio/S
 radiotelegrama/S
+radiotelescopio/S
 radiotransmisor/S
 radón
 raid/S
@@ -13283,13 +13288,11 @@ vulgarismo/S
 vulgo/S
 vulturno/S
 waterpolo
-watt/S
-weber
-webers
-western
-westerns
-whisky
-whiskys
+watt/S # Extranjerismo no adaptado
+weber # Extranjerismo no adaptado
+webers # Extranjerismo no adaptado
+whisky # Extranjerismo no adaptado
+whiskys # Extranjerismo no adaptado
 wolframio
 xenón
 xilófono/S

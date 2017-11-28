@@ -3650,6 +3650,7 @@ ejecución/S
 ejecutiva/S
 ejecutoria/S
 ejemplaridad/S
+ejemplificación/S
 elaboración/S
 elástica/S
 elasticidad/S
@@ -4218,6 +4219,7 @@ estrangulación/S
 estranguria/S
 estratagema/S
 estrategia/S
+estratigrafía/S
 estratosfera/S
 estraza/NS
 estrechez/S
@@ -6889,6 +6891,7 @@ microcefalia/S
 microelectrónica/S
 microfilmador/S
 microscopia/S
+microscopía/S
 microspora/S
 microsporofila/S
 midriasis
@@ -8260,7 +8263,8 @@ pituita/S
 pizarra/S
 pizca/S
 pizpita/S
-pizza/S
+pizza/S # Extranjerismo no adaptado
+pizzería/S
 placabilidad/kS
 placa/SU
 placenta/S
@@ -8844,6 +8848,8 @@ rada/aS
 radiación/kS
 radiactividad/S
 radiestesia/S
+radioactividad/S
+radioastronomía
 radiocomunicación/S
 radiodifusión/S
 radioelectricidad/S
