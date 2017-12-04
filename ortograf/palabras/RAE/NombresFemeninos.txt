@@ -5601,6 +5601,7 @@ infidencia/S
 infinidad/S
 inflación/S
 inflamación/S
+influenza/S
 informática/S
 informatización/S
 informidad/S
