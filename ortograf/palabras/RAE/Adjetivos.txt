@@ -12592,6 +12592,7 @@ vecino/SGf
 vectorial/S
 vector/S
 veedor/GS
+vegano/GS
 vegetalista/S
 vegetal/S
 vegetariano/GS
