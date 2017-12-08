@@ -24,6 +24,7 @@ antiautoritario/GS
 anticomercial/S
 antihorario/GS
 antimonopólico/GS
+asintótico/GS
 autocorrectivo/GS
 autodenominado/GS
 autodeterminado/GS
