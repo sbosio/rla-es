@@ -2456,6 +2456,7 @@ inserir/XD
 insidiar/RED
 insonorizar/RED
 inspeccionar/REDÀÂÄÅÌ
+instalar/REDÀÄÅñòôøh
 instaurar/REDÀÂ
 instigar/RED
 instilar/RED
