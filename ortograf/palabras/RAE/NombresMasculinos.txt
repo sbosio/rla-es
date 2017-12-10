@@ -6455,7 +6455,6 @@ guindal/S
 guindo/S
 guiñapo/S
 guiño/S
-guión/S
 guion/S
 guipuzcoano/S
 guirigáis		# Plural de guirigay
