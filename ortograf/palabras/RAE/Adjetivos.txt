@@ -2385,6 +2385,7 @@ centeno/GS
 centenoso/GS
 centesimal/S
 centésimo/GS
+centígrado/GS
 centimano/S
 centímano/S
 céntimo/GS
@@ -3261,6 +3262,7 @@ craso/SG
 crasuláceo/GS
 crateriforme/S
 creable/Sp
+creacionista/S
 creador/oSG
 creativa/p
 creativo/pSG
@@ -5944,6 +5946,7 @@ gravativo/GS
 grave/SG
 grávida/k
 grávido/SGk
+gravimétrico/GS
 gravitacional/S
 gravitatorio/GS
 gravoso/SG
@@ -9562,6 +9565,7 @@ pictórico/GS
 picudo/GS
 pierio/GS
 pietista/S
+piezoeléctrico/S
 pigmentario/GS
 pigmeo/GS
 pignoraticio/GS
@@ -10164,6 +10168,7 @@ pulmonar/S
 pulpero/SG
 pulposo/SG
 pulsador/GS
+pulsante/S
 pulsativo/GS
 pulverulento/GS
 pundonoroso/SG
@@ -10348,6 +10353,7 @@ raspante/S
 rasposo/GS
 raspudo/S
 rastillador/GS
+rastreable/S
 rastreador/SG
 rastrero/GS
 rastrillador/SG
@@ -11793,6 +11799,7 @@ tebano/GS
 tebeo/SG
 técnico/GS
 tecnológico/GS
+tectónico/GS
 tedioso/GS
 tegeo/GS
 tegumentario/GS
@@ -11996,6 +12003,7 @@ tirulato/GS
 tisanuro/GS
 tísico/GS
 tisular/S
+titánico/GS
 titilador/GS
 titubeante/S
 titular/S
@@ -12087,7 +12095,7 @@ tosigoso/GS
 tostado/GS
 tostador/GS
 totalitario/GS
-total/S
+total/Ss
 totanero/GS
 totémico/SG
 totonaco/GS
@@ -12452,6 +12460,7 @@ unidireccional/S		# Contribuida por Gonzalo Higuera Díaz
 unidor/SG
 unifamiliar/S
 unificado/GS
+unificador/GS
 uniformador/GS
 uniforme/S
 unigénito/GS

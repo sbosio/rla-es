@@ -4143,6 +4143,7 @@ demudamiento/S
 denario/S
 dengue/S
 denominador/S
+densímetro/S
 dental/S
 dentezuelo/S
 dentículo/S
@@ -4296,6 +4297,7 @@ desollador/S
 desorden/S
 desorejamiento/S
 desove/S
+desoxirribonucleótido/S
 despabilador/S
 despacho/bS
 despachurramiento/S
@@ -6353,6 +6355,7 @@ grasero/S
 graso/GS
 grátil/S
 gravamen/S
+gravímetro/S
 gray
 graznido/S
 gredal/S
@@ -6978,6 +6981,7 @@ infinito/S
 informativo/S
 informe/S
 infortunio/S
+inframundo/S
 infrasonido/S
 infundio/S
 inglés/S
@@ -7893,6 +7897,8 @@ maravedí/S
 maravedís/S
 marbete/S
 marcador/S
+marcapaso/S
+marcapasos
 marceo/S
 marchamero/S
 marchitamiento/S
@@ -8872,6 +8878,7 @@ nublo/S
 nucleido/S
 nucleón/S
 núcleo/S
+nucleótido/S
 nudismo/hS
 nudos/jh
 nudo/SN
@@ -9896,6 +9903,8 @@ piujar/S
 piulido/S
 piune/S
 pivote/S
+pixel/S
+píxel/S
 piyama/S
 pizarral/S
 pizarrero/S
@@ -9916,6 +9925,7 @@ plánctones
 planeador/S
 planeamiento/S
 planetario/S
+planetoide/S
 planisferio/S
 plan/S
 plantaje/S
@@ -10951,6 +10961,7 @@ rescripto/S
 rescrito/S
 reseco/S
 reservado/S
+reservorio/S
 resfriado/S
 resfriamiento/S
 resfriante/S
@@ -11060,6 +11071,7 @@ ribazo/S
 ribero/S
 ribeteado/S
 ribete/S
+ribonucleótido/S
 ricino/S
 ricohombre/S
 rictus
@@ -12564,7 +12576,7 @@ tostadillo/S
 tostador/S
 tostón/S
 totalitarismo/S
-total/S
+total/Ss
 tótem
 totemismo/S
 totonaco/S

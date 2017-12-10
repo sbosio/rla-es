@@ -256,6 +256,7 @@ corresponsal/S
 correveidile/S
 costumbrista/S
 cotilla/S
+creacionista/S
 cronista/S
 cronologista/S
 cuchareta/S
