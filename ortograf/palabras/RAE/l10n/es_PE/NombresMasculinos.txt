@@ -107,6 +107,7 @@ quinchihue/S
 quique/S
 quirquincho/S
 rayador/S
+reservorio/S
 rocambor/S
 romerillo/S
 rompenueces

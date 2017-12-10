@@ -148,6 +148,7 @@ quirquincho/S
 radioteatro/S
 rayador/S
 rayero/S
+reservorio/S
 riflero/S
 rinde/S
 rocambor/S

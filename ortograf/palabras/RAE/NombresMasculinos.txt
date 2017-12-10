@@ -8474,6 +8474,7 @@ monopatín/S
 monoplano/S
 monopolio/S
 monosabio/S
+monosacárido/S
 monospastos
 monoteísmo/S
 monotelismo/S

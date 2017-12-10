@@ -166,6 +166,7 @@ polvillo/S
 pozole/S
 pulque/S
 quijo/S
+reservorio/S
 roatán/S
 romerillo/S
 rompenueces

@@ -119,6 +119,7 @@ platón/S
 polvillo/S
 quijo/S
 quitasolillo/S
+reservorio/S
 retranquero/S
 revientacaballo/S
 romerillo/S

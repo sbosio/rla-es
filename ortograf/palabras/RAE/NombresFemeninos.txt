@@ -380,6 +380,7 @@ aldaba/NS
 aldea/S
 aldiza/S
 aldohexosa/S
+aldopentosa/S
 aldorta/S
 aleación/S
 aleatoriedad/S
@@ -9171,6 +9172,7 @@ riada/S
 ría/S
 ribera/S
 ribeteador/S
+ribosa/S
 ricahembra/S
 ricahombría/S
 rica/S

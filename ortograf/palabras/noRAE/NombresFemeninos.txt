@@ -16,6 +16,7 @@
 
 acupresión/S			# Contribuida por Ricardo Goldberger
 amigdalectomía/S
+antimateria
 apendicectomía/S
 astrometría
 autocompasión/S
@@ -56,6 +57,7 @@ reinvención/S
 retroalimentación/S
 sandwichera/S
 senoide/S
+similaridad/S
 sismicidad/S
 sobreutilización/S
 subcultura/S
@@ -63,6 +65,7 @@ subfamilia/S
 subrutina/S
 sumatoria/S
 supersimetría/S
+supertierra/S
 temporalización/S
 titánide/S
 totalización/S

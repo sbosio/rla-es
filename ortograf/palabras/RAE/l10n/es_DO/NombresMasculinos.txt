@@ -71,6 +71,7 @@ pizarrón/S
 platón/S
 polvillo/S
 quijo/S
+reservorio/S
 romerillo/S
 rompenueces
 rubro/S

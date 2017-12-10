@@ -33,6 +33,7 @@ dimensionamiento/S
 direccionamiento/S
 espectrógrafo/S
 exjugador/GS
+exoplaneta/S
 fenólico/S
 ferrimagnetismo
 flexómetro/S

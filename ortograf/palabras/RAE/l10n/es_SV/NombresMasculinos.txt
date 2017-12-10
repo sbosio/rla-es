@@ -100,6 +100,7 @@ polvillo/S
 pucho/S
 puntaje/S
 quijo/S
+reservorio/S
 romerillo/S
 rompenueces
 rubro/S

@@ -128,6 +128,7 @@ quinchihue/S
 quique/S
 quirquincho/S
 rayador/S
+reservorio/S
 retro/S
 rocambor/S
 romerillo/S
