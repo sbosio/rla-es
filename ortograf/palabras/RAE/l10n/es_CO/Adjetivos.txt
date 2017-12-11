@@ -59,6 +59,7 @@ hostigoso/GS
 invalorable/S
 macanudo/GS
 maicero/GS
+maldoso/GS
 malgeniado/GS
 matero/GS
 maturrango/GS

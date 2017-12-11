@@ -76,6 +76,7 @@ jolín/GS
 macanudo/GS
 machetero/GS
 maicero/GS
+maldoso/GS
 maturrango/GS
 mazorquero/GS
 meco/GS
