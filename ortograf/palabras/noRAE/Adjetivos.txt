@@ -55,6 +55,7 @@ destellante/S
 desvaneciente/S
 diédrico/GS
 emiratí/S
+encriptado/GS
 estirable/S
 fenólico/GS
 ferrimagnético/GS
@@ -65,6 +66,7 @@ geotérmico/GS
 globalizado/GS
 grandísimo/GS
 gravable/S
+gravitomagnético/GS
 hidrotérmico/GS
 hipergeométrico/GS
 holofónico/GS

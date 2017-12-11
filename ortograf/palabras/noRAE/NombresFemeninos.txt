@@ -31,11 +31,14 @@ compactación/S
 convolución/S
 coparentalidad
 criolita/S
+criptodivisa/S
+criptomoneda/S
 cromita/S
 cromodinámica
 cuantización/S
 cumplimentación/S
 desconferencia/S
+discretización/S
 ferroaleación/S
 fundamentación/S
 granularidad/S
