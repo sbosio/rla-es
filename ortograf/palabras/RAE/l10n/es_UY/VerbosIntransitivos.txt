@@ -28,6 +28,7 @@ chingar/RED
 churrasquear/RED
 cinchar/RED
 denguear/RED
+digitar/RED
 dragonear/RED
 empacar/RED
 empozar/RED

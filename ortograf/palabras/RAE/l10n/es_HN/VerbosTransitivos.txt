@@ -53,6 +53,7 @@ despilarar/RED
 destusar/RED
 devolver/IRñòù
 difuntear/RED
+digitar/RED
 discar/RED
 empañetar/RED
 empetatar/RED

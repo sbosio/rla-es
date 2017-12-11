@@ -52,6 +52,7 @@ despresar/RED
 desternerar/RED
 devolver/IRñòù
 difuntear/RED
+digitar/RED
 dragonear/RED
 empardar/RED
 empotrerar/RED

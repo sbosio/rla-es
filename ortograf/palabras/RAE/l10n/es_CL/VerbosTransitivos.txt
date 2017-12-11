@@ -55,6 +55,7 @@ despostar/RED
 despresar/RED
 devolver/IRñòù
 difuntear/RED
+digitar/RED
 empalicar/RED
 emplantillar/RED
 empotrerar/RED

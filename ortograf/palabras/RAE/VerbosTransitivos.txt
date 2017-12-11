@@ -1742,6 +1742,7 @@ encorralar/RED
 encorrear/RED
 encortinar/RED
 encostalar/RED
+encriptar/RED
 encristalar/RED
 encuadernar/REDÀT
 encuadrar/REDÀÂÄ
@@ -2880,6 +2881,7 @@ perfumear/RED
 pergeñar/REDÀ
 perifonear/RED
 peritar/RED
+permear/RED
 permutar/REDÀ
 pernotar/RED
 perpetrar/REDÀ

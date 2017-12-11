@@ -26,6 +26,7 @@ cerotear/RED
 chambonear/RED
 chopear/RED
 denguear/RED
+digitar/RED
 dragonear/RED
 empacar/RED
 empozar/RED
