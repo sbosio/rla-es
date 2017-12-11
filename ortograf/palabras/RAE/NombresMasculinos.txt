@@ -36,12 +36,14 @@ abarrancadero/S
 abarrancamiento/S
 abastecimiento/Sh
 abatanado/S
+abc
 abdomen/S
 abecedario/S
 abecé/S
 abedul/S
 abejar/S
 abejaruco/S
+abejeo/S
 abejón/S
 abejorro/S
 abelmosco/S
@@ -4533,6 +4535,7 @@ divorcio/S
 dix/S
 diyambo/S
 dizque/S
+DNI
 dobladillo/S
 doblaje/S
 doblamiento/hSp
