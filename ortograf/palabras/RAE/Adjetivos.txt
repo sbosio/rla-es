@@ -8066,6 +8066,7 @@ mestizo/GS
 mesto/GS
 metabólico/GS
 metacarpiano/GS
+metaestable/S
 metafísico/GS
 metafórico/GS
 metálico/SG

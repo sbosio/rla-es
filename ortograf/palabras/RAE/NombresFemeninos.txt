@@ -4859,6 +4859,7 @@ gaseosa/S
 gasificación/S
 gasolina/S
 gasolinera/S
+gasometría/S
 gastralgia/S
 gastritis
 gastroenteritis

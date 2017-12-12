@@ -119,6 +119,7 @@ sexualizado/GS
 srilanqués/GS
 sudsudanés/GS
 sursudanés/GS
+taquiónico/GS
 texturado/GS
 torsor/S
 unario/GS

@@ -70,8 +70,10 @@ refrentado/S
 renting # extranjerismo no adaptado #139
 solucionario/S
 swing # extranjerismo no adaptado #139
+taquión/S
 teslámetro/S
 titán/S
+tunelamiento/S
 versionamiento/S
 vivario/S
 yacusi/S
