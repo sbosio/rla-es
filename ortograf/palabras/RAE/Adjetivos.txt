@@ -3252,6 +3252,7 @@ costumbrista/S
 cotidiano/GS
 cotilla/S
 cotizado/GS
+covalente/S
 coxal/S
 coyuntural/S
 cracoviano/GS

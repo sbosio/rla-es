@@ -2880,6 +2880,7 @@ catervarios
 cateterismo/S
 catéter/S
 cateto/S
+catión/S
 catite/S
 cátodo/S
 catolicismo/S
