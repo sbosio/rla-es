@@ -28,9 +28,9 @@ abrir/REÀÁÂÃÄÅÆñò
 abstraer/XDÀÁÈñ
 acabar/REDÀÁÃÄÅñòôø
 acampar/RED
-aclarar/REDÀÁÂÃÄÅÆÍÎÙÚÛñòôø
+aclarar/REDÀÁÂÃÄÅÆÍÎÙÚÛñòôøA
 acobardar/REDÁñ
-acomodar/REDÀÁÂÄÅÆñòôøT
+acomodar/REDÀÁÂÄÅÆñòôøTA
 acortar/REDÀÂÄ
 acostar/IRDÀÁÂÅÆñòõù
 acostumbrar/REDÀÁÂÄÅñòôø
@@ -69,7 +69,7 @@ aliviar/REDÀÁÂÄÍñ
 allanar/REDÀÁÂÆñ
 allegar/REDÁñ
 alojar/REDÀÁÂÆñ
-alucinar/RED
+alucinar/REDA
 alumbrar/REDÀÁÂÄÅÆñò
 alzar/REDÀÁÂÄÅÆñò
 amagar/REDÂÆ
@@ -82,7 +82,7 @@ amortecer/IRD
 amusgar/RED
 anclar/REDÀÁÂñ
 angostar/RED
-anidar/RED
+anidar/REDA
 anochecer/IRD
 apartar/REDÀÁÂÃÄÅÆÌÙñòôø
 apechugar/RED
@@ -112,7 +112,7 @@ arrostrar/REDÀ
 arrumbar/REDÀ
 asemejar/REDÀÁÂÄñ
 asentar/IRDÀÁÂñõ
-asociar/REDÀÁÂÄÅñòT
+asociar/REDÀÁÂÄÅñòTA
 asomar/REDÀÁÅÆñòôø
 atacar/REDÀÁÂÄÅÆÍñò
 atajar/REDÀÂÄÆ
@@ -158,7 +158,7 @@ castañetear/REDÆ
 catolizar/RED
 cebar/REDÀÂÄÅò
 cegar/IRDÀÁÄÆñ
-celebrar/REDÀÁÂÄÆñ
+celebrar/REDÀÁÂÄÆñA
 centrar/REDÀÁÄÅñòôø
 cerner/IRD
 cerrar/IRDÀÁÂÃÄÅÆÐÑÒñòõù
@@ -176,12 +176,12 @@ colar/REIDÀÁÂÄÅÝñòñò
 colgar/IRDÀÁÂÃÄÅÆñòõ
 colorear/REDÀ
 combatir/REDÀÁÂÄñT
-combinar/REDÀÄø
+combinar/REDÀÄøA
 comer/REDÀÁÂÃÄÅÆÇÌÍÙñòôø
 compensar/REDÀÁÂÄÆñ
 componer/XÀÁÂÈñöú
 comulgar/RED
-comunicar/REDÀÁÂÃÄÅÆÇÍÙÚÛÜñòôø
+comunicar/REDÀÁÂÃÄÅÆÇÍÙÚÛÜñòôøA
 concertar/IRDÀÁÂñ
 conducir/XDÀÁÂÈÉÊÕÌñóT
 conectar/REDÀÁÂÄÅÆÙñòôT

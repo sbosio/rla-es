@@ -28,7 +28,7 @@ amarizar/RED
 amontar/RED
 apandar/RED
 aparecer/IRDñò
-apelar/RED
+apelar/REDA
 aplacer/IRD
 arabizar/RED
 arribar/RED

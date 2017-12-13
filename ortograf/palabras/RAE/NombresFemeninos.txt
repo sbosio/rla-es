@@ -22,7 +22,6 @@ abadesa/S
 abadía/S
 abarcadura/S
 abarca/S
-abdicación/S
 abducción/S
 abeja/S
 aberración/S
@@ -34,11 +33,9 @@ ablución/S
 abnegación/S
 abogacía/S
 abolición/S
-abominación/S
 abra/S
 abrasión/S
 abrazadera/S
-abreviación/S
 abreviaduría/S
 abreviatura/S
 abscisa/S
@@ -99,12 +96,9 @@ acidez/S
 acidia/S
 acidosis
 ácigos
-aclamación/S
-aclaración/S
 aclorhidria/S
 acometida/S
 acometividad/S
-acomodación/S
 aconitina/S
 acopladura/S
 acordada/S
@@ -128,7 +122,6 @@ actinia/S
 actinomicosis
 actinota/S
 actitud/S
-activación/S
 actividad/kS
 actriz/S
 actuación/S
@@ -139,9 +132,6 @@ acucia/S
 acuciosidad/S
 acuicultura/S
 acuidad/S
-aculturación/S
-acumulación/S
-acuñación/S
 acuosidad/S
 acupuntura/S
 acusación/S
@@ -165,19 +155,13 @@ adición/S
 adipocira/S
 adiposidad/S
 adipsia/S
-adivinación/S
 adivinanza/S
-adjetivación/S
-adjudicación/S
 adjunta/S
-administración/S
-admiración/S
 admisibilidad/S
 admisión/S
 adobera/S
 adolescencia/S
 adopción/S
-adoración/S
 adoratriz/S
 adormidera/S
 adquisición/S
@@ -186,7 +170,6 @@ adrenal/S
 adscripción/S
 aduana/S
 aducción/S
-adulación/S
 adularia/S
 adultez/S
 adustez/S
@@ -210,17 +193,13 @@ afectación/S
 afectividad/S
 afectuosidad/S
 afeitadora/S
-afeminación/S
 afición/S
 afiladera/S
 afiladura/S
-afinación/S
 afinadura/S
 afinidad/S
-afirmación/S
 afirmativa/S
 aflicción/S
-afloración/S
 afonía/S
 aforisma/S
 afrenta/S
@@ -236,24 +215,19 @@ agenesia/S
 agerasia/S
 agilidad/S
 agitación/S
-aglomeración/S
-aglutinación/S
 agnación/S
 agonía/S
 agorafobia/S
 ágora/S
 agrafia/S
 agramadera/S
-agravación/S
 agravante/S
 agrazada/S
-agregación/S
 agresión/S
 agresividad/S
 agricultura/S
 agrifada/S
 agrimensura/S
-agrupación/S
 aguachirle/S
 aguada/S
 aguadija/S
@@ -284,7 +258,6 @@ aguzador/S
 aguzadura/S
 ahechadura/S
 aijada/S
-aireación/S
 airosidad/S
 ajada/S
 ajaraca/S
@@ -383,13 +356,11 @@ aldiza/S
 aldohexosa/S
 aldopentosa/S
 aldorta/S
-aleación/S
 aleatoriedad/S
 alectomancia/S
 alectoria/S
 aleda/S
 alefangina/S
-alegación/S
 alegoría/S
 alegra/S
 alegría/S
@@ -444,11 +415,9 @@ alianza/S
 alicantina/S
 alidada/S
 alidona/S
-alienación/S
 aligación/S
 alimaña/S
 alimentación/S
-alineación/S
 aliseda/S
 alisma/S
 aljaba/S
@@ -506,10 +475,7 @@ altarreina/S
 alta/S
 altea/S
 alterabilidad/kS
-alteración/S
-altercación/S
 alteridad/S
-alternación/S
 alternancia/S
 alternativa/S
 alteza/S
@@ -521,7 +487,6 @@ altitud/S
 altivez/S
 altura/S
 alubia/S
-alucinación/S
 álula/S
 alúmina/S
 aluminita/S
@@ -533,7 +498,6 @@ alzadera/S
 alzadura/S
 alza/S
 amabilidad/S
-amalgamación/S
 amalgama/S
 amapola/S
 amarantácea/S
@@ -583,8 +547,6 @@ amonita/S
 amortización/hS
 amovilidad/kS
 ampelita/S
-ampliación/S
-amplificación/S
 amplitud/S
 ampolla/S
 ampolleta/S
@@ -671,21 +633,17 @@ angulosidad/S
 angustia/S
 anhidrita/S
 anhidrosis
-anidación/S		# Contribuida por César Romé
 anilina/S
 anilla/S
-animación/pS
 animadversión/S
 animalada/S
 animalidad/S
 ánima/S
 animosidad/S
-aniquilación/S
 anisotropía/S			# Contribuida por Gonzalo Higuera Díaz
 anodinia/S
 anomalía/S
 anomia/S
-anonadación/S
 anonimia/S
 anorexia/S
 anorza/S
@@ -700,7 +658,6 @@ antena/S
 antera/S
 anterioridad/S
 antia/S
-anticipación/S
 anticipada/S
 anticresis
 antífona/S
@@ -731,8 +688,6 @@ antroponimia/S
 anualidad/S
 anudadura/S
 anuencia/S
-anulación/S
-anunciación/S
 anuria/S
 añada/S
 añadidura/S
@@ -749,7 +704,6 @@ apariencia/S
 aparvadera/S
 apatía/S
 apegaderas
-apelación/S
 apendicitis
 apepsia/S
 apertura/S
@@ -758,7 +712,6 @@ apicultura/S
 apisonadora/S
 aplanadera/S
 aplicabilidad/S
-aplicación/S
 apnea/S
 apocinácea/S
 apócope/S
@@ -775,15 +728,10 @@ apotema/S
 apoteosis
 apoyadura/S
 apreciabilidad/S
-apreciación/S
 aprehensión/S
 aprensión/hS
-apresuración/S
 apretadera/S
 apretadura/S
-aprobación/hS
-apropiación/S
-aproximación/S
 aptitud/S
 aquiescencia/S
 aquilea/S
@@ -879,7 +827,6 @@ arteriola/S
 arteriosclerosis
 artesanía/S
 artesa/NS
-articulación/S
 artillería/S
 artimaña/S
 artolas
@@ -911,20 +858,16 @@ aserción/S
 aserradura
 asesoría/S
 asestadura/S
-aseveración/S
 asfixia/S
 asiduidad/S
-asignación/S
 asimetría/S
 asimétricas
-asimilación/S
 asíntota/S
 asistencia/hkS
 asistenta/S
 asistolia/S
 asma/S
 asna/NS
-asociación/S
 asomada/S
 asonancia/S
 aspadera/S
@@ -935,7 +878,6 @@ asperilla/S
 aspersión/S
 aspidistra/S
 aspillera/S
-aspiración/S
 aspirada/S
 aspirina/S
 asquerosidad/S
@@ -1171,6 +1113,7 @@ barcia/S
 bardaguera/S
 bardana/S
 barda/S
+baremación/S
 baria/S
 barisfera/S
 barita/S
@@ -1237,7 +1180,6 @@ bayuca/S
 baza/S
 bazofia/S
 be
-beatificación/S
 beatilla/S
 beatitud/S
 becacina/S
@@ -1301,7 +1243,6 @@ bienandanza/S
 bienaventuranza/S
 bienquerencia/S
 bienvenida/S
-bifurcación/S
 bigamia/S
 bigarda/S
 biga/S
@@ -1314,13 +1255,16 @@ billa/S
 bimba/S
 binadura/S
 binza/S
-biodiversidad
+biodegradación/S
+biodiversidad/S
 bioestadística/S
 biografía/dS
 biología/S
 biopsia/S
 bioquímica/S
+biorremedación/S
 biotecnología/S
+bipedación/S
 birlocha/S
 birlonga/S
 birreta/S
@@ -1328,7 +1272,7 @@ birretina/S
 birria/S
 bisagra/S
 bisector/S
-bixexualidad/S
+bisexualidad/S
 bismutina/S
 bisutería/S
 bitácora/S
@@ -1405,8 +1349,6 @@ bombona/S
 bonanza/S
 bondad/S
 bonga/S
-bonificación
-bonificaciones
 bonina/S
 bonitera/S
 boñiga/S
@@ -1651,7 +1593,6 @@ calca/S
 calcedonia/S
 calceta/S
 calcicosis
-calcinación/S
 calcina/S
 calcita/S
 calcomanía/S
@@ -1669,11 +1610,9 @@ calesa/S
 calesera/S
 calesita/S
 caleta/S
-calibración/S
 calicata/S
 calidad/S
 calidez/S
-calificación/S
 calima/S
 calina/S
 calipedia/S
@@ -1686,6 +1625,7 @@ calle/jS
 callosidad/S
 calma/S
 caloría/S
+calorificación/S
 calorina/S
 calotipia/S
 cal/S
@@ -1736,8 +1676,7 @@ cananga/S
 canaria/S
 cana/S
 canasta/NS
-cancelación/S
-canceladura/S
+canceladora/S
 cancela/S
 cancha/S
 canchera/S
@@ -1750,6 +1689,7 @@ candelaria/S
 candelera/S
 candeleta/S
 candencia/S
+candidación/S
 candidatura/S
 candidez/S
 candileja/S
@@ -1824,7 +1764,6 @@ capitalidad/S
 capitalización/S
 capitana/S
 capitanía/S
-capitulación/pS
 capitular/S
 capona/S
 caponera/S
@@ -1858,7 +1797,6 @@ carbonera/S
 carbonilla/S
 carbonita/S
 carbonización/S
-carburación/S
 carburina/S
 carcajada/S
 carca/S
@@ -1901,6 +1839,7 @@ carlinga/S
 carlita/S
 carmelina/S
 carmelita/S
+carnación/S
 carnada/S
 carnadura/hiS
 carnalidad/S
@@ -1968,6 +1907,7 @@ cascarela/S
 cascarilla/S
 cascarria
 casca/S
+caseación/S
 casera/S
 caserna/S
 caseta/S
@@ -1988,7 +1928,6 @@ castidad/S
 castillería/S
 castina/S
 castorina/S
-castración/S
 castradura/S
 castra/S
 casualidad/S
@@ -2037,7 +1976,6 @@ caverna/S
 cavernidad/S
 cavernosidad/S
 cavidad/fS
-cavilación/S
 cavilosidad/S
 cayada/NS
 cayena/S
@@ -2076,7 +2014,6 @@ cejilla/S
 cejuela/S
 celada/S
 celda/NS
-celebración/S
 celebridad/S
 celeminada/S
 celeridad/S
@@ -2131,6 +2068,7 @@ cercanía/S
 cercenadura/S
 cerceta/S
 cerda/S
+cerebración/S
 cerebrina/S
 cereceda/S
 ceremonia/S
@@ -2154,7 +2092,6 @@ cerra/S
 cerrazón/S
 certeza/S
 certidumbre/kS
-certificación/S
 certitud/S
 cerulina/S
 cerusa/S
@@ -2185,6 +2122,7 @@ chacota/S
 chacra/S
 chafarrinada/S
 chaira/S
+chalación/s
 chaladura/S
 chalaza/S
 chalina/S
@@ -2348,16 +2286,13 @@ cinturita/S
 ciquiricata/S
 circe/S
 circona/S
-circulación/S
 circular/S
 circuncisión/S
 circunferencia/qS
 circunlocución/S
-circunnavegación/S
 circunscripción/S
 circunspección/S
 circunstancia/S
-circunvalación/S
 circunvolución/S
 cirrosis
 ciruela/S
@@ -2393,8 +2328,6 @@ claridad/S
 clarividencia/S
 clase/sS
 clásica/S
-clasificación/S
-claudicación/S
 claustra/S
 claustrofobia/S
 cláusula/S
@@ -2422,7 +2355,6 @@ cloaca/S
 clorita/S
 clorofila/S
 clorosis
-coagulación/S
 coalición/S
 coa/S
 cobaltina/S
@@ -2452,7 +2384,6 @@ coctelera/S
 codadura/aS
 coda/S
 codicia/S
-codificación/S
 codillera/S
 codorniz/S
 coerción/S
@@ -2460,6 +2391,8 @@ cofa/S
 cofia/S
 cofradía/S
 cogedura/jS
+cogeneración/S
+cognación/S
 cognición/S
 cogorza/S
 cogotera/S
@@ -2472,8 +2405,6 @@ cohibición/S
 cohorte/S
 coja/S
 cojera/S
-colaboración/S
-colación/S
 colada/S
 coladera/S
 coladora/S
@@ -2502,7 +2433,6 @@ colgadura/S
 colibacilosis
 cólica/S
 coliflor/S
-coligación/S
 coligadura/S
 colisión/S
 colitis
@@ -2510,7 +2440,6 @@ colleja/S
 collera/S
 colmena/NS
 colmillada/S
-colocación/S
 colocasia/S
 colodra/S
 colofonia/S
@@ -2519,7 +2448,6 @@ colombina/S
 colonia/S
 colonización/S
 coloquíntida/S
-coloración/gS
 col/S
 columna/S
 columnata/S
@@ -2533,7 +2461,6 @@ coma/S
 combadura/S
 comba/S
 combatividad/S
-combinación/S
 combinatoria/S
 combustibilidad/kS
 combustión/S
@@ -2558,18 +2485,15 @@ compacidad/S
 compactibilidad/S
 compaña/S
 compañía/S
-comparación/S
 comparanza/S
 comparecencia/kS
 compasión/S
 compaternidad/S
 compatibilidad/kS
-compenetración/S
 compensación/S
 competencia/kS
 competición/S
 competitividad/S
-compilación/S
 complacencia/S
 complejidad/S
 complementación/S
@@ -2578,7 +2502,6 @@ completas
 completud/S
 complexidad/S
 complexión/S
-complicación/S
 complicidad/S
 componenda/S
 comporta/S
@@ -2592,19 +2515,17 @@ comprensión/kS
 compresa/S
 compresibilidad/kS
 compresión/hS
-comprobación/S
 comprueba/S
 compuerta/S
 compulsión/S
 computación/S
+comulación/S
 comuna/S
 comunicabilidad/kS
 comunicación/klS
 comunidad/S
 comunión/S
-concatenación/S
 cóncava/S
-concentración/S
 concepción/S
 concernencia/S
 concertina/S
@@ -2612,7 +2533,6 @@ conchabanza/S
 concha/S
 conchuela/S
 conciencia/S
-conciliación/pS
 concisión/S
 conclusión/S
 concoide/S
@@ -2624,7 +2544,6 @@ concrescencia/S
 concubina/S
 concupiscencia/S
 concurrencia/S
-condenación/S
 condena/S
 condensabilidad/S
 condensación/S
@@ -3098,7 +3017,7 @@ cunicultura/S
 cuña/S
 cuota/S
 cúpula/S
-curación/S
+curación/dS
 curativa/S
 cúrcuma/S
 curda/S
@@ -3154,7 +3073,7 @@ declinación/S
 declinatoria/S
 declividad/S
 decodificación/S
-decoración/Sf
+decoración/S
 decrepitud/S
 dedalera/S
 dedicación/S
@@ -3428,6 +3347,7 @@ diplomatura/S
 dipodia/S
 diputación/S
 dirección/sS
+directa/S             # Registro #15
 directriz/S
 disartria/S
 discapacidad/S
@@ -5720,7 +5640,7 @@ intima/S
 íntima/S
 intimidación/S
 intimidad/S
-intoxicación/hS
+intoxicación/dhS
 intransitividad/S
 intranet
 intransmutabilidad/S
@@ -6197,7 +6117,7 @@ liña/S
 liorna/S
 lipemanía/S
 lipotimia/S
-liquidación/S
+liquidación/dS
 liquidez/S
 lira/S
 liria/S
@@ -8974,6 +8894,7 @@ recaída/S
 recalcadura/S
 recancamusa/S
 recancanilla/S
+recapitulación/S
 recaudación/S
 recentadura/S
 recepción/S
@@ -9050,7 +8971,7 @@ regleta/S
 regona/S
 regresión/S
 reguera/S
-regulación/S
+regulación/dS
 regularidad/kS
 regularización/S
 rehala/S

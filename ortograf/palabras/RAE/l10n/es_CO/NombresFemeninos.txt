@@ -33,6 +33,7 @@ calla/S
 canta/S
 cantuta/S
 cañabrava/S
+cedulación/S
 chanda/S
 chanfa/S
 cheque/S

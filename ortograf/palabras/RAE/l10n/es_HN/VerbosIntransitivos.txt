@@ -18,7 +18,7 @@ acordar/IRD
 amalayar/RED
 antipatizar/RED
 arrechar/RED
-arrendar/RID
+arrendar/IRDA
 barajustar/RED
 camaronear/RED
 camellar/RED

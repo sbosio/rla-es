@@ -16,7 +16,6 @@
 
 abastardar/RED
 abejorrear/RED
-aberrar/RED
 abogar/RED
 abonanzar/RED
 abrotoñar/RED
@@ -47,7 +46,7 @@ aletear/RED
 alfar/RED
 almogavarear/RED
 alpargatar/RED
-altercar/RED
+altercar/REDA
 alunizar/RED
 amarar/RED
 amarillear/RED
@@ -113,7 +112,7 @@ barcinar/RED
 barloventear/RED
 barritar/RED
 barzonear/RED
-bascular/RED
+bascular/REDA
 bastardar/RED
 batallar/RED
 beborrotear/RED
@@ -146,7 +145,7 @@ boxear/RED
 boyar/RED
 bracear/RED
 bramar/RED
-braquiar/RED
+braquiar/REDA
 bravear/RED
 bravocear/RED
 bravuconear/RED
@@ -251,7 +250,7 @@ ciabogar/RED
 ciar/IRD
 cicatear/RED
 clarecer/IRD
-claudicar/RED
+claudicar/REDA
 clocar/IRD
 cloquear/RED
 cobardear/RED
@@ -261,7 +260,7 @@ cohabitar/RED
 coincidir/RED
 coitar/RED
 cojear/RED
-colaborar/RED
+colaborar/REDA
 colindar/RED
 colisionar/RED
 coludir/RED

@@ -8017,7 +8017,7 @@ matarife/S
 matasellos
 matasiete/S
 matematismo/S
-mate/pS
+mate/S
 materialismo/S
 material/OS
 matico/S
@@ -10843,7 +10843,7 @@ reguilete/S
 regulador/S
 regular/S
 régulo/S
-regusto
+regusto/S
 rehalero/S
 rehén/S
 rehilamiento/S
@@ -10886,6 +10886,7 @@ remache/S
 remamiento/S
 remanente/S
 rematamiento/S
+remate/S
 remedio/S
 remedo/S
 remellado/S
@@ -10896,12 +10897,12 @@ remilgo/S
 remite/S
 remitido/S
 remojadero/S
-remolino
+remolino/S
 remolón/S
 remolque/S
 remontado/S
 remontamiento/S
-remonte
+remonte/S
 remontista/S
 remoque/S
 remo/S
@@ -10926,9 +10927,9 @@ reo/fS
 reostato/S
 reóstato/S
 reparamiento/S
-reparo
+reparo/S
 repelente/S
-repelo
+repelo/s
 repelús
 repeluzno/S
 repente/S

@@ -886,6 +886,7 @@ anticipador/GS
 anticipante/S
 anticlinal/S
 anticongelante/S
+anticontaminación/S
 anticrisis
 anticuado/GS
 antidepresivo/GS
@@ -6792,6 +6793,7 @@ insoslayable/S
 insospechado/GS
 insostenible/S
 inspector/GS
+inspirado/GS
 inspirador/GS
 inspirativo/GS
 instalador/GS
@@ -7880,7 +7882,7 @@ matalón/SG
 matalote/S
 matamoros
 matancero/SG
-mate/GS
+mate/S
 matemático/GS
 materialista/S
 material/kS
@@ -9548,6 +9550,7 @@ peyorativo/SG
 piador/GS
 piadosa/k
 piadoso/kGS
+piano/S
 piante/S
 piariego/GS
 picacero/GS

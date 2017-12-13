@@ -23,6 +23,7 @@ calilla/S
 calla/S
 cantuta/S
 cañabrava/S
+cedulación/S
 cepillada/S
 ciclovía/S
 cigarrería/S

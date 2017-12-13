@@ -25,6 +25,7 @@ camaza/S
 cañabrava/S
 capitaneja/S
 cascabela/S
+cedulación/S
 chachalaca/S
 chirraca/S
 ciclovía/S

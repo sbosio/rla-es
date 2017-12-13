@@ -24,6 +24,7 @@ bombacha/S
 calilla/S
 calla/S
 cañabrava/S
+cedulación/S
 chaperona/S
 cigarrería/S
 contesta/S
