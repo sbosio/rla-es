@@ -366,7 +366,7 @@ fajar/REDÀÁñ
 fardar/RED
 feriar/RED
 fiar/IRDÁÅßñòõ
-figurar/REDÁñòôø
+figurar/REDÁÃñòôø
 filtrar/REDÀ
 fincar/RED
 fisgar/RED
@@ -440,7 +440,7 @@ monoptongar/RED
 montar/REDÀÁÂÃÅñòôø
 moralizar/RED
 morir/XÁñóöú
-mover/IRDÄÁÝñòõù
+mover/IRDÄÀÁÝñòõù
 mudar/REDÁñò
 multiplicar/REDÀÄñòôøT
 ociar/RED

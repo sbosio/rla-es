@@ -22,6 +22,7 @@ botellón/S
 bullarengue/S
 bullerengue/S
 corrientazo/S
+cúlmine/S
 cununo/S
 currulao/S
 deshuesadero/S

@@ -44,6 +44,7 @@ abreviatura/S
 abscisa/S
 absolución/S
 absoluta/S
+absolutidad
 absorbencia/S
 absorción/S
 abstención/S
@@ -3480,6 +3481,7 @@ disposición/Snk
 dispositiva/S
 disputa/S
 disquetera/S
+disrupción/S
 distancia/S
 distensión/S
 distinción/S

@@ -16,6 +16,7 @@
 
 botellón/S
 chabón/S
+cúlmine/S
 emprendimiento/S
 monitoreo/S
 mouse/S
