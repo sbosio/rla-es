@@ -44,6 +44,7 @@ abreviatura/S
 abscisa/S
 absolución/S
 absoluta/S
+absolutidad
 absorbencia/S
 absorción/S
 abstención/S
@@ -380,6 +381,7 @@ aldaba/NS
 aldea/S
 aldiza/S
 aldohexosa/S
+aldopentosa/S
 aldorta/S
 aleación/S
 aleatoriedad/S
@@ -3299,6 +3301,7 @@ desnatadora/S
 desnudez/S
 desolación/S
 desolladura/S
+desoxirribosa/S
 despabiladura/S
 despachaderas
 despajadura/S
@@ -3478,6 +3481,7 @@ disposición/Snk
 dispositiva/S
 disputa/S
 disquetera/S
+disrupción/S
 distancia/S
 distensión/S
 distinción/S
@@ -3855,6 +3859,7 @@ entrepalmadura/S
 entretela
 entriega/S
 entronización/S
+entropía
 enumeración/S
 enunciación/S
 envergadura/S
@@ -4856,6 +4861,7 @@ gaseosa/S
 gasificación/S
 gasolina/S
 gasolinera/S
+gasometría/S
 gastralgia/S
 gastritis
 gastroenteritis
@@ -5031,6 +5037,7 @@ grava/NS
 gravedad/S
 gravera/S
 gravidez/kS
+gravimetría/S
 gravitación/S
 greba/S
 greca/S
@@ -5362,6 +5369,7 @@ hombría/S
 homeopatía/S
 homilía/S
 homogeneidad/S
+homogeneización/S
 homología/S
 homonimia/S
 homosexualidad/S
@@ -5443,6 +5451,7 @@ humazga/S
 humedad/S
 húmeda/S
 humera/S
+humidificación
 humildad/S
 humillación/S
 humorada/S
@@ -5695,6 +5704,7 @@ intendencia/stSr
 intensidad/S
 intensificación/S
 intentona/S
+interactividad
 intercalación/S
 interferencia/S
 interioridad/S
@@ -6891,6 +6901,7 @@ micra/S
 microcefalia/S
 microelectrónica/S
 microfilmador/S
+micrografía/S
 microscopia/S
 microscopía/S
 microspora/S
@@ -9101,6 +9112,7 @@ resbalera/S
 rescaza/S
 rescisión/S
 rescoldera/S
+resección/S
 reservación/S
 resfriadura/S
 residencia/S
@@ -9164,6 +9176,7 @@ riada/S
 ría/S
 ribera/S
 ribeteador/S
+ribosa/S
 ricahembra/S
 ricahombría/S
 rica/S
@@ -9531,7 +9544,7 @@ segunda/NS
 segundogenitura/S
 seguridad/kS
 segur/KS
-selección/S
+selección/Sn
 selectas
 selectividad/S
 selenografía
@@ -9845,6 +9858,7 @@ sota/S
 suarda/S
 suavidad/S
 subasta/S
+subducción/S
 subjetividad/S
 sublevación/S
 sublimación/S
@@ -10055,6 +10069,7 @@ tecla/S
 técnica/S
 tecnificación/S
 tecnología/S
+tectónica
 teda/S
 teinada/S
 teja/S

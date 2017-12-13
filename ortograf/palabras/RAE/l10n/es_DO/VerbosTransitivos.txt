@@ -39,6 +39,7 @@ desmalezar/RED
 despilarar/RED
 devolver/IRñòù
 difuntear/RED
+digitar/RED
 empañetar/RED
 empotrerar/RED
 enlozar/RED

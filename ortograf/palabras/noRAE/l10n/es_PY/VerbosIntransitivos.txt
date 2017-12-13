@@ -1,8 +1,8 @@
-# Lista de lemas: Locuciones.txt
+# Lista de lemas: VerbosIntransitivos.txt
 
 # Colaboradores:
 # + Edward Villegas Pulgarin (@cosmoscalibur).
 
 # Elaborado para el proyecto [RLA-ES](https://github.com/sbosio/rla-es/).
 
-contentillo/S # locución verbal "dar contentillo"
+digitar/RED

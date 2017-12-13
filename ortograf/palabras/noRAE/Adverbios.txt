@@ -80,6 +80,7 @@ atrozmente
 auditivamente
 auricularmente
 auténticamente
+autónomamente
 autoritariamente
 ávidamente
 avinagradamente
@@ -170,6 +171,7 @@ decisivamente
 decorativamente
 decorosamente
 dedicadamente
+deductivamente
 deliciosamente
 desaboridamente
 desaforadamente
@@ -198,6 +200,7 @@ desproporcionadamente
 devotamente
 diabólicamente
 didácticamente
+discursivamente
 dispersamente
 distantemente
 distendidamente
@@ -242,6 +245,7 @@ espinosamente
 estereoscópicamente
 estrambóticamente
 estrechísimamente
+estructuralmente
 evasivamente
 excepcionalmente
 execrablemente
@@ -253,6 +257,7 @@ expedientemente
 explícitamente
 exultantemente
 factiblemente
+fácticamente
 famosamente
 fanfarronamente
 fascinantemente
@@ -276,7 +281,9 @@ funcionalmente
 futilmente
 galvánicamente
 gatunamente
+genéticamente
 gesticulantemente
+gravitacionalmente
 guapamente
 guarramente
 hambrientamente
@@ -294,6 +301,7 @@ impecablemente
 impensablemente
 imponentemente
 impulsivamente
+indiscutiblemente
 indómitamente
 indubitablemente
 ingénitamente
@@ -353,6 +361,7 @@ nefariamente
 nefastamente
 negadamente
 negramente
+nítidamente
 noctámbulamente
 nocturnamente
 novelescamente
@@ -376,9 +385,11 @@ podridamente
 pontíficamente
 positivamente
 precozmente
+primigeniamente
 principescamente
 pringosamente
 profundísimamente
+provisoriamente
 punzantemente
 quirúrgicamente
 radiantemente
@@ -430,6 +441,7 @@ submarinamente
 subsecuentemente
 sudorosamente
 sufridamente
+suplementariamente
 supuestamente		# Contribuida por Sergio Medina
 supurantemente
 susurrantemente

@@ -724,6 +724,7 @@ obispar/RED
 octavar/RED
 olear/RED
 opositar/RED
+orbitar/RED
 orejear/RED
 orzar/RED
 oscilar/RED

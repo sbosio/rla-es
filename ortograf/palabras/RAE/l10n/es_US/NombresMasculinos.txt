@@ -17,3 +17,4 @@
 beisbol/S
 bluyín/S
 jonrón/S
+reservorio/S

@@ -145,6 +145,7 @@ quique/S
 quirquincho/S
 quisco/S
 rayador/S
+reservorio/S
 riflero/S
 rocambor/S
 romerillo/S

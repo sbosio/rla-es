@@ -97,6 +97,7 @@ platón/S
 polvillo/S
 quijo/S
 rellenito/S
+reservorio/S
 romerillo/S
 rompenueces
 rubro/S

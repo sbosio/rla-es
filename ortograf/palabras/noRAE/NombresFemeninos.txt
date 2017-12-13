@@ -14,8 +14,12 @@
 # Debe haber recibido una copia de la Licencia Pública General de GNU junto
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
+absolutez
+acetamida/S
 acupresión/S			# Contribuida por Ricardo Goldberger
+alquilación
 amigdalectomía/S
+antimateria
 apendicectomía/S
 astrometría
 autocompasión/S
@@ -23,6 +27,7 @@ autoconciencia/S
 autoconfianza/S
 autodisciplina/S
 autoimagen/S
+autolimitación/S
 autoprotección/S		# Contribuida por César Romé
 bibliometría
 comerciabilidad/S
@@ -30,15 +35,27 @@ compactación/S
 convolución/S
 coparentalidad
 criolita/S
+criptodivisa/S
+criptomoneda/S
 cromita/S
 cromodinámica
 cuantización/S
 cumplimentación/S
 desconferencia/S
+determinabilidad/S
+discretización/S
+eritroblastosis
 ferroaleación/S
 fundamentación/S
 granularidad/S
+heterolisis
+heterólisis
 holofonía/S
+homogenización/S
+homolisis
+homólisis
+incompletitud/S
+incompletud/S
 interoperatividad/S		# Contribuida por Gonzalo Higuera Díaz
 ludificación
 magnificación/S
@@ -56,13 +73,17 @@ reinvención/S
 retroalimentación/S
 sandwichera/S
 senoide/S
+similaridad/S
 sismicidad/S
 sobreutilización/S
 subcultura/S
 subfamilia/S
 subrutina/S
+substancialidad/S
 sumatoria/S
 supersimetría/S
+supertierra/S
+sustancialidad/S
 temporalización/S
 titánide/S
 totalización/S

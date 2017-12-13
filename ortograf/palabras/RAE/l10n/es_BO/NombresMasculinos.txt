@@ -119,6 +119,7 @@ quique/S
 quirquincho/S
 radioteatro/S
 rayador/S
+reservorio/S
 rocambor/S
 romerillo/S
 rompenueces

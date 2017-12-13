@@ -14,6 +14,7 @@
 # Debe haber recibido una copia de la Licencia Pública General de GNU junto
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
+alcano/S
 alnico/S
 anticuark/S
 antinodo/S
@@ -23,6 +24,7 @@ autoconocimiento/S
 autodesarrollo/S
 bailecillo/S
 barión/S
+bitcóin/S
 capacitor/S								# Acordado en https://github.com/sbosio/rla-es/issues/8
 causalismo/S
 cibercafé/S
@@ -33,13 +35,16 @@ dimensionamiento/S
 direccionamiento/S
 espectrógrafo/S
 exjugador/GS
+exoplaneta/S
 fenólico/S
 ferrimagnetismo
 flexómetro/S
 flujómetro/S
+fluxímetro/S
 franquiciado/S
 fundacionismo/S
 gaussímetro/S
+gravitomagnetismo
 hiperenlace/S
 hipervínculo/S
 iusnaturalismo
@@ -51,6 +56,7 @@ microcontrolador/S
 microcurrículo/S
 nanomaterial/S
 nanómetro/S
+obrante/S
 periodograma/S
 poliestireno/S
 polímetro/S
@@ -65,9 +71,12 @@ ranurado/S
 rebarbado/S
 refrentado/S
 renting # extranjerismo no adaptado #139
+solucionario/S
 swing # extranjerismo no adaptado #139
+taquión/S
 teslámetro/S
 titán/S
+tunelamiento/S
 versionamiento/S
 vivario/S
 yacusi/S

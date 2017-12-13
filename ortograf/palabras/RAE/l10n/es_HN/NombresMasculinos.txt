@@ -140,6 +140,7 @@ puntaje/S
 quijongo/S
 quijo/S
 quilombo/S
+reservorio/S
 rollito/S
 romerillo/S
 rompenueces
