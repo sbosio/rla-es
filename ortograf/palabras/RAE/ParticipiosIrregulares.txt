@@ -16,6 +16,7 @@
 
 abierto/GS
 adscrito/GS
+antepuesto/GS
 arroto/GS
 bendito/GS
 bienquisto/GS

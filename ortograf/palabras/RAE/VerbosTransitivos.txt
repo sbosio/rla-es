@@ -1987,7 +1987,7 @@ equiparar/REDÀÁÄT
 erar/RED
 erogar/RED
 erradicar/REDÀ
-esbozar/REDÀ
+esbozar/REDÀÄ
 esbrencar/RED
 escachar/RED
 escachifollar/RED
@@ -2864,7 +2864,7 @@ pelambrar/RED
 penalizar/REDÀ
 pendrar/RED
 penitenciar/RED
-pensar/IRDÀÁÂÃÄÅÆÇÐÝ
+pensar/IRDÀÁÂÃÄÅÆÇÐÝø
 pensionar/REDÁ
 peraltar/RED
 perchar/RED
@@ -2981,7 +2981,7 @@ presidiar/RED
 presidir/REDÀÄ
 presionar/REDÀÁÂÄÅÆ
 prestigiar/REDÀ
-presuponer/X
+presuponer/XÁ
 presupuestar/REDÀ
 presurizar/RED
 pretender/REDÀÁÄ

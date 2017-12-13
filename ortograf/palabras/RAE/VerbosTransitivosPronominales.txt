@@ -327,7 +327,7 @@ apresurar/REDÁÅñòôø
 apretujar/REDñ
 apriscar/RED
 apropiar/REDÁÃÅÇñò
-aproximar/REDñòôø
+aproximar/REDÀñòôø
 apurar/REDÀÁÂÅÛñòôø
 aqueresar/RED
 aquietar/RED
@@ -420,7 +420,7 @@ atragantar/REDñ
 atraillar/IRD
 atrampar/RED
 atravesar/IRDÄÀÆñò
-atribuir/IRDÀÁÂÃÈËñóT
+atribuir/IRDÀÁÂÃÈËÊñóT
 atribular/RED
 atrincherar/REDñ
 atrofiar/RED
@@ -565,7 +565,7 @@ concienciar/REDAñ
 conciliar/REDñ
 concitar/RED
 concrecionar/RED
-concretar/REDÁÂñ
+concretar/REDÀÁÂñ
 condenar/REDÀÁÆÍñòT
 condensar/REDÀT
 confederar/RED
@@ -1847,7 +1847,7 @@ ofuscar/RED
 olivar/RED
 olvidar/REDÀÁÂÌñòôø
 omitir/REDÀ
-oponer/XÀÁñóT
+oponer/XÀÁÈñóT
 ordenar/REDÀÄñò
 orear/REDñ
 organizar/REDÀÂÄñòô

@@ -25,9 +25,11 @@ anticomercial/S
 antihorario/GS
 antimonopólico/GS
 asintótico/GS
+autoconsciente/S
 autocorrectivo/GS
 autodenominado/GS
 autodeterminado/GS
+autoimpuesto/GS
 autolubricante/S
 autosustentable/S
 avergonzante/S
@@ -46,6 +48,9 @@ ceilandés/GS
 colaborativo/GS
 combinacional/S			# Contribuida por César Romé
 completísimo/GS
+concatenante/S
+conceptualizante/S
+concipiente/S
 contextualizado/GS
 cromodinámico/GS
 desarrollador/GS
@@ -78,6 +83,7 @@ inspectorial/S
 interactuante/S
 interoperable/S			# Contribuida por Gonzalo Higuera Díaz
 interrelacionado/GS
+intuible/S
 irakí/S
 larguísimo/GS
 maremotriz/S
@@ -109,6 +115,8 @@ predictivo/GS
 prescriptor/GS
 propositivo/GS
 ranurado/GS
+reconducible/S
+representacional/S
 reproducible/S
 reumatoide/S
 santaluciano/GS
@@ -116,8 +124,10 @@ semiconsciente/S
 semielaborado/GS
 senoidal/S
 sexualizado/GS
+sobreviniente/S
 srilanqués/GS
 sudsudanés/GS
+suprasensible/S
 sursudanés/GS
 taquiónico/GS
 texturado/GS

@@ -14,6 +14,7 @@
 # Debe haber recibido una copia de la Licencia Pública General de GNU junto
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
+absolutez
 acupresión/S			# Contribuida por Ricardo Goldberger
 amigdalectomía/S
 antimateria
@@ -24,6 +25,7 @@ autoconciencia/S
 autoconfianza/S
 autodisciplina/S
 autoimagen/S
+autolimitación/S
 autoprotección/S		# Contribuida por César Romé
 bibliometría
 comerciabilidad/S
@@ -38,11 +40,14 @@ cromodinámica
 cuantización/S
 cumplimentación/S
 desconferencia/S
+determinabilidad/S
 discretización/S
 ferroaleación/S
 fundamentación/S
 granularidad/S
 holofonía/S
+incompletitud/S
+incompletud/S
 interoperatividad/S		# Contribuida por Gonzalo Higuera Díaz
 ludificación
 magnificación/S
@@ -66,9 +71,11 @@ sobreutilización/S
 subcultura/S
 subfamilia/S
 subrutina/S
+substancialidad/S
 sumatoria/S
 supersimetría/S
 supertierra/S
+sustancialidad/S
 temporalización/S
 titánide/S
 totalización/S

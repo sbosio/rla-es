@@ -17,6 +17,8 @@
 autoajustar/REDñT		# Contribuida por César Romé
 autodenominar/RED
 autodestruir/IRDÁ		# Contribuida por Sergio Medina
+autodeterminar/REDñ
+autoimponer/REDñ
 particionar/RED
 reabastecer/IRDÀÁñ
 reorientar/RED
