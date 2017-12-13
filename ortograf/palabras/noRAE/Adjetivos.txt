@@ -72,9 +72,11 @@ globalizado/GS
 grandísimo/GS
 gravable/S
 gravitomagnético/GS
+heterolítico/GS
 hidrotérmico/GS
 hipergeométrico/GS
 holofónico/GS
+homolítico/GS
 incremental/S
 inefectivo/GS
 inentendible/S

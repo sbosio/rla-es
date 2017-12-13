@@ -39,6 +39,7 @@ fenólico/S
 ferrimagnetismo
 flexómetro/S
 flujómetro/S
+fluxímetro/S
 franquiciado/S
 fundacionismo/S
 gaussímetro/S
