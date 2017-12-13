@@ -46,6 +46,7 @@ ferroaleación/S
 fundamentación/S
 granularidad/S
 holofonía/S
+homogenización/S
 incompletitud/S
 incompletud/S
 interoperatividad/S		# Contribuida por Gonzalo Higuera Díaz

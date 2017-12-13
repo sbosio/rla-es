@@ -1716,7 +1716,7 @@ justificar/REDÀÁÄñò
 lacrar/RED
 lamer/REDÄñò
 lancinar/RED
-lanzar/REDÆÌñòôø
+lanzar/REDÀÆÌñòôø
 lapidificar/RED
 largar/REDñòôø
 lastimar/REDñò
@@ -1762,7 +1762,7 @@ manchar/REDÂñò
 mancillar/RED
 mancipar/RED
 mancomunar/RED
-manejar/REDÄñòô
+manejar/REDÀÄñòô
 mangar/RED
 manifestar/IRDñò
 mantener/XDÂÀÅÉÖñóöú
@@ -1953,7 +1953,7 @@ reabrir/RE
 reabsorber/RED
 reafirmar/REDñ
 reagravar/RED
-realizar/REDÄñ
+realizar/REDÀÄñ
 realzar/RED
 reanimar/REDÀÁñ
 reanudar/REDÀÁñ

@@ -475,7 +475,7 @@ recorrer/REDÀÁÆ
 recudir/RED
 recurrir/REDÀT
 refitolear/RED
-reflexionar/RED
+reflexionar/REDÄ
 reflotar/REDÀ
 regañar/REDÂÄ
 regatear/REDÀÂÃ
@@ -502,7 +502,7 @@ resucitar/REDÁ
 retoricar/RED
 retozar/RED
 reverdecer/IRD
-revivir/REDÀ
+revivir/REDÀÌÙ
 revocar/REDÀÁ
 revolotear/RED
 rezar/REDÀÁÂÆ
@@ -594,7 +594,7 @@ viajar/RED
 vibrar/RED
 vigilar/RED
 virar/REDÁ
-vivir/REDÌÙ
+vivir/REDÀÌÙ
 vocear/RED
 vociferar/RED
 votar/REDÀ
