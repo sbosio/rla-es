@@ -46,6 +46,7 @@ carato/S
 carpidor/S
 carrilano/S
 celular/S
+chairo/S
 chiche/S
 cocacho/S
 cochayuyo/S
