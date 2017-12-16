@@ -732,6 +732,7 @@ amollador/GS
 amonestador/GS
 amoniacal/S
 amónico/SG
+amoniotélico/GS
 amonita/S
 amontillado/S
 amontonador/GS
@@ -2089,6 +2090,7 @@ cantante/S
 cantonalista/S
 cantonal/S
 cantonero/GS
+cantonés/GS
 cantor/GS
 canular/S
 cañihueco/S
@@ -10524,6 +10526,7 @@ regulativo/GS
 reidero/GS
 reidor/GS
 reinante/S
+reinsertado/GS
 reiterado/GS
 reivindicable/Sk
 reivindicativo/GS

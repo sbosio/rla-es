@@ -352,6 +352,7 @@ cantador/GS
 cantautor/GS
 cantinero/GS
 cantonero/GS
+cantonés/GS
 cantor/GS
 capachero/GS
 capataz/GS
@@ -1537,6 +1538,7 @@ regador/GS
 regidor/GS
 registrador/GS
 reinador/GS
+reinsertado/GS
 rejoneador/GS
 relator/GS
 religionario/GS

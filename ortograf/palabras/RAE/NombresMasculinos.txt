@@ -99,6 +99,7 @@ abrochador/S
 abrochamiento/S
 abrojo/S
 abrótano/S
+ABS
 absceso/S
 absentismo/S
 absolutismo/S
@@ -295,6 +296,7 @@ adornamiento/S
 adorno/S
 adral/S
 adrizamiento/S
+ADSL
 aduar/S
 adulterio/S
 advenimiento/S
@@ -1104,6 +1106,7 @@ apoderamiento/hS
 apodo/S
 ápodo/S
 apogeo/S
+apolo/S
 apoltronamiento/S
 aporisma/S
 aporreamiento/S
@@ -1220,7 +1223,7 @@ argón/S
 argos
 argot/S
 argumentario/S
-argumento/S
+argumento/Sv
 árido/S
 arienzo/S
 ariete/S
@@ -2620,6 +2623,7 @@ cantizal/S
 canto/iaS
 cantonalismo/S
 cantón/S
+cantonés
 cantorral/S
 cantueso/S
 canutero/S
@@ -3489,6 +3493,7 @@ comicios
 cómic/S
 comienzo/S
 comino/NS
+comisariado/S
 comistrajo/S
 comité/S
 comodato/S
@@ -6327,6 +6332,7 @@ gótico/S
 gozne/S
 gozo/S
 gozque/S
+GPS
 grabado/S
 gracejo/Sa
 gradiente/S
@@ -7067,6 +7073,7 @@ isomorfismo/S
 isópodo/S
 isótopo/S
 isquion/S
+ISSN
 istmo/S
 italianismo/S
 italiano/S
@@ -7628,6 +7635,7 @@ loro/GS
 losange/S
 lote/S
 loto/S
+LSD
 lubigante/S
 lucentor/S
 lucero/S
@@ -8290,6 +8298,7 @@ mimbreral/S
 mimeógrafo/S
 mimetismo/S
 mimo/S
+minado/hS
 minador/S
 mineraje/S
 mineral/S
@@ -8731,6 +8740,7 @@ náufrago/S
 nauta/S
 nautilo/S
 navaja/H
+navajeo/S
 navajo/GS
 navajón/HS
 naval/S
@@ -9983,6 +9993,7 @@ plinto/S
 plomero/S
 plomo/HS
 plomos/a
+ploteado/S
 plumajero/S
 plumaje/S
 plumario/S
@@ -11029,6 +11040,7 @@ retorromano/S
 retor/S
 retortijón/S
 reto/S
+retractilado/S
 retraimiento/S
 retraso/S
 retrato/dS
@@ -11657,6 +11669,7 @@ setiembre/S
 seto/S
 set/S
 seudónimo/S
+sexado/S
 sexenio/S
 sexismo/S
 sexmero/S

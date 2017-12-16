@@ -56,7 +56,7 @@ impreso/GS
 impuesto/GS
 indispuesto/GS
 inhiesto/GS
-inscrito/GS
+inscrito/nGS
 interdicho/GS
 interpuesto/GS
 maldicho/GS

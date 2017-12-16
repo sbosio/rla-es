@@ -15,6 +15,7 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 abertzale/S
+acochinado/GS
 algaido/GS
 alparcero/GS
 andalotero/SG

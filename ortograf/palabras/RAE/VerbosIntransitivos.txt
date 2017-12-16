@@ -1020,6 +1020,7 @@ talonear/RED
 tamborear/RED
 tamboritear/RED
 tandear/RED
+tanguear/RED
 tardear/RED
 tardecer/IRD
 tartajear/RED

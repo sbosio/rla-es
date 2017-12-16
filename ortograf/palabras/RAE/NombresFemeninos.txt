@@ -324,6 +324,7 @@ alcaldía/S
 alcalescencia/S
 alcalinidad/S
 alcalosis
+alcana/S
 alcancía/S
 alcándara/S
 alcanforada/S
@@ -7482,6 +7483,7 @@ omnisciencia/S
 onda/Sm
 ondina/S
 ondulación/S
+ONG
 ónice/S
 ónique/S
 oniromancia/S
@@ -8731,6 +8733,7 @@ quilatera/S
 quilla/rS
 quimera/S
 química/S
+quimio/S
 quimioterapia/S
 quimosina/S
 quina/kS

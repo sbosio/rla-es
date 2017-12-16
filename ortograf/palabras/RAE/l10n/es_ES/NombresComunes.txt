@@ -17,6 +17,7 @@
 allanabarrancos
 chueta/S
 cucharón/S
+fisio/S
 jijas
 peñazo/S
 taranta/S

@@ -2028,6 +2028,7 @@ rehacer/XÀÁñ
 rehartar/RED
 rehumedecer/IRD
 reincorporar/REDÀÁñ
+reinsertar/REDñòôø
 reinstalar/REDÀñ
 reintegrar/REDÀÁÂñ
 reiterar/REDÀÁÂÆñò
