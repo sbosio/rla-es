@@ -16,6 +16,7 @@
 
 achicorero/GS
 capacitador/GS
+coinvestigador/GS
 desarrollador/GS
 originador/GS
 prescriptor/GS

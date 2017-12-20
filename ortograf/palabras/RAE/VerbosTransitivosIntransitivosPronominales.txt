@@ -57,7 +57,7 @@ ahondar/REDÀÄ
 ahuecar/REDÀ
 ahumar/IRDÀ
 ajuglarar/RED
-ajustar/REDÀÁÂÃÄÅÆñòôT
+ajustar/REDÀÁÂÃÄÅÆñòôTÛ
 alabear/RED
 alargar/REDÀÁÂÄÅÆÍñò
 albergar/REDÀÁñ
@@ -428,7 +428,7 @@ marear/REDÁñ
 matar/REDÀÄÅÆÌÎñòôp
 matear/RED
 mear/REDÂñòô
-medir/XDÀÈÊñóöú
+medir/XDÀÈÊñóöúá
 mejorar/REDÀÁñòô
 mentir/XDÁÂÊñó
 merendar/IRDñ

@@ -17,7 +17,7 @@
 adscripto/GS
 circunscripto/GS
 descripto/GS
-inscripto/GS
+inscripto/GSn
 prescripto/GS
 proscripto/GS
 sobrescripto/GS

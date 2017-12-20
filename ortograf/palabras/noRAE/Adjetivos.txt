@@ -26,6 +26,7 @@ antihorario/GS
 antimonopólico/GS
 asintótico/GS
 autoconsciente/S
+autocontenido/GS
 autocorrectivo/GS
 autodenominado/GS
 autodeterminado/GS

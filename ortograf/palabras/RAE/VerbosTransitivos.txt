@@ -2750,6 +2750,7 @@ murciar/RED
 namorar/RED
 narrar/REDÀÁÂÃÆT
 nasalizar/RED
+navajear/RED
 nebulizar/RED
 nerviar/RED
 nesgar/RED
@@ -2926,6 +2927,7 @@ platinar/RED
 pleitear/RED
 plisar/RED
 plomar/RED
+plotear/RED
 plumear/RED
 pluralizar/RED
 podar/REDÀÂÄ
@@ -3320,6 +3322,7 @@ retirar/REDÀÁÂÃÄÅÆÌÎÙ
 retomar/REDÀ
 retortijar/RED
 retostar/IRD
+retractilar/RED
 retraducir/XD
 retrancar/RED
 retranquear/RED
@@ -3426,6 +3429,7 @@ serruchar/RED
 serviciar/RED
 sesgar/REDÛ
 setenar/RED
+sexar/RED
 sextavar/RED
 sigilar/RED
 silenciar/REDÀÁÂ

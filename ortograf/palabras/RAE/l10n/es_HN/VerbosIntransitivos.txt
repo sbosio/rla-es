@@ -39,6 +39,7 @@ nancear/RED
 pampear/RED
 rumbear/RED
 sabanear/RED
+sexar/RED
 sufragar/RED
 tertuliar/RED
 zoquetear/RED

@@ -15,6 +15,7 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 calendarizar/REDA
+desestimular/RED
 digitar/RED
 graficar/RED
 monitorear/RED

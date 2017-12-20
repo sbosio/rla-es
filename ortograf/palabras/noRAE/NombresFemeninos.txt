@@ -21,7 +21,8 @@ alquilación
 amigdalectomía/S
 antimateria
 apendicectomía/S
-astrometría
+astrometría/S
+autocitación/S
 autocompasión/S
 autoconciencia/S
 autoconfianza/S
@@ -34,6 +35,7 @@ comerciabilidad/S
 compactación/S
 convolución/S
 coparentalidad
+criogénesis
 criolita/S
 criptodivisa/S
 criptomoneda/S

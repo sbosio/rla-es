@@ -550,7 +550,7 @@ cohibir/IRDñ
 colegiar/REDA
 colicuar/RED
 colmar/REDÀÁÂñ
-colocar/REDÀÁÃÅÆÇÌÍÛñòôøA
+colocar/REDÀÁÃÅÆÇÌÍÛñòôøAÙ
 columpiar/REDñò
 combar/RED
 compadecer/IRDÁÂÅñò
@@ -1680,7 +1680,7 @@ inmutar/REDÁñ
 inocular/REDÀÂÅÆò
 inquietar/REDÀÁÂÅñò
 inquinar/RED
-inscribir/REDÀÁÂÄñT
+inscribir/REÀÁÂÄñTnòôø
 insensibilizar/REDÀ
 insertar/REDÀÁÂÄñ
 insinuar/IRDÀÁÂÃÅÆñò
@@ -2018,7 +2018,7 @@ refringir/RED
 refugiar/REDñòô
 regalar/REDÀÂÃÛñò
 regenerar/REDÀñ
-registrar/REDÀÁÅÆñò
+registrar/REDÀÁÅÆñòô
 reglar/RED
 regocijar/REDÁñò
 reguardar/RED

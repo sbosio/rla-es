@@ -9994,6 +9994,7 @@ plomero/S
 plomo/HS
 plomos/a
 ploteado/S
+plóter/S
 plumajero/S
 plumaje/S
 plumario/S
