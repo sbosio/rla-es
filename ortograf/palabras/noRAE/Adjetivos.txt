@@ -63,6 +63,7 @@ diédrico/GS
 emiratí/S
 encriptado/GS
 estirable/S
+etnolingüístico/GS
 fenólico/GS
 ferrimagnético/GS
 finísimo/GS
@@ -78,6 +79,7 @@ hidrotérmico/GS
 hipergeométrico/GS
 holofónico/GS
 homolítico/GS
+impráctico/GS
 incremental/S
 inefectivo/GS
 inentendible/S

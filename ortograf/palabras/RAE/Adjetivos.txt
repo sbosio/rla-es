@@ -11089,7 +11089,7 @@ satisfactoria/k
 satisfactorio/kGS
 satisfecha/k
 satisfecho/kGS
-saturado/GS
+saturado/GSk
 saturnal/S
 saturnino/SG
 saturnio/GS

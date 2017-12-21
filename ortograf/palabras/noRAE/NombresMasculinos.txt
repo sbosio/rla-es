@@ -33,6 +33,7 @@ coherentismo/S
 datáfono/S
 dimensionamiento/S
 direccionamiento/S
+ecoparque/S
 espectrógrafo/S
 exjugador/GS
 exoplaneta/S
