@@ -56,7 +56,6 @@ contextualizado/GS
 cromodinámico/GS
 desarrollador/GS
 desestabilizante/S
-desorbitante/S
 destellante/S
 desvaneciente/S
 diédrico/GS
@@ -104,6 +103,7 @@ neoguineano/GS
 oligopólico/GS
 omanés/GS
 omnidireccional/S
+orbitante/Sh
 organizacional/S
 ortotipográfico/GS
 papuano/GS
@@ -132,6 +132,8 @@ sexualizado/GS
 sobreviniente/S
 srilanqués/GS
 sudsudanés/GS
+supermasivo/GS
+supersimétrico/GS
 suprasensible/S
 sursudanés/GS
 taquiónico/GS
