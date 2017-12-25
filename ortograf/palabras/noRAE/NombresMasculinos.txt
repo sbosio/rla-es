@@ -59,6 +59,8 @@ nanomaterial/S
 nanómetro/S
 noroccidente
 obrante/S
+panetón/S
+panetone/S
 periodograma/S
 poliestireno/S
 polímetro/S
