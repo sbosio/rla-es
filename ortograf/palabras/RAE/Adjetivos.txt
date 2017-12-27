@@ -5028,6 +5028,7 @@ etolio/GS
 etológico/GS
 etrusco/GS
 eubeo/SG
+eucarionte/S
 eucarístico/SG
 euclidiano/GS
 euforbiáceo/GS
@@ -6078,6 +6079,7 @@ haldinegro/GS
 haldudo/GS
 hallado/GS
 hallador/GS
+halógeno/GS
 haloideo/GS
 hambriento/SG
 hambrón/SG

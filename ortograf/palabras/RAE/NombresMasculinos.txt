@@ -1395,6 +1395,8 @@ aspersorio/S
 aspro/S
 as/S
 astado/S
+astato
+ástato
 asterisco/S
 asterismo/S
 asteroide/S
@@ -5664,6 +5666,7 @@ etíope/S
 etmoides
 etrusco/S
 eucalipto/S
+eucarionte/S
 eufemismo/S
 eunuco/S
 euro/S
@@ -11839,6 +11842,7 @@ sofoco/S
 sofrito/S
 software
 soguero/S
+sogún
 solador/S
 solano/sS
 solapamiento/S
@@ -13359,6 +13363,7 @@ yodo/S
 yogur/S
 yoqueis			# Plural de yóquey
 yóquey
+yudo
 yugo/S
 yuguero/S
 yuntero/S

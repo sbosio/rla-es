@@ -943,6 +943,7 @@ hacendado/GS
 hacendero/GS
 hacinador/GS
 halconero/GS
+halógeno/GS
 hamaquero/GS
 hamburgués/GS
 haragán/GS

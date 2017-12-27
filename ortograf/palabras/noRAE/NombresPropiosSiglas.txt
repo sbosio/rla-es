@@ -78,6 +78,7 @@ Fernando
 Ferrer
 Firefox
 Francesc
+Fundéu
 Gabriel
 Gerardo
 Giménez
@@ -169,6 +170,7 @@ Platón
 Plutarco
 Policleto
 Poseidón
+RAE
 Rafael
 Ramírez
 Raquel

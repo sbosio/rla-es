@@ -4643,6 +4643,7 @@ frontera/S
 fronte/S
 frotación/S
 frotadura/S
+fructosa/S
 frugalidad/S
 fruición/S
 fruslera/LS
@@ -6911,6 +6912,7 @@ mistificación/S
 mistión/S
 mitad/S
 mita/S
+mitocondria/S
 mitología/S
 mitosis/a
 mitra/S
