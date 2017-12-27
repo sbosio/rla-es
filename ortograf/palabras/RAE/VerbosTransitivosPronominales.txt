@@ -334,7 +334,7 @@ aqueresar/RED
 aquietar/RED
 arañar/REDÀÂñò
 aristocratizar/RED
-arrebatar/REDÀÁÃÄñò
+arrebatar/REDÀÁÃÄÂñò
 arrebolar/RED
 arrebozar/RED
 arrebujar/RED
@@ -1843,7 +1843,7 @@ nivelar/REDÀñ
 nominalizar/RED
 nublar/REDñ
 obcecar/RED
-obligar/REDÀñò
+obligar/REDÀÄñò
 obliterar/RED
 obnubilar/RED
 obsesionar/REDñò
@@ -1880,7 +1880,7 @@ perfeccionar/REDñ
 perfilar/RED
 perjudicar/REDÀÆñò
 perlar/RED
-permitir/REDÀÁÂÃÌñòôø
+permitir/REDÀÁÂÃÌÆñòôø
 perniquebrar/IRD
 perpetuar/IRDñ
 persignar/REDñô
@@ -1930,7 +1930,7 @@ promocionar/REDÀÂñ
 pronunciar/REDÀÁÄñø
 propagar/REDÀ
 propasar/REDÁñ
-proponer/XÀÅÈñóö
+proponer/XÀÅÂÈñóö
 proporcionar/REDÀÁÂÃÆñòT
 prostituir/IRDÀÁñ
 proteger/REDÀÁÂÄÅÍñòôø
@@ -1948,7 +1948,7 @@ quilificar/RED
 quillotrar/RED
 quimificar/RED
 quintuplicar/RED
-quitar/REDÀÁÂÃñòôø
+quitar/REDÀÁÂÃÆñòôø
 racimar/RED
 racionar/RED
 radicalizar/REDÀÄ
@@ -2048,7 +2048,7 @@ remorder/IRD
 remover/IRDÁÄñ
 remozar/REDÀ
 remudar/RED
-rendir/XDÀÁÊËñ
+rendir/XDÀÁÂÊËñ
 renovar/IRDÀÂñT
 reorganizar/REDÀñ
 repartir/REDÁÀÄÅÌñòô

@@ -2558,7 +2558,7 @@ laudar/REDT
 laurear/RED
 layar/RED
 lazar/RED
-leer/REDÀÁÂÃÄÅÆÌÍÏÙÚ
+leer/REDÀÁÂÃÄÅÆÌÍÏÙÚø
 legalizar/REDÀÃ
 legar/REDÀÁÂÃÅÆ
 legitimar/REDÀÁ

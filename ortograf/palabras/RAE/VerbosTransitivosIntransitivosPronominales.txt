@@ -196,7 +196,7 @@ consumir/REDÀÁÂÄÅÙñòTA
 contar/IRDÀÁÂÃÄÅÆÇÐÑÒÓÝÞßàñòõù
 continuar/IRDÀÂÄ
 correr/REDÀÁÄñòôø
-corresponder/REDÀÂñ
+corresponder/REDÀÂÆñ
 corromper/REDÀñ
 cortar/REDÀÁÃÄÅÂÌÙñòôø
 crecer/IRDÀÅÆñò
@@ -255,7 +255,7 @@ destilar/REDÀÄT
 diferenciar/REDÀÁñ
 disimilar/RED
 disminuir/IRDÀÈñú
-disparar/REDÀÁÄÅñò
+disparar/REDÀÁÄÅÂñò
 disponer/XÀÈÉñóöúT
 disputar/REDÆñò
 doblar/REDÀÁÂÄÙñ
@@ -425,7 +425,7 @@ mancar/RED
 mandar/REDÀÁÂÃÄÅÌÍÏÙñòô
 marcar/REDÀÂÄÅñòø
 marear/REDÁñ
-matar/REDÀÄÅÆÌÎñòôp
+matar/REDÀÄÅÂÆÌÎñòôp
 matear/RED
 mear/REDÂñòô
 medir/XDÀÈÊñóöúá
@@ -463,7 +463,7 @@ pegar/REDÀÁÂÄÅÎñòô
 pegotear/RED
 penar/REDT
 penetrar/REDÀÄñò
-perder/IRDÂÃÄñòõù
+perder/IRDÂÃÄÀñòõù
 perfumar/REDÁñø
 picardear/RED
 picar/REDÀÁÂÃÅÌÎÙÛñòô
@@ -544,7 +544,7 @@ rozar/REDÁÂÄÆñòT
 rumorear/RED
 salpicar/REDÂÄÅñò
 saltar/REDÀÃÆñòôøT
-salvar/REDÀÅÆÍñòôø
+salvar/REDÀÅÂÆÍñòôø
 sangrar/REDÂÆñ
 satisfacer/XÀÁÈñ
 seguir/XDÀÁÈÊÔÕáñóöú
