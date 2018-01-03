@@ -110,7 +110,7 @@ LANG_BAK=$LANG
 # Verificar si se pasó una localización como parámetro.
 if [ "$LOCALIZACIONES" != "" ]; then
   # Verificar que la localización solicitada esté implementada.
-  if ![ -d "../palabras/RAE/l10n/$LOCALIZACION" -o \
+  if ! [ -d "../palabras/RAE/l10n/$LOCALIZACION" -o \
        -d "../palabras/noRAE/l10n/$LOCALIZACION" ]; then
     echo "No se ha implementado la localización '$LOCALIZACION'." >&2
     echo -ne "¿Desea crear el diccionario genérico? (S/n): " >&2
