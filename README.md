@@ -61,4 +61,4 @@ Puedes encontrar más información sobre cómo colaborar en nuestra
 ## Licencia
 
 Consulte el [documento con las condiciones de uso de nuestros
-recursos](LICESE.md).
+recursos](LICENSE.md).
