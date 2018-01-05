@@ -56,7 +56,5 @@ Puedes encontrar más información sobre cómo colaborar en nuestra
 
 ## Licencia
 
-El proyecto y los diccionarios se distribuyen bajo un triple esquema de
-licencias disjuntas: GNU GPL versión 3 o posterior, GNU LGPL versión 3 o
-posterior, o MPL versión 1.1 o posterior.
-Puede seleccionar libremente bajo cuál de estas licencias realizará el uso.
+Consulte el [documento con las condiciones de uso de nuestros
+recursos](LICESE.md).
