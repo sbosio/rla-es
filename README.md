@@ -48,6 +48,10 @@ complementos de cada aplicación.
 * [España](https://addons.mozilla.org/es/firefox/addon/spanish-spain-dictionary/)
 * [México](https://addons.mozilla.org/es/firefox/addon/spanish-mexico-dictionary/)
 
+### Distribuciones Linux
+
+Hunspell es la tecnología de referencia para los correctores ortográficos en las distribuciones Linux más populares. La configuración esperada es que encuentre el corrector ortográfico _RLA-ES_ disponible para instalar a través de los canales oficiales de su distribución (en un paquete con un nombre similar a hunspell-es) y perfectamente integrado en el sistema operativo con las herramientas ofimáticas y los escritorios gráficos más populares.
+
 ## Colaboración
 
 ¡Todas las colaboraciones son bienvenidas!
