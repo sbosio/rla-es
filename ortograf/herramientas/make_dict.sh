@@ -417,7 +417,7 @@ for LOCALIZACION in $LOCALIZACIONES; do
       cp ../../separacion/hyph_es_ANY.dic \
         ../../separacion/README_hyph_es_ANY.txt "$MDTMPDIR"
       cp ../../sinonimos/palabras/README_th_es_ES.txt \
-        ../../sinonimos/palabras/COPYING_th_es_ES \
+        ../../sinonimos/palabras/COPYING \
         ../../sinonimos/palabras/th_es_ES_v2.* "$MDTMPDIR"
     fi
     sed -n -e "
