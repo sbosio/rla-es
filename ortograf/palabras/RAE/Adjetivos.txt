@@ -419,6 +419,7 @@ agrícola/S
 agridulce/S
 agrio/SG
 agrisado/GS
+agroquímico/GS
 agropecuario/SG
 agrupador/SG
 aguacate/S
@@ -6283,6 +6284,7 @@ hojudo/GS
 holandés/GS
 holgado/GS
 holgazán/GS
+holístico/GS
 holladero/SG
 hollejudo/GS
 holliniento/GS
