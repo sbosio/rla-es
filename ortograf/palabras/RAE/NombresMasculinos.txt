@@ -10116,6 +10116,7 @@ porro/HS
 porrón/S
 portaalmizcle/S
 portaaviones
+portabrocas
 portacartas
 portachuelo/S
 portaequipaje/S

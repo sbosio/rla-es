@@ -49,7 +49,6 @@ gravitomagnetismo
 hiperenlace/S
 hipervínculo/S
 iusnaturalismo
-kiosko/S
 máster/S
 meme/S
 metadato/S
@@ -64,7 +63,6 @@ panetone/S
 periodograma/S
 poliestireno/S
 polímetro/S
-portabroca/S
 portapesas
 posprocesamiento/S
 precálculo/S
@@ -73,7 +71,6 @@ punzonado/S
 ratito/S
 ranurado/S
 rebarbado/S
-refrentado/S
 renting # extranjerismo no adaptado #139
 solucionario/S
 swing # extranjerismo no adaptado #139
