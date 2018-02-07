@@ -16,16 +16,13 @@
 
 agendar/REDÀ			# Contribuida por Ricardo Goldberger
 deshabilitar/RED		# Contribuida por Gonzalo Higuera Díaz
-dimensionar/REDT
 discretizar/RED
 historificar/RED
-ranurar/RED
 reasignar/RED
 recapturar/RED
 recombinar/RED
 redirigir/RED
 referenciar/RED
 reformular/RED
-refrentar/RED
 reinventar/RED
 retroalimentar/RED

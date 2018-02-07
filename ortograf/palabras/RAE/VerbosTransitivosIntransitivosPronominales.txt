@@ -516,6 +516,7 @@ remitir/REDÀÁÂÄÅñòø
 remolinear/RED
 remontar/REDÀÂñòø
 remostar/RED
+reorientar/RED
 reparar/REDÀÂÄø
 repatriar/REDÀñ
 repeler/REDÀñ

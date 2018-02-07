@@ -589,6 +589,7 @@ insistir/RED
 insudar/RED
 insurgir/RED
 interaccionar/RED
+interactuar/IRD
 interceder/RED
 intermediar/RED
 intestar/RED
