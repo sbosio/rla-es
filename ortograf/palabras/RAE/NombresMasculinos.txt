@@ -13214,7 +13214,6 @@ videoclub/S
 videograbador/S
 videojuego/S
 video/S
-vídeo/S
 vidriado/S
 vidrio/S
 viento/Sra

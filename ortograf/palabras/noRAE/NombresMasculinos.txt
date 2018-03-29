@@ -79,5 +79,6 @@ teslámetro/S
 titán/S
 tunelamiento/S
 versionamiento/S
+vídeo/S
 vivario/S
 yacusi/S
