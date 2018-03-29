@@ -1686,7 +1686,7 @@ insertar/REDÀÁÂÄñ
 insinuar/IRDÀÁÂÃÅÆñò
 insolar/RED
 insolentar/RED
-instalar/REDÀÄÅñòôø
+instalar/REDÂÀÄÅñòôø
 institucionalizar/REDÀ
 instruir/IRDÀÁÂÈÉÊñó
 insubordinar/RED

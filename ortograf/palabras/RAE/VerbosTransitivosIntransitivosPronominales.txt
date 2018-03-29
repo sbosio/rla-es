@@ -442,7 +442,7 @@ moralizar/RED
 morir/XÁñóöú
 mover/IRDÄÀÁÝñòõù
 mudar/REDÁñò
-multiplicar/REDÀÄñòôøT
+multiplicar/REDÂÀÄñòôøT
 ociar/RED
 oler/RD
 operar/REDÀÁÂñô
@@ -483,7 +483,7 @@ prender/REDÀÂÄÆñòø
 prestar/REDÀÁÂÃÍÚñò
 pringar/REDñô
 privar/REDÀÁÂÄÅÆñò
-probar/IRDÀÁÂÃñòõù
+probar/IRDÄÀÁÂÃñòõù
 prometer/REDÀÃÍÚÛñòô
 pudrir/REÁÅñòô
 purgar/REDÁñT

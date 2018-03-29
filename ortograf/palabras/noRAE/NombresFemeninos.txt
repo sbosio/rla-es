@@ -60,6 +60,7 @@ homólisis
 incompletitud/S
 incompletud/S
 interoperatividad/S		# Contribuida por Gonzalo Higuera Díaz
+linealización/S
 ludificación
 magnificación/S
 mercantilización/S

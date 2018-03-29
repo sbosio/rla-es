@@ -1699,6 +1699,7 @@ birreme/S
 bisalta/S
 bisayo/SG
 bisector/S
+bisectriz/S
 bisojo/SG
 bisoño/GS
 bisurco/S
@@ -4680,6 +4681,7 @@ epistolar/S
 epitelial/S
 epizoótico/GS
 equidistante/S
+equilátero/GS
 equilibrada/h
 equilibrado/GhS
 equilibrista/S

@@ -61,6 +61,7 @@ desvaneciente/S
 diédrico/GS
 emiratí/S
 encriptado/GS
+espirométrico/GS
 estirable/S
 etnolingüístico/GS
 fenólico/GS
@@ -86,6 +87,7 @@ inferencial/S
 inspectorial/S
 interactuante/S
 interoperable/S			# Contribuida por Gonzalo Higuera Díaz
+interpolante/S
 interrelacionado/GS
 intuible/S
 irakí/S

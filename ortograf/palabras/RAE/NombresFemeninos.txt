@@ -1272,7 +1272,7 @@ birreta/S
 birretina/S
 birria/S
 bisagra/S
-bisector/S
+bisección/S
 bisexualidad/S
 bismutina/S
 bisutería/S
@@ -4027,6 +4027,7 @@ espira/S
 espiritrompa/S
 espiritualidad/S
 espiritualización/S
+espirometría/S
 espita/S
 esplendidez/S
 esplenitis
@@ -5634,6 +5635,7 @@ interioridad/S
 interjección/S
 intermitencia/S
 internacional/S
+interpolación/S
 interpretación/S
 interrogación/S
 interrupción/S
@@ -9029,6 +9031,7 @@ repostería/S
 represalia/S
 representanta/S
 reprimenda/S
+reproducibilidad
 repugnancia/S
 repulsa/S
 repulsión/S

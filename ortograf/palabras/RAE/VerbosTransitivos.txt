@@ -1532,7 +1532,6 @@ divisar/REDÀÁÂ
 dobladillar/RED
 docilitar/RED
 doctrinar/REDT
-dolar/IRD
 domar/REDÀÁÂ
 domeñar/REDÀT
 donar/REDÀÂÆÌ
@@ -2461,7 +2460,7 @@ inserir/XD
 insidiar/RED
 insonorizar/RED
 inspeccionar/REDÀÂÄÅÌ
-instalar/REDÀÄÅñòôøh
+instalar/REDÂÀÄÅñòôøh
 instaurar/REDÀÂ
 instigar/RED
 instilar/RED

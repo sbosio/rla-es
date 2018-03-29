@@ -4466,6 +4466,7 @@ dimorfismo/S
 din
 dinamismo/S
 dinamitazo/S
+dinamómetro/S
 dinar/S
 dinasta/S
 dinastismo/S
@@ -11963,6 +11964,7 @@ subfiador/S
 subidero/S
 subiente/S
 subimiento/S
+subíndice/S
 subjetivismo/S
 subjuntivo/S
 sublevamiento/S
