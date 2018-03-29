@@ -2242,6 +2242,7 @@ cascada/S
 cascajoso/GS
 cascajuelo/SG
 casero/GS
+casita/S
 caspio/SG
 casposo/GS
 casquilucio/GS
@@ -3797,6 +3798,7 @@ desodorante/S
 desodorizante/S
 desolador/GS
 desollador/GS
+desopilante/S
 desopilativo/SG
 desorejado/GS
 desornamentado/GS
@@ -5075,6 +5077,7 @@ examinante/S
 exangüe/S
 exánime/S
 exantemático/GS
+exasperante/S
 excavador/GS
 excedente/S
 excelente/S
@@ -5802,6 +5805,7 @@ genital/S
 genitivo/GS
 genitor/GS
 genitourinario/GS
+genízaro/GS
 genovés/SG
 gentilicio/GS
 gentílico/GS
@@ -5889,6 +5893,7 @@ gomoso/SG
 gongorino/GS
 gonocócico/GS
 gordal/S
+gordezuelo/GS
 gordinflón/GS
 gordo/GSU
 gorgojoso/GS
@@ -6684,6 +6689,7 @@ inexplorado/SG
 inexpresable/S
 inextricable/S
 infalsificable/S
+infaltable/S
 infamador/GS
 infamante/S
 infamativo/SG
@@ -6815,6 +6821,7 @@ instructivo/GS
 instructor/SG
 instruido/GS
 instrumental/S
+insubordinación/S
 insular/Sl
 insulso/GS
 insultante/S
@@ -7011,6 +7018,7 @@ javo/GS
 jazarino/GS
 jebuseo/GS
 jemal/S
+jenízaro/GS
 jerárquico/GS
 jerezano/GS
 jerifiano/GS
@@ -8699,6 +8707,7 @@ normando/GS
 normano/GS
 normativo/GS
 noroccidental/S
+nororiental/S
 norteafricano/GS
 norteamericano/GS
 norteño/GS
@@ -9275,6 +9284,7 @@ patán/S
 patatero/GS
 patente/GS
 paternal/S
+paternalista/S
 paterno/GS
 patero/GS
 paté/S
@@ -10542,6 +10552,7 @@ relacional/S
 relajada/S
 relajador/GS
 relajante/S
+relampagueante/S
 relatador/GS
 relativa/f
 relativista/S
@@ -10655,6 +10666,7 @@ respetador/GS
 respetuosa/k
 respetuoso/kSG
 respigador/GS
+respingón/GS
 respirable/kS
 respirador/GS
 respiratorio/GS

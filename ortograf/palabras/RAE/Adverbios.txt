@@ -48,6 +48,7 @@ adondequiera
 adrede
 advertidamente
 afablemente
+afanosamente
 afirmativamente
 afligidamente
 afluentemente
@@ -464,6 +465,7 @@ enérgicamente
 enfadosamente
 enfáticamente
 enfrente
+engañosamente
 enhorabuena
 enhoramala
 enigmáticamente
@@ -605,6 +607,7 @@ foralmente
 foras
 formalmente
 fortuitamente
+forzadamente
 forzado
 forzosamente
 forzudamente
@@ -1346,6 +1349,8 @@ restrictivamente
 resueltamente
 resumidamente
 retenidamente
+retóricamente
+reverentemente
 revocablemente
 revueltamente
 ricamente

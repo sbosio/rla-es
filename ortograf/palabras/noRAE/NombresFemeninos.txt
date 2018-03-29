@@ -31,6 +31,7 @@ autoimagen/S
 autolimitación/S
 autoprotección/S		# Contribuida por César Romé
 bibliometría
+callejuela/S
 comerciabilidad/S
 compactación/S
 convolución/S

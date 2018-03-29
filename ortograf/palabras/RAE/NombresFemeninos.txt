@@ -2320,6 +2320,7 @@ civilización/S
 cizalla/pS
 cizalladura/S
 cizaña/S
+clámide/S
 clandestinidad/S
 claque/S
 claraboya/S
@@ -2867,6 +2868,8 @@ coyuntura/S
 coz/S
 crasitud/S
 crasulácea/S
+cratera/S
+crátera/S
 creación/opS
 crea/S
 creatividad/S
@@ -3149,6 +3152,7 @@ depositaría/S
 depravación/S
 deprecación/S
 depreciación/S
+depredación/S
 depuración/S
 depurador/S
 derecha/S
@@ -3601,6 +3605,7 @@ eliminación/S
 eliminatoria/S
 elipse/S
 elipsis
+elite/S
 élite/S
 elle/S
 elocución/S
@@ -9026,6 +9031,7 @@ renuncia/S
 reparación/S
 repasata/S
 repetitividad/S
+replantación/S
 réplica/Sv
 repostería/S
 represalia/S

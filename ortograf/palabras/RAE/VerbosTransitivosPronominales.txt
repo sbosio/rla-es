@@ -906,7 +906,6 @@ deshelar/IRD
 desheredar/REDÁñ
 deshermanar/RED
 desherrar/IRD
-deshidratar/REDñ
 deshilachar/RED
 deshilvanar/RED
 deshincar/RED
@@ -1616,7 +1615,7 @@ helenizar/RED
 hender/IRD
 hermanar/REDÁÄñT
 hermetizar/RED
-hidratar/REDÀ
+hidratar/REDÀñhA
 hinchar/REDñò
 hiperestesiar/RED
 hispanizar/RED

@@ -1591,6 +1591,7 @@ rotulador/GS
 rozador/GS
 ruano/GS
 rubio/GS
+rufián/GS
 runo/GS
 ruso/GS
 sabanero/GS

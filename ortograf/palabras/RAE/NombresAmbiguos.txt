@@ -68,6 +68,7 @@ neuma/S
 orden
 órdenes
 pastoral/S
+paternalista/S
 pebre/S
 portapaz/S
 prez/S

@@ -2838,6 +2838,7 @@ casillero/S
 casiller/S
 casimir/S
 casino/S
+casita/S
 caso/aS
 casorio/S
 casquete/HS
@@ -3352,6 +3353,7 @@ clisé/S
 clister/S
 clítoris
 clon/S
+cloqueo/S
 clorato/S
 clorhidrato/S
 cloroformo/S
@@ -3836,6 +3838,7 @@ costo/S
 costumbrismo/S
 costurero/S
 cotejo/S
+cotilleo/S
 cotillo/aS
 cotillón/S
 cotilo/S
@@ -4371,6 +4374,7 @@ desvanecedor/S
 desvanecimiento/S
 desván/S
 desvaporizadero/S
+desvarío/S
 desvelamiento/S
 desvelo
 desveno/S
@@ -5754,6 +5758,7 @@ faisán/S
 fajamiento/S
 fajardo/S
 fajero/S
+fajín/S
 falangismo/S
 falconete/S
 falcón/S
@@ -6220,6 +6225,7 @@ gazapatón/S
 gazapo/S
 gaznate/HS
 gazpacho/S
+géiser/S
 gel/S
 gemelo/SG
 gemido/S
@@ -6233,6 +6239,7 @@ geniazo/S
 genio/kS
 genital/S
 genitivo/S
+genízaro/S
 genocidio/S
 genoma/S
 genotipo/S
@@ -6659,6 +6666,7 @@ hexacordo/S
 hexaedro/S
 hiato/S
 hibierno/S
+hibisco/S
 hibridismo/S
 hibuero/S
 hicaco/S
@@ -7159,6 +7167,7 @@ jeme/S
 jenabe/aS
 jenable/S
 jengibre/Sa
+jenízaro/S
 jeque/S
 jerbo/S
 jerez/S
@@ -8506,6 +8515,7 @@ montadero/S
 montanero/S
 montanismo/S
 montantero/S
+montañismo
 montaraz/S
 monteador/S
 monterrey/S
@@ -10915,6 +10925,7 @@ remilgo/S
 remite/S
 remitido/S
 remojadero/S
+remojón/S
 remolino/S
 remolón/S
 remolque/S
@@ -11070,6 +11081,7 @@ revisionismo/S
 revividero/S
 revocador/S
 revolcadero/S
+revolcón/S
 revoltijo/S
 revoltillo/S
 revoltón/S
