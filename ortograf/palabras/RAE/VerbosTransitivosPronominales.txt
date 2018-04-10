@@ -421,13 +421,8 @@ atragantar/REDñ
 atraillar/IRD
 atrampar/RED
 atravesar/IRDÄÀÆñò
-<<<<<<< Updated upstream
 atribuir/IRDÀÁÂÃÈËÊñóT
-atribular/RED
-=======
-atribuir/IRDÀÁÂÃÈËñóT
 atribular/REDA
->>>>>>> Stashed changes
 atrincherar/REDñ
 atrofiar/RED
 atronar/IRD
@@ -571,13 +566,8 @@ concienciar/REDAñA
 conciliar/REDñA
 concitar/RED
 concrecionar/RED
-<<<<<<< Updated upstream
 concretar/REDÀÁÂñ
-condenar/REDÀÁÆÍñòT
-=======
-concretar/REDÁÂñ
 condenar/REDÀÁÆÍñòTA
->>>>>>> Stashed changes
 condensar/REDÀT
 confederar/RED
 confesar/IRDÃÅñòõ
