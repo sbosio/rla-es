@@ -58,6 +58,7 @@ fleta/S
 follisca/S
 gauchada/S
 gavera/S
+gripa/S
 gritadera/S
 guama/S
 guanabanada/S
