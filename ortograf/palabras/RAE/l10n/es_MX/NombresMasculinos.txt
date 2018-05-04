@@ -175,6 +175,7 @@ sacatinta/S
 sancho/S
 saraguate/S
 sarape/S
+sentón/S
 sotol/S
 sport
 sud
