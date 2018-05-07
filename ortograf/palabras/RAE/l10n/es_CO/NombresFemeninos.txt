@@ -49,6 +49,7 @@ criandera/S
 cueriza/S
 cumbiamba/S
 curul/S
+defensoría/S
 derriba/S
 embocinada/S
 escondidas
