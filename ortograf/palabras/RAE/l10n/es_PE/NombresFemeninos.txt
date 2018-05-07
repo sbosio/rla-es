@@ -35,6 +35,7 @@ contraloría/S
 criandera/S
 cueriza/S
 curul/S
+defensoría/S
 disparada/S
 escondidas
 estiptiquez/S
