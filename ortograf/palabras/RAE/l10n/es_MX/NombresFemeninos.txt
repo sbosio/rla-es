@@ -42,6 +42,7 @@ cueriza/S
 curul/S
 cuya/S
 declaratoria/S
+defensoría/S
 derriba/S
 domada/S
 embarradilla/S
