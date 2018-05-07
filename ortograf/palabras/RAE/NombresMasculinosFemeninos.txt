@@ -366,6 +366,7 @@ caracterizador/GS
 carbonero/GS
 carcelero/GS
 cardador/GS
+cardiólogo/GS
 cargado/GS
 cargador/GS
 carguero/GS
