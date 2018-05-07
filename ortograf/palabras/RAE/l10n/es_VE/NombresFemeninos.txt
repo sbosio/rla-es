@@ -38,6 +38,7 @@ contesta/S
 contraloría/S
 criandera/S
 cueriza/S
+defensoría/S
 diagramación/S
 disquera/S
 escondidas
