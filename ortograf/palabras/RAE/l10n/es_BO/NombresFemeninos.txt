@@ -33,6 +33,7 @@ contesta/S
 contraloría/S
 criandera/S
 cueriza/S
+defensoría/S
 escondidas
 estiptiquez/S
 estrictez/S
