@@ -7,3 +7,4 @@
 
 cicla/S
 ciclorruta/S
+coperacha/S
