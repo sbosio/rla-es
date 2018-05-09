@@ -17,4 +17,6 @@
 aberracidad/S
 carrilla/S
 cheve/S
+coperacha/S
+cooperacha/S
 tlayuda/S
