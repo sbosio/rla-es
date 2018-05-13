@@ -8826,7 +8826,7 @@ rajeta/S
 rajuela/S
 raleza/S
 ralladura/S
-rama/NS
+rama/SUN
 rambla/S
 ramera/S
 ramificación/S
@@ -8834,11 +8834,10 @@ ramina/S
 ramiza/S
 rampa/S
 ranas/a
-rana/SN
+rana/SUN
 ranchera/SL
 rancidez/S
 ranciedad/S
-ranita/S
 ránula/S
 ranunculácea/S
 ranura/S
@@ -9202,13 +9201,13 @@ ropeta/S
 roqueda/S
 roqueta/S
 ros
+rosa/SU
 rosácea/S
 rosadelfa/S
 rosaleda/S
 rosalera/S
 rosca/SN
 roseta/S
-rositas
 rotación/S
 rota/S
 rotonda/S
@@ -9506,6 +9505,7 @@ semiotecnia/S
 sémola/S
 sempiterna/S
 sena/S
+senaduría/S
 sencillez/S
 senda/S
 senderuela/S
@@ -10428,7 +10428,7 @@ trepidación/S
 treta/Sp
 trezna/S
 triaca/S
-tiangulación/S
+triangulación/S
 tría/S
 tribu/S
 tribulación/S

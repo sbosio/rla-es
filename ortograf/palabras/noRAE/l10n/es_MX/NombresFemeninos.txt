@@ -19,4 +19,6 @@ carrilla/S
 cheve/S
 cooperacha/S
 coperacha/S
+gobernatura/S
+gubernatura/S
 tlayuda/S

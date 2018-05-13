@@ -1997,7 +1997,7 @@ caligráfico/SG
 calimoso/GS
 calinoso/GS
 calizo/GS
-callado/GS
+callado/GSU
 callejero/GS
 callialto/GS
 calloso/GS
@@ -6844,6 +6844,7 @@ intencionado/GS
 intencional/S
 intensivo/GS
 intento/GS
+interamericano/GS
 interceptor/GS
 intercesor/GS
 intercultural/S
@@ -9015,9 +9016,8 @@ oscilante/S
 oscilatorio/GS
 osco/GS
 osculatriz/S
-oscura/j
 oscurantista/S
-oscuro/SGj
+oscuro/jGSU
 óseo/GS
 osmótico/SG
 ostensible/S
@@ -10074,7 +10074,7 @@ promocional/S
 promulgador/GS
 prono/GS
 pronosticador/GS
-pronto/GS
+pronto/GSU
 pronunciable/kS
 pronunciador/SG
 propagandista/S
