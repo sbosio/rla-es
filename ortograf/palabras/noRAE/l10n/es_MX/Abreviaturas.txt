@@ -17,8 +17,8 @@
 C				#[topónimo] Juan C. Bonilla
 CFE				#Comisión Federal de Electricidad
 CNDH				#Comisión Nacional de los Derechos Humanos
-CONACYT			#Consejo Nacional de Ciencia y Tecnología
-CONAGUA			#Comisión Nacional del Agua
+CONACYT				#Consejo Nacional de Ciencia y Tecnología
+CONAGUA				#Comisión Nacional del Agua
 CURP				#Clave Única de Registro de Población
 Dr				#[topónimo] Dr. Belisario Domínguez
 G				#[topónimo] Praxedis G. Guerrero
