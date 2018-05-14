@@ -15,11 +15,24 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 C				#[topónimo] Juan C. Bonilla
+CFE				#Comisión Federal de Electricidad
+CNDH				#Comisión Nacional de los Derechos Humanos
+CONACYT			#Consejo Nacional de Ciencia y Tecnología
+CONAGUA			#Comisión Nacional del Agua
+CURP				#Clave Única de Registro de Población
 Dr				#[topónimo] Dr. Belisario Domínguez
 G				#[topónimo] Praxedis G. Guerrero
 I				#[topónimo] Francisco I. Madero
+IMSS				#Instituto Mexicano del Seguro Social
+INE				#Instituto Nacional Electoral
 INEGI				#Instituto Nacional de Estadística y Geografía
+INFONAVIT			#Instituto del Fondo Nacional de la Vivienda para los Trabajadores
+ISSSTE				#Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado
 N				#[topónimo] Juan N. Méndez
 P				#[topónimo] Othón P. Blanco
+PEMEX				#Petróleos Mexicanos
 R				#[topónimo] Juan R. Escudero, Angel R. Cabada, General Francisco R. Murguía
+SAT				#Servicio de Administración Tributaria
+SEDENA				#Secretaría de la Defensa Nacional
+SEP				#Secretaría de Educación Pública
 Z				#[topónimo] Francisco Z. Mena, Camerino Z. Mendoza
