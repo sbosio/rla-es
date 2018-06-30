@@ -150,6 +150,7 @@ acentual/S
 aceptable/kS
 aceptador/GS
 acepto/GS
+aceptor/GS
 acerado/GS
 acerbo/GS
 acerino/GS
@@ -5264,6 +5265,7 @@ fallecido/GS
 fallero/GS
 fallido/GS
 fallo/SG
+falsable/S
 falsario/GS
 falseador/SG
 falsificador/SG
@@ -5419,6 +5421,7 @@ filipino/GS
 filisteo/GS
 filmador/GS
 fílmico/GS
+filogenético/GS
 filológico/GS
 filosofador/SG
 filosofal/S
@@ -7932,6 +7935,7 @@ mayor/S
 mayúsculo/GS
 mazonado/GS
 mazorral/S
+mecanicista/S
 mecánico/SG
 mecanográfico/GS
 mecano/GS
@@ -8179,6 +8183,7 @@ mirrino/GS
 mirtáceo/SG
 mirtino/GS
 misal/S
+misceláneo/GS
 miscible/S
 miserable/S
 miserando/GS
@@ -9726,6 +9731,7 @@ plumado/GS
 plumbado/GS
 plumoso/GS
 plural/S
+pluralista/S
 pluricelular/S
 plutoniano/SG
 plutónico/GS
@@ -10021,6 +10027,7 @@ privativo/GS
 privilegiado/GS
 privilegiativo/GS
 probabilista/S
+probabilístico/GS
 probable/kSp
 probador/pGSa
 probado/SG

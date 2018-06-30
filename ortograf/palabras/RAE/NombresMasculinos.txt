@@ -3631,6 +3631,7 @@ consonantismo/S
 consorcio/S
 constitucionalismo/S
 constituyente/S
+constructivismo
 consuelo/hS
 consulado/S
 consultorio/S
@@ -4086,6 +4087,7 @@ dante/S
 danzado/S
 daño/Sp
 dardo/S
+darwinismo
 datario/S
 dátil/S
 dativo/S
@@ -5427,6 +5429,7 @@ especímenes
 espectáculo/S
 espectrograma/S
 espectrohelioscopio/S
+espectrómetro/S
 espectro/S
 espectroscopio/S
 espejismo/S
@@ -6324,6 +6327,7 @@ gonce/S
 gondolero/S
 gongorismo/S
 gong/S
+goniómetro/S
 gonococo/S
 gordolobo/S
 gorgojo/S
@@ -6980,6 +6984,7 @@ inconveniente/S
 incremento/S
 incurrimiento/S
 independentismo/S
+indeterminismo/S
 indicativo/S
 índice/S
 indicio/S
@@ -7756,6 +7761,7 @@ magnetismo/S
 magnetófono/S
 magnetómetro/S
 magnetoscopio/S
+magnetrón/S
 magnicidio/S
 magníficat
 mago/NS
@@ -8799,6 +8805,7 @@ neón/S
 neoplatonicismo/S
 neoplatonismo/S
 neopositivismo/S
+neopreno/S
 neorama/S
 neo/S
 nepente/S

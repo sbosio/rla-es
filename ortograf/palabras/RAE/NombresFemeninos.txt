@@ -3352,6 +3352,7 @@ diplomatura/S
 dipodia/S
 diputación/S
 dirección/sS
+direccionalidad/S
 directa/S             # Registro #15
 directriz/S
 disartria/S
@@ -4346,6 +4347,7 @@ falencia/S
 falibilidad/Sk
 falla/S
 falleba/S
+falsabilidad/S
 falsabraga/S
 falsa/NS
 falsarregla/S
@@ -5629,6 +5631,7 @@ intelectualidad/S
 inteligencia/S
 inteligibilidad/Sk
 intención/S
+intencionalidad/S
 intendencia/stSr
 intensidad/S
 intensificación/S
@@ -5935,6 +5938,7 @@ laringe/S
 laringitis
 laringoscopia/S
 larva/S
+lasaña/S
 lasca/S
 lascivia/S
 lasitud/S
@@ -6905,6 +6909,7 @@ mirra/S
 mirtácea/S
 mis
 misa/Sn
+miscelánea/S
 miseración/Sf
 miseria/S
 misericordia/S
@@ -9029,6 +9034,7 @@ renuencia/S
 renuncia/S
 reparación/S
 repasata/S
+repetibilidad/S
 repetitividad/S
 replantación/S
 réplica/Sv
@@ -9643,6 +9649,7 @@ sinapsis
 sinartrosis
 sinceridad/kS
 sincronía/S
+sincronización/S
 sindicación/S
 sindicatura/S
 sinécdoque/S

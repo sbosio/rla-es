@@ -32,6 +32,7 @@ accesorio/GS
 accionario/GS
 aceitero/GS
 aceitunero/GS
+aceptor/GS
 acné/S
 acogido/GS
 acomodado/GS
