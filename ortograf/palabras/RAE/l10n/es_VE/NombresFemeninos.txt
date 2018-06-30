@@ -66,6 +66,7 @@ maloca/S
 mantequillera/S
 mapoteca/S
 matada/S
+miniteca/S
 negrada/S
 ña
 ñapa/S
