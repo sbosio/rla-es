@@ -79,6 +79,7 @@ maloca/S
 mana/S
 mantequillera/S
 mapoteca/S
+miscelánea/S
 ña
 ñapa/S
 oroya/S
