@@ -907,6 +907,8 @@ antimicrobiano/GS
 antimonial/S
 antiniebla/S
 antipático/GS
+antipersona/S
+antipersonal/S
 antipirético/GS
 antípoda/S
 antiquísimo/SG
@@ -1730,6 +1732,7 @@ blasfematorio/GS
 blasfemo/GS
 blasonado/GS
 blasonador/GS
+blaugrana/S
 blondo/GS
 bloqueador/GS
 bobalicón/GS
@@ -3235,6 +3238,7 @@ cortés/hS
 cortical/S
 cortinado/GS
 corto/SG
+cortoplacista/S
 corveta/S
 corvino/GS
 corvo/SG
@@ -5041,6 +5045,7 @@ euforbiáceo/GS
 eufórico/GS
 eurasiático/SG
 euroasiático/GS
+europarlamentario/GS
 europeo/GS
 euskera/S
 eusquera/S
@@ -6310,6 +6315,7 @@ homocerca/S
 homogéneo/GS
 homólogo/SG
 homónimo/SG
+homoparental/S
 homosexual/S
 hondable/S
 hondo/SG
@@ -6848,6 +6854,7 @@ intencional/S
 intensivo/GS
 intento/GS
 interamericano/GS
+interbancario/GS
 interceptor/GS
 intercesor/GS
 intercultural/S
@@ -8554,6 +8561,7 @@ nato/kGS
 natural/ckSfr
 naturalista/S
 naturista/S
+naturópata/S
 náufrago/GS
 nauruano/GS
 nauseabundo/GS
