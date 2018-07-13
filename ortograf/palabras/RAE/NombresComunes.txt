@@ -97,6 +97,7 @@ auxiliar/S
 avalista/S
 ayudante/S
 azotacalles
+azulgrana/S
 babieca/S
 badulaque/S
 bajista/S

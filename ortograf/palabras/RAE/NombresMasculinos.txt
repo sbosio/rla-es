@@ -12434,6 +12434,7 @@ testuzo/S
 tétanos
 tetón/S
 tetrabranquial/S
+tetrabrick
 tetracordio/S
 tetradracma/S
 tetraedro/S

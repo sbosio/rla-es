@@ -4018,6 +4018,7 @@ espesura/S
 espetera/S
 espía/S
 espibia/S
+espícula/S
 espigadera/S
 espigadilla/S
 espiga/SN
