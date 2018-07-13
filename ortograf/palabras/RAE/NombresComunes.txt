@@ -114,6 +114,7 @@ berzotas
 bestia/S
 bilingüe/S
 billarista/S
+blaugrana/S
 bocaza/S
 boceras
 bochista/S
@@ -126,6 +127,7 @@ bróker/S
 broncista/S
 budista/S
 bullebulle/S
+burka/S
 burócrata/S
 buscavida/S
 caballista/S
@@ -254,6 +256,7 @@ corno/S
 coronel/S
 corresponsal/S
 correveidile/S
+cortoplacista/S
 costumbrista/S
 cotilla/S
 creacionista/S
@@ -530,6 +533,7 @@ mutuante/S
 narcisista/S
 narizotas
 naturalista/S
+naturópata/S
 negociante/S
 neuroanatomista/S
 nigromante/S

@@ -314,6 +314,7 @@ cacique/GS
 cadenero/GS
 cafetero/GS
 caficultor/GS
+cagaprisas
 caído/GS
 cajero/GS
 cajonero/GS
@@ -792,6 +793,7 @@ estucador/GS
 estufero/GS
 ético/GS
 eurodiputado/GS
+europarlamentario/GS
 examinador/GS
 examinando/GS
 excéntrico/GS
