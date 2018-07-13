@@ -641,6 +641,7 @@ animalada/S
 animalidad/S
 ánima/S
 animosidad/S
+anisakiasis
 anisotropía/S			# Contribuida por Gonzalo Higuera Díaz
 anodinia/S
 anomalía/S
@@ -925,6 +926,7 @@ atropina/S
 audacia/S
 audición/S
 audiencia/S
+audioguía/S
 auditoría/S
 augita/S
 aulaga/S
@@ -1268,6 +1270,7 @@ biotecnología/S
 bipedación/S
 birlocha/S
 birlonga/S
+birra/S
 birreta/S
 birretina/S
 birria/S
@@ -2240,6 +2243,7 @@ cibera/S
 cicatería/S
 cicatrización/S
 cicatriz/S
+ciclogénesis
 cicloide/S
 ciclotimia/S
 ciconiforme/S
@@ -6671,6 +6675,7 @@ medianidad/S
 medianoche/S
 media/S
 medicación/S
+medicalización
 medicina/S
 medición/S
 medida/S
@@ -7141,6 +7146,7 @@ mulata/S
 muletada/S
 muleta/NS
 multa/S
+multiculturalidad/S
 multinacional/S
 multiplicación/S
 multiplicidad/S
@@ -8407,6 +8413,7 @@ posfecha/S
 posguerra/S
 posibilidad/kS
 posición/ktoSlnabpg
+positividad/S
 positura/nS
 posmodernidad/S
 pospierna/S
@@ -9548,6 +9555,7 @@ sera/S
 serba/S
 serena/S
 serenata/S
+serendipia/S
 serenidad/S
 sericicultura/S
 sericultura/S
