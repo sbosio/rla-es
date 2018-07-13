@@ -377,6 +377,7 @@ agraz/S
 agridulce/S
 agrietamiento/S
 agrifolio/S
+agroturismo
 agrupamiento/pS
 aguacatal/S
 aguacate/NS
@@ -975,6 +976,7 @@ animismo/S
 anión
 aniquilamiento/S
 anisado/S
+anisakis
 anisar/S
 anisete/S
 anís/S
@@ -2176,6 +2178,7 @@ botín/S
 botiquín/S
 boto/NS
 botón/S
+bótox
 bóvido/S
 bovino/S
 boxeador/S
@@ -2225,6 +2228,7 @@ breviario/S
 brezal/S
 brezo/S
 brial/S
+brik
 bricolaje/S
 brigadero/aS
 brigadier/S
@@ -2542,6 +2546,7 @@ camellero/S
 camellón/S
 camello/S
 camelote/S
+cameo/S
 camerino/S
 camillero/S
 camilo/S
@@ -3811,6 +3816,7 @@ cortinal/S
 cortinón/S
 cortocircuito/S
 cortometraje/S
+cortoplacismo/S
 corto/S
 corvejón/S
 corvejos
@@ -5678,6 +5684,7 @@ eucalipto/S
 eucarionte/S
 eufemismo/S
 eunuco/S
+euríbor
 euro/S
 euskera
 eutiquianismo/S
@@ -6776,6 +6783,7 @@ histórico/S
 histrionismo/S
 histrión/S
 hitita/S
+hiyab
 hobby
 hobbys
 hobo/S
@@ -9835,6 +9843,7 @@ pijote/S
 pilar/S
 pilastrón/S
 pilatero/S
+pilates
 pildorero/S
 pillador/S
 pillaje/S
