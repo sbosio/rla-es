@@ -881,6 +881,7 @@ galgo/GS
 galileo/GS
 galletero/GS
 gallinero/GS
+galo/GS
 gamberro/GS
 ganadero/GS
 ganado/GS
@@ -894,6 +895,8 @@ genitor/GS
 geofísico/GS
 geógrafo/GS
 gerente/GS
+germán/GS
+germano/GS
 gestor/GS
 gigantón/GS
 ginecólogo/GS
