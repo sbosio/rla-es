@@ -3154,6 +3154,7 @@ redar/RED
 redecir/X
 redefinir/REDÁñò
 redescontar/IRD
+redescubrir/RE
 redhibir/RED
 rediezmar/RED
 redilar/RED
