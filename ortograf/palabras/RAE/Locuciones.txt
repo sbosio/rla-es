@@ -16,3 +16,4 @@
 
 acerca             # en la loc. prepos. "acerca de"
 capela             # en la loc. adj. "a capela"
+cápita             # en la loc. adj. "per cápita"
