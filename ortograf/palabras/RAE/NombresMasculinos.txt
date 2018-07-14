@@ -164,6 +164,7 @@ acerolo/S
 acertamiento/S
 acertijo/S
 aceruelo/S
+acervo/S
 acetato/sS
 acetileno/S
 acetilo/S
@@ -429,6 +430,7 @@ ahuecado/S
 ahuecamiento/S
 ahuehuete/S
 ailanto/S
+aimara
 aire/hS
 airón/S
 aislacionismo/S
@@ -1523,6 +1525,7 @@ automovilismo/S
 auto/NOS
 autoritarismo/S
 autorizamiento/S
+autosoma/S
 auxilio/S
 avambrazo/S
 avance/S
@@ -6165,6 +6168,7 @@ gallito/S
 gallo/aS
 gallón/S
 gal/NGS
+galo
 galón/S
 galope/S
 galopo/SN
@@ -9798,6 +9802,7 @@ peyote/S
 pezón/S
 pez/NS
 pezuelo/S
+pH
 pianoforte/S
 piano/S
 pian/S
@@ -13048,6 +13053,7 @@ valladar/S
 vallado/S
 vallar/S
 valle/S
+vallenato/S
 vallico/S
 valor/S
 vals/S
@@ -13396,6 +13402,7 @@ yodo/S
 yogur/S
 yoqueis			# Plural de yóquey
 yóquey
+yoruba
 yudo
 yugo/S
 yuguero/S
