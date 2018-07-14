@@ -60,6 +60,7 @@ destellante/S
 desvaneciente/S
 diédrico/GS
 emiratí/S
+enceguecedor/GS
 encriptado/GS
 espirométrico/GS
 estirable/S
@@ -113,6 +114,7 @@ participativo/GS
 patrocinante/S
 pequeñísimo/GS
 periodontal/S
+piroclástico/GS
 poblacional/S
 policéntrico/GS
 polandés/GS
