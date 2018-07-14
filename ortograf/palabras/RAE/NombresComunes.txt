@@ -34,6 +34,7 @@ agonista/S
 agrícola/S
 aguafiestas
 aguafuertista/S
+aimara/S
 ajedrecista/S
 alauí/S
 albacea/S
@@ -450,6 +451,7 @@ lavaplatos
 laxista/S
 leccionista/fS
 legista/S
+lendakari
 libelista/S
 librancista/S
 libretista/S
