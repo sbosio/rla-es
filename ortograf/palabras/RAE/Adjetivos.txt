@@ -458,6 +458,7 @@ ahuesado/GS
 ahumado/GS
 ahusado/GS
 ahuyentador/GS
+aimara/S
 airoso/GS
 aislacionista/S
 aislado/GS
@@ -5733,6 +5734,7 @@ gallito/S
 gallofero/GS
 gallofo/GS
 gallo/S
+galo/GS
 galocho/GS
 galopante/S
 galvánico/GS
@@ -5833,8 +5835,8 @@ geriátrico/GS
 germanesco/GS
 germánico/SG
 germanófobo/GS
-germano/S
-germán/S
+germano/GS
+germán/GS
 germicida/S
 germinal/S
 gerundense/S
@@ -6227,6 +6229,7 @@ hidalgo/GS
 hidatídico/GS
 hidratante/hS
 hidráulico/GS
+hídrico/GS
 hidrocéfalo/GS
 hidroeléctrico/SG
 hidrográfico/GS
@@ -6858,6 +6861,7 @@ interamericano/GS
 interbancario/GS
 interceptor/GS
 intercesor/GS
+interconectado/GS
 intercultural/S
 interdisciplinar/S
 interdisciplinario/GS
@@ -7994,6 +7998,7 @@ meldense/S
 meleno/GS
 melenudo/GS
 meliáceo/SG
+melífero/GS
 melifluo/GS
 melillense/S
 melindrero/SG
@@ -10666,6 +10671,7 @@ residencial/S
 residente/S
 residual/S
 resinero/GS
+resinífero/GS
 resinoso/GS
 resistente/S
 resistible/Sk
