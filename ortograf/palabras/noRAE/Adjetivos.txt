@@ -97,6 +97,7 @@ maremotriz/S
 mareomotriz/S
 melamínico/GS
 microinformático/GS
+mitocondrial/S
 monopólico/GS
 monotípico/S
 multidisciplinario/GS
@@ -152,3 +153,4 @@ yibutense/S
 yibutí/S
 zambés/GS
 zambio/GS
+zapoteco/GS

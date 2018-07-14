@@ -74,6 +74,7 @@ ortotipografía
 personalización/S
 preproducción/S			# Contribuida por Sergio Medina
 priorización/S
+quinasa/S
 reinvención/S
 rememoranza/S
 retroalimentación/S
