@@ -4102,6 +4102,7 @@ datario/S
 dátil/S
 dativo/S
 dato/S
+deambulatorio/S
 deanato/S
 debe
 deber/S
@@ -8910,6 +8911,7 @@ noticiario/S
 notocordio/S
 noto/S
 notro/S
+noúmeno/S
 novecientas
 novecientos
 novenario/S
@@ -10578,6 +10580,7 @@ quintero/S
 quinteto/S
 quintillo/S
 quintín/S
+quíntuple/S
 quiosco/S
 quirate/S
 quirguiz/S
