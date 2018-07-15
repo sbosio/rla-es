@@ -337,6 +337,7 @@ afanador/GS
 afanoso/GS
 afarolado/GS
 afeador/SG
+afectable/S
 afectado/GS
 afectador/GS
 afecta/h
@@ -859,6 +860,7 @@ anodino/GS
 anofeles
 anomalístico/GS
 anómalo/GS
+anómico/GS
 anomuro/S
 anónimo/SG
 anopluro/S
@@ -3498,6 +3500,7 @@ dañoso/SG
 dardanio/GS
 dárdano/GS
 datilera/S
+deambulatorio/GS
 debilitante/S
 débil/S
 debutante/S
@@ -4998,6 +5001,7 @@ estrafalario/GS
 estragador/GS
 estrangulador/GS
 estratégico/GS
+estratosférico/GS
 estrecho/GS
 estrellado/GS
 estrellar/S
@@ -5153,6 +5157,7 @@ expediente/GS
 expeditivo/SG
 expedito/GS
 expendedor/GS
+experiencial/S
 experimentado/GS
 experimentador/GS
 experimental/S
@@ -9475,6 +9480,7 @@ perceptivo/GS
 perceptor/GS
 perchelero/SG
 percherón/GS
+percipiente/S
 perdedor/SG
 perdidizo/GS
 perdido/GS
@@ -10316,6 +10322,7 @@ quinientista/S
 quinientos
 quinquenal/S
 quinto/GS
+quíntuple/S
 quío/GS
 quirguiz/S
 quirinal/S
@@ -11915,6 +11922,7 @@ teodosiano/SG
 teologal/S
 teológico/GS
 teólogo/GS
+teorético/GS
 teórico/GS
 teorizador/GS
 teorizante/S
