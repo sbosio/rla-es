@@ -30,6 +30,7 @@ acaso
 accesoriamente
 accidentalmente
 aceleradamente
+acertadamente
 acordemente
 acremente
 activamente
@@ -1251,6 +1252,7 @@ privadamente
 privado
 privativamente
 probablemente
+problemáticamente
 procesalmente	# Contribuida por Alonso González Cuchillo
 procesionalmente
 pródigamente
@@ -1422,6 +1424,7 @@ simultáneamente
 sinceramente
 singularmente
 siniestramente
+sintéticamente
 siquiera
 sistemáticamente
 so
