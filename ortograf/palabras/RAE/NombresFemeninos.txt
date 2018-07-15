@@ -729,6 +729,7 @@ apostasía/S
 apotema/S
 apoteosis
 apoyadura/S
+apoyatura/S
 apreciabilidad/S
 aprehensión/S
 aprensión/hS
@@ -903,6 +904,7 @@ atanasia/S
 ataraxia/S
 atarjea/S
 ataxia/S
+atemporalidad/S
 atención/hS
 atenuación/S
 atenuante/S
@@ -1828,6 +1830,7 @@ cargadera/S
 carga/hprS
 cargazón/S
 cariadura/S
+cariátide/S
 caricatura/S
 caricia/S
 caridad/S
@@ -1968,6 +1971,7 @@ catoptroscopia/S
 catoquita/S
 cauda/S
 causa/fS
+causación/S
 causal/KS
 cáustica/S
 causticidad/S
@@ -2292,6 +2296,7 @@ ciquiricata/S
 circe/S
 circona/S
 circular/S
+circularidad/S
 circuncisión/S
 circunferencia/qS
 circunlocución/S
@@ -3616,6 +3621,7 @@ elle/S
 elocución/S
 elocuencia/S
 elongación/S
+elucidación/S
 elucubración/S
 emanación/S
 emancipación/S
@@ -4294,6 +4300,7 @@ exquisitez/S
 extensión/S
 extenuación/S
 exterioridad/S
+exteriorización/S
 extinción/S
 extirpación/S
 extorsión/S
@@ -5643,6 +5650,7 @@ intensificación/S
 intentona/S
 interactividad
 intercalación/S
+interdicción/S
 interferencia/S
 interioridad/S
 interjección/S
@@ -6097,6 +6105,7 @@ ligada/S
 ligadura/hS
 ligamaza/S
 liga/NS
+ligazón/S
 ligereza/S
 lija/S
 lilac/S
@@ -8246,6 +8255,7 @@ plántula/S
 plañidera/S
 plaqueta/S
 plasma/S
+plasmación
 plasta/S
 plastia/Sd
 plástica/S
@@ -10095,6 +10105,7 @@ teocracia/S
 teodicea/S
 teogonía/S
 teología/S
+teorética
 teoría/S
 terapéutica/S
 terapia/S
