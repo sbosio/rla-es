@@ -32,5 +32,5 @@ Finalmente, el listado en formato _Tex_ se procesa con la herramienta
 para producir el fichero con el formato correcto para _Hyphen_.
 
 Puede obtener más información sobre diccionarios de separación silábica
-puede consultar este
-[enlace](http://localization-guide.readthedocs.org/en/latest/guide/hyphenation.html).
+consultando
+[este enlace](http://localization-guide.readthedocs.org/en/latest/guide/hyphenation.html).
