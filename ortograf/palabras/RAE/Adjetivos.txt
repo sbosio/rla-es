@@ -337,6 +337,7 @@ afanador/GS
 afanoso/GS
 afarolado/GS
 afeador/SG
+afectable/S
 afectado/GS
 afectador/GS
 afecta/h
@@ -458,6 +459,7 @@ ahuesado/GS
 ahumado/GS
 ahusado/GS
 ahuyentador/GS
+aimara/S
 airoso/GS
 aislacionista/S
 aislado/GS
@@ -858,6 +860,7 @@ anodino/GS
 anofeles
 anomalístico/GS
 anómalo/GS
+anómico/GS
 anomuro/S
 anónimo/SG
 anopluro/S
@@ -907,6 +910,8 @@ antimicrobiano/GS
 antimonial/S
 antiniebla/S
 antipático/GS
+antipersona/S
+antipersonal/S
 antipirético/GS
 antípoda/S
 antiquísimo/SG
@@ -1442,6 +1447,7 @@ azulado/GS
 azulejo/GS
 azulenco/GS
 azul/GS
+azulgrana/S
 azulino/SG
 azulón/GS
 azur/S
@@ -1730,6 +1736,7 @@ blasfematorio/GS
 blasfemo/GS
 blasonado/GS
 blasonador/GS
+blaugrana/S
 blondo/GS
 bloqueador/GS
 bobalicón/GS
@@ -3235,6 +3242,7 @@ cortés/hS
 cortical/S
 cortinado/GS
 corto/SG
+cortoplacista/S
 corveta/S
 corvino/GS
 corvo/SG
@@ -3492,6 +3500,7 @@ dañoso/SG
 dardanio/GS
 dárdano/GS
 datilera/S
+deambulatorio/GS
 debilitante/S
 débil/S
 debutante/S
@@ -4992,6 +5001,7 @@ estrafalario/GS
 estragador/GS
 estrangulador/GS
 estratégico/GS
+estratosférico/GS
 estrecho/GS
 estrellado/GS
 estrellar/S
@@ -5041,6 +5051,7 @@ euforbiáceo/GS
 eufórico/GS
 eurasiático/SG
 euroasiático/GS
+europarlamentario/GS
 europeo/GS
 euskera/S
 eusquera/S
@@ -5146,6 +5157,7 @@ expediente/GS
 expeditivo/SG
 expedito/GS
 expendedor/GS
+experiencial/S
 experimentado/GS
 experimentador/GS
 experimental/S
@@ -5727,6 +5739,7 @@ gallito/S
 gallofero/GS
 gallofo/GS
 gallo/S
+galo/GS
 galocho/GS
 galopante/S
 galvánico/GS
@@ -5827,8 +5840,8 @@ geriátrico/GS
 germanesco/GS
 germánico/SG
 germanófobo/GS
-germano/S
-germán/S
+germano/GS
+germán/GS
 germicida/S
 germinal/S
 gerundense/S
@@ -6221,6 +6234,7 @@ hidalgo/GS
 hidatídico/GS
 hidratante/hS
 hidráulico/GS
+hídrico/GS
 hidrocéfalo/GS
 hidroeléctrico/SG
 hidrográfico/GS
@@ -6310,6 +6324,7 @@ homocerca/S
 homogéneo/GS
 homólogo/SG
 homónimo/SG
+homoparental/S
 homosexual/S
 hondable/S
 hondo/SG
@@ -6848,8 +6863,10 @@ intencional/S
 intensivo/GS
 intento/GS
 interamericano/GS
+interbancario/GS
 interceptor/GS
 intercesor/GS
+interconectado/GS
 intercultural/S
 interdisciplinar/S
 interdisciplinario/GS
@@ -7986,6 +8003,7 @@ meldense/S
 meleno/GS
 melenudo/GS
 meliáceo/SG
+melífero/GS
 melifluo/GS
 melillense/S
 melindrero/SG
@@ -8554,6 +8572,7 @@ nato/kGS
 natural/ckSfr
 naturalista/S
 naturista/S
+naturópata/S
 náufrago/GS
 nauruano/GS
 nauseabundo/GS
@@ -9461,6 +9480,7 @@ perceptivo/GS
 perceptor/GS
 perchelero/SG
 percherón/GS
+percipiente/S
 perdedor/SG
 perdidizo/GS
 perdido/GS
@@ -10302,6 +10322,7 @@ quinientista/S
 quinientos
 quinquenal/S
 quinto/GS
+quíntuple/S
 quío/GS
 quirguiz/S
 quirinal/S
@@ -10657,6 +10678,7 @@ residencial/S
 residente/S
 residual/S
 resinero/GS
+resinífero/GS
 resinoso/GS
 resistente/S
 resistible/Sk
@@ -11900,6 +11922,7 @@ teodosiano/SG
 teologal/S
 teológico/GS
 teólogo/GS
+teorético/GS
 teórico/GS
 teorizador/GS
 teorizante/S

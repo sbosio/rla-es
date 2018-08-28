@@ -314,6 +314,7 @@ cacique/GS
 cadenero/GS
 cafetero/GS
 caficultor/GS
+cagaprisas
 caído/GS
 cajero/GS
 cajonero/GS
@@ -792,6 +793,7 @@ estucador/GS
 estufero/GS
 ético/GS
 eurodiputado/GS
+europarlamentario/GS
 examinador/GS
 examinando/GS
 excéntrico/GS
@@ -879,6 +881,7 @@ galgo/GS
 galileo/GS
 galletero/GS
 gallinero/GS
+galo/GS
 gamberro/GS
 ganadero/GS
 ganado/GS
@@ -892,6 +895,8 @@ genitor/GS
 geofísico/GS
 geógrafo/GS
 gerente/GS
+germán/GS
+germano/GS
 gestor/GS
 gigantón/GS
 ginecólogo/GS

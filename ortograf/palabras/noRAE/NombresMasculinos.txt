@@ -61,6 +61,7 @@ obrante/S
 panetón/S
 panetone/S
 periodograma/S
+piroclasto/S
 poliestireno/S
 polímetro/S
 portapesas

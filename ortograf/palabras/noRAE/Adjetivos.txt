@@ -60,6 +60,7 @@ destellante/S
 desvaneciente/S
 diédrico/GS
 emiratí/S
+enceguecedor/GS
 encriptado/GS
 espirométrico/GS
 estirable/S
@@ -96,6 +97,7 @@ maremotriz/S
 mareomotriz/S
 melamínico/GS
 microinformático/GS
+mitocondrial/S
 monopólico/GS
 monotípico/S
 multidisciplinario/GS
@@ -113,6 +115,7 @@ participativo/GS
 patrocinante/S
 pequeñísimo/GS
 periodontal/S
+piroclástico/GS
 poblacional/S
 policéntrico/GS
 polandés/GS
@@ -150,3 +153,4 @@ yibutense/S
 yibutí/S
 zambés/GS
 zambio/GS
+zapoteco/GS

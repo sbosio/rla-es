@@ -164,6 +164,7 @@ acerolo/S
 acertamiento/S
 acertijo/S
 aceruelo/S
+acervo/S
 acetato/sS
 acetileno/S
 acetilo/S
@@ -377,6 +378,7 @@ agraz/S
 agridulce/S
 agrietamiento/S
 agrifolio/S
+agroturismo
 agrupamiento/pS
 aguacatal/S
 aguacate/NS
@@ -428,6 +430,7 @@ ahuecado/S
 ahuecamiento/S
 ahuehuete/S
 ailanto/S
+aimara
 aire/hS
 airón/S
 aislacionismo/S
@@ -975,6 +978,7 @@ animismo/S
 anión
 aniquilamiento/S
 anisado/S
+anisakis
 anisar/S
 anisete/S
 anís/S
@@ -1521,6 +1525,7 @@ automovilismo/S
 auto/NOS
 autoritarismo/S
 autorizamiento/S
+autosoma/S
 auxilio/S
 avambrazo/S
 avance/S
@@ -2176,6 +2181,7 @@ botín/S
 botiquín/S
 boto/NS
 botón/S
+bótox
 bóvido/S
 bovino/S
 boxeador/S
@@ -2225,6 +2231,7 @@ breviario/S
 brezal/S
 brezo/S
 brial/S
+brik
 bricolaje/S
 brigadero/aS
 brigadier/S
@@ -2313,6 +2320,7 @@ burgraviato/S
 buriel/S
 buril/S
 burí/S
+burka/S
 burladero/S
 burlador/S
 burlete/S
@@ -2542,6 +2550,7 @@ camellero/S
 camellón/S
 camello/S
 camelote/S
+cameo/S
 camerino/S
 camillero/S
 camilo/S
@@ -3811,6 +3820,7 @@ cortinal/S
 cortinón/S
 cortocircuito/S
 cortometraje/S
+cortoplacismo/S
 corto/S
 corvejón/S
 corvejos
@@ -4092,6 +4102,7 @@ datario/S
 dátil/S
 dativo/S
 dato/S
+deambulatorio/S
 deanato/S
 debe
 deber/S
@@ -5678,6 +5689,7 @@ eucalipto/S
 eucarionte/S
 eufemismo/S
 eunuco/S
+euríbor
 euro/S
 euskera
 eutiquianismo/S
@@ -6157,6 +6169,7 @@ gallito/S
 gallo/aS
 gallón/S
 gal/NGS
+galo
 galón/S
 galope/S
 galopo/SN
@@ -6776,6 +6789,7 @@ histórico/S
 histrionismo/S
 histrión/S
 hitita/S
+hiyab
 hobby
 hobbys
 hobo/S
@@ -8897,6 +8911,7 @@ noticiario/S
 notocordio/S
 noto/S
 notro/S
+noúmeno/S
 novecientas
 novecientos
 novenario/S
@@ -9789,6 +9804,7 @@ peyote/S
 pezón/S
 pez/NS
 pezuelo/S
+pH
 pianoforte/S
 piano/S
 pian/S
@@ -9835,6 +9851,7 @@ pijote/S
 pilar/S
 pilastrón/S
 pilatero/S
+pilates
 pildorero/S
 pillador/S
 pillaje/S
@@ -10563,6 +10580,7 @@ quintero/S
 quinteto/S
 quintillo/S
 quintín/S
+quíntuple/S
 quiosco/S
 quirate/S
 quirguiz/S
@@ -12424,6 +12442,7 @@ testuzo/S
 tétanos
 tetón/S
 tetrabranquial/S
+tetrabrick
 tetracordio/S
 tetradracma/S
 tetraedro/S
@@ -13037,6 +13056,7 @@ valladar/S
 vallado/S
 vallar/S
 valle/S
+vallenato/S
 vallico/S
 valor/S
 vals/S
@@ -13385,6 +13405,7 @@ yodo/S
 yogur/S
 yoqueis			# Plural de yóquey
 yóquey
+yoruba
 yudo
 yugo/S
 yuguero/S

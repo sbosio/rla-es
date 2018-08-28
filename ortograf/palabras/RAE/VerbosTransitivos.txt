@@ -1560,6 +1560,7 @@ elegir/XDÀÁÂÈT
 elidir/RED
 elijar/REDT
 elogiar/REDÀÁÂÄÆT
+elongar/RED
 elucidar/RED
 emascular/RED
 embachar/RED
@@ -2470,6 +2471,7 @@ instrumentar/REDÀÄ
 insuflar/REDÂÆ
 insumir/RED
 intelectualizar/REDÀ
+inteligir/RED
 intentar/REDÀÄÌÙ
 intercalar/REDÀÄ
 intercambiar/REDÀÁÄ
@@ -3154,6 +3156,7 @@ redar/RED
 redecir/X
 redefinir/REDÁñò
 redescontar/IRD
+redescubrir/RE
 redhibir/RED
 rediezmar/RED
 redilar/RED

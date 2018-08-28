@@ -15,6 +15,7 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 abierto/GS
+absuelto/GS
 adscrito/GS
 antepuesto/GS
 arroto/GS
@@ -83,6 +84,7 @@ puesto/GS
 reabierto/GS
 recompuesto/GS
 recubierto/GS
+redescubierto/GS
 redicho/GS
 reelecto/GS
 reescrito/GS

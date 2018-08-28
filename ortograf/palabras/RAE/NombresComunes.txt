@@ -34,6 +34,7 @@ agonista/S
 agrícola/S
 aguafiestas
 aguafuertista/S
+aimara/S
 ajedrecista/S
 alauí/S
 albacea/S
@@ -97,6 +98,7 @@ auxiliar/S
 avalista/S
 ayudante/S
 azotacalles
+azulgrana/S
 babieca/S
 badulaque/S
 bajista/S
@@ -114,6 +116,7 @@ berzotas
 bestia/S
 bilingüe/S
 billarista/S
+blaugrana/S
 bocaza/S
 boceras
 bochista/S
@@ -126,6 +129,7 @@ bróker/S
 broncista/S
 budista/S
 bullebulle/S
+burka/S
 burócrata/S
 buscavida/S
 caballista/S
@@ -254,6 +258,7 @@ corno/S
 coronel/S
 corresponsal/S
 correveidile/S
+cortoplacista/S
 costumbrista/S
 cotilla/S
 creacionista/S
@@ -446,6 +451,7 @@ lavaplatos
 laxista/S
 leccionista/fS
 legista/S
+lendakari
 libelista/S
 librancista/S
 libretista/S
@@ -530,6 +536,7 @@ mutuante/S
 narcisista/S
 narizotas
 naturalista/S
+naturópata/S
 negociante/S
 neuroanatomista/S
 nigromante/S
