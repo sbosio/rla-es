@@ -4192,6 +4192,7 @@ di-sua-di-rán
 di-ver-gie-ren
 di-ver-si-fi-car
 di-ver-tíais
+di-ver-tícu-los
 di-vi-da
 di-ví-de-las
 di-vi-die-reis
@@ -6759,6 +6760,7 @@ plan-ti-fi-ca-ba
 plan-ti-lla-rá
 plan-ti-lla-re
 pla-sen-cia-na
+plas-ti-ci-dad
 plas-ti-fi-ques
 pla-ti-ca-ba
 pla-ya-zo
