@@ -3960,6 +3960,7 @@ escuadra/NS
 escuadría/S
 escualidez/S
 escudería/S
+escudella/S
 escudilla/S
 escuela/dS
 escultura/S
