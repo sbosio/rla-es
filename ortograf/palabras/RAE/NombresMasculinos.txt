@@ -1350,6 +1350,7 @@ arzobispo/S
 arzón/S
 asadero/S
 asado/S
+asana/S
 asarero/S
 ásaro/S
 asbesto/S
