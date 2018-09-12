@@ -2380,6 +2380,7 @@ cable/S
 cabotaje/S
 cabracho/S
 cabrahigar/S
+cabrales
 cabrestante/S
 cabrio/S
 cabrío/S
