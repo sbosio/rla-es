@@ -7057,6 +7057,7 @@ intelecto/S
 intelectualismo/S
 intento/S
 intercambiador/S
+intercolumnio/S
 intercomunicador/S
 interdicto/S
 interés/hS
