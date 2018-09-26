@@ -9524,6 +9524,8 @@ semejanza/Sg
 semeja/S
 semencera/S
 sementera/S
+semibreve/S
+semicadencia/S
 semifinal/S
 semilla/S
 semiología/S

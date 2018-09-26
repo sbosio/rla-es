@@ -1378,8 +1378,7 @@ autodidacto/GS
 autoestopista/S
 autógeno/GS
 autógrafo/GS
-automática/q
-automático/GqS
+automático/GS
 automovilístico/GS
 autonómico/GS
 autonomista/S
@@ -1726,7 +1725,7 @@ blancuzco/GS
 blandeador/GS
 blandengue/S
 blandense/S
-blando/GS
+blando/qGS
 blanqueador/GS
 blanquecino/SG
 blanquinoso/SG
@@ -1841,7 +1840,7 @@ bravoso/GS
 bravucón/GS
 bretón/GS
 bretoniano/GS
-breve/GS
+breve/S
 briaga/i
 bribón/GS
 brigantino/GS
@@ -11230,6 +11229,10 @@ semental/S
 sementino/SG
 semestral/S
 semestre/S
+semiabierto/GS
+semianalfabeto/GS
+semiautomático/GS
+semiconsonante/S
 semicopado/SG
 semicursivo/GS
 semidormido/GS
@@ -11239,7 +11242,7 @@ seminal/S
 seminario/SG
 semita/Sc
 semítico/GS
-semitransparente
+semitransparente/S
 semoviente/S
 sempiterno/GS
 senada/i
@@ -12231,7 +12234,6 @@ transmutativo/SG
 transmutatorio/SG
 transpadano/GS
 transparente/GS
-transparentes/q
 transpirenaico/SG
 transpolar/S
 transportador/GS

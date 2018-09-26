@@ -11617,6 +11617,7 @@ semejante/S
 semen
 sementero/S
 semestre/S
+semicabrón/GS
 semicapro/S
 semillero/S
 semilunio/S
