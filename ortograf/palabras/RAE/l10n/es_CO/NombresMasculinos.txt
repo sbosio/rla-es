@@ -84,6 +84,7 @@ feo/S
 fierro/S
 fique/S
 firulete/S
+fólder/S
 frijol/S
 frutillar/S
 futre/S

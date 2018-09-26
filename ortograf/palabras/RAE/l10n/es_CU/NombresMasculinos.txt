@@ -75,6 +75,7 @@ facilismo/S
 fierro/S
 flamboyán/S
 flotante/S
+fólder/S
 frijol/S
 fumado/S
 gachumbo/S

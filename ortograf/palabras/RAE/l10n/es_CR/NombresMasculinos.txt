@@ -63,6 +63,7 @@ encasquillador/S
 escobilleo/S
 espiritusanto/S
 fierro/S
+fólder/S
 frijol/S
 fumado/S
 gachumbo/S

@@ -71,6 +71,7 @@ escobilleo/S
 esponjamiento/S
 fierro/S
 firulete/S
+fólder/S
 frijol/S
 frutillar/S
 futre/S

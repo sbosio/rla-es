@@ -60,6 +60,7 @@ encasquillador/S
 escobilleo/S
 expendio/S
 fierro/S
+fólder/S
 frijol/S
 gachumbo/S
 gamonalismo/S

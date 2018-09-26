@@ -16,5 +16,6 @@
 
 beisbol/S
 bluyín/S
+fólder/S
 jonrón/S
 reservorio/S

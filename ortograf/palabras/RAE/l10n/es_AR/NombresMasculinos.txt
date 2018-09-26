@@ -94,6 +94,7 @@ facón/S
 felipe/S
 fierro/S
 firulete/S
+fólder/S
 fono/S
 frijol/S
 frutillar/S

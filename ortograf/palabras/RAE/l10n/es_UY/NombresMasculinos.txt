@@ -82,6 +82,7 @@ facón/S
 felipe/S
 fierro/S
 firulete/S
+fólder/S
 frijol/S
 frutillar/S
 futre/S
