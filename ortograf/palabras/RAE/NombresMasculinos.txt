@@ -6002,6 +6002,7 @@ foramen/S
 forcejo/S
 forero/S
 forjado/S
+formaje/S
 formalete/S
 formalismo/S
 formante/kS
