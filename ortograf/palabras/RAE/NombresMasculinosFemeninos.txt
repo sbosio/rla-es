@@ -1837,7 +1837,6 @@ trovador/GS
 trovero/GS
 truchero/GS
 truchimán/GS
-truhán/GS
 truhan/GS
 trujillano/GS
 tuco/GS
