@@ -2503,6 +2503,7 @@ chaveta/S
 checo/SG
 checoslovaco/GS
 chepa/S
+chibcha/S
 chic
 chica/N
 chicano/GS
