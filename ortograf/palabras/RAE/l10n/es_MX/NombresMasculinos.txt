@@ -196,6 +196,7 @@ tilichero/S
 tiliche/S
 timbiriche/S
 tiste/S
+tlachique/S
 tlaco/S
 tlacoyo/S
 tlacuache/S
