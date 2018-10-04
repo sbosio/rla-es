@@ -511,6 +511,7 @@ mexica/S
 microscopista/S
 miembro/S
 mierda/S
+migrante/S
 militar/S
 mineralogista/S
 miniaturista/S

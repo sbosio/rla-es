@@ -215,6 +215,7 @@ acrílico/SG
 acrisolador/GS
 acristalado/GS
 acrobático/GS
+actancial/S
 actinomorfo/GS
 activa/flkp
 activo/opGSflk
@@ -3216,6 +3217,7 @@ correligionario/SG
 correntino/SG
 correoso/GS
 correspondiente/S
+corresponsable/S
 corresponsal/S
 corrido/GS
 corriente/S
@@ -6146,6 +6148,7 @@ hediento/GS
 hediondo/GS
 hedonista/S
 hegeliano/SG
+hegemónico/GS
 heladero/GS
 heladizo/GS
 helado/GS
@@ -6895,6 +6898,7 @@ intervencionista/S
 intestado/S
 intestinal/S
 intestino/GS
+intimidante/S
 intimidatorio/SG
 intimista/S
 íntimo/GS
@@ -8143,6 +8147,7 @@ microsurco/S
 miedica/S
 miedoso/GS
 mielgo/GS
+migrante/S
 migratoria/k
 migratorio/SGk
 miguero/GS

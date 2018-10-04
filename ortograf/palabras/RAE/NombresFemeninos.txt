@@ -2814,6 +2814,7 @@ correhuela/S
 correndilla/S
 correría/S
 correspondencia/S
+correspondabilidad/S
 corrida/S
 corriente/FS
 corrosión/S
@@ -5651,6 +5652,7 @@ intensificación/S
 intentona/S
 interactividad
 intercalación/S
+interconexión/S
 interdicción/S
 interferencia/S
 interioridad/S
