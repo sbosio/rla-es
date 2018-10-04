@@ -5426,6 +5426,7 @@ fijante/S
 fijo/aSGn
 filadelfio/GS
 filamentoso/GS
+filántropo/GS
 filatelista/S
 filial/S
 filicíneo/GS

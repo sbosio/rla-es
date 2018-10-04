@@ -837,6 +837,7 @@ figonero/GS
 figura/S
 figurero/GS
 fijo/GS
+filántropo/GS
 filipino/GS
 filólogo/GS
 filósofo/GS

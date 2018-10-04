@@ -43,6 +43,7 @@ chingón/GS
 cholo/GS
 chueco/GS
 codo/GS
+comelón/GS
 comodín/GS
 correntoso/GS
 cotorro/GS

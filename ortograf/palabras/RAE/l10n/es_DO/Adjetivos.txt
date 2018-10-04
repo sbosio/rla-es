@@ -28,6 +28,7 @@ chancho/GS
 chapín/SG
 cholo/GS
 chueco/GS
+comelón/GS
 congresional/S
 correntoso/GS
 coyotero/GS

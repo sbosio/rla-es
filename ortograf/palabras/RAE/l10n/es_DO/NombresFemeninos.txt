@@ -27,6 +27,7 @@ cañabrava/S
 cedulación/S
 chaperona/S
 cigarrería/S
+comelona/S
 contesta/S
 contraloría/S
 criandera/S
