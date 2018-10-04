@@ -2814,7 +2814,7 @@ correhuela/S
 correndilla/S
 correría/S
 correspondencia/S
-correspondabilidad/S
+corresponsabilidad/S
 corrida/S
 corriente/FS
 corrosión/S
