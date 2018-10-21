@@ -17,6 +17,7 @@
 abacial/S
 abadengo/GS
 abadí/S
+abalconado/GS
 abandonado/GS
 abandonista/S
 abanto/S
