@@ -17,6 +17,7 @@
 acreencia/S
 azua/S
 banana/S
+bicicletería/S
 bombacha/S
 calilla/S
 calla/S

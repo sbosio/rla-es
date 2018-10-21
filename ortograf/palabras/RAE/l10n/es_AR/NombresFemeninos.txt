@@ -18,6 +18,8 @@ acreencia/S
 amansadora/S
 azua/S
 banana/S
+bicicleteada/S
+bicicletería/S
 bolita/S
 boludez/S
 bombacha/S
