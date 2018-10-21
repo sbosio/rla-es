@@ -26,6 +26,7 @@ altoparlante/S
 amacayo/S
 andinismo/S
 anisal/S
+apunamiento/S
 ara/S
 arrollado/S
 atrenzo/S

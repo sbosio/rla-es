@@ -27,6 +27,7 @@ amanzanamiento/S
 andavete/S
 andinismo/S
 anisal/S
+apunamiento/S
 ara/S
 armado/S
 arrollado/S
