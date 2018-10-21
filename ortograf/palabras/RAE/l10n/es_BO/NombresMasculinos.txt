@@ -49,6 +49,7 @@ carrilano/S
 celular/S
 chairo/S
 chiche/S
+chop/S
 cocacho/S
 cochayuyo/S
 coloniaje/S

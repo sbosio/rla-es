@@ -52,6 +52,7 @@ carato/S
 carpidor/S
 celular/S
 chiche/S
+chop/S
 chucho/S
 cielito/S
 cimarrón/S

@@ -55,6 +55,7 @@ carpidor/S
 cay
 celular/S
 chiche/S
+chop/S
 chucho/S
 chumbo/S
 cielito/S

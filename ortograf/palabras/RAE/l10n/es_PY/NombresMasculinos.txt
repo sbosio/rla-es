@@ -40,6 +40,7 @@ carato/S
 carpidor/S
 celular/S
 chiche/S
+chop/S
 cochayuyo/S
 coloniaje/S
 comercial/S
