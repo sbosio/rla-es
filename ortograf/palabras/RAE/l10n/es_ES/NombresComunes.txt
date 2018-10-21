@@ -19,6 +19,7 @@ chueta/S
 cucharón/S
 fisio/S
 jijas
+mileurista/S
 peñazo/S
 taranta/S
 trillique/S
