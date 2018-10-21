@@ -27,6 +27,7 @@ boquino/GS
 cabalero/S
 carriona/S
 casariego/GS
+chupi/S
 desgarbilado/GS
 detallado/GS
 dichero/GS
