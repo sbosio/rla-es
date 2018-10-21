@@ -16,6 +16,7 @@
 
 abombado/GS
 alojado/GS
+amigovio/GS
 aplazado/GS
 arrimado/GS
 boletero/GS

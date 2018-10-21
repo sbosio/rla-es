@@ -17,6 +17,7 @@
 abarrotero/GS
 abombado/GS
 alojado/GS
+amigovio/GS
 aplazado/GS
 arrimado/GS
 baratero/GS
