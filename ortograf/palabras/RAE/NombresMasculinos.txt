@@ -15,6 +15,7 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 ababol/S
+abacá/S
 ábaco/S
 abadejo/S
 abadengo/S
