@@ -37,6 +37,7 @@ coyotero/GS
 demoroso/GS
 dije/S
 droguero/GS
+enrulado/GS
 espinudo/GS
 exfoliador/GS
 ferrocarrilero/GS

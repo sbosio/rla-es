@@ -28,6 +28,7 @@ chueco/GS
 correntoso/GS
 coyotero/GS
 droguero/GS
+enrulado/GS
 exfoliador/GS
 ferrocarrilero/GS
 filudo/GS

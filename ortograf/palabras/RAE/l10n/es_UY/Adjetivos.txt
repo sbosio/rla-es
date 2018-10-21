@@ -38,6 +38,7 @@ coyotero/GS
 desactualizado/GS
 doradillo/S
 droguero/GS
+enrulado/GS
 exfoliador/GS
 facho/GS
 ferrocarrilero/GS

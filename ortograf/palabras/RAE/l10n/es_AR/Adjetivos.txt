@@ -43,6 +43,7 @@ desactualizado/GS
 doradillo/S
 droguero/GS
 embolado/GS
+enrulado/GS
 escombrero/GS
 espinudo/GS
 exfoliador/GS

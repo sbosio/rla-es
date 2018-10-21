@@ -41,6 +41,7 @@ demoroso/GS
 dije/S
 droguero/GS
 engomado/GS
+enrulado/GS
 espinudo/GS
 exequial/S
 exfoliador/GS
