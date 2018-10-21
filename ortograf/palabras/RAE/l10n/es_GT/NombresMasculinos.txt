@@ -25,6 +25,7 @@ atol/S
 atrenzo/S
 bananar/S
 beisbol/S
+bíper/S
 bluyín/S
 cacalote/S
 cachimbo/S

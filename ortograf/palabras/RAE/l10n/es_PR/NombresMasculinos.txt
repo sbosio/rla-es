@@ -24,6 +24,7 @@ amacayo/S
 ara/S
 atrenzo/S
 balero
+bíper/S
 bluyín/S
 bocabajo/S
 cachimbo/S

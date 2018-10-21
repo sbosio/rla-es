@@ -23,6 +23,7 @@ amacayo/S
 ara/S
 atrenzo/S
 beisbol/S
+bíper/S
 bluyín/S
 bulón/S
 cacalote/S

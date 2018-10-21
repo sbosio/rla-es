@@ -28,6 +28,7 @@ ara/S
 atrenzo/S
 balero
 bananal
+bíper/S
 bluyín/S
 bodegaje/S
 bolsico/S

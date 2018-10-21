@@ -42,6 +42,7 @@ beisbol/S
 belduque/S
 bingarrote/S
 binguí/S
+bíper/S
 bluyín/S
 botellón/S
 box

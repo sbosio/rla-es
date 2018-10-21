@@ -27,6 +27,7 @@ arrollado/S
 atol/S
 atrenzo/S
 beisbol/S
+bíper/S
 bluyín/S
 bodegaje/S
 cacalote/S
