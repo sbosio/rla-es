@@ -61,6 +61,7 @@ jaba/S
 jora/S
 laucha/S
 lobada/S
+lonchera/S
 loneta/S
 luca/S
 maloca/S

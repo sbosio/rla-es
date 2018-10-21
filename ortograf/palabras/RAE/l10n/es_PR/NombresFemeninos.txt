@@ -40,6 +40,7 @@ guasca/S
 gurbia/S
 jaba/S
 lobada/S
+lonchera/S
 malanga/S
 mantequillera/S
 mixta/S

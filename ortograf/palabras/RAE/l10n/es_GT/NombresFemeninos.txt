@@ -43,6 +43,7 @@ guatusa/S
 gurbia/S
 huaca/S
 jaba/S
+lonchera/S
 mantequillera/S
 mara/S
 membresía/S

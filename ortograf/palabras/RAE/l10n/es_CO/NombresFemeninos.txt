@@ -73,6 +73,7 @@ huaca/S
 huasca/S
 jaba/S
 jora/S
+lonchera/S
 luca/S
 malanga/S
 maloca/S

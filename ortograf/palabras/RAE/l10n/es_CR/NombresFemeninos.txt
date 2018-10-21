@@ -49,6 +49,7 @@ gurbia/S
 huaca/S
 jaba/S
 jamaica
+lonchera/S
 mantequillera/S
 milpa/S
 natilla/S

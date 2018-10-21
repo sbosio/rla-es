@@ -44,6 +44,7 @@ guatusa/S
 gurbia/S
 huaca/S
 jaba/S
+lonchera/S
 malanga/S
 mantequillera/S
 mapoteca/S

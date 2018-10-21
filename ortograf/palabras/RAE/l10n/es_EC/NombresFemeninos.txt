@@ -48,6 +48,7 @@ huasca/S
 humita/S
 jaba/S
 jora/S
+lonchera/S
 maloca/S
 mamancona/S
 mantequillera/S

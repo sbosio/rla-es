@@ -52,6 +52,7 @@ huincha/S
 humita/S
 jaba/S
 jora/S
+lonchera/S
 maloca/S
 mantequillera/S
 mapoteca/S

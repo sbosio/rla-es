@@ -63,6 +63,7 @@ huasca/S
 jaba/S
 jicotea/S
 jora/S
+lonchera/S
 maloca/S
 mantequillera/S
 mapoteca/S

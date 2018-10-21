@@ -53,6 +53,7 @@ humita/S
 jaba/S
 jora/S
 laucha/S
+lonchera/S
 maloca/S
 mamancona/S
 mantequillera/S

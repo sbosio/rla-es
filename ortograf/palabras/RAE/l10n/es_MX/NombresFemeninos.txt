@@ -68,6 +68,7 @@ jamaica
 juana/S
 julia/S
 lastimada/S
+lonchera/S
 mantequillera/S
 mapoteca/S
 mara/S

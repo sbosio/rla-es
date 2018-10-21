@@ -50,6 +50,7 @@ gurbia/S
 huaca/S
 jaba/S
 jamaica
+lonchera/S
 manila/S
 mantenedora/S
 mantequillera/S

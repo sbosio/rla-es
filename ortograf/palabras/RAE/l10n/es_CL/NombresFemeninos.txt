@@ -65,6 +65,7 @@ jora/S
 laucha/S
 llanca/S
 lloica/S
+lonchera/S
 loneta/S
 maloca/S
 manguilla
