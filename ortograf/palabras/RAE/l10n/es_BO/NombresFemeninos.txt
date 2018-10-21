@@ -50,6 +50,7 @@ huasca/S
 huesera/S
 huincha/S
 humita/S
+implicancia/S
 jaba/S
 jora/S
 laucha/S

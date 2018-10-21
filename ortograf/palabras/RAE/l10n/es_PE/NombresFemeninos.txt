@@ -52,6 +52,7 @@ huaca/S
 huasca/S
 huincha/S
 humita/S
+implicancia/S
 jaba/S
 jora/S
 lonchera/S

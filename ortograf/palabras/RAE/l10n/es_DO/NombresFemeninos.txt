@@ -40,6 +40,7 @@ guanabanada/S
 guanábana/S
 guasca/S
 gurbia/S
+implicancia/S
 jaba/S
 jicotea/S
 mantequillera/S

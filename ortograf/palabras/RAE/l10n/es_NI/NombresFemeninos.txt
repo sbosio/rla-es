@@ -48,6 +48,7 @@ guaraná/S
 guatusa/S
 gurbia/S
 huaca/S
+implicancia/S
 jaba/S
 jamaica
 lonchera/S

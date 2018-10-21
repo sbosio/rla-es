@@ -59,6 +59,7 @@ guanina/S
 guaracha/S
 gurbia/S
 hayaca/S
+implicancia/S
 íntima
 jaba/S
 jicotea/S

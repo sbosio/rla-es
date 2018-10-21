@@ -57,6 +57,7 @@ gurbia/S
 huaca/S
 huasca/S
 humita/S
+implicancia/S
 jaba/S
 jora/S
 laucha/S

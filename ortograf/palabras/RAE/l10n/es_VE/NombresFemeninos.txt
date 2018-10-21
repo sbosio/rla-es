@@ -60,6 +60,7 @@ hallaca/S
 hayaca/S
 huaca/S
 huasca/S
+implicancia/S
 jaba/S
 jicotea/S
 jora/S
