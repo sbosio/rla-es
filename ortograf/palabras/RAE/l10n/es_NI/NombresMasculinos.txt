@@ -72,6 +72,7 @@ guapote/S
 guarapo/S
 guate/S
 huacal/S
+identikit/S
 jeringatorio/S
 jícaro/S
 jicote/S

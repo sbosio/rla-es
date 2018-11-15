@@ -72,6 +72,7 @@ guarapo/S
 guascazo/S
 hembraje/S
 huaco/S
+identikit/S
 jaguarundí/S
 jeringatorio/S
 jonrón/S

@@ -96,6 +96,7 @@ guascazo/S
 guindado/S
 hembraje/S
 huaco/S
+identikit/S
 jeringatorio/S
 jonrón/S
 laburo/S
