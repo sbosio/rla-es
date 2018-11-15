@@ -27,6 +27,7 @@ chapín/SG
 chasco/GS
 cholo/GS
 chueco/GS
+citadino/GS
 correntoso/GS
 coyotero/GS
 doradillo/S

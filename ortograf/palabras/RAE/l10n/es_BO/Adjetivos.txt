@@ -32,6 +32,7 @@ chiche/SG
 choco/SG
 cholo/GS
 chueco/GS
+citadino/GS
 correntoso/GS
 coyotero/GS
 demoroso/GS

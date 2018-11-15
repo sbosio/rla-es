@@ -42,6 +42,7 @@ chingado/GS
 chingón/GS
 cholo/GS
 chueco/GS
+citadino/GS
 codo/GS
 comelón/GS
 comodín/GS

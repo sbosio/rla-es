@@ -27,6 +27,7 @@ chasco/GS
 chévere/S
 cholo/GS
 chueco/GS
+citadino/GS
 correntoso/GS
 coyotero/GS
 dundo/GS

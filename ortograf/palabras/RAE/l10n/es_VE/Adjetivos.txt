@@ -36,6 +36,7 @@ chancho/GS
 chévere/S
 cholo/GS
 chueco/GS
+citadino/GS
 comelón/GS
 correntoso/GS
 corroncho/GS

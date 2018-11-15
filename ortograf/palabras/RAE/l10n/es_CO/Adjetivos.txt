@@ -41,6 +41,7 @@ chévere/S
 choco/SG
 cholo/GS
 chueco/GS
+citadino/GS
 comelón/GS
 congresional/S
 correntoso/GS
