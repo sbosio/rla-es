@@ -19,6 +19,7 @@ anchoveta/S
 anda/S
 aporca/S
 azua/S
+basurita/S
 bombacha/S
 calichera/S
 calilla/S

@@ -18,6 +18,7 @@ acreencia/S
 amansadora/S
 azua/S
 banana/S
+basurita/S
 bicicleteada/S
 bicicletería/S
 bolita/S

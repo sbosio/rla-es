@@ -20,6 +20,7 @@ ahorcadora/S
 anguilla/S
 banana/S
 bartolina/S
+basurita/S
 bellísima/S
 bombacha/S
 bullaranga/S
