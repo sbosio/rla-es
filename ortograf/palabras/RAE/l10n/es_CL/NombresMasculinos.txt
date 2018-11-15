@@ -17,6 +17,7 @@
 abastero/S
 abigeato/S
 abigeo/S
+acápite/S
 acoplado/S
 aglomeramiento/S
 ajicero/S
