@@ -23,6 +23,7 @@ aserruchar/RED
 atrincar/RED
 basurear/RED
 bolsiquear/RED
+cajonear/RED
 calotear/RED
 cargosear/RED
 carnear/RED

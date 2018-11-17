@@ -28,6 +28,7 @@ atrincar/RED
 basurear/RED
 bolsiquear/RED
 cafetear/RED
+cajonear/RED
 calotear/RED
 camperear/RED
 cargosear/RED
