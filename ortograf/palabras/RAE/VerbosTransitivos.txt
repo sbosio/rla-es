@@ -2178,6 +2178,7 @@ expugnar/RED
 expulsar/REDÀÁÂÄÆÌ
 expurgar/RED
 exterminar/REDÀÁÄT
+externalizar/RED
 extirpar/REDÀÁÂÃÄT
 extornar/RED
 extorsionar/REDÀÁÂ
