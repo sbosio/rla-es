@@ -43,6 +43,7 @@ charquear/RED
 chicotear/RED
 coimear/REDÀ
 compadrear/RED
+conflictuar/IRD
 corar/RED
 corretear/REDÀÅ
 cuerpear/RED

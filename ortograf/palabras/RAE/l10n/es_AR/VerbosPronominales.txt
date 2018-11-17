@@ -32,6 +32,7 @@ apunar/RED
 azarear/RED
 brocear/RED
 comprar/REDñòôø
+conflictuar/IRD
 consubstanciar/RED
 deschavetar/RED
 desmonetizar/RED

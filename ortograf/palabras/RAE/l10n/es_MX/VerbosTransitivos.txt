@@ -37,6 +37,7 @@ chicotear/RED
 chinear/RED
 chiquear/RED
 chotear/RED
+conflictuar/IRD
 contlapachear/RED
 copinar/RED
 corar/RED

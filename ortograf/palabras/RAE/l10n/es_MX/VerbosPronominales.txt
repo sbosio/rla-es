@@ -30,6 +30,7 @@ azarear/RED
 barrer/REDñò
 chapinizar/RED
 chonguear/RED
+conflictuar/IRD
 copear/RED
 embarrialar/RED
 emborucar/RED

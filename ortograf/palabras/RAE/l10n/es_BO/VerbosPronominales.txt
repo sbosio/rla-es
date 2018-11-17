@@ -29,6 +29,7 @@ asorochar/RED
 azarear/RED
 brocear/RED
 chapear/RED
+conflictuar/IRD
 consubstanciar/RED
 costalear/RED
 deschavetar/RED

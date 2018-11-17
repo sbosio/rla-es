@@ -29,6 +29,7 @@ apunar/RED
 azarear/RED
 babosear/REDñ
 brocear/RED
+conflictuar/IRD
 deschavetar/RED
 embroncar/RED
 empampar/RED

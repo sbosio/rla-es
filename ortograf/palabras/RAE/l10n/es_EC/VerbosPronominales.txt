@@ -24,6 +24,7 @@ apunar/RED
 asorochar/RED
 azarear/RED
 brocear/RED
+conflictuar/IRD
 empampar/RED
 emponchar/RED
 enancar/RED
