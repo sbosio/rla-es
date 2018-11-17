@@ -2677,6 +2677,7 @@ mecanografiar/IRD
 mecer/REDÀÁÂÄÅ
 mechar/REDÀ
 mediatizar/REDÀ
+medicalizar/RED
 mejer/RED
 melgar/RED
 memorizar/REDÀÄ
