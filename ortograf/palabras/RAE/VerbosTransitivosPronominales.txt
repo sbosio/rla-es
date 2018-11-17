@@ -126,7 +126,7 @@ adocenar/RED
 adormecer/IRDÀÁÄñ
 adormir/XD
 adornar/REDÀÂÄÆÌ
-adscribir/REÀÂÄ
+adscribir/REÀÂÄÁñ
 adujar/RED
 adulterar/REDÀA
 adulzorar/RED
@@ -1051,7 +1051,7 @@ deszocar/RED
 deszumar/RED
 detener/XDÀÁÂÈÉÖáñóöú
 deteriorar/REDÀÁñ
-determinar/REDÀÄñø
+determinar/REDÀÄñøÅò
 detraer/XD
 dibujar/REDÀÁÂÄÌÍñ
 difractar/RED

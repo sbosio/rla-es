@@ -88,6 +88,7 @@ reportear/RED
 rumbar/RED
 socolar/RED
 solapear/RED
+tornar/REDÅ
 trapear/RED
 trasbocar/RED
 tusar/RED
