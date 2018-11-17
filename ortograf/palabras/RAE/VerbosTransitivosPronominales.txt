@@ -109,7 +109,7 @@ acusar/REDÀÁÂÄÅÆÚñòT
 adaptar/REDÀÁÂÄÅñò
 adargar/RED
 adecentar/REDÀ
-adecuar/REDÀÁÄÅñò
+adecuar/RDIÀÁÄÅñò
 adehesar/RED
 adensar/RED
 aderezar/REDÀÂÄ
