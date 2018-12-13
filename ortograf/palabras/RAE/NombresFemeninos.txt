@@ -6521,6 +6521,7 @@ mantellina/S
 mantenencia/S
 mantenida/S
 mantequera/S
+mantis
 mantisa/S
 manualidad/S
 manucodiata/S
