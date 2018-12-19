@@ -6298,6 +6298,7 @@ gira/S
 girasol/S
 girino/S
 giro/dS
+girocompás
 giroscopio/S
 gis/S
 gitanismo/S
