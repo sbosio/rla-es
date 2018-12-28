@@ -35,6 +35,7 @@ balagre/S
 beisbol/S
 bluyín/S
 bodegaje/S
+cacahuate/S
 cacalote/S
 cachimbo/S
 cachumbo/S

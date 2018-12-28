@@ -49,6 +49,7 @@ botellón/S
 box
 burrito/S
 caballazo/S
+cacahuate/S
 cacalote/S
 cachimbo/S
 cachumbo/S
