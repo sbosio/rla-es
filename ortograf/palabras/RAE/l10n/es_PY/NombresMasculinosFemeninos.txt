@@ -35,6 +35,7 @@ mitotero/GS
 mucamo/GS
 orillero/GS
 pebete/GS
+sandwichero/GS
 tachero/GS
 tamalero/GS
 tambero/GS

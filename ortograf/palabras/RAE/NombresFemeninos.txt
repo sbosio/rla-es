@@ -944,6 +944,8 @@ auténtica/S
 autenticidad/S
 autoafirmación/S
 autoclave/S
+autocompasión/S
+autoconfianza/S
 autocopista/S
 autocracia/S
 autocrítica/S
@@ -952,6 +954,7 @@ autodefinición/S
 automática/S
 automatización/S
 autonomía/S
+autoprotección/S		# Contribuida por César Romé
 autopsia/S
 autoría/S
 autoridad/S
@@ -3025,6 +3028,7 @@ cultura/kS
 cultureta/S
 cumbia/S
 cumbre/S
+cumplimentación/S
 cuna/S
 cuneta/S
 cunicultura/S
@@ -4685,8 +4689,9 @@ fumaria/S
 fumosidad/S
 funcionalidad/S
 función/gS
-fundación/S
 funda/S
+fundación/S
+fundamentación/S
 fundición/S
 funeraria/S
 fungosidad/S
@@ -6791,6 +6796,7 @@ meretriz/S
 meridiana/S
 merienda/S
 merindad/S
+meritocracia/S
 merla/S
 merleta/S
 merluza/S
@@ -10888,6 +10894,7 @@ vindicación/S
 vindicta/S
 vinicultura/S
 vinosidad/S
+vinoteca/S
 vinta/S
 viña/S
 viñeta/S
@@ -10943,6 +10950,7 @@ vivienda/S
 vivijagua/S
 vizcondesa/S
 vocación/aokfSp
+vocalía/S
 voladura/S
 volanta/S
 volatería/S

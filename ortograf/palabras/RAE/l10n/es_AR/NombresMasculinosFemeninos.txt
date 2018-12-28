@@ -55,6 +55,7 @@ orillero/GS
 pajero/GS
 pebete/GS
 pililo/GS
+sandwichero/GS
 tachero/GS
 tamalero/GS
 tambero/GS

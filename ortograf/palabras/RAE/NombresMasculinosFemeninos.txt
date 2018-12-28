@@ -1459,6 +1459,7 @@ práctico/GS
 preceptor/GS
 predecesor/GS
 prensor/GS
+prescriptor/GS
 presentado/GS
 presentador/GS
 presidiario/GS

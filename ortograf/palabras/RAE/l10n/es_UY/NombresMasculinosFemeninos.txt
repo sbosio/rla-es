@@ -51,6 +51,7 @@ pajero/GS
 precario/GS
 ratonero/GS
 retardado/GS
+sandwichero/GS
 tachero/GS
 tamalero/GS
 tambero/GS

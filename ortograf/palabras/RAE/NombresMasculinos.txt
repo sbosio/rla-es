@@ -4103,6 +4103,7 @@ danzado/S
 daño/Sp
 dardo/S
 darwinismo
+datáfono/S
 datario/S
 dátil/S
 dativo/S
@@ -4484,6 +4485,7 @@ dilema/S
 diligenciero/S
 dilucidario/S
 diluvio/S
+dimensionamiento/S
 diminutivo/S
 dimorfismo/S
 din
@@ -5952,6 +5954,7 @@ fletante/S
 flete/S
 flexible/S
 flexo/S
+flexómetro/S
 flirteo/S
 flojel/S
 flojo/S
@@ -6758,8 +6761,10 @@ hinque/S
 hintero/S
 hioides
 hiperboloide/S
+hiperenlace/S
 hipermercado/S
 hipertexto/S
+hipervínculo/S
 hipido/S
 hipismo/S
 hipnal/S
@@ -8040,6 +8045,7 @@ más/S
 masteleo/S
 mastelero/NS
 mástel/S
+máster/S
 masticador/S
 mástil/S
 mastín/S

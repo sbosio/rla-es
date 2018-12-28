@@ -46,6 +46,7 @@ mucamo/GS
 pililo/GS
 poroto/GS
 sablero/GS
+sandwichero/GS
 tachero/GS
 tamalero/GS
 tambero/GS

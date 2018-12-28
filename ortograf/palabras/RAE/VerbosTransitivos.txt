@@ -3438,6 +3438,7 @@ sesgar/REDÛ
 setenar/RED
 sexar/RED
 sextavar/RED
+sexualizar/RED
 sigilar/RED
 silenciar/REDÀÁÂ
 siluetar/RED
