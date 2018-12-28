@@ -3849,6 +3849,7 @@ erala/S
 erección/S
 erectilidad/S
 ere/GS
+ergonomía/S
 ergotina/S
 ericácea/S
 erina/sS
@@ -6011,6 +6012,7 @@ legadura/S
 legalidad/kS
 legalización/S
 lega/S
+legaña/S
 legenda/S
 legibilidad/S
 legión/S
@@ -6684,6 +6686,7 @@ mecedura/S
 mecha/S
 mechera/S
 medalla/SU
+media/S
 mediacaña/S
 mediación/Skl
 medialuna/S
@@ -6692,7 +6695,7 @@ medianería/S
 medianía/S
 medianidad/S
 medianoche/S
-media/S
+mediateca/S
 medicación/S
 medicalización
 medicina/S

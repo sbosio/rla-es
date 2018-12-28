@@ -706,7 +706,7 @@ empaquetador/GS
 emparejador/GS
 empastador/GS
 empavesado/GS
-empleado/GS
+empleado/wGS
 empleador/GS
 empleitero/GS
 empresario/GS

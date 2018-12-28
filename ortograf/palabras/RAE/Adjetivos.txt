@@ -3499,7 +3499,8 @@ dactilar/S
 dadivoso/GS
 dado/GS
 dador/nGS
-daltoniano/SG
+daltoniano/GS
+daltónico/GS
 damaceno/GS
 damasceno/GS
 damnificador/GS
@@ -5826,6 +5827,7 @@ generacional/S
 generador/GpS
 generalizador/SG
 general/S
+generalista/S
 generativa/g
 generativo/GgS
 generatriz/S
@@ -11820,6 +11822,7 @@ tahúr/SG
 tailandés/GS
 taimado/GS
 taíno/GS
+taiwanés/GS
 tajado/GS
 tajador/aGS
 tajante/S

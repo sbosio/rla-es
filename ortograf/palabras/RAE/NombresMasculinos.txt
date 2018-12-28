@@ -1108,6 +1108,7 @@ aplique/S
 aplomo
 apoastro/S
 apocamiento/S
+apocalipsis
 apoderamiento/hS
 apodo/S
 ápodo/S
@@ -5962,6 +5963,7 @@ florecimiento/hSp
 floreo/S
 florete/S
 florilegio/S
+florín/S
 floripondio/S
 flotador/S
 flotamiento/S
@@ -9491,7 +9493,7 @@ pascasio/S
 paseadero/S
 paseador/S
 pase/CS
-paseo/S
+paseo/SU
 pasillo/S
 pasionario/S
 pasionero/S
