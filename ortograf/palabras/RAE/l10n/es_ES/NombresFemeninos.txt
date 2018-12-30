@@ -16,6 +16,7 @@
 
 abarrederas
 abetuna/S
+abia/S
 agachadera/S
 agosta/S
 aguilonia/S
@@ -158,6 +159,7 @@ juera/S
 larra/S
 latigadera/S
 lavija/S
+lefa/S
 leja/S
 lifara/S
 ligarza/S

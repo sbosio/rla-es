@@ -20,14 +20,18 @@ abacería/S
 abada/S
 abadesa/S
 abadía/S
+abaniquería/S
 abarcadura/S
 abarca/S
 abducción/S
 abeja/S
+abéñula/S
 aberración/S
 abertura/S
 abierta/S
 abietácea/S
+abiogénesis
+abitadura/S
 ablación/S
 ablución/S
 abnegación/S
@@ -9973,6 +9977,7 @@ tanga/S
 tangente/FS
 tangidera/S
 tanoría/S
+tanqueta/S
 tapada/S
 tapadera/S
 tapadura/hS
