@@ -386,6 +386,7 @@ geómetra/S
 germanista/S
 gimnasta/S
 gomista/S
+gruista/S
 guaicurú/S
 guardabarrera/S
 guardacabras
