@@ -8891,6 +8891,7 @@ nido/S
 nihilismo/S
 ninfea/S
 ninfo/S
+ninja/S
 niñato/S
 niobio/S
 nioto/S

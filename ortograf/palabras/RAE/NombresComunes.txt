@@ -547,7 +547,6 @@ naturópata/S
 negociante/S
 neuroanatomista/S
 nigromante/S
-ninja/S
 nobel/S
 normalista/S
 novelista/S
