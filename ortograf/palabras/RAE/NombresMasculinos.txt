@@ -1117,6 +1117,7 @@ aplique/S
 aplomo
 apoastro/S
 apocamiento/S
+apocalipsis
 apoderamiento/hS
 apodo/S
 ápodo/S
@@ -2928,6 +2929,7 @@ caudatario/S
 caudalímetro/S
 caudillismo/S
 caudillo/SC
+caulículo/S
 cauro/S
 cauterio/S
 cautiverio/S
@@ -4112,6 +4114,7 @@ danzado/S
 daño/Sp
 dardo/S
 darwinismo
+datáfono/S
 datario/S
 dátil/S
 dativo/S
@@ -4493,6 +4496,7 @@ dilema/S
 diligenciero/S
 dilucidario/S
 diluvio/S
+dimensionamiento/S
 diminutivo/S
 dimorfismo/S
 din
@@ -5963,6 +5967,7 @@ fletante/S
 flete/S
 flexible/S
 flexo/S
+flexómetro/S
 flirteo/S
 flojel/S
 flojo/S
@@ -5970,6 +5975,7 @@ florecimiento/hSp
 floreo/S
 florete/S
 florilegio/S
+florín/S
 floripondio/S
 flotador/S
 flotamiento/S
@@ -6309,6 +6315,7 @@ gira/S
 girasol/S
 girino/S
 giro/dS
+girocompás
 giroscopio/S
 gis/S
 gitanismo/S
@@ -6768,8 +6775,10 @@ hinque/S
 hintero/S
 hioides
 hiperboloide/S
+hiperenlace/S
 hipermercado/S
 hipertexto/S
+hipervínculo/S
 hipido/S
 hipismo/S
 hipnal/S
@@ -7094,6 +7103,7 @@ intestado/S
 intestino/S
 intimismo/S
 intradós/S
+intríngulis
 introito/S
 intrusismo/S
 inundado/S
@@ -8050,6 +8060,7 @@ más/S
 masteleo/S
 mastelero/NS
 mástel/S
+máster/S
 masticador/S
 mástil/S
 mastín/S
@@ -9499,7 +9510,7 @@ pascasio/S
 paseadero/S
 paseador/S
 pase/CS
-paseo/S
+paseo/SU
 pasillo/S
 pasionario/S
 pasionero/S

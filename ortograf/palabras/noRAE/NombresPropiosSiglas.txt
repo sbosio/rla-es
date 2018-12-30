@@ -46,7 +46,7 @@ Carlos
 Carmelo
 Carmona
 CD
-CDs # revisar
+Corán
 Cristian
 Cristóbal
 Daniel
@@ -58,7 +58,6 @@ Domínguez
 Dorta
 Durán
 DVD
-DVDs # revisar
 Eduardo
 Elena
 Elisa
@@ -84,6 +83,7 @@ Gerardo
 Giménez
 Gómez
 González
+Gonzalo
 Gregorio
 Guadalupe
 Guillermo

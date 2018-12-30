@@ -1083,7 +1083,7 @@ distender/IRDñ
 distinguir/REDÀÁÂÄñò
 distorsionar/REDÄ
 distraer/XDÀÁÈÉÊñóö
-distribuir/IRDÀÁÂáñ
+distribuir/IRDÀÁÂáñT
 diversificar/REDÀÁñ
 divertir/XDÀÁÂÉñóöú
 dividir/REDÀÁÄÌñò
@@ -1492,7 +1492,7 @@ estropear/REDÀÁÂÃÄñ
 estructurar/REDÀÄ
 esturar/RED
 eternizar/REDÁñT
-etiquetar/REDÀÄ
+etiquetar/REDÀÄÍ
 europeizar/IRD
 eutrofizar/RED
 evadir/REDÀÁÅñò
@@ -1847,7 +1847,7 @@ olivar/RED
 olvidar/REDÀÁÂÌñòôø
 omitir/REDÀ
 oponer/XÀÁÈñóT
-ordenar/REDÀÄñò
+ordenar/pREDÀÄñò
 orear/REDñ
 organizar/REDÀÂÄñòô
 orientar/REDÄñòôÌÍÎÙÛÜø
@@ -2268,7 +2268,7 @@ vender/REDÀÁÂÃÄÅÆÇÌÍÚñò
 vengar/REDÀÁÂÅñòT
 ventilar/REDÀÁñ
 verberar/RED
-verificar/REDÀÄ
+verificar/REDÀÄT
 ver/XÀÁÂÃÈÉÊËÔÕÖáâãñóöú
 vezar/RED
 viaticar/RED

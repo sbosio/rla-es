@@ -427,6 +427,7 @@ informal/S
 instrumentista/S
 integrista/S
 internacionalista/S
+internauta/S
 intérprete/S
 intocable/S
 israelí/S
@@ -542,6 +543,7 @@ naturópata/S
 negociante/S
 neuroanatomista/S
 nigromante/S
+ninja/S
 nobel/S
 normalista/S
 novelista/S

@@ -30,8 +30,6 @@ causalismo/S
 cibercafé/S
 clúster/S
 coherentismo/S
-datáfono/S
-dimensionamiento/S
 direccionamiento/S
 ecoparque/S
 espectrógrafo/S
@@ -39,17 +37,12 @@ exjugador/GS
 exoplaneta/S
 fenólico/S
 ferrimagnetismo
-flexómetro/S
 flujómetro/S
 fluxímetro/S
-franquiciado/S
 fundacionismo/S
 gaussímetro/S
 gravitomagnetismo
-hiperenlace/S
-hipervínculo/S
 iusnaturalismo
-máster/S
 meme/S
 metadato/S
 microcontrolador/S
@@ -70,7 +63,6 @@ precálculo/S
 preprocesamiento/S
 punzonado/S
 ratito/S
-ranurado/S
 rebarbado/S
 renting # extranjerismo no adaptado #139
 solucionario/S

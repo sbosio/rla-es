@@ -14,21 +14,15 @@
 # Debe haber recibido una copia de la Licencia Pública General de GNU junto
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
-actitudinal/S
-acultural/S
 afrodescendiente/S
 anatomoclínico/GS
-anatomopatológico/GS
 ansiogénico/GS
-antiautoritario/GS
 anticomercial/S
-antihorario/GS
 antimonopólico/GS
 asintótico/GS
 autoconsciente/S
 autocontenido/GS
 autocorrectivo/GS
-autodenominado/GS
 autodeterminado/GS
 autoimpuesto/GS
 autolubricante/S
@@ -37,7 +31,6 @@ avergonzante/S
 bariónico/GS
 belaruso/GS
 belorruso/GS
-bidireccional/S
 bisauguineano/GS
 booleano/GS
 botsuanés/S
@@ -46,19 +39,16 @@ capacitivo/GS
 cataclísmico/GS
 catamarcano/GS
 ceilandés/GS
-colaborativo/GS
 combinacional/S			# Contribuida por César Romé
 completísimo/GS
 concatenante/S
 conceptualizante/S
 concipiente/S
-contextualizado/GS
 cromodinámico/GS
 desarrollador/GS
 desestabilizante/S
 destellante/S
 desvaneciente/S
-diédrico/GS
 emiratí/S
 enceguecedor/GS
 encriptado/GS
@@ -68,10 +58,8 @@ etnolingüístico/GS
 fenólico/GS
 ferrimagnético/GS
 finísimo/GS
-franquiciado/GS
 gaussiano/GS
 geotérmico/GS
-globalizado/GS
 grandísimo/GS
 gravable/S
 gravitomagnético/GS
@@ -82,7 +70,6 @@ holofónico/GS
 homolítico/GS
 impráctico/GS
 incremental/S
-inefectivo/GS
 inentendible/S
 inferencial/S
 inspectorial/S
@@ -94,13 +81,10 @@ intuible/S
 irakí/S
 larguísimo/GS
 maremotriz/S
-mareomotriz/S
 melamínico/GS
 microinformático/GS
 mitocondrial/S
-monopólico/GS
 monotípico/S
-multidisciplinario/GS
 multiescala/S
 nanométrico/GS
 neoguineano/GS
@@ -108,32 +92,24 @@ oligopólico/GS
 omanés/GS
 omnidireccional/S
 orbitante/Sh
-organizacional/S
 ortotipográfico/GS
 papuano/GS
-participativo/GS
 patrocinante/S
 pequeñísimo/GS
 periodontal/S
 piroclástico/GS
-poblacional/S
 policéntrico/GS
 polandés/GS
 postraumático/GS
 posvacacional/S
-predictivo/GS
-prescriptor/GS
 propositivo/GS
-ranurado/GS
 reconducible/S
 representacional/S
 reproducible/S
 reumatoide/S
 santaluciano/GS
 semiconsciente/S
-semielaborado/GS
 senoidal/S
-sexualizado/GS
 sobreviniente/S
 srilanqués/GS
 sudsudanés/GS

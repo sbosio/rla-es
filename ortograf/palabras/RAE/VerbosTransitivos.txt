@@ -151,7 +151,7 @@ adentellar/RED
 adestrar/IRD
 adiar/IRD
 adicionar/REDÀÂÆ
-adjuntar/REDÂÆ
+adjuntar/REDÂÀÆ
 adminicular/RED
 admitir/REDÀÁÂÄÌÙT
 adoctrinar/REDÀÁÂ
@@ -3163,7 +3163,7 @@ redhibir/RED
 rediezmar/RED
 redilar/RED
 redilear/RED
-redistribuir/IRDÀ
+redistribuir/IRDÀT
 redituar/IRD
 redoblegar/RED
 redorar/RED
@@ -3438,6 +3438,7 @@ sesgar/REDÛ
 setenar/RED
 sexar/RED
 sextavar/RED
+sexualizar/RED
 sigilar/RED
 silenciar/REDÀÁÂ
 siluetar/RED

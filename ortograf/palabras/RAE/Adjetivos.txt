@@ -220,6 +220,7 @@ acristalado/GS
 acrobático/GS
 actancial/S
 actinomorfo/GS
+actitudinal/S
 activa/flkp
 activo/opGSflk
 actualizador/SG
@@ -234,6 +235,7 @@ acuciante/S
 acucioso/GS
 ácueo/SG
 acuífero/SG
+acultural/S
 acumulador/GS
 acumulativo/GS
 acuoso/GS
@@ -786,6 +788,7 @@ anarquizante/S
 anatematizador/GS
 anatolio/GS
 anatómico/GS
+anatomopatológico/GS
 ancado/GS
 ancestral/S
 ancha/j
@@ -887,6 +890,7 @@ antequerano/GS
 anterior/S
 antes/t
 anti
+antiautoritario/GS
 antibalas
 antibiótico/SG
 anticariense/S
@@ -908,6 +912,7 @@ antiguano/SG
 antiguo/SG
 antihistamínico/GS
 antihelmíntico/GS
+antihorario/GS
 antiinflamatorio/GS
 antillano/GS
 antimicrobiano/GS
@@ -1377,6 +1382,7 @@ austríaco/GS
 auténtico/GS
 autista/S
 autóctono/SG
+autodenominado/GS
 autodestructivo/GS
 autodidacto/GS
 autoestopista/S
@@ -1666,6 +1672,7 @@ bicorne/S
 bicultural/S
 bidente/S
 bidimensional/S
+bidireccional/S
 bielorruso/GS
 bienal/S
 bienandante/S
@@ -2738,6 +2745,7 @@ cojitranco/SG
 cojo/GS
 cojonudo/GS
 colaborador/GS
+colaborativo/GS
 coladizo/GS
 colágeno/SG
 colagogo/GS
@@ -3095,6 +3103,7 @@ contestable/kS
 contestador/GS
 contestatario/SG
 contextual/S
+contextualizado/GS
 contiguo/GS
 continental/S
 continente/Sk
@@ -3490,7 +3499,8 @@ dactilar/S
 dadivoso/GS
 dado/GS
 dador/nGS
-daltoniano/SG
+daltoniano/GS
+daltónico/GS
 damaceno/GS
 damasceno/GS
 damnificador/GS
@@ -3550,6 +3560,7 @@ dedicativo/GS
 dedicatorio/GS
 defecador/GS
 defectible/kS
+defectivo/GS
 defectuoso/GS
 defendedor/GS
 defendible/kS
@@ -3952,6 +3963,7 @@ dieciseisavo/GS
 dieciseiseno/GS
 diecisieteavo/GS
 diecisiete/S
+diédrico/GS
 dieléctrico/SG
 dientimellado/GS
 dientudo/GS
@@ -4315,8 +4327,7 @@ educando/GS
 educativo/GS
 edulcorante/S
 efectista/S
-efectiva/g
-efectivo/GSg
+efectivo/GSk
 efector/SG
 eferente/gSn
 efervescente/S
@@ -5600,6 +5611,7 @@ francisco/GS
 franco/GS
 francote/SG
 franqueable/kS
+franquiciado/GS
 franquista/S
 fraternal/S
 fraterno/GS
@@ -5815,6 +5827,7 @@ generacional/S
 generador/GpS
 generalizador/SG
 general/S
+generalista/S
 generativa/g
 generativo/GgS
 generatriz/S
@@ -5886,6 +5899,7 @@ glandular/S
 glanduloso/SG
 glauco/SG
 global/S
+globalizado/GS
 globoso/GS
 globular/S
 globuloso/SG
@@ -7860,6 +7874,7 @@ marcomano/GS
 mareador/GS
 mareado/SG
 mareante/S
+mareomotriz/S
 mareoso/GS
 marero/GS
 marfileño/GS
@@ -8329,6 +8344,7 @@ monista/S
 monitoria/n
 monitorio/nSG
 monjil/S
+mono/GS
 monocromático/GS
 monocromo/GS
 monocular/S
@@ -8338,13 +8354,13 @@ monofisita/S
 monógamo/GS
 monogenista/S
 monográfico/GS
-mono/GS
 monoico/GS
 monolítico/GS
 monomaniaco/GS
 monometalista/S
 monomiario/S
 monona/S
+monopólico/GS
 monopolizador/GS
 monorrimo/SG
 monosilábico/GS
@@ -8480,6 +8496,7 @@ multicaule/S
 multicolor/S
 multicopista/S
 multicultural/S
+multidisciplinario/GS
 multifloro/GS
 multiforme/S
 multilateral/S
@@ -8691,6 +8708,7 @@ nimio/SG
 ninfeáceo/GS
 ningún
 ninguno/GS
+ninja/S
 ninivita/S
 niñato/SG
 niñero/GS
@@ -9017,6 +9035,7 @@ organicista/S
 orgánico/kSG
 organizador/hGpS
 organizado/SG
+organizacional/S
 organizativo/GS
 orgásmico/GS
 orgiástico/GS
@@ -9275,6 +9294,7 @@ parta/aS
 partible/kpS
 particionero/GS
 participante/S
+participativo/GS
 partícipe/S
 particularista/S
 particular/S
@@ -9766,6 +9786,7 @@ plutoniano/SG
 plutónico/GS
 plutonista/S
 pluvioso/GS
+poblacional/S
 poblador/pGhS
 poblano/GS
 pobre/S
@@ -9941,6 +9962,7 @@ predecible/kS
 predicador/GS
 predicante/S
 predicativo/GS
+predictivo/GS
 preeminente/S
 preescolar/S
 preestablecido/SG
@@ -9985,6 +10007,7 @@ presbiteral/S
 presbiteriano/GS
 prescindible/Sk
 prescriptible/kS
+prescriptor/GS
 presentable/Spk
 presentador/pGS
 presente/SG
@@ -10392,6 +10415,7 @@ rampante/S
 ranchero/GS
 rancio/SG
 ranunculáceo/GS
+ranurado/GS
 rapador/SG
 rapante/S
 rapaz/SG
@@ -11246,6 +11270,7 @@ semiconsonante/S
 semicopado/SG
 semicursivo/GS
 semidormido/GS
+semielaborado/GS
 semiforme/S
 semiinconsciente/S
 seminal/S
@@ -11360,6 +11385,7 @@ sexto/SG
 sexuada/a
 sexuado/GSa
 sexual/eSa
+sexualizado/GS
 sexy
 sexys
 seychellense/S
@@ -11796,6 +11822,7 @@ tahúr/SG
 tailandés/GS
 taimado/GS
 taíno/GS
+taiwanés/GS
 tajado/GS
 tajador/aGS
 tajante/S

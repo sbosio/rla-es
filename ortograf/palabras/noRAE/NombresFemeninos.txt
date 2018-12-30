@@ -23,13 +23,10 @@ antimateria
 apendicectomía/S
 astrometría/S
 autocitación/S
-autocompasión/S
 autoconciencia/S
-autoconfianza/S
 autodisciplina/S
 autoimagen/S
 autolimitación/S
-autoprotección/S		# Contribuida por César Romé
 bibliometría
 callejuela/S
 comerciabilidad/S
@@ -43,14 +40,12 @@ criptomoneda/S
 cromita/S
 cromodinámica
 cuantización/S
-cumplimentación/S
 desconferencia/S
 determinabilidad/S
 discretización/S
 eritroblastosis
 ferroaleación/S
 fosforilación/S
-fundamentación/S
 granularidad/S
 heterolisis
 heterólisis
@@ -65,7 +60,6 @@ linealización/S
 ludificación
 magnificación/S
 mercantilización/S
-meritocracia/S
 microinformática/S
 modelación/S
 nanoindentación/S
@@ -96,5 +90,4 @@ temporalización/S
 titánide/S
 totalización/S
 usabilidad/S
-vinoteca/S
-vocalía/S
+
