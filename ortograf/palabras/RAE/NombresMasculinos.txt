@@ -29,15 +29,19 @@ abanderamiento/S
 abandonismo/S
 abandono/S
 abanico/HS
+abanillo/S
 abaniqueo/S
 abanto/S
 abaratamiento/S
 abarcamiento/S
+abarcón/S
 abarquillamiento/S
 abarrancadero/S
 abarrancamiento/S
+abarrotamiento/S
 abastecimiento/Sh
 abatanado/S
+abazón/S
 abc
 abdomen/S
 abecedario/S
@@ -48,17 +52,21 @@ abejaruco/S
 abejeo/S
 abejón/S
 abejorro/S
+abejarrón/S
 abelmosco/S
 abenuz/S
 abetal/S
 abete/S
 abeto/S
 abiar/S
+abibollo/S
 abigarramiento/S
 abintestato/S
+abipón
 abisinio/S
 abismal/S
 abismo/S
+abitón/S
 ablandamiento/S
 ablativo/S
 abobamiento/S
@@ -111,6 +119,7 @@ abstencionismo/S
 absurdo/S
 abucheo/S
 abulagar/S
+abulón/S
 abultamiento/S
 aburguesamiento/S
 aburrimiento/S
@@ -1526,6 +1535,7 @@ automatismo/S
 automedonte/S
 automovilismo/S
 auto/NOS
+autonomismo/S
 autoritarismo/S
 autorizamiento/S
 autosoma/S
@@ -5392,6 +5402,7 @@ esmerejón/S
 esmeril/HS
 esmero/S
 esmirnio/S
+esmog/S
 esmoquin
 esmóquines
 esófago/S
@@ -5693,8 +5704,9 @@ eucalipto/S
 eucarionte/S
 eufemismo/S
 eunuco/S
-euríbor
+euríbor/S
 euro/S
+euroescepticismo/S
 euskera
 eutiquianismo/S
 evacuatorio/S
@@ -7218,6 +7230,7 @@ jimio/S
 jinete/S
 jinjolero/S
 jínjol/S
+jipismo/S
 jiquilete/S
 jirón/S
 jobo/S
@@ -8328,6 +8341,7 @@ mililitro/S
 milímetro/S
 militarismo/cS
 millar/S
+millardo/S
 millón/S
 millo/S
 milord
@@ -8679,6 +8693,7 @@ muleto/Sa
 mullidor/S
 mullido/S
 mulo/S
+multiculturalismo/S
 multímetro/S
 mundial/S
 mundinovi/S
@@ -9145,6 +9160,7 @@ oropel/S
 oropimente/S
 oro/SN
 orozuz/S
+órsay
 ortigal/S
 ortóptero/S
 orto/S
@@ -9386,6 +9402,7 @@ paracronismo/S
 paradero/S
 paradigma/S
 paradislero/S
+paradón/S
 parador/S
 paragón/S
 parágrafo/S
@@ -12072,6 +12089,7 @@ sumiller/S
 suministro/S
 sumo/fSk
 sumulista/S
+sunami/S
 superávit
 superiorato/S
 superior/S
@@ -12313,6 +12331,7 @@ telamón/S
 telar/S
 telediario/S
 teleférico/S
+telefilme/S
 telefonazo/S
 telefonema/S
 teléfono/S
