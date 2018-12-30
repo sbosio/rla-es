@@ -40,6 +40,7 @@ granillero/GS
 guay/S
 hebrudo/GS
 hostigoso/GS
+isidril/S
 jabalinero/SG
 jaudo/GS
 jauto/SG
@@ -73,6 +74,7 @@ salsero/GS
 simado/GS
 sobreprimado/GS
 sobresabido/GS
+sociata/S
 soro/GS
 taranta/S
 tempanilla/S

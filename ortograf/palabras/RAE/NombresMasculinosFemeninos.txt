@@ -15,11 +15,15 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 abacero/GS
+abajeño/GS
 abanderado/GS
 abaniquero/GS
+abanquino/GS
 abastecedor/GS
+abderitano/GS
 abejero/GS
 abierto/GS
+abipón/GS
 abogado/GS
 abonado/GS
 abonador/GS

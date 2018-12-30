@@ -15,10 +15,13 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 abadí/S
+abasí/S
 abencerraje/S
 abertzale/S
+aberzale/S
 ablandabrevas
 abortista/S
+abudabí/S
 academicista/S
 accionista/S
 acordeonista/S

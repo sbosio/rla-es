@@ -21,5 +21,6 @@ fisio/S
 jijas
 mileurista/S
 peñazo/S
+sociata/S
 taranta/S
 trillique/S
