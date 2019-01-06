@@ -1,3 +1,12 @@
+Versión 2.4 (pendiente de publicar):
+
+- Trasladados diversos lemas de noRAE a RAE, ya que actualmente están reconocidos
+  por la RAE.
+- Ajustado el ámbito de uso del lema "vídeo" a es_ES como RAE y a todas las localizaciones como noRAE.
+- Corregida la codificación del fichero de patrones de separación silábica.
+- Añadidos varios centenares de lemas con carácter global (para todas las localizaciones), entre los que figuran agroturismo, anisakis, antipersona, audioguía, birra, blaugrana, bótox, burka, cameo, ciclogénesis, euríbor, pilates, azulgrana, tetrabrick, externalizar, intencionalidad, lasaña, misceláneo, sincronización, corresponsable, migrante, interconexión, bisectriz, equilátero, aleatoriamente, interpolación, subíndice, abalconado, millardo, sunami, telefilme, tanqueta, aberzale, abuhardillado, combi, monoparental, apocalipsis, completeriamente, daltónico, distribuible, ergonomía, florín, generalista, legaña, mediateca, taiwanés o verificable, entre otros.
+- Añadidas varias decenas de lemas a diferentes localizaciones específicas, entre las que figuran amigovio, apunamiento, lonchera, mileurista, bicicleteada, bicicletería, enrulado, chop, chupi, bíper, basurita, citadino, identikit, aglomeramiento, cajonear, comelón o isidril, entre otros.
+
 Versión 2.3:
 - Añadida lista de topónimos de Perú.
 - Añadida lista de topónimos de Colombia.

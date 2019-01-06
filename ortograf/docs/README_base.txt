@@ -7,7 +7,7 @@
   **  VERSIÓN __LOCALE_TEXT__                      **
   ****************************************************************************
 
-                                  Versión 2.3
+                                  Versión 2.4
 
 SUMARIO
 
@@ -185,5 +185,6 @@ creación de este diccionario. Se agradece especialmente a:
    - Ezequiel (ezeperez26).
    - KNTRO.
    - Ricardo Berlasso.
+   - Edward Villegas-Pulgarin (cosmocalibur)
    - y a todos los integrantes de la comunidad en español que proponen mejoras
      a este diccionario.
