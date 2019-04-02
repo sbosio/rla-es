@@ -2820,6 +2820,7 @@ combativo/SG
 combinable/kS
 combinatorio/GS
 combi/S
+comburente/S
 combustible/kS
 combusto/GS
 comedero/GS
