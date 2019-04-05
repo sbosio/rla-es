@@ -1270,6 +1270,7 @@ binadura/S
 binza/S
 biodegradación/S
 biodiversidad/S
+bioenergía/S
 bioestadística/S
 biografía/dS
 biología/S
