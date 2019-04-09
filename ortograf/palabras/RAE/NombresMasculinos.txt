@@ -3245,6 +3245,7 @@ cianato/S
 cianí/S
 cianuro/S
 ciberespacio/S
+cíborg/S
 cicatero/S
 cicerón/S
 cícero/S
