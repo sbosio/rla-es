@@ -8637,6 +8637,7 @@ prosa/S
 proscripción/S
 prosecución/S
 prosodia/S
+prosopografía/S
 prosopopeya/S
 prospección/S
 prospectiva/S
