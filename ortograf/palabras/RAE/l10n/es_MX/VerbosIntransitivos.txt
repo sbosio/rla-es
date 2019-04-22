@@ -15,7 +15,6 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 alburear/RED
-alivianar/RED
 antipatizar/RED
 arrechar/RED
 azotar/RED
