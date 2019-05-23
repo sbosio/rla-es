@@ -6936,6 +6936,7 @@ humo/HS
 humoralismo/S
 humorismo/S
 humor/OS
+hummus
 humus
 hundimiento/S
 húngaro/S
