@@ -9966,6 +9966,7 @@ pirulo/S
 pisapapeles
 pisasfalto/S
 pisaverde/S
+piscinazo/S
 piscolabis
 pisco/S
 piso/Sj
