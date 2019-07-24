@@ -162,6 +162,7 @@ paste/S
 patrullero/S
 perú/S
 piloncillo/S
+pininos
 pinolillo
 pizarrón/S
 platón/S
