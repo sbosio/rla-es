@@ -6885,6 +6885,7 @@ instrumental/S
 insubordinación/S
 insular/Sl
 insulso/GS
+insultador/GS
 insultante/S
 insumable/S
 insurgente/S
