@@ -3476,6 +3476,7 @@ cultual/S
 cultural/S
 cultureta/S
 cumanagoto/GS
+cumpleañero/GS
 cumplida/k
 cumplidero/SG
 cumplido/GkS
