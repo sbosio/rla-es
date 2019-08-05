@@ -4846,6 +4846,7 @@ emético/S
 emidosaurio/S
 emir/S
 emolumento/S
+emoticono/S
 empacho/S
 empadronamiento/S
 empalagamiento/S
