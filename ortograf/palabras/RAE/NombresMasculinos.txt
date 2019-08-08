@@ -12218,6 +12218,7 @@ talio/S
 talismán/S
 tallado/S
 tallaje/S
+tallarín/S
 talle/gS
 taller/S
 tallo/S
