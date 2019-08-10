@@ -2934,6 +2934,7 @@ caudillo/SC
 caulículo/S
 cauro/S
 cauterio/S
+cautín/S
 cautiverio/S
 cavador/S
 cava/S
@@ -4846,6 +4847,7 @@ emético/S
 emidosaurio/S
 emir/S
 emolumento/S
+emoticono/S
 empacho/S
 empadronamiento/S
 empalagamiento/S
@@ -12216,6 +12218,7 @@ talio/S
 talismán/S
 tallado/S
 tallaje/S
+tallarín/S
 talle/gS
 taller/S
 tallo/S

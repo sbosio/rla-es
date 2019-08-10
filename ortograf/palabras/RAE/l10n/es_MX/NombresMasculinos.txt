@@ -69,6 +69,7 @@ chile/S
 chipote/S
 chipotle/S
 chucho/S
+chuletón/S
 chupaflor/S
 clavado/S
 clóset/S
@@ -162,6 +163,7 @@ paste/S
 patrullero/S
 perú/S
 piloncillo/S
+pininos
 pinolillo
 pizarrón/S
 platón/S

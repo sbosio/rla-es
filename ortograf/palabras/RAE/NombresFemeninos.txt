@@ -233,6 +233,7 @@ agresividad/S
 agricultura/S
 agrifada/S
 agrimensura/S
+agrura/S
 aguachirle/S
 aguada/S
 aguadija/S
@@ -6125,6 +6126,7 @@ liga/NS
 ligazón/S
 ligereza/S
 lija/S
+lijadora/S
 lilac/S
 lilaila/S
 lila/S
