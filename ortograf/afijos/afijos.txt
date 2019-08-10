@@ -347,13 +347,14 @@ SFX M o         uez/S        go
 
 # Sufijo -illo (-illa): Asociado generalmente a la forma apreciativa
 # diminutiva. Relaciona sustantivos y adjetivos con sustantivos.
-SFX N Y 18
+SFX N Y 19
 SFX N a         illa/S       [bdfhjlmnprstv]a
 SFX N o         illo/S       [bdhjlmnprstv]o
 SFX N 0         cilla/S      ve
 SFX N za        cilla/S      za
 SFX N 0         ecilla/S     d
-SFX N ón        oncillo/S    ón
+SFX N ión       ioncilla/S   [cglnstx]ión
+SFX N ón        oncillo/S    [^i]ón
 SFX N 0         cillo/S      or
 SFX N zo        cillo/S      zo
 SFX N 0         cillo/S      [djlnu]e
