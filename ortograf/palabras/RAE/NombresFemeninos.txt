@@ -1698,7 +1698,7 @@ cancha/S
 canchera/S
 cancillería/S
 cancioneta/S
-canción/S
+canción/NS
 candaliza/S
 candela/NS
 candelaria/S
@@ -7842,8 +7842,7 @@ pasibilidad/Sk
 pasiflorácea/S
 pasiflora/S
 pasionaria/S
-pasioncilla/S
-pasión/S
+pasión/NS
 pasiva/S
 pasividad/S
 pasmarotada/S
