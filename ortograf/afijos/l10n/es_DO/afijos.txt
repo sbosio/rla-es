@@ -4461,6 +4461,10 @@ SFX Ô edir      ídela    edir
 SFX Ô edir      ídelas   edir
 SFX Ô edir      ídelo    edir
 SFX Ô edir      ídelos   edir
+SFX Ô egir      ígela    egir
+SFX Ô egir      ígelas   egir
+SFX Ô egir      ígelo    egir
+SFX Ô egir      ígelos   egir
 SFX Ô eguir     íguela   eguir
 SFX Ô eguir     íguelas  eguir
 SFX Ô eguir     íguelo   eguir
