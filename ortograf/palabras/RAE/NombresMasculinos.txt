@@ -12721,6 +12721,7 @@ tragante/S
 tragavino/S
 tragavirotes
 trago/cS
+tráiler/S
 traite/S
 traje/S
 trajinero/S
