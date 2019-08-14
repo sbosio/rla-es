@@ -958,6 +958,7 @@ autocracia/S
 autocrítica/S
 autodefensa/S
 autodefinición/S
+autoevaluación/S
 automática/S
 automatización/S
 autonomía/S
