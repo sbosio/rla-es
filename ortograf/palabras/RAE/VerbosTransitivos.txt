@@ -2530,6 +2530,7 @@ jaspear/RED
 jerarquizar/REDÀÄ
 jirpear/RED
 jonjabar/RED
+judicializar/RED
 juncir/RED
 justiciar/RED
 justipreciar/RED
