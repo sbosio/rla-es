@@ -1969,7 +1969,7 @@ besamanos
 besante/S
 beses
 bes/g
-beso/S
+beso/SU
 bestiaje/S
 bestialismo/S
 bestiario/S
@@ -4418,6 +4418,7 @@ desviacionismo/S
 desviamiento/S
 desvío/S
 desvolvedor/S
+detalle/SU
 detallismo/S
 detector/S
 detenimiento/S
@@ -10364,6 +10365,7 @@ primordio/S
 primor/S
 principado/S
 principal/S
+príncipe/SU
 principio/S
 principote/S
 pringote/S
