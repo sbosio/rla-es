@@ -4596,8 +4596,9 @@ enfadoso/GS
 enfaenado/SG
 enfardador/GS
 enfático/GS
+enferma/NSU # Se agregan por separado los lemas en femenino y masculino para poder aplicar las banderas de diminutivo + plural
 enfermizo/SG
-enfermo/GS
+enfermo/NSU # Se agregan por separado los lemas en femenino y masculino para poder aplicar las banderas de diminutivo + plural
 enfermucho/GS
 enfervorizador/GS
 enfiteuticario/GS
@@ -5311,6 +5312,7 @@ faldicorto/SG
 faldinegro/GS
 faldudo/GS
 falible/Sk
+fálico/GS
 fallecido/GS
 fallero/GS
 fallido/GS

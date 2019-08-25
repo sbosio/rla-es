@@ -1472,7 +1472,6 @@ prestigiador/GS
 presunto/GS
 primero/GS
 primo/GS
-príncipe/S
 prisionero/GS
 privado/GS
 productor/pGS

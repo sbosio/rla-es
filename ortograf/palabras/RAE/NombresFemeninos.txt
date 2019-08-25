@@ -4934,6 +4934,7 @@ golondrinera/S
 golosina/S
 golpeadura/S
 goma/S
+gomaespuma
 gomera/S
 gomina/S
 gomorresina/S
@@ -8556,7 +8557,7 @@ primitiva/S
 primogenitura/S
 primulácea/S
 prímula/S
-princesa/S
+princesa/SU
 principalía/S
 principalidad/S
 principela/S
