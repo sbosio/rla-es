@@ -6400,6 +6400,7 @@ grado/aS
 graduador/S
 gradual/S
 grafeno/S
+grafiti/S
 grafito/S
 grafo/S
 grais			# Plural de gray
