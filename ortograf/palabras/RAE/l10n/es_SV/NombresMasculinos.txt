@@ -95,6 +95,7 @@ papelerí­o/S
 paste/S
 patrullero/S
 pegue/S
+pininos
 pizarrón/S
 platón/S
 pochote/S

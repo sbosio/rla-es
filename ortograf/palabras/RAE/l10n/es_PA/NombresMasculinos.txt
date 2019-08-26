@@ -90,6 +90,7 @@ overol/S
 padrote/S
 papelerí­o/S
 paste/S
+pininos
 pizarrón/S
 platón/S
 polvillo/S

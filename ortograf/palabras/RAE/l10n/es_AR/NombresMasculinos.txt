@@ -135,6 +135,7 @@ overol/S
 papelerío/S
 parlante/S
 patrullero/S
+pininos
 pitanguero/S
 pizarrón/S
 platón/S
