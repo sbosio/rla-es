@@ -164,7 +164,7 @@ patrullero/S
 perú/S
 piloncillo/S
 pininos
-pinolillo
+pinolillo/S
 pizarrón/S
 platón/S
 pochote/S
