@@ -4645,7 +4645,7 @@ SFX Ó ostrar    uéstraselos  ostrar
 # Verbos totalmente irregulares en imperativo (2ª persona), con clíticos de
 # objeto directo en 3ª persona, singular y plural; en posición enclítica.
 #
-SFX Ô Y 56
+SFX Ô Y 60
 SFX Ô aer       áela     aer
 SFX Ô aer       áelas    aer
 SFX Ô aer       áelo     aer
