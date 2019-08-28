@@ -305,255 +305,151 @@ PFX w 0         ex	     .
 #
 # Sufijo -ción (-ación, -ición): Indica 'acción y efecto', además denota
 # 'objeto', 'lugar' o 'conjunto'. Relaciona verbos con sustantivos femeninos.
-SFX A Y 28
-SFX A r         ciones       ar
-SFX A er        iciones      [^cn]er
-SFX A er        iciones      [^e]cer
-SFX A ecer      iciones      ecer
-SFX A er        iciones      [^o]ner
-SFX A ner       siciones     oner
-SFX A r         ciones       [^bc]ir      # consumir -> consumición
-SFX A bir       pciones      ebir         # concebir -> concepción
-SFX A bir       pciones      [^ch]ibir    # inscribir -> inscripción
-SFX A ibir      epciones     cibir        # recibir -> recepción
-SFX A r         ciones       hibir        # prohibir -> prohibición
-SFX A ecir      iciones      [^ae]decir   # bendecir -> bendición
-SFX A ecir      icciones     [ae]decir    # contradecir -> contradicción (excepción: redecir -> redición)
-SFX A ir        ciones       ucir
-SFX A r         ción       ar
-SFX A er        ición      [^cn]er
-SFX A er        ición      [^e]cer
-SFX A ecer      ición      ecer
-SFX A er        ición      [^o]ner
-SFX A ner       sición     oner
-SFX A r         ción       [^bc]ir      # consumir -> consumición
-SFX A bir       pción      ebir         # concebir -> concepción
-SFX A bir       pción      [^ch]ibir    # inscribir -> inscripción
-SFX A ibir      epción     cibir        # recibir -> recepción
-SFX A r         ción       hibir        # prohibir -> prohibición
-SFX A ecir      ición      [^ae]decir   # bendecir -> bendición
-SFX A ecir      icción     [ae]decir    # contradecir -> contradicción (excepción: redecir -> redición)
-SFX A ir        ción       ucir
+SFX A Y 14
+SFX A r         ción/S       ar
+SFX A er        ición/S      [^cn]er
+SFX A er        ición/S      [^e]cer
+SFX A ecer      ición/S      ecer
+SFX A er        ición/S      [^o]ner
+SFX A ner       sición/S     oner
+SFX A r         ción/S       [^bc]ir      # consumir -> consumición
+SFX A bir       pción/S      ebir         # concebir -> concepción
+SFX A bir       pción/S      [^ch]ibir    # inscribir -> inscripción
+SFX A ibir      epción/S     cibir        # recibir -> recepción
+SFX A r         ción/S       hibir        # prohibir -> prohibición
+SFX A ecir      ición/S      [^ae]decir   # bendecir -> bendición
+SFX A ecir      icción/S     [ae]decir    # contradecir -> contradicción (excepción: redecir -> redición)
+SFX A ir        ción/S       ucir
 
 # Sufijo -dura (-adura, -edura, -idura): Expresa 'acción y efecto', a veces
 # 'instrumento', 'medio', 'lugar' o 'conjunto'. Relaciona verbos con
 # sustantivos femeninos.
-SFX B Y 6
-SFX B r         dura       [aií]r
-SFX B r         dura       [^s]er
-SFX B er        idura      ser
-SFX B r         duras       [aií]r
-SFX B r         duras       [^s]er
-SFX B er        iduras      ser
+SFX B Y 3
+SFX B r         dura/S       [aií]r
+SFX B r         dura/S       [^s]er
+SFX B er        idura/S      ser
 
 # Sufijo -aje: En los sustantivos deverbales expresa 'acción y efecto',
 # 'lugar' o 'derechos que se pagan'. Relaciona verbos de la 1ª conjugación o
 # sustantivos con sustantivos masculinos.
-SFX C Y 14
-SFX C r         je         ar        # Verbo
-SFX C 0         je         a         # Sustantivo
-SFX C 0         aje        [^aei]r
-SFX C 0         aje        l
-SFX C e         aje        e
-SFX C ón        onaje      ón
-SFX C o         aje        o
-SFX C r         jes         ar        # Verbo
-SFX C 0         jes         a         # Sustantivo
-SFX C 0         ajes        [^aei]r
-SFX C 0         ajes        l
-SFX C e         ajes        e
-SFX C ón        onajes      ón
-SFX C o         ajes        o
+SFX C Y 7
+SFX C r         je/S         ar        # Verbo
+SFX C 0         je/S         a         # Sustantivo
+SFX C 0         aje/S        [^aei]r
+SFX C 0         aje/S        l
+SFX C e         aje/S        e
+SFX C ón        onaje/S      ón
+SFX C o         aje/S        o
 
 # Sufijo -ncia (-ancia, -encia): Significa 'acción y efecto', 'cualidad' o
 # 'cargo o dignidad'. Relaciona adjetivos con sustantivos femeninos.
-SFX F Y 6
-SFX F te        cias        ante
-SFX F te        cias        [^i]ente
-SFX F iente     encias      iente
-SFX F te        cia        ante
-SFX F te        cia        [^i]ente
-SFX F iente     encia      iente
+SFX F Y 3
+SFX F te        cia/S        ante
+SFX F te        cia/S        [^i]ente
+SFX F iente     encia/S      iente
 
 # Sufijo -azo: Tiene sentido aumentativo, expresa sentido despectivo y a veces
 # significa 'golpe'. Relaciona sustantivos y adjetivos con sustantivos
 # masculinos.
-SFX H Y 14
-SFX H 0         zos         a
-SFX H e         azos        [^u]e
-SFX H que       cazos       que
-SFX H o         azos        o
-SFX H 0         azos        [lr]
-SFX H ín        inazos      ín
-SFX H ón        onazos      ón
-SFX H 0         zo         a
-SFX H e         azo        [^u]e
-SFX H que       cazo       que
-SFX H o         azo        o
-SFX H 0         azo        [lr]
-SFX H ín        inazo      ín
-SFX H ón        onazo      ón
+SFX H Y 7
+SFX H 0         zo/S         a
+SFX H e         azo/S        [^u]e
+SFX H que       cazo/S       que
+SFX H o         azo/S        o
+SFX H 0         azo/S        [lr]
+SFX H ín        inazo/S      ín
+SFX H ón        onazo/S      ón
 
 # Sufijo -bilidad: Indica 'calidad o cualidad' de lo expresado en la palabra
 # original. Relaciona adjetivos terminados en -ble con sustantivos femeninos.
-SFX J Y 2
-SFX J le        ilidad     ble
-SFX J le        ilidades     ble
+SFX J Y 1
+SFX J le        ilidad/S     ble
 
 # Sufijo -dad (-edad, -idad): Indica 'calidad o cualidad'. Relaciona adjetivos
 # con sustantivos femeninos.
-SFX K Y 26
-SFX K o         idades       [bdmnruvx]o
-SFX K zo        cedades      [^ei]zo
-SFX K z         cidades      z
-SFX K zo        cidades      [ei]zo
-SFX K e         icidades     le
-SFX K o         edades       [fhij]o
-SFX K ío        iedades      ío
-SFX K 0         idades       [lr]
-SFX K e         idades       [mnru]e
-SFX K 0         dades        [pv]e
-SFX K o         edades       lso
-SFX K o         idades       [^l]so
-SFX K co        quedades     co
-SFX K o         idad       [bdmnruvx]o
-SFX K zo        cedad      [^ei]zo
-SFX K z         cidad      z
-SFX K zo        cidad      [ei]zo
-SFX K e         icidad     le
-SFX K o         edad       [fhij]o
-SFX K ío        iedad      ío
-SFX K 0         idad       [lr]
-SFX K e         idad       [mnru]e
-SFX K 0         dad        [pv]e
-SFX K o         edad       lso
-SFX K o         idad       [^l]so
-SFX K co        quedad     co
+SFX K Y 13
+SFX K o         idad/S       [bdmnruvx]o
+SFX K zo        cedad/S      [^ei]zo
+SFX K z         cidad/S      z
+SFX K zo        cidad/S      [ei]zo
+SFX K e         icidad/S     le
+SFX K o         edad/S       [fhij]o
+SFX K ío        iedad/S      ío
+SFX K 0         idad/S       [lr]
+SFX K e         idad/S       [mnru]e
+SFX K 0         dad/S        [pv]e
+SFX K o         edad/S       lso
+SFX K o         idad/S       [^l]so
+SFX K co        quedad/S     co
 
 # Sufijo -ería: Indica 'abundancia', 'cualidad', 'conjunto o colectividad',
 # 'acción o dicho', 'oficio', y sobre todo 'lugar donde se ejerce o donde se
 # está'.
-SFX L Y 34
-SFX L o         ía         ero
-SFX L o         ería       [bdhjlnñpst]o
-SFX L o         ería       [^e]ro
-SFX L za        cería      za
-SFX L zo        cería      zo
-SFX L z         cería      z
-SFX L a         ía         era
-SFX L a         ería       [djlpsty]a
-SFX L a         ería       [^e]ra
-SFX L ío        ería       ío
-SFX L 0         ía         er
-SFX L 0         ría        [jr]e
-SFX L 0         ería       l
-SFX L án        anería     án
-SFX L ón        onería     ón
-SFX L co        quería     co
-SFX L a         uería      ga
-SFX L o         ías         ero
-SFX L o         erías       [bdhjlnñpst]o
-SFX L o         erías       [^e]ro
-SFX L za        cerías      za
-SFX L zo        cerías      zo
-SFX L z         cerías      z
-SFX L a         ías         era
-SFX L a         erías       [djlpsty]a
-SFX L a         erías       [^e]ra
-SFX L ío        erías       ío
-SFX L 0         ías         er
-SFX L 0         rías        [jr]e
-SFX L 0         erías       l
-SFX L án        anerías     án
-SFX L ón        onerías     ón
-SFX L co        querías     co
-SFX L a         uerías      ga
+SFX L Y 17
+SFX L o         ía/S         ero
+SFX L o         ería/S       [bdhjlnñpst]o
+SFX L o         ería/S       [^e]ro
+SFX L za        cería/S      za
+SFX L zo        cería/S      zo
+SFX L z         cería/S      z
+SFX L a         ía/S         era
+SFX L a         ería/S       [djlpsty]a
+SFX L a         ería/S       [^e]ra
+SFX L ío        ería/S       ío
+SFX L 0         ía/S         er
+SFX L 0         ría/S        [jr]e
+SFX L 0         ería/S       l
+SFX L án        anería/S     án
+SFX L ón        onería/S     ón
+SFX L co        quería/S     co
+SFX L a         uería/S      ga
 
 # Sufijo -ez (-eza): Indica 'cualidad'. Relaciona sustantivos con sustantivos
 # femeninos.
-SFX M Y 40
-SFX M zo        cez        zo
-SFX M 0         za         [cdlmpr]e
-SFX M o         ez         [anou]do
-SFX M io        ez         dio
-SFX M a         ez         a
-SFX M o         ez         [hsvy]o
-SFX M o         ez         rio
-SFX M o         eza        [bp]io
-SFX M 0         z          [jt]e
-SFX M o         ez         ojo
-SFX M o         eza        [ai]jo
-SFX M 0         eza        l
-SFX M o         eza        [npr]o
-SFX M o         ez         año
-SFX M o         eza        [eio]ño
-SFX M o         ez         [ai]to
-SFX M o         eza        nto
-SFX M o         eza        [aie]sto
-SFX M o         ez         usto
-SFX M o         uez        go
-SFX M zo        ceces        zo
-SFX M 0         zas         [cdlmpr]e
-SFX M o         eces         [anou]do
-SFX M io        eces         dio
-SFX M a         eces         a
-SFX M o         eces         [hsvy]o
-SFX M o         eces         rio
-SFX M o         ezas        [bp]io
-SFX M 0         ces          [jt]e
-SFX M o         eces         ojo
-SFX M o         ezas        [ai]jo
-SFX M 0         ezas        l
-SFX M o         ezas        [npr]o
-SFX M o         eces         año
-SFX M o         ezas        [eio]ño
-SFX M o         eces         [ai]to
-SFX M o         ezas        nto
-SFX M o         ezas        [aie]sto
-SFX M o         eces         usto
-SFX M o         ueces        go
+SFX M Y 20
+SFX M zo        cez/S        zo
+SFX M 0         za/S         [cdlmpr]e
+SFX M o         ez/S         [anou]do
+SFX M io        ez/S         dio
+SFX M a         ez/S         a
+SFX M o         ez/S         [hsvy]o
+SFX M o         ez/S         rio
+SFX M o         eza/S        [bp]io
+SFX M 0         z/S          [jt]e
+SFX M o         ez/S         ojo
+SFX M o         eza/S        [ai]jo
+SFX M 0         eza/S        l
+SFX M o         eza/S        [npr]o
+SFX M o         ez/S         año
+SFX M o         eza/S        [eio]ño
+SFX M o         ez/S         [ai]to
+SFX M o         eza/S        nto
+SFX M o         eza/S        [aie]sto
+SFX M o         ez/S         usto
+SFX M o         uez/S        go
 
 # Sufijo -illo (-illa): Asociado generalmente a la forma apreciativa
 # diminutiva. Relaciona sustantivos y adjetivos con sustantivos.
-SFX N Y 38
-SFX N a         illa       [bdfhjlmnprstv]a
-SFX N o         illo       [bdhjlmnprstv]o
-SFX N 0         cilla      ve
-SFX N za        cilla      za
-SFX N 0         ecilla     d
-SFX N ión       ioncilla   [cglnstx]ión
-SFX N ón        oncillo    [^i]ón
-SFX N 0         cillo      or
-SFX N zo        cillo      zo
-SFX N 0         cillo      [djlnu]e
-SFX N z         cecillo    z
-SFX N 0         ecillo     ur
-SFX N e         illo       [cpt]e
-SFX N 0         illo       [ls]
-SFX N 0         illo       [^ou]r
-SFX N co        quillo     co
-SFX N go        guillo     go
-SFX N ca        quilla     ca
-SFX N ga        guilla     ga
-SFX N a         illas       [bdfhjlmnprstv]a
-SFX N o         illos       [bdhjlmnprstv]o
-SFX N 0         cillas      ve
-SFX N za        cillas      za
-SFX N 0         ecillas     d
-SFX N ión       ioncillas   [cglnstx]ión
-SFX N ón        oncillos    [^i]ón
-SFX N 0         cillos      or
-SFX N zo        cillos      zo
-SFX N 0         cillos      [djlnu]e
-SFX N z         cecillos    z
-SFX N 0         ecillos     ur
-SFX N e         illos       [cpt]e
-SFX N 0         illos       [ls]
-SFX N 0         illos       [^ou]r
-SFX N co        quillos     co
-SFX N go        guillos     go
-SFX N ca        quillas     ca
-SFX N ga        guillas     ga
+SFX N Y 19
+SFX N a         illa/S       [bdfhjlmnprstv]a
+SFX N o         illo/S       [bdhjlmnprstv]o
+SFX N 0         cilla/S      ve
+SFX N za        cilla/S      za
+SFX N 0         ecilla/S     d
+SFX N ión       ioncilla/S   [cglnstx]ión
+SFX N ón        oncillo/S    [^i]ón
+SFX N 0         cillo/S      or
+SFX N zo        cillo/S      zo
+SFX N 0         cillo/S      [djlnu]e
+SFX N z         cecillo/S    z
+SFX N 0         ecillo/S     ur
+SFX N e         illo/S       [cpt]e
+SFX N 0         illo/S       [ls]
+SFX N 0         illo/S       [^ou]r
+SFX N co        quillo/S     co
+SFX N go        guillo/S     go
+SFX N ca        quilla/S     ca
+SFX N ga        guilla/S     ga
 
 # Sufijo -ismo: Indica 'doctrina, sistema, escuela o movimiento', 'propio de
 # o inclinado a', 'cualidad', 'deporte' y 'término científico o defecto'.
@@ -581,112 +477,66 @@ SFX O o          uismo    go
 # Sufijo -miento (-amiento, -imiento): En los sustantivos deverbales expresa
 # 'acción y efecto', y a veces designa 'algo concreto'. Relaciona verbos con
 # sustantivos masculinos.
-SFX P Y 4
-SFX P r         miento     [ai]r
-SFX P er        imiento    er
-SFX P r         mientos     [ai]r
-SFX P er        imientos    er
+SFX P Y 2
+SFX P r         miento/S     [ai]r
+SFX P er        imiento/S    er
 
 # Sufijo -ión: Tiene el significado de 'acción y efecto'. Relaciona verbos
 # con sustantivos femeninos.
-SFX Q Y 40
-SFX Q ar        ión        [lnsx]ar
-SFX Q r         ión        [np]ir
-SFX Q ar        ón         iar
-SFX Q der       sión       der
-SFX Q tir       sión       tir
-SFX Q dir       sión       dir
-SFX Q jar       sión       rjar
-SFX Q dar       sión       dar
-SFX Q onar      ón         onar
-SFX Q decer     sión       decer
-SFX Q ir        sión       uir
-SFX Q ndir      sión       ndir
-SFX Q er        sión       [eo]er
-SFX Q tar       sión       otar
-SFX Q gir       sión       gir
-SFX Q cer       sión       rcer
-SFX Q rir       stión      rir
-SFX Q ctar      xión       ctar
-SFX Q car       xión       car
-SFX Q jar       xión       ejar
-SFX Q ar        iones        [lnsx]ar
-SFX Q r         iones        [np]ir
-SFX Q ar        ones         iar
-SFX Q der       siones       der
-SFX Q tir       siones       tir
-SFX Q dir       siones       dir
-SFX Q jar       siones       rjar
-SFX Q dar       siones       dar
-SFX Q onar      ones         onar
-SFX Q decer     siones       decer
-SFX Q ir        siones       uir
-SFX Q ndir      siones       ndir
-SFX Q er        siones       [eo]er
-SFX Q tar       siones       otar
-SFX Q gir       siones       gir
-SFX Q cer       siones       rcer
-SFX Q rir       stiones      rir
-SFX Q ctar      xiones       ctar
-SFX Q car       xiones       car
-SFX Q jar       xiones       ejar
+SFX Q Y 20
+SFX Q ar        ión/S        [lnsx]ar
+SFX Q r         ión/S        [np]ir
+SFX Q ar        ón/S         iar
+SFX Q der       sión/S       der
+SFX Q tir       sión/S       tir
+SFX Q dir       sión/S       dir
+SFX Q jar       sión/S       rjar
+SFX Q dar       sión/S       dar
+SFX Q onar      ón/S         onar
+SFX Q decer     sión/S       decer
+SFX Q ir        sión/S       uir
+SFX Q ndir      sión/S       ndir
+SFX Q er        sión/S       [eo]er
+SFX Q tar       sión/S       otar
+SFX Q gir       sión/S       gir
+SFX Q cer       sión/S       rcer
+SFX Q rir       stión/S      rir
+SFX Q ctar      xión/S       ctar
+SFX Q car       xión/S       car
+SFX Q jar       xión/S       ejar
 
 # Sufijo -ble: Indica posibilidad pasiva, es decir, capacidad o aptitud para
 # recibir la acción del verbo. Si el verbo es de la primera conjugación, el
 # sufijo toma la forma -able. Prorrogable. Si es de la segunda o tercera, toma
 # la forma -ible. Reconocible, distinguible.
-SFX T Y 8
-SFX T r         ble         ar
-SFX T er        ible        [^aeo]er
-SFX T er        íble        [aeo]er	# Alt. ortográfica
-SFX T r         ble         ir
-SFX T r         bles         ar
-SFX T er        ibles        [^aeo]er
-SFX T er        íbles        [aeo]er	# Alt. ortográfica
-SFX T r         bles         ir
+SFX T Y 4
+SFX T r         ble/S         ar
+SFX T er        ible/S        [^aeo]er
+SFX T er        íble/S        [aeo]er	# Alt. ortográfica
+SFX T r         ble/S         ir
 
 # Sufijo -ito (-ita): Asociado generalmente a la forma apreciativa
 # diminutiva. Relaciona sustantivos y adjetivos con sustantivos.
-SFX U Y 38
-SFX U a         itas       [bdfhjlmnprstv]a
-SFX U o         itos       [bdhjlmnprstv]o
-SFX U 0         citas      ve
-SFX U za        citas      za
-SFX U 0         ecitas     d
-SFX U ón        oncitos    ón
-SFX U 0         citos      or
-SFX U o         ítos       eo
-SFX U zo        citos      zo
-SFX U 0         citos      [djlnu]e
-SFX U z         cecitas    z
-SFX U 0         ecitos     ur
-SFX U e         itos       [cpt]e
-SFX U 0         itos       [ls]
-SFX U 0         itos       [^ou]r
-SFX U co        quitos     co
-SFX U go        guitos     go
-SFX U ca        quitas     ca
-SFX U ga        guitas     ga
-SFX U a         ita       [bdfhjlmnprstv]a
-SFX U o         ito       [bdhjlmnprstv]o
-SFX U 0         cita      ve
-SFX U za        cita      za
-SFX U 0         ecita     d
-SFX U ón        oncito    ón
-SFX U 0         cito      or
-SFX U o         íto       eo
-SFX U zo        cito      zo
-SFX U 0         cito      [djlnu]e
-SFX U z         cecita    z
-SFX U 0         ecito     ur
-SFX U e         ito       [cpt]e
-SFX U 0         ito       [ls]
-SFX U 0         ito       [^ou]r
-SFX U co        quito     co
-SFX U go        guito     go
-SFX U ca        quita     ca
-SFX U ga        guita     ga
-
+SFX U Y 19
+SFX U a         ita/S       [bdfhjlmnprstv]a
+SFX U o         ito/S       [bdhjlmnprstv]o
+SFX U 0         cita/S      ve
+SFX U za        cita/S      za
+SFX U 0         ecita/S     d
+SFX U ón        oncito/S    ón
+SFX U 0         cito/S      or
+SFX U o         íto/S       eo
+SFX U zo        cito/S      zo
+SFX U 0         cito/S      [djlnu]e
+SFX U z         cecita/S    z
+SFX U 0         ecito/S     ur
+SFX U e         ito/S       [cpt]e
+SFX U 0         ito/S       [ls]
+SFX U 0         ito/S       [^ou]r
+SFX U co        quito/S     co
+SFX U go        guito/S     go
+SFX U ca        quita/S     ca
+SFX U ga        guita/S     ga
 
 ###############################################################################
 #                                                                             #
