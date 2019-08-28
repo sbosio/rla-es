@@ -4418,7 +4418,7 @@ desviacionismo/S
 desviamiento/S
 desvío/S
 desvolvedor/S
-detalle/SU
+detalle/S
 detallismo/S
 detector/S
 detenimiento/S
@@ -10366,7 +10366,7 @@ primordio/S
 primor/S
 principado/S
 principal/S
-príncipe/SU
+príncipe/S
 principio/S
 principote/S
 pringote/S
