@@ -38,6 +38,7 @@ desocupado/GS
 entrador/GS
 escuincle/GS
 ferrocarrilero/GS
+fifí/S
 güiro/GS
 hierbatero/GS
 hierbero/GS

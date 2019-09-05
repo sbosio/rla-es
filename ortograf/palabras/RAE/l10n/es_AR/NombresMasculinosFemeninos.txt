@@ -41,6 +41,7 @@ escombrero/GS
 facho/GS
 facilitador/GS
 ferrocarrilero/GS
+fifí/S
 gil/GS
 hulero/GS
 leonino/GS

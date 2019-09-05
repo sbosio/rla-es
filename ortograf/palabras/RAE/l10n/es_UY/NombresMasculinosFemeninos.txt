@@ -33,6 +33,7 @@ diariero/GS
 entrador/GS
 facho/GS
 ferrocarrilero/GS
+fifí/S
 ganchero/GS
 gil/GS
 globero/GS
