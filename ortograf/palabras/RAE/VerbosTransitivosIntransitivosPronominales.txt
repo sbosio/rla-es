@@ -459,7 +459,7 @@ partir/REDÀÂÃÌÎÙñò
 pasar/pREDÀÃÄÅÇÍÌÏÙÛñòôøT
 pasear/REDÁÅñò
 pasmar/REDÁñôø
-pegar/REDÀÁÂÄÅÎñòô
+pegar/REDÀÁÂÄÅÆÎñòô
 pegotear/RED
 penar/REDT
 penetrar/REDÀÄñò

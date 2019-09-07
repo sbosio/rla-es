@@ -19,6 +19,9 @@ autodenominar/RED
 autodestruir/IRDÁ		# Contribuida por Sergio Medina
 autodeterminar/REDñ
 autoimponer/REDñ
+desamontonar/REDÀÄ
+desequipar/REDÀÁñ
+desestructurar/REDÀÄ
 homogenizar/REDÀ
 particionar/RED
 reabastecer/IRDÀÁñ
