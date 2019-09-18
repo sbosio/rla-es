@@ -1352,6 +1352,7 @@ partero/GS
 parte/Sv
 partido/GS
 partiquino/GS
+partisano/GS
 pasadero/GS
 pasado/GS
 pasador/GS
