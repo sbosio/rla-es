@@ -7683,6 +7683,7 @@ palanca/S
 palangana/S
 palanqueta/S
 pala/SL
+paleontología/S
 palestra/S
 paletada/S
 paleta/NLS
@@ -7727,6 +7728,7 @@ panca/S
 pancera/S
 panceta/S
 panda/NS
+pandemia/S
 panderada/S
 pandera/S
 pandereta/S

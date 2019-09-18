@@ -1327,6 +1327,7 @@ paisano/GS
 pajarero/GS
 palanquero/GS
 palatino/GS
+paleontólogo/GS
 palillero/GS
 palmero/GS
 palmípedo/GS

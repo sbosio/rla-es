@@ -9181,6 +9181,7 @@ paleal/S
 palentino/GS
 paleográfico/GS
 paleolítico/SG
+paleontológico/GS
 paleozoico/GS
 palestino/SG
 paleto/GS
