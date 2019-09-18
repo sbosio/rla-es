@@ -4775,6 +4775,7 @@ electrodo/S
 electroencefalógrafo/S
 electroencefalograma/S
 electrógeno/S
+electrolito/S
 electrolizador/S
 electromagnetismo/S
 electrón/S
@@ -4848,6 +4849,7 @@ embutido/S
 emético/S
 emidosaurio/S
 emir/S
+emirato/S
 emolumento/S
 emoticono/S
 empacho/S
@@ -4984,6 +4986,7 @@ encuartero/S
 encuarte/S
 encuentro/hS
 encumbramiento/S
+endemismo/S
 enderezamiento/S
 endeudamiento/S
 endiosamiento/S
@@ -6200,7 +6203,7 @@ gallito/S
 gallo/aS
 gallón/S
 gal/NGS
-galo
+galo/s
 galón/S
 galope/S
 galopo/SN
@@ -6303,7 +6306,7 @@ gerifalte/S
 germanio/O
 germanismo/S
 germano/S
-germen
+germen/S
 germicida/S
 germinal/S
 gerundio/S
@@ -9115,6 +9118,7 @@ ontologismo/S
 operativo/S
 opérculo/S
 opio/S
+opioide/S
 opobálsamo/S
 oportunismo/S
 oprobio/S
@@ -10121,6 +10125,7 @@ podridero/S
 podrigorio/S
 podrimiento/S
 poema/S
+poemario/S
 poetastro/S
 polariscopio/S
 poleame/S
@@ -10130,6 +10135,8 @@ pólenes
 poleo/S
 polichinela/S
 poliedro/S
+poliéster/S
+polietileno/S
 poligenismo/S
 polígono/S
 polímero/S
@@ -10145,6 +10152,7 @@ polispasto/S
 politeísmo/S
 politicastro/S
 politraumatismo/S
+poliuretano/S
 polizón/S
 polizonte/S
 pollancón/S
@@ -11602,6 +11610,7 @@ saurio/S
 sausier/S
 sauzgatillo/S
 sauz/S
+saxo/S
 saxófono/S
 saxofón/S
 sayalete/S

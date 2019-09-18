@@ -4578,6 +4578,8 @@ enderezado/GS
 endevotado/GS
 endilgador/GS
 endocrino/GS
+endorreico/GS
+endotelial/S
 endovenoso/SG
 endrino/GS
 endurador/SG
@@ -9016,6 +9018,7 @@ operativo/fSG
 operatorio/SG
 opinable/Sk
 opinante/nS
+opioide/S
 opíparo/GS
 oponente/S
 oportuna/k
@@ -9080,6 +9083,7 @@ orleanista/S
 ornamental/S
 ornitodelfo/GS
 oro/GS
+orográfico/GS
 orondo/GS
 orquestal/S
 orquidáceo/GS
@@ -9835,6 +9839,7 @@ policíaco/GS
 policial/S
 poliédrico/GS
 polifacético/GS
+polífago/GS
 polifásico/GS
 polifónico/GS
 polígamo/SG
@@ -9845,6 +9850,7 @@ poligonal/S
 polígono/GS
 polimorfo/SG
 polinesio/GS
+polinizador/GS
 polinómico/GS
 polisémico/GS
 politécnico/SG

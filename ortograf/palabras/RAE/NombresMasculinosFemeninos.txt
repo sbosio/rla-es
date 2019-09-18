@@ -686,6 +686,7 @@ echador/GS
 edil/GS
 editor/GS
 editorial/S
+egiptólogo/GS
 ejecutivo/GS
 elástico/GS
 eleático/GS
@@ -737,6 +738,7 @@ enmascarado/GS
 enriador/GS
 ensalmador/GS
 ensayador/GS
+entomólogo/GS
 entrenador/GS
 entrevistador/GS
 enviado/GS
@@ -899,6 +901,7 @@ genético/GS
 genitor/GS
 geofísico/GS
 geógrafo/GS
+geólogo/GS
 gerente/GS
 germán/GS
 germano/GS
@@ -1445,6 +1448,7 @@ poblano/GS
 podólogo/GS
 polaco/GS
 polígrafo/GS
+polinizador/GS
 polio/S
 político/GS
 politólogo/GS

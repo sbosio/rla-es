@@ -3613,6 +3613,8 @@ electroacústica/S
 electrodinámica/S
 electroforesis
 electrolisis
+electrólisis
+electroquímica/S
 electrostática/S
 electrotecnia/S
 electroterapia/S
@@ -3658,6 +3660,7 @@ embrazadura/S
 embreadura/S
 embriaguez/S
 embriogenia/S
+embriología/S
 embrolla/S
 embutición/S
 embutidera/S
@@ -3715,6 +3718,7 @@ encepadura/S
 encerrona/S
 encetadura/S
 encía/S
+encíclica/S
 enciclopedia/S
 encimera/S
 encina/S
@@ -3790,6 +3794,7 @@ ensoñación/S
 entablada/S
 entabladura/S
 entalamadura/S
+entalpía/S
 éntasis
 entelequia/S
 entente/S
@@ -4871,6 +4876,7 @@ geofísica
 geografía/S
 geología/S
 geometría/S
+geomorfología/S
 geotermia
 geraniácea/S
 gerencia/S
@@ -4878,6 +4884,7 @@ geriatría/S
 germanía/S
 germanización/S
 germanofilia/S
+germinación/S
 ges
 gestación/S
 gesta/S
@@ -7592,8 +7599,11 @@ oriundez/S
 orladura/S
 orla/S
 ornamentación/S
+ornitología/S
 orobanca/S
 orogénesis
+orogenia/S
+orografía/S
 orquesta/S
 orquestina/S
 orquidácea/S
@@ -8328,6 +8338,7 @@ plumbagina/S
 pluralidad/S
 plusvalía/S
 plutocracia/S
+pluviosidad/S
 pobeda/S
 población/htSp
 pobretería/S
@@ -8359,16 +8370,21 @@ polenta/S
 poliandria/S
 poliantea/S
 policopia/S
+policromía/S
 polidipsia/S
 polifagia/S
 polifarmacia/S
+polifonía/S
 polígala/S
 poligamia/S
 poliginia/S
 poligonácea/S
 polilla/S
 polimatía/S
+polimerasa/S
+polimerización/S
 polineuritis
+polinización/S
 poliomielitis
 poliptoton/S
 polis
@@ -9145,6 +9161,7 @@ retroacción/S
 retroactividad/S
 retroguardia/S
 retroventa/S
+reunificación/S
 revancha/S
 revelación/S
 revendedera/S
