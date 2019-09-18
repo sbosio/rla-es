@@ -9310,6 +9310,7 @@ palitroque/S
 pallar/S
 pallete/S
 palmar/S
+palmarés/S
 palmejar/S
 palmentero/S
 palmeral/S
