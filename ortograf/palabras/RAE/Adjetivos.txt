@@ -12176,6 +12176,7 @@ topetudo/GS
 tópico/GS
 topino/GS
 topográfico/GS
+topológico/GS
 topo/GS
 torácico/GS
 toral/S
