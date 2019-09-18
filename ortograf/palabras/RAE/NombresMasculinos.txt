@@ -1952,6 +1952,7 @@ berenjenal/S
 bergamote/S
 bergamoto/S
 bergante/S
+bergantín/S
 beriberi/S
 berilio/S
 berilo/S
