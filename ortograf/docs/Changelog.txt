@@ -1,5 +1,11 @@
-Versión 2.4 (pendiente de publicar):
+Versión 2.5:
+- Mejorada la generación de diminutivos acabados en -illo.
+- Añadidos diversos términos (cebarte, fálico, gomaespuma, pegándole, desamontonar, desequipar, desestructurar).
+- Añadidos algunos diminutivos (besito, enfermito, enfermillo, princesita).
+- Añadido "corrígelo" e inflexiones derivadas.
+- Añadidos casi un millar de gentilicios a la localización de Colombia.
 
+Versión 2.4:
 - Trasladados diversos lemas de noRAE a RAE, ya que actualmente están reconocidos
   por la RAE.
 - Ajustado el ámbito de uso del lema "vídeo" a es_ES como RAE y a todas las localizaciones como noRAE.

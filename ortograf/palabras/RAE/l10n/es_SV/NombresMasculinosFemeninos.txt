@@ -30,6 +30,7 @@ cuto/GS
 desocupado/GS
 entrador/GS
 ferrocarrilero/GS
+fifí/S
 hulero/GS
 leonino/GS
 macuco/GS
