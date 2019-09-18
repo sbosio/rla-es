@@ -11,6 +11,7 @@ arrunchado/GS
 berraco/GS
 cansón/GS
 desparchado/GS
+disquero/GS
 enguayabado/GS
 hostigante/S
 mamerto/GS

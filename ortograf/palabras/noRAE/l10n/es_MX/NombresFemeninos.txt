@@ -19,6 +19,7 @@ carrilla/S
 cheve/S
 cooperacha/S
 coperacha/S
+disquera/S
 gobernatura/S
 gubernatura/S
 tlayuda/S

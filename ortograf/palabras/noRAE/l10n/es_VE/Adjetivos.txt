@@ -6,4 +6,5 @@
 # Elaborado para el proyecto [RLA-ES](https://github.com/sbosio/rla-es/).
 
 actualizado/GSh
+disquero/GS
 enguayabado/GS

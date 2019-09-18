@@ -8,6 +8,7 @@
 areta/S
 cicla/S
 ciclorruta/S
+disquera/S
 jartera/S
 mamera/S
 marimonda/S

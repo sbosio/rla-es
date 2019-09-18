@@ -1,10 +1,8 @@
-# Lista de lemas: Adjetivos.txt
+# Lista de lemas: NombresFemeninos.txt
 
 # Colaboradores:
 # + Edward Villegas Pulgarin (@cosmoscalibur).
 
 # Elaborado para el proyecto [RLA-ES](https://github.com/sbosio/rla-es/).
 
-actualizado/GSh
-cansón/GS
-disquero/GS
+disquera/S
