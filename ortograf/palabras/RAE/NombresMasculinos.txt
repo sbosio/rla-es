@@ -1942,6 +1942,7 @@ beneplácito/S
 bengalí
 benjuí/S
 ben/S
+bentónico/GS
 bentos
 benzoe/S
 benzol/S
@@ -3276,6 +3277,7 @@ cigarro/SN
 cigoñal/S
 cigoñino/S
 cigoto/S
+cigüeñal/S
 cilantro/S
 ciliado/S
 cilicio/S
@@ -3289,6 +3291,7 @@ cimbalillo/S
 cimbalista/S
 címbalo/S
 cimbel/S
+cimborrio/S
 cimentado/S
 cimento/S
 cimiento/S
@@ -3341,6 +3344,8 @@ cisco/S
 cisne/S
 cisquero/S
 cisticerco/S
+citocromo/S
+citoesqueleto/S
 citoplasma/S
 citrato/S
 cítrico/S
@@ -6030,6 +6035,7 @@ fontanal/S
 fontanar/S
 foque/iS
 foramen/S
+foraminíferos
 forcejo/S
 forero/S
 forjado/S
@@ -7628,6 +7634,7 @@ lineamento/Sg
 lineamiento/Sga
 linfatismo/S
 linfocito/S
+linfoma/S
 lingote/HS
 lingue/S
 linguete/S
@@ -7641,6 +7648,7 @@ lintel/S
 linternazo/S
 linuezo/S
 lío/S
+lípido/S
 lipoma/S
 liquen
 líquenes
@@ -10134,6 +10142,7 @@ polen
 pólenes
 poleo/S
 polichinela/S
+polideportivo/S
 poliedro/S
 poliéster/S
 polietileno/S
@@ -10158,6 +10167,7 @@ polizonte/S
 pollancón/S
 pollino/S
 pollo/pS
+polluelo/S
 pololo/S
 polonio
 polo/S
@@ -11248,6 +11258,7 @@ rocino/S
 rocín/S
 rocío/S
 rock
+rococó/S
 rocódromo/S
 rodaballo/S
 rodadero/S

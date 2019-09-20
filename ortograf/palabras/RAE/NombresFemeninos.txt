@@ -2304,6 +2304,7 @@ cintagorda/S
 cinta/jmS
 cintura/NS
 cinturita/S
+ciperáceas
 ciquiricata/S
 circe/S
 circona/S
@@ -3378,6 +3379,7 @@ dirección/sS
 direccionalidad/S
 directa/S             # Registro #15
 directriz/S
+dirigencia/S
 disartria/S
 discapacidad/S
 disciplina/S
@@ -5732,6 +5734,7 @@ ironía/S
 irreductibilidad/S
 irreprochabilidad/S
 irrespetuosidad/S
+irrigación/S
 irrisión/S
 irritabilidad/S
 irritación/S
@@ -9254,6 +9257,7 @@ rolla/S
 rollona/S
 romana/NS
 romanina/S
+romanización/S
 romaza/S
 romería/S
 rompedera/S
@@ -10104,6 +10108,8 @@ tele/GS
 telenovela/S
 telepatía/S
 telera/S
+telerrealidad/S
+teleserie/S
 teleta/S
 televisión/S
 telina/S

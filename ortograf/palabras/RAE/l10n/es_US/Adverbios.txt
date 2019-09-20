@@ -1,0 +1,8 @@
+# Lista de lemas: Adverbios.txt
+
+# Colaboradores:
+# + Edward Villegas Pulgarin (@cosmoscalibur).
+
+# Elaborado para el proyecto [RLA-ES](https://github.com/sbosio/rla-es/).
+
+nocaut

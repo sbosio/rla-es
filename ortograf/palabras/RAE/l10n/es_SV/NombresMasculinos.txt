@@ -86,6 +86,7 @@ nagual/S
 nance/S
 narango/S
 nevado/S
+nocaut/S
 noticioso/S
 ño
 overol/S

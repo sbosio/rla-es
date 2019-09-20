@@ -81,6 +81,7 @@ argel/S
 argumentista/S
 aristócrata/S
 arpista/S
+arreglista/S
 arribista/S
 articulista/S
 artífice/S
@@ -604,6 +605,7 @@ perfumista/S
 perico/S
 periodista/S
 perista/S
+peronista/S
 petardista/S
 pianista/S
 piloto/S

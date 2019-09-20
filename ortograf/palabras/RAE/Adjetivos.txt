@@ -2642,6 +2642,7 @@ cinéreo/GS
 cinericio/SG
 cinético/GS
 cínico/GS
+ciperáceo/GS
 cipresino/GS
 circasiano/SG
 circense/S
@@ -2696,6 +2697,7 @@ clasicista/S
 clásico/SG
 clasificado/GS
 clasificador/SG
+clasificatorio/GS
 clasista/S
 claustral/S
 clavada/i
@@ -4054,8 +4056,10 @@ dineroso/GS
 dino/GiS
 dinosaurio/S
 diocesano/GS
+dioico/GS
 dionisíaco/GS
 dioso/SG
+diploide/S
 diplomático/GS
 dipneo/GS
 díptero/GS
@@ -5578,6 +5582,7 @@ fontanero/SG
 fontano/GS
 forajido/GS
 foral/S
+foraminífero/GS
 foráneo/GS
 forastero/GS
 forcejudo/GS
@@ -9553,6 +9558,7 @@ perecedera/k
 perecedero/GSk
 peregrino/GS
 perenne/S
+perennifolio/GS
 perentorio/SG
 perezoso/GS
 perfeccionador/GS
@@ -9572,6 +9578,7 @@ perieco/GS
 periférico/GS
 periforme/S
 perilustre/S
+perimetral/S
 perineal/S
 periódico/aGS
 periodístico/GS
@@ -9595,6 +9602,7 @@ permitidor/GS
 permutable/kS
 pernicioso/GS
 pernituerto/SG
+peronista/S
 perpendicular/S
 perpetrador/SG
 perpetuo/GS
@@ -9838,6 +9846,7 @@ polémico/SG
 poliadelfos
 policíaco/GS
 policial/S
+polideportivo/GS
 poliédrico/GS
 polifacético/GS
 polífago/GS
@@ -10884,6 +10893,7 @@ rocalloso/GS
 roca/S
 rocinal/S
 rock/S
+rococó/S
 rocoso/SG
 rodadero/GS
 rodadizo/GS

@@ -19,4 +19,5 @@ beisbol/S
 bluyín/S
 fólder/S
 jonrón/S
+nocaut/S
 reservorio/S
