@@ -1219,6 +1219,7 @@ arcón/S
 arcontado/S
 arconte/S
 arco/Sr
+arcoíris
 ardid/S
 ardimiento/S
 ardite/S
@@ -1532,6 +1533,7 @@ autocontrol/S
 autodidactismo
 autoestop
 autoestopes
+autogobierno/S
 autógrafo/S
 autómata/S
 automatismo/S
@@ -2018,6 +2020,7 @@ bimestre/S
 bimetalismo/S
 bingo/S
 binomio/S
+bioma/S
 biombo/S
 biopolímero/S
 biotopo/S
@@ -7418,7 +7421,7 @@ lantánido/S
 lantano/S
 lanzafuego/S
 lanzallamas
-lanzamiento/S
+lanzamiento/Sp
 lanzazo/S
 lapachar/S
 lapacho/S
@@ -8308,6 +8311,7 @@ metaloide/S
 metal/qS
 metamorfismo/S
 metano/S
+metanol/S
 metaplasmo/S
 metatarso/S
 metatórax
@@ -12067,6 +12071,7 @@ suarismo/S
 suavizador/S
 suavizante/S
 subcolector/S
+subcontinente/S
 subejecutor/S
 subfiador/S
 subidero/S
@@ -12139,6 +12144,7 @@ superávit
 superiorato/S
 superior/S
 supermercado
+superventas
 superyó/S
 supino/S
 suplemento/S

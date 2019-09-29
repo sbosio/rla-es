@@ -665,6 +665,7 @@ altímetro/GS
 altisonante/S
 altísono/GS
 altitonante/S
+altitudinal/S
 altivo/GS
 alto/GS
 altruista/S
@@ -922,6 +923,7 @@ anticrisis
 anticuado/GS
 antidepresivo/GS
 antidisturbios
+antidopaje/S
 antidroga/S
 antiespañol/GS
 antiestrés
@@ -7094,6 +7096,7 @@ javo/GS
 jazarino/GS
 jebuseo/GS
 jemal/S
+jemer/S
 jenízaro/GS
 jerárquico/GS
 jerezano/GS
@@ -8378,6 +8381,7 @@ monitoria/n
 monitorio/nSG
 monjil/S
 mono/GS
+monocasco/S
 monocromático/GS
 monocromo/GS
 monocular/S
@@ -11786,6 +11790,7 @@ superior/GS
 superlativo/GS
 superno/GS
 supersticioso/GS
+superventas
 supervisor/SG
 supino/SG
 suplantador/GS

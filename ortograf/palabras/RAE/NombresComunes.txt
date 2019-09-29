@@ -415,6 +415,7 @@ hippie/S
 hippy/S
 hispanista/S
 hispanoparlante/S
+historietista/S
 hojaldrista/S
 huelguista/S
 huésped/S
@@ -438,6 +439,7 @@ intocable/S
 israelí/S
 izquierdista/S
 jefe/S
+jemer/S
 jerarca/S
 jeremías
 jesuita/S

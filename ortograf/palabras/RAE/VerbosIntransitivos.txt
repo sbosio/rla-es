@@ -882,6 +882,7 @@ redundar/RED
 reflorecer/IRD
 refluir/IRD
 refulgir/RED
+refundar/RED
 refunfuñar/RED
 regañir/RED
 regatear/RED

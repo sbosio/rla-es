@@ -92,6 +92,7 @@ aceptación/S
 acera/S
 acerbidad/S
 acerola/S
+acetilcolina/S
 acetona/S
 acetosa/NS
 acetosidad/S
@@ -714,7 +715,7 @@ apatía/S
 apegaderas
 apendicitis
 apepsia/S
-apertura/S
+apertura/Sp
 apetencia/kS
 apicultura/S
 apisonadora/S
@@ -1280,6 +1281,7 @@ biología/S
 biopsia/S
 bioquímica/S
 biorremedación/S
+biosíntesis
 biotecnología/S
 bipedación/S
 birlocha/S
@@ -2410,6 +2412,7 @@ coda/S
 codicia/S
 codillera/S
 codorniz/S
+coenzima/S
 coerción/S
 cofa/S
 cofia/S
@@ -5679,6 +5682,7 @@ interactividad
 intercalación/S
 interconexión/S
 interdicción/S
+interfase/S
 interferencia/S
 interioridad/S
 interjección/S
@@ -7048,6 +7052,7 @@ mondonga/S
 moneda/S
 monería/S
 monición/nS
+monitorización/S
 monja/S
 monjita/S
 monodia/S
@@ -7219,6 +7224,7 @@ musculatura/S
 muselina/S
 muserola/S
 musicalidad/S
+musicalización/S
 música/S
 musquerola/S
 mustela/S
@@ -7246,6 +7252,7 @@ naja/S
 nalgada/S
 nalga/S
 nana/S
+nanotecnología/S
 nansa/S
 nao/S
 napa/S
@@ -8341,6 +8348,7 @@ plumada/S
 pluma/SN
 plumbagina/S
 pluralidad/S
+plusmarca/S
 plusvalía/S
 plutocracia/S
 pluviosidad/S
@@ -8690,7 +8698,8 @@ prudencia/Sk
 prueba/pS
 pruna/S
 psi
-psicofisiología
+psicodelia/S
+psicofisiología/S
 psicología/S
 psicopatía/S
 psicopatología/S
@@ -9534,6 +9543,7 @@ secreta/S
 secta/S
 secuela/S
 secuencia/fS
+secuenciación/S
 secundinas
 secuoya/S
 secura/S
