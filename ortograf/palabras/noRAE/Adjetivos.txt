@@ -87,6 +87,7 @@ mitocondrial/S
 monotípico/S
 multiescala/S
 nanométrico/GS
+neogótico/GS
 neoguineano/GS
 oligopólico/GS
 omanés/GS

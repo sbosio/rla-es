@@ -61,6 +61,7 @@ anagramatista/S
 anagramista/S
 analista/S
 anarquista/S
+andalusí/S
 andinista/S
 anecdotista/S
 anestesista/S
@@ -540,7 +541,10 @@ monopolista/S
 moralista/S
 motociclista/S
 motorista/S
+mozárabe/S
 mueblista/S
+muisca/S
+mundialista/S
 mutualista/S
 mutuante/S
 narcisista/S

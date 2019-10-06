@@ -820,6 +820,7 @@ andadero/GS
 andado/GS
 andador/SG
 andalucista/S
+andalusí/S
 andaluz/GS
 andante/S
 andantesco/GS
@@ -830,6 +831,7 @@ andorrano/GS
 andosco/GS
 andrajoso/SG
 andujareño/GS
+anecdótico/GS
 anegadizo/SG
 anejo/GS
 anélido/SG
@@ -5274,6 +5276,7 @@ extrapolable/S
 extra/S
 extrasalarial/S
 extrasensorial/S
+extrasolar/S
 extraterrestre/S
 extraterritorial/S
 extrauterino/GS
@@ -5281,6 +5284,7 @@ extravagante/S
 extravertido/GS
 extraviado/GS
 extremado/SG
+extremeño/GS
 extremista/S
 extremo/GS
 extremoso/GS
@@ -8436,6 +8440,7 @@ morado/GS
 morador/GS
 moral/cSak
 moralizador/hGS
+moralizante/S
 moratiniano/GS
 moravo/GS
 mórbido/SG
@@ -8503,6 +8508,7 @@ movido/GS
 moviente/S
 móvil/dSk
 mozambiqueño/GS
+mozárabe/S
 mozo/GS
 muchachil/S
 muchacho/GS
@@ -8524,6 +8530,7 @@ muerto/GSn
 mugidor/GS
 mugriento/GS
 mugroso/GS
+muisca/S
 mujeriego/GS
 mujeril/S
 mular/S
@@ -8534,6 +8541,7 @@ multicaule/S
 multicolor/S
 multicopista/S
 multicultural/S
+multidisciplinar/S
 multidisciplinario/GS
 multifloro/GS
 multiforme/S
@@ -8555,6 +8563,7 @@ multiuso/S
 mundanal/S
 mundano/GS
 mundial/S
+mundialista/S
 mundificativo/GS
 municipal/S
 mural/S

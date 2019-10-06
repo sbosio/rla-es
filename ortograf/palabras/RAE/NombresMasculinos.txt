@@ -946,6 +946,7 @@ andero/S
 andrajo/S
 andrino/S
 androceo/S
+andrógeno/S
 androide/S
 androsemo/S
 andulario/S
@@ -1016,6 +1017,7 @@ anteojero/S
 antepasado/S
 ante/S
 anticelulítico/S
+anticiclón/S
 anticipamiento/S
 anticongelante/S
 anticorrosivo/S
@@ -5793,6 +5795,7 @@ extranjero/OS
 extrañamiento/S
 extrarradio/S
 extravío/S
+extremeño/S
 extremismo/S
 extremo/S
 exutorio/S
@@ -8692,6 +8695,7 @@ moyo/GS
 moyuelo/S
 mozalbete/S
 mozalbillo/S
+mozárabe/S
 mozo/S
 mu
 muaré/S
@@ -11698,6 +11702,7 @@ semitono
 semoviente/S
 senado/S
 sencillo/S
+senderismo/S
 sendero/S
 sene
 séneca/S
@@ -11825,6 +11830,7 @@ siglo/S
 significado/S
 significante/S
 signo/S
+sijismo/S
 silabario/S
 silbato/S
 silbido/S

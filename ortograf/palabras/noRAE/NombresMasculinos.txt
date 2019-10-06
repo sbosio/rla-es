@@ -49,6 +49,7 @@ microcontrolador/S
 microcurrículo/S
 nanomaterial/S
 nanómetro/S
+neogótico/S
 noroccidente
 obrante/S
 panetón/S

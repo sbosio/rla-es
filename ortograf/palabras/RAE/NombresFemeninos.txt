@@ -5472,6 +5472,7 @@ iguana/S
 iguaria/S
 ijada/S
 ilación/S
+ilegalización/S
 iluminación/S
 ilusión/hS
 imada/S
@@ -5479,6 +5480,7 @@ imagen/S
 imaginación/S
 imaginaria/S
 imaginativa/S
+imaginería/S
 imanación/S
 imbecilidad/S
 imela/S
@@ -5517,11 +5519,13 @@ impulsividad/S
 impunidad/S
 imputabilidad/S
 imputación/S
+inactivación/S
 inalienabilidad/S
 inanición/S
 inanidad/S
 inauguración/S
 incandescencia/S
+incautación/S
 incendaja/S
 incentivación/S
 incidencia/pSf
@@ -5535,6 +5539,7 @@ incolumidad/S
 incomposibilidad/S
 incomprehensibilidad/S
 incongruidad/S
+inconstitucionalidad/S
 incontestabilidad/S
 incorporación/pS
 increpación/S
@@ -7057,6 +7062,7 @@ monja/S
 monjita/S
 monodia/S
 monogamia/S
+monografía/S
 monomanía/S
 monomaquia/S
 monorquidia/S
@@ -8562,6 +8568,7 @@ presa/pSik
 presbicia/S
 presciencia/S
 prescripción/S
+presea/S
 presentación/pS
 preservación/S
 presidencia/S
@@ -8574,6 +8581,8 @@ presura/S
 pretendienta/S
 pretina/N
 pretura/aS
+prevalencia/S
+prevaricación/S
 prevención/hS
 priesa/S
 primacía/S

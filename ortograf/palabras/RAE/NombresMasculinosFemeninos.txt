@@ -812,6 +812,7 @@ extractor/GS
 extraño/GS
 extraordinario/GS
 extravagante/S
+extremeño/GS
 fachenda/S
 fachendoso/GS
 factor/GS
