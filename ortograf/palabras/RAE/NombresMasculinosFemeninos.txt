@@ -1007,6 +1007,7 @@ huerco/GS
 huésped/GS
 huevero/GS
 hulano/GS
+ideólogo/GS
 iluminador/GS
 ilustrado/GS
 impío/GS

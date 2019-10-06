@@ -4129,6 +4129,7 @@ estampa/SN
 estampida/S
 estancación/S
 estancia/nS
+estandarización/S
 estangurria/S
 estanqueidad/S
 estanquidad/S
@@ -4191,6 +4192,7 @@ estrangulación/S
 estranguria/S
 estratagema/S
 estrategia/S
+estratificación/S
 estratigrafía/S
 estratosfera/S
 estraza/NS
@@ -4237,6 +4239,7 @@ etimología/S
 etiqueta/S
 etites
 etnia/S
+etnografía/S
 etnolingüística
 etología/S
 eucaristía/S
@@ -9027,6 +9030,7 @@ rectoral/S
 recuarta/S
 recua/S
 recuperación/S
+recurrencia/S
 recursividad/S
 redacción/S
 redada/S
@@ -9941,6 +9945,7 @@ supeditación/S
 superación/S
 superchería/S
 supererogación/S
+superestructura/S
 superficialidad/S
 superficie/S
 superfluidad/S
@@ -10479,6 +10484,7 @@ transgresión/S
 transición/S
 transigencia/Sk
 transitoriedad/S
+transliteración/S
 translucidez/S
 transmigración/S
 transmisión/pS

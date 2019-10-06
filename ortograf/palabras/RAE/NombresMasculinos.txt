@@ -4136,6 +4136,7 @@ dátil/S
 dativo/S
 dato/S
 deambulatorio/S
+deán/S
 deanato/S
 debe
 deber/S
@@ -7946,6 +7947,7 @@ manguito/S
 maniblaj/S
 manicomio/S
 manicordio/S
+manierismo/S
 manifestador/S
 manifiesto/S
 manigero/S

@@ -5088,6 +5088,7 @@ eterno/GS
 etimológico/SG
 etíope/S
 étnico/GS
+etnográfico/GS
 etolio/GS
 etológico/GS
 etrusco/GS
