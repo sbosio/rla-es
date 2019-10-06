@@ -2976,6 +2976,7 @@ cualidad/S
 cualificación/S
 cualquiera/S
 cuantía/S
+cuantificación/S
 cuarcita/S
 cuaresma/S
 cuartana/S
@@ -3151,6 +3152,7 @@ demarcación/S
 demencia/S
 demo/S
 democracia/S
+democratización/S
 demografía/S
 demolición/S
 demonización/S
@@ -9131,7 +9133,7 @@ repulsa/S
 repulsión/S
 reputación/S
 requisición/S
-res
+res/S
 resbaladura/S
 resbalera/S
 rescaza/S

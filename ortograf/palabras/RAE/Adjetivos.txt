@@ -5229,6 +5229,7 @@ expositivo/SG
 expositor/GS
 expósito/SG
 exprés
+expresionista/S
 expresiva/k
 expresivo/GkS
 expreso/GS
@@ -6210,6 +6211,7 @@ heladizo/GS
 helado/GS
 helador/SG
 helénico/GS
+helenístico/GS
 heleno/GS
 helgado/GS
 heliaco/GS
@@ -9175,6 +9177,7 @@ pagado/GSka
 pagador/SGao
 pagano/GS
 paisajista/S
+paisajístico/GS
 paisano/GS
 paisista/S
 pajarero/GS
@@ -11593,6 +11596,7 @@ social/kSac
 societario/GS
 sociniano/GS
 sociocultural/S
+socioeconómico/GS
 sociológico/GS
 socorredor/SG
 sódica/o

@@ -342,6 +342,7 @@ excursionista/S
 exegeta/S
 exhibicionista/S
 exorcista/S
+expresionista/S
 extorsionista/S
 extra/S
 fabricante/S
