@@ -68,6 +68,7 @@ hidrotérmico/GS
 hipergeométrico/GS
 holofónico/GS
 homolítico/GS
+importantísimo/GS
 impráctico/GS
 incremental/S
 inentendible/S

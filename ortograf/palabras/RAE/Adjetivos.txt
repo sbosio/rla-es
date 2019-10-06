@@ -174,6 +174,7 @@ aceptor/GS
 acerado/GS
 acerbo/GS
 acerino/GS
+acérrimo/GS
 acertada/h
 acertado/hGS
 acertador/SG
@@ -1417,6 +1418,7 @@ autónomo/SG
 autopropulsado/GS
 autoritario/GS
 autorizado/SG
+autosuficiente/S
 auxiliador/GS
 auxiliar/S
 avanzado/GS
@@ -1438,6 +1440,7 @@ avéstico/SG
 avetado/GS
 aviador/SG
 aviar/S
+avícola/S
 ávido/SG
 avieso/GS
 avilés/GS
@@ -3087,6 +3090,7 @@ constanciense/S
 constante/kS
 constantinopolitano/GS
 constitucional/ckS
+constitucionalista/S
 constituidor/GS
 constitutivo/GS
 constituyente/pS
@@ -5195,6 +5199,7 @@ exorable/Sk
 exorbitante/S
 exótico/SG
 expansible/S
+expansionista/S
 expansivo/GS
 expectable/S
 expectante/S
@@ -5498,7 +5503,7 @@ filoso/SG
 filtrador/GS
 filtrante/S
 fina/fSptj
-finalista/S
+finalista/Sq
 final/S
 financiero/GS
 finés/GS
@@ -10596,6 +10601,7 @@ reductor/GS
 redundante/S
 reemplazable/kS
 reemplazante/S
+referencial/S
 referente/S
 refez/S
 refinado/GS
@@ -11336,6 +11342,7 @@ semiforme/S
 semiinconsciente/S
 seminal/S
 seminario/SG
+semiótico/GS
 semita/Sc
 semítico/GS
 semitransparente/S
@@ -11393,6 +11400,7 @@ sepultador/GS
 sequizo/GS
 seráfico/SG
 serbio/SG
+serbocroata/S
 sereno/GS
 serial/S
 serifio/GS
@@ -11501,6 +11509,7 @@ silvano/S
 silvestre/S
 silvoso/GS
 simbionte/S
+simbiótico/GS
 simbólico/GS
 simétrica/a
 simétrico/aGS
@@ -11518,6 +11527,7 @@ simplista/S
 simplón/SG
 simulador/GS
 simultáneo/GS
+sináptico/GS
 sincerador/GS
 sincera/k
 sincero/GSk
@@ -11640,6 +11650,7 @@ soltero/GS
 soluble/pkS
 solutiva/p
 solutivo/pSG
+soluto/S
 solvente/GS
 solventes/pk
 somalí/S

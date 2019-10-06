@@ -235,6 +235,7 @@ confusionista/S
 congresista/S
 conserje/S
 consorte/S
+constitucionalista/S
 cónsul/S
 contable/S
 contorsionista/S
@@ -342,6 +343,7 @@ excursionista/S
 exegeta/S
 exhibicionista/S
 exorcista/S
+expansionista/S
 expresionista/S
 extorsionista/S
 extra/S
@@ -719,6 +721,7 @@ saxofonista/S
 secante/S
 segregacionista/S
 selenita/S
+semifinalista/S
 semitista/S
 simbolista/S
 simplista/S

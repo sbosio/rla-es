@@ -3326,6 +3326,7 @@ diatriba/S
 dicacidad/S
 dicción/Sn
 dicha/Sh
+dicotomía/S
 dictadura/S
 diéresis
 diestra/S
@@ -3355,6 +3356,7 @@ dilatación/S
 dilatoria/S
 dilección/Sn
 diligencia/Sk
+dilución/S
 dimensión/S
 dimisión/S
 dimisorias
@@ -4598,6 +4600,7 @@ forja/S
 formación/kuSgf
 formaleta/S
 formalidad/kS
+formalización/S
 forma/pS
 formulación/S
 fórmula/S
@@ -5346,8 +5349,10 @@ hombrera/S
 hombría/S
 homeopatía/S
 homilía/S
+homofobia/S
 homogeneidad/S
 homogeneización/S
+homologación/S
 homología/S
 homonimia/S
 homosexualidad/S
@@ -8136,6 +8141,7 @@ perturbación/S
 perversidad/S
 perversión/S
 pervinca/S
+pervivencia/S
 pes
 pesada/SMN
 pesadumbre/S
@@ -9127,9 +9133,11 @@ repetibilidad/S
 repetitividad/S
 replantación/S
 réplica/Sv
+replicación/S
 repostería/S
 represalia/S
 representanta/S
+representatividad/S
 reprimenda/S
 reproducibilidad
 repugnancia/S
@@ -9559,6 +9567,7 @@ secta/S
 secuela/S
 secuencia/fS
 secuenciación/S
+secularización/S
 secundinas
 secuoya/S
 secura/S
@@ -9567,6 +9576,7 @@ sede
 sedera/S
 sed/GS
 sedición/S
+sedimentación/S
 seducción/S
 segada/S
 segadera/S
@@ -9602,6 +9612,7 @@ semifinal/S
 semilla/S
 semiología/S
 semiotecnia/S
+semiótica/S
 sémola/S
 sempiterna/S
 sena/S
@@ -9768,6 +9779,7 @@ sinrazón/S
 sintaxis
 sinterización/S
 síntesis
+sintomatología/S
 sintonía/S
 sinuosidad/S
 sinusitis
@@ -9780,6 +9792,7 @@ sirte/S
 sirvienta/S
 sisa/S
 sistemática/S
+sistematización/S
 sístole/S
 sitacosis
 situación/S
@@ -9794,6 +9807,7 @@ soberanía/S
 soberbia/S
 sobra/S
 sobrecopa/S
+sobreexplotación/S
 sobrefrenada/S
 sobremano/S
 sobrepelliz/S
@@ -9802,6 +9816,7 @@ sobrerropa/S
 sobreveste/G
 sobrevidriera
 sobrevienta/S
+sobrexplotación/S
 sobriedad/S
 socarrena/S
 socarrina/S
@@ -10758,7 +10773,7 @@ validación/S
 validez/Sk
 valija/S
 valla/S
-valoración/S
+valoración/Sp
 valorización/Sh
 valquiria/S
 valuación/S
@@ -11002,6 +11017,7 @@ visualización/nS
 visual/KS
 visura/S
 vitalidad/S
+vitalización/pS
 vitamina/S
 vitela/S
 viticultura/S

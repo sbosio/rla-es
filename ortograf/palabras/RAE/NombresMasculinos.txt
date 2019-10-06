@@ -11748,6 +11748,7 @@ seraje/S
 serapino/S
 serbal/S
 serbio/S
+serbocroata/S
 serenero/S
 sereno/S
 seres/i
@@ -11909,7 +11910,7 @@ sisero/S
 sismo/S
 sis/O
 sisón/S
-sistema/S
+sistema/Ss
 sitacismo/S
 sitial/S
 sitio/S
@@ -11995,6 +11996,7 @@ solomo/NS
 solo/S
 sol/Sp
 solsticio/S
+soluto/S
 somatenista/S
 somatén/S
 sombraje/S

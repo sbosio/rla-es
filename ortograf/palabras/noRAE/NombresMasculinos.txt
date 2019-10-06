@@ -67,6 +67,7 @@ ratito/S
 rebarbado/S
 renting # extranjerismo no adaptado #139
 solucionario/S
+sustituyente/S
 swing # extranjerismo no adaptado #139
 taquión/S
 teslámetro/S
