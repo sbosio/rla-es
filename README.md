@@ -45,6 +45,7 @@ complementos de cada aplicación.
 ### Mozilla
 
 * [Argentina](https://addons.mozilla.org/es/firefox/addon/diccionario-espa%C3%B1ol-argentina/)
+* [Colombia](https://addons.mozilla.org/es/firefox/addon/diccionario-mozilla-es-co/)
 * [España](https://addons.mozilla.org/es/firefox/addon/diccionario-de-espa%C3%B1ol-espa%C3%B1a/)
 * [México](https://addons.mozilla.org/es/firefox/addon/spanish-mexico-dictionary/)
 
