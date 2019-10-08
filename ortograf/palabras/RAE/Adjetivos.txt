@@ -3564,6 +3564,7 @@ decimal/S
 decimoctavo/GS
 decimocuarto/GS
 décimo/GS
+decimonónico/GS
 decimonono/GS
 decimonoveno/GS
 decimoquinto/GS
@@ -5656,7 +5657,7 @@ franco/GS
 francote/SG
 franqueable/kS
 franquiciado/GS
-franquista/S
+franquista/Sc
 fraternal/S
 fraterno/GS
 fratricida/S
@@ -9285,6 +9286,7 @@ paquistaní
 paquistaníes
 parabólico/GS
 parada/pn
+paradigmático/GS
 paradisíaco/GS
 parado/GSpn
 paradójico/GS
@@ -9962,6 +9964,7 @@ posesorio/GS
 posesor/SG
 posfijo/GS
 posible/kS
+posicional/S
 positiva/nk
 positivista/S
 positivo/GSnk

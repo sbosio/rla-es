@@ -948,6 +948,7 @@ aurora/S
 auscultación/S
 ausencia/S
 austeridad/S
+autarquía/S
 auténtica/S
 autenticidad/S
 autoafirmación/S
@@ -4243,6 +4244,7 @@ etites
 etnia/S
 etnografía/S
 etnolingüística
+etnología/S
 etología/S
 eucaristía/S
 eufonía/S
@@ -5704,7 +5706,6 @@ interjección/S
 intermitencia/S
 internacional/S
 interpolación/S
-interpretación/S
 interrogación/S
 interrupción/S
 intervención/S
@@ -7242,6 +7243,7 @@ muserola/S
 musicalidad/S
 musicalización/S
 música/S
+musicología/S
 musquerola/S
 mustela/S
 mutabilidad/kSf
@@ -7612,7 +7614,7 @@ orejera/S
 orejuela/S
 orfandad/S
 orfebrería/S
-organización/pS
+organización/pSh
 organogenia/S
 organza/S
 orgía/S
@@ -7963,6 +7965,7 @@ pederastia/S
 pediatría/S
 pediculosis
 pedidura/S
+pedofilia/S
 pedorreta/S
 pedrada/S
 pedrea/S
@@ -10261,6 +10264,7 @@ tesura/S
 tetania/S
 teta/NS
 tetera/S
+tetralogía/S
 textura/fS
 tez
 tiaca/S

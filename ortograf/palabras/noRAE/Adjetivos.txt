@@ -49,6 +49,7 @@ desarrollador/GS
 desestabilizante/S
 destellante/S
 desvaneciente/S
+diferenciable/S
 emiratí/S
 enceguecedor/GS
 encriptado/GS
@@ -88,6 +89,7 @@ mitocondrial/S
 monotípico/S
 multiescala/S
 nanométrico/GS
+neobarroco/S
 neogótico/GS
 neoguineano/GS
 oligopólico/GS

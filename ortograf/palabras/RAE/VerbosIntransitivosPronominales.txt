@@ -169,5 +169,5 @@ vegetar/RED
 venir/XDñóöú
 ventosear/RED
 versar/RED
-vocalizar/RED
+vocalizar/REDA
 zaragatear/RED

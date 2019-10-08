@@ -2487,7 +2487,7 @@ interpaginar/RED
 interpelar/REDÀÁÂÆ
 interpolar/RED
 interprender/RED
-interpretar/REDÀÁÂÄT
+interpretar/REDÀÁÂÄTAp
 interrogar/REDÀÁÂÄÅÆ
 interrumpir/REDÀÁÂÄÅÆÙÚ
 interviuvar/RED
@@ -2527,7 +2527,7 @@ jarrar/RED
 jarrear/RED
 jasar/RED
 jaspear/RED
-jerarquizar/REDÀÄ
+jerarquizar/REDÀÄA
 jirpear/RED
 jonjabar/RED
 judicializar/RED

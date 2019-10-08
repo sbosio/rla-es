@@ -3493,6 +3493,7 @@ colmillo/H
 colmo/NS
 colodión/S
 colodrillo/S
+colofón/S
 coloide/S
 colombianismo/S
 colón
@@ -5701,6 +5702,7 @@ estroncio/S
 estropajo/S
 estropicio/S
 estro/S
+estructuralismo/S
 estruendo/S
 estrujamiento/S
 estuario/S
@@ -6175,6 +6177,7 @@ fusor/S
 fuste/aS
 fútbol/S
 futbol/S
+futurismo/S
 gabán/S
 gabarrero/S
 gabarro/S
@@ -9553,6 +9556,7 @@ pasitrote/S
 pasmarote/S
 pasmo/S
 paso/Sj
+pasodoble/S
 pasquín/S
 pastadero/S
 pastel/NS
@@ -10211,6 +10215,7 @@ pontón/S
 popamiento/S
 populacho/S
 populazo/S
+popurrí/S
 póquer/S
 porcentaje/S
 porche/S
@@ -10924,6 +10929,7 @@ refinado/S
 reflector/S
 reflexivo/S
 reformatorio/S
+reformismo/S
 reforzador/S
 refractor/S
 refranero/S

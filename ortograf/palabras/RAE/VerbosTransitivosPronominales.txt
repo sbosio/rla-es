@@ -1773,7 +1773,7 @@ marginar/REDñA
 martillar/RED
 martirizar/REDÀÄÅñò
 mascar/RED
-masificar/RED
+masificar/REDA
 masturbar/REDñò
 materializar/RED
 matricular/REDñò
@@ -1827,7 +1827,7 @@ nacionalizar/RED
 narcotizar/RED
 naturalizar/RED
 negar/IRDÁÃÇÐñòõù
-neutralizar/REDñ
+neutralizar/REDñA
 nivelar/REDÀñ
 nominalizar/RED
 nublar/REDñ
@@ -1940,7 +1940,7 @@ quintuplicar/RED
 quitar/REDÀÁÂÃÆñòôø
 racimar/RED
 racionar/RED
-radicalizar/REDÀÄ
+radicalizar/REDÀÄA
 ranciar/RED
 rapar/REDÀ
 rarificar/RED
