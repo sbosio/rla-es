@@ -5730,6 +5730,7 @@ etmoides
 etrusco/S
 eucalipto/S
 eucarionte/S
+eucariota/S
 eufemismo/S
 eunuco/S
 euríbor/S
@@ -5971,6 +5972,7 @@ fisco/S
 fisgoneo/S
 fisóstomo/S
 fito/S
+fitoplancton/S
 flaco/S
 flagelado/S
 flagelante/S
@@ -8365,6 +8367,7 @@ microondas
 micro/S
 microscopio/S
 microsporidio/S
+microtúbulo/S
 miedo/S
 miguelete/S
 mihrab
@@ -10425,6 +10428,7 @@ probabilismo/S
 probador/S
 problema/S
 proboscidio/S
+procariota/S
 proceder/S
 procedimiento/S
 procerato/S
@@ -10475,6 +10479,7 @@ protector/S
 proteo/S
 protestantismo/S
 protio/S
+protistas
 protocloruro/S
 protocolo/S
 protomedicato/S
@@ -11217,6 +11222,7 @@ ribero/S
 ribeteado/S
 ribete/S
 ribonucleótido/S
+ribosoma/S
 ricino/S
 ricohombre/S
 rictus
@@ -12942,6 +12948,7 @@ tripastos
 tripe/S
 triplano/S
 triple/S
+triplete/S
 triplicado/S
 trípode/S
 trípoli/S

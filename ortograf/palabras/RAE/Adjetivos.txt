@@ -3376,6 +3376,7 @@ cromática/a
 cromático/GSa
 crómico/SG
 cromóforo/GS
+cromosómico/GS
 crónico/SG
 cronológico/GS
 crucial/S
@@ -5100,6 +5101,7 @@ etrusco/GS
 eubeo/SG
 eucarionte/S
 eucarístico/SG
+eucariota/S
 euclidiano/GS
 euforbiáceo/GS
 eufórico/GS
@@ -5887,6 +5889,7 @@ genitivo/GS
 genitor/GS
 genitourinario/GS
 genízaro/GS
+genómico/GS
 genovés/SG
 gentilicio/GS
 gentílico/GS
@@ -6852,6 +6855,7 @@ inmundo/GS
 inmune/S
 inmunitario/GS
 inmunizador/GS
+inmunológico/GS
 inmutativo/SG
 innocuo/GS
 innombrable/S
@@ -10157,6 +10161,7 @@ problemático/GS
 proboscidio/S
 probo/SG
 procarionte/S
+procariota/S
 procaz/S
 procedente/kS
 procedimental/S
@@ -10244,6 +10249,7 @@ protestante/S
 protestativo/GS
 protestón/GS
 protético/GS
+protista/S
 protocolario/GS
 protocolar/S
 protozoario/SG
@@ -10547,6 +10553,7 @@ recental/S
 recentísimo/SG
 receptivo/GS
 receptor/SG
+recesivo/GS
 rechazador/GS
 rechinador/GS
 rechoncho/GS

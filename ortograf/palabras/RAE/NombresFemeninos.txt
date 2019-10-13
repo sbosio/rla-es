@@ -124,6 +124,7 @@ acromegalia/S
 acrópolis
 acta/S
 actea/S
+actina/S
 actinia/S
 actinomicosis
 actinota/S
@@ -729,6 +730,7 @@ apologética/S
 apología/S
 aponeurosis
 apoplejía/S
+apoptosis
 aporcadura/S
 aporofobia/S
 aporreadura/S
@@ -1279,9 +1281,11 @@ bioenergía/S
 bioestadística/S
 biografía/dS
 biología/S
+biomasa/S
 biopsia/S
 bioquímica/S
 biorremedación/S
+biosfera/S
 biosíntesis
 biotecnología/S
 bipedación/S
@@ -2379,6 +2383,7 @@ clientela/S
 climatología/S
 clínica/S
 cloaca/S
+clonación/S
 clorita/S
 clorofila/S
 clorosis
@@ -3500,6 +3505,7 @@ domesticación/S
 domesticidad/S
 domestiquez/GS
 dominación/S
+dominancia/S
 dominante/Sts
 domingada/S
 domínica/S
@@ -4472,6 +4478,7 @@ feria/S
 fermata/S
 fermentación/S
 ferocidad/S
+feromona/S
 ferrería/S
 ferretería/S
 ferrita/S
@@ -4487,6 +4494,7 @@ fiambrera/S
 fianza/Sf
 fibra/S
 fibrina/S
+fibroblasto/S
 ficción/S
 ficha/Sm
 fidelidad/kS
@@ -4883,6 +4891,7 @@ generalización/S
 generosidad/S
 genialidad/S
 genista/S
+genómica/S
 gentecilla/S
 gente/S
 gentileza/S
@@ -6210,6 +6219,7 @@ lírica/S
 lisera/S
 lisiadura/S
 lisimaquia/S
+lisina/S
 lisis
 lisonja/S
 lista/S
@@ -7678,6 +7688,7 @@ otorrea/S
 otoscopia/S
 ovación/S
 oveja/S
+ovulación/S
 oxiacanta/S
 oxidación/S
 oxigenación/S
