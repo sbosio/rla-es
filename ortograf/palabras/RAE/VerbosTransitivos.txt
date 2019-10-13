@@ -769,7 +769,7 @@ clarificar/REDÀÁA
 clausular/RED
 clausurar/REDÀ
 clavetear/RED
-climatizar/RED
+climatizar/REDA
 clisar/RED
 clonar/REDÀA
 cloquear/RED
@@ -801,7 +801,7 @@ colegir/XD
 colicuecer/IRD
 colimar/REDA
 colmatar/RED
-colonizar/REDÀÁ
+colonizar/REDÀÁAh
 colorar/gREDA
 columbrar/RED
 comandar/REDÀ
@@ -982,7 +982,7 @@ deflegmar/RED
 deforestar/RED
 defraudar/REDÀÁÂ
 degollar/IRDÀÁÂÄ
-degustar/REDÀ
+degustar/REDÀA
 dehesar/RED
 delegar/REDÀÂÄ
 deliberar/RED
@@ -1003,7 +1003,7 @@ deparar/REDÁÂÆ
 deplorar/REDÀT
 deportar/REDÁ
 depredar/REDÀ
-derogar/REDÀ
+derogar/REDÀA
 derrabar/RED
 derrocar/REDÀ
 derrochar/REDÀ
@@ -1023,7 +1023,6 @@ desacoplar/RED
 desacorralar/RED
 desacotar/RED
 desacreditar/REDÀÁÂÄ
-desactivar/REDÀ
 desacuartelar/RED
 desadorar/RED
 desadornar/RED
@@ -1128,7 +1127,7 @@ descarburar/RED
 descarrillar/RED
 descaspar/RED
 descastar/RED
-descentralizar/RED
+descentralizar/REDA
 descepar/RED
 descerar/RED
 descercar/RED
@@ -1152,7 +1151,6 @@ descogotar/RED
 descolar/RED
 descolmar/RED
 descolmillar/RED
-descolonizar/RED
 descombrar/RED
 descompaginar/RED
 descompletar/RED
@@ -1554,7 +1552,7 @@ ejecutar/REDÀÁÂÄÌÙT
 ejemplarizar/RED
 ejemplar/RED
 ejemplificar/REDÀÄ
-electrificar/RED
+electrificar/REDA
 electrolizar/RED
 elegir/XDÀÁÂÈT
 elidir/RED
@@ -2192,6 +2190,7 @@ eyacular/REDÁ
 fabricar/REDÀÁÂÄÆ
 fabular/RED
 facilitar/REDÀÁÂÃÄÅÆ
+factorizar/REDA
 facturar/REDÀ
 facultar/REDÆ
 fagocitar/REDÀ
@@ -2321,7 +2320,7 @@ hachar/RED
 halagar/REDÀÁÂÆ
 halar/RED
 harbullar/RED
-harmonizar/RED
+harmonizar/REDA
 harrear/RED
 hebetar/RED
 hebillar/RED
@@ -2564,7 +2563,7 @@ layar/RED
 lazar/RED
 leer/REDÀÁÂÃÄÅÆÌÍÏÙÚø
 legalizar/REDÀÃ
-legar/REDÀÁÂÃÅÆ
+legar/REDÀÁÂÃÅAÆ
 legitimar/REDÀÁ
 legrar/RED
 lenificar/RED
@@ -2593,7 +2592,7 @@ loar/REDT
 lombardear/RED
 losar/RED
 lotear/RED
-lubricar/REDÀ
+lubricar/REDÀA
 lubrificar/RED
 ludir/RED
 luir/IRD
@@ -2810,7 +2809,7 @@ ordeñar/REDÀÄ
 orificar/RED
 orlar/RED
 ornamentar/RED
-orquestar/RED
+orquestar/REDA
 osear/RED
 ostentar/REDÀ
 otear/REDÅ
@@ -2951,7 +2950,7 @@ portazgar/RED
 posibilitar/REDÀÂÆ
 postergar/REDÀÄ
 postilar/RED
-postular/RED
+postular/REDAñ
 potabilizar/REDÀ
 potar/RED
 potenciar/REDÀÄ
@@ -3076,7 +3075,6 @@ rasurar/REDÀÁÂ
 ratear/RED
 ratigar/RED
 ratinar/RED
-reactivar/REDÀ
 reacuñar/RED
 readmitir/REDÀÂ
 reagrupar/REDÀÁÄ
@@ -3188,7 +3186,7 @@ reexpedir/XD
 reexportar/RED
 refigurar/RED
 reflectar/RED
-reforestar/REDÄ
+reforestar/REDÄA
 refreír/XD
 refrendar/REDÀ
 refrentar/RED
@@ -3816,7 +3814,7 @@ zapuzar/RED
 zaquear/RED
 zarabutear/RED
 zaragutear/RED
-zonificar/RED
+zonificar/REDA
 zulacar/RED
 zulaquear/RED
 zumacar/RED

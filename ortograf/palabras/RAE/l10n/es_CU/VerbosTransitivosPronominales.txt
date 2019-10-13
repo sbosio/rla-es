@@ -36,5 +36,4 @@ enyerbar/RED
 espelucar/RED
 hamaquear/RED
 opacar/RED
-postular/REDñ
 premunir/RED

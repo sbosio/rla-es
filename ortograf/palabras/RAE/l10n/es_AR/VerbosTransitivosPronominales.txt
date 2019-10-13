@@ -35,6 +35,5 @@ julepear/RED
 machetear/RED
 opacar/RED
 peluquear/RED
-postular/REDñ
 premunir/RED
 retobar/RED

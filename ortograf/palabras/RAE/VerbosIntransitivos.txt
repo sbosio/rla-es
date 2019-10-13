@@ -481,7 +481,7 @@ fosforecer/IRD
 fosforescer/RED
 fraternizar/RED
 frezar/RED
-fructificar/RED
+fructificar/REDA
 fruir/IRD
 frutar/RED
 frutecer/IRD
@@ -564,7 +564,7 @@ herborizar/RED
 hermanecer/IRD
 herver/RED
 hesitar/RED
-hibernar/RED
+hibernar/REDA
 himpar/RED
 himplar/RED
 hipar/RED
@@ -882,7 +882,7 @@ redundar/RED
 reflorecer/IRD
 refluir/IRD
 refulgir/RED
-refundar/RED
+refundar/REDA
 refunfuñar/RED
 regañir/RED
 regatear/RED

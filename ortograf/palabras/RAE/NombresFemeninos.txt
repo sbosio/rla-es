@@ -48,7 +48,7 @@ absolución/S
 absoluta/S
 absolutidad
 absorbencia/S
-absorción/S
+absorción/Sp
 abstención/S
 abstinencia/S
 abstracción/S
@@ -2752,7 +2752,9 @@ contumacia/S
 contumelia/S
 contundencia/S
 contusión/S
+conurbación/S
 convalecencia/S
+convección/S
 convención/pS
 conveniencia/hkS
 conventualidad/S
@@ -3412,6 +3414,7 @@ disertación/S
 disestesia/S
 disfagia/S
 disformidad/S
+disfunción/S
 disgregación/S
 disidencia/S
 disimilación/S
@@ -4340,6 +4343,7 @@ extinción/S
 extirpación/S
 extorsión/S
 extracción/S
+extradición/S
 extranjería/S
 extraña/S
 extrañeza/S
@@ -5298,6 +5302,7 @@ hipercrisis
 hiperdulía/S
 hiperemia/S
 hiperhidrosis
+hiperinflación/S
 hipermetamorfosis
 hipermetría/S
 hipersensibilidad/S
@@ -5649,7 +5654,7 @@ insatisfacción/S
 inscripción/S
 inseminación/S
 inseparabilidad/S
-inserción/S
+inserción/Sp
 insidia/S
 insignia/S
 insignificancia/S
@@ -6144,6 +6149,7 @@ licitud/kS
 licorera/SL
 licuación/S
 licuadora/S
+licuefacción/S
 lidia/S
 lid/S
 liebrecilla/S
@@ -6876,6 +6882,7 @@ metempsicosis
 metempsícosis
 meteorología/S
 meticulosidad/S
+metilación/S
 metodología/S
 metonimia/S
 metopa/S
@@ -8433,6 +8440,7 @@ pollas/i
 pollera/S
 pollina/S
 poltrón/S
+polución/S
 polvareda/S
 polvera/S
 polvoraduque/S
@@ -10298,6 +10306,7 @@ timpa/S
 tinada/S
 tinaja/S
 tina/nSp
+tinción/S
 tingle/S
 tiniebla/S
 tinola/S

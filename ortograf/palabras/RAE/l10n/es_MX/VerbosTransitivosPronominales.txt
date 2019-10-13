@@ -40,6 +40,5 @@ mallugar/RED
 opacar/RED
 peluquear/RED
 pepenar/RED
-postular/REDñ
 premunir/RED
 retachar/RED

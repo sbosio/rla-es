@@ -182,7 +182,7 @@ compensar/REDÀÁÂÄÆñ
 componer/XÀÁÂÈñöú
 comulgar/RED
 comunicar/REDÀÁÂÃÄÅÆÇÍÙÚÛÜñòôøA
-concertar/IRDÀÁÂñ
+concertar/IRDÀÁÂÅñòAh
 conducir/XDÀÁÂÈÉÊÕÌñóT
 conectar/REDÀÁÂÄÅÆÙñòôT
 confiar/IRDÀÁÂÃÅÆÑÞñòõT
@@ -518,7 +518,7 @@ remontar/REDÀÂñòø
 remostar/RED
 reorientar/RED
 reparar/REDÀÂÄø
-repatriar/REDÀñ
+repatriar/REDÀAñ
 repeler/REDÀñ
 repetir/XDÀÂÃÈÉñóúT
 repicar/REDÀ

@@ -127,7 +127,7 @@ pompear/RED
 posicionar/REDñ
 prevaler/XD
 querellar/REDñ
-radicar/REDñ
+radicar/REDAñ
 ramificar/RED
 ranchear/RED
 rebullir/RED

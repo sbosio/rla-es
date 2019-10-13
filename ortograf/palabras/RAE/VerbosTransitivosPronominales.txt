@@ -96,7 +96,7 @@ acrecentar/IRDÀ
 acreditar/REDÀÂÆ
 acribar/RED
 acrisolar/RED
-activar/REDÀA
+activar/REDÀAhp
 actualizar/REDÀÁÄTñ
 acuadrillar/RED
 acuartelar/RED
@@ -511,7 +511,7 @@ causar/REDÀÂÅÆñò
 cautelar/RED
 celar/RED
 cementar/RED
-centralizar/RED
+centralizar/REDA
 centuplicar/RED
 ceñir/XDÀÊñóú
 cepillar/REDÂÄñø
@@ -776,7 +776,6 @@ descolorar/RED
 descompensar/RED
 descomponer/Xñ
 desconceptuar/IRD
-desconcertar/IRDÂÅñò
 desconchabar/RED
 desconchar/RED
 descongestionar/RED
@@ -1001,7 +1000,6 @@ despoblar/IRD
 despojar/REDÄÆñòô
 despolitizar/RED
 despolvar/RED
-despopularizar/RED
 desportillar/RED
 desposar/REDÁñ
 desprender/REDÄñò
@@ -1067,7 +1065,7 @@ dirigir/REDÀÁÄÅÆñòôøT
 disciplinar/REDÀÁñ
 disculpar/REDÀÁÄÅÍÙÚñòôø
 disecar/REDT
-diseminar/RED
+diseminar/REDA
 disformar/RED
 disfrazar/REDÀÁÄÅñò
 disgregar/REDÁñ
@@ -1593,7 +1591,7 @@ guardar/REDÀÁÂÃÄÅÆÌÙÚñòôøT
 guiar/IRDÀÁÂÄÅÆÑñòõù
 guindar/RED
 guisar/REDÀÌ
-habilitar/REDÀÆ
+habilitar/REDÀÁÂÆAñpk
 habituar/IRDÁÅñò
 hacendar/IRD
 hacinar/REDÀ
@@ -1657,7 +1655,6 @@ infiltrar/REDÀÁÂñ
 inflamar/RED
 inflar/REDÀñ
 ingeniar/REDÁÃÇñ
-inhabilitar/REDÀÁÂñ
 inhibir/REDÀÁÄñ
 iniciar/REDÀÁÄÅÆñò
 injerir/XD
@@ -1671,7 +1668,7 @@ inquietar/REDÀÁÂÅñò
 inquinar/RED
 inscribir/REÀÁÂÄñTnòôø
 insensibilizar/REDÀ
-insertar/REDÀÁÂÄñ
+insertar/REDÀÁÂÄñòôøp
 insinuar/IRDÀÁÂÃÅÆñò
 insolar/RED
 insolentar/RED
@@ -1685,7 +1682,7 @@ integrar/REDÀÁÂÄñòø
 intensar/RED
 intensificar/REDÀ
 interiorizar/REDÀÁÂ
-internar/REDÀÁÄÅñò
+internar/REDÀÁÄÅAñò
 interponer/Xñ
 intimidar/REDÀÁÂñ
 intitular/RED
@@ -1728,7 +1725,7 @@ leudar/RED
 levantar/REDÁÀÄÂÌñòôø
 lexicalizar/RED
 liar/IRDñòõ
-liberalizar/RED
+liberalizar/REDA
 liberar/REDÀÁÄñòôø
 libertar/REDñ
 librear/RED
@@ -1792,14 +1789,14 @@ mesar/RED
 mesurar/RED
 metalizar/RED
 metamorfosear/RED
-meteorizar/RED
+meteorizar/REDA
 meter/REDÀÁÂÇÌÏñòôø
 mezclar/REDÁñòøT
 mimbrar/RED
 mimetizar/REDñ
 mineralizar/RED
 minorar/RED
-mitigar/REDÀ
+mitigar/REDÀA
 mocar/RED
 modelar/REDÄñ
 moderar/RED
@@ -1888,7 +1885,7 @@ plantear/REDÃÄÆñòø
 plantificar/RED
 plegar/IRDñT
 politizar/REDÀ
-popularizar/RED
+popularizar/REDAh
 portear/RED
 poseer/hREDÀÄÅÌñò
 posesionar/REDñ
@@ -1912,7 +1909,7 @@ procurar/REDÂÃÄÆñø
 prodigar/REDñ
 producir/XDÀÁÈÉñóT
 proferir/XDÀ
-profesionalizar/REDñ
+profesionalizar/REDAñ
 programar/REDÀñT
 prolongar/REDÀÂÄÆ
 promocionar/REDÀÂñ
@@ -2012,12 +2009,10 @@ reglar/RED
 regocijar/REDÁñò
 reguardar/RED
 regularizar/RED
-rehabilitar/REDÀÂñ
 rehacer/XÀÁñ
 rehartar/RED
 rehumedecer/IRD
 reincorporar/REDÀÁñ
-reinsertar/REDñòôø
 reinstalar/REDÀñ
 reintegrar/REDÀÁÂñ
 reiterar/REDÀÁÂÆñò
