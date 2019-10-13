@@ -2735,10 +2735,12 @@ carate/S
 caravanero/S
 caráis		# Plural de caray
 caray
+carbohidrato/S
 carbonato/Se
 carboncillo/S
 carboneo/S
 carbón/NS
+carbonilo/S
 carbono/S
 carborundo/S
 carbunclo/S
@@ -5622,6 +5624,7 @@ estéril/S
 esternón/S
 esterol/S
 estero/S
+esteroide/S
 esterquero/S
 esterquilinio/S
 ester/S
@@ -5725,6 +5728,7 @@ eterismo/S
 eterno/S
 éter/S
 etesio/S
+etileno/S
 etilo/S
 etíope/S
 etmoides
@@ -6013,6 +6017,7 @@ fluido/S
 flujo/Skap
 flúor
 fluorescente/S
+fluoruro/S
 flux/S
 foco/S
 fogaje/S
@@ -6365,6 +6370,7 @@ glotón/S
 glucógeno/S
 glucósido/S
 gluon/S
+glutamato/S
 gluten/S
 glúteo/S
 gneis
@@ -8598,6 +8604,7 @@ monotelismo/S
 monote/S
 monotipo/S
 monotrema/S
+monóxido/S
 monseñor/S
 monstruo/S
 montacargas
@@ -9746,6 +9753,7 @@ pepe/S
 pepinar/S
 pepino/NS
 peplo/S
+péptido/S
 pequinés/S
 peralejo/S
 peral/S

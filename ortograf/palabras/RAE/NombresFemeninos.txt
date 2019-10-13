@@ -2135,6 +2135,7 @@ cesta/S
 cestería/S
 cesura/S
 cetaria/S
+cetona/S
 cetrería/S
 ch
 chabacanada/S
@@ -2953,6 +2954,7 @@ cristianización/S
 crítica/S
 criticidad/S
 cromatina/S
+cromatografía/S
 cromosfera/S
 cromotipia/S
 crónica/S
@@ -3515,6 +3517,7 @@ doncella/MS
 donosidad/S
 donosura/S
 doña/S
+dopamina/S
 dorada/SN
 doradura/S
 dormida/S
@@ -5336,8 +5339,10 @@ hirundinaria/S
 hisca/S
 hisopadura/S
 hispanidad/S
+histamina/S
 histeria/S
 histología/S
+histona/S
 historia/nS
 historicidad/S
 historieta/S
@@ -6404,6 +6409,7 @@ macicez/S
 macis
 macona/S
 macrocefalia/S
+macromolécula/S
 macsura/S
 macuba/S
 macuca/S
@@ -10343,6 +10349,7 @@ tirela/S
 tireta/S
 tiritera/S
 tirona/S
+tirosina/S
 tirria/S
 tisana/S
 tisera/S

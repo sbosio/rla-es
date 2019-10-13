@@ -2184,6 +2184,7 @@ carbonero/GS
 carbónico/GS
 carbonífero/GS
 carbonoso/GS
+carboxílico/GS
 carbuncoso/SG
 carcamal/S
 carca/S
