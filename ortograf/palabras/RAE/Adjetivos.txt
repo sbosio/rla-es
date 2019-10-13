@@ -2322,6 +2322,7 @@ categórico/GS
 catenario/GS
 catenular/S
 catilinaria/S
+catódico/GS
 católico/SG
 catoniano/GS
 catorceavo/GS
@@ -8758,6 +8759,7 @@ neutralizador/GS
 neutro/SG
 nevado/GS
 nevoso/GS
+newtoniana/GS
 nicaragüense/S
 niceno/GS
 nicomediense/S

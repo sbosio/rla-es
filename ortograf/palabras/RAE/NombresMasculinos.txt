@@ -2538,6 +2538,7 @@ callo/S
 calmazo/S
 calomelanos
 calomel/S
+calórico/S
 calorífero/S
 calorímetro/S
 caló/S
@@ -8199,6 +8200,7 @@ medro/Sh
 megáfono/S
 megalito/S
 megaterio/S
+megavatio/S
 mejicanismo/S
 mejillón/S
 mejoramiento/Sh
@@ -10717,6 +10719,7 @@ radicalismo/S
 radical/SO
 radiocasete/S
 radiograma/S
+radioisótopo/S
 radiolario/S
 radiorreceptor/S
 radio/S

@@ -6364,6 +6364,7 @@ lumbrera/aS
 lumbrerada/S
 lumbre/S
 lumia/S
+luminancia/S
 luminaria/Sk
 luminiscencia/S
 luminosidad/S
@@ -8563,6 +8564,7 @@ precariedad/S
 precaución/S
 precedencia/S
 preceptiva/S
+precesión/S
 preciosa/S
 preciosidad/S
 precipitación/S
