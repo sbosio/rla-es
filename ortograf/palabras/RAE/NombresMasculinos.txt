@@ -2837,6 +2837,7 @@ cartapacio/S
 cartazo/S
 carteado/S
 cartel/S
+cártel/S
 cárter/S
 cartesianismo/S
 cartílago/S

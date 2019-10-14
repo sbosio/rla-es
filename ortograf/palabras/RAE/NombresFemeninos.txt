@@ -4926,7 +4926,7 @@ ges
 gestación/S
 gesta/S
 gesticulación/S
-gestión/fSk
+gestión/fSkd
 giba/S
 gibosidad/S
 giganta/MS
@@ -7619,6 +7619,7 @@ oniromancia/S
 onomástica/S
 onomatopeya/S
 onoquiles
+ontología/S
 onza/S
 opacidad/S
 opalescencia/S
