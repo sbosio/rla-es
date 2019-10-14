@@ -12406,6 +12406,7 @@ tatuaje/S
 taxímetro/S
 taxi/S
 taxón/S
+táxones # Plural irregular de taxón
 tazón/S
 té
 teatro/S
