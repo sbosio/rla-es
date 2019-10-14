@@ -3853,6 +3853,7 @@ cortaviento/S
 cortejo/S
 corte/S
 cortes/S
+córtex
 corticoide/S
 cortijo/S
 cortinaje/S
@@ -5707,6 +5708,7 @@ estridor/S
 estrinque/S
 estrobo/S
 estrofanto/S
+estrógeno/S
 estroncio/S
 estropajo/S
 estropicio/S
@@ -8329,6 +8331,7 @@ mestal/S
 mestizaje/S
 mesto/S
 metabolismo/S
+metabolito/S
 metacarpo/S
 metacentro/S
 metalario/S

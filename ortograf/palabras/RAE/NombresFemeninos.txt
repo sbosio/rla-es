@@ -1269,6 +1269,7 @@ biga/S
 bignoniácea/S
 bigornia/S
 bilis
+bilirrubina/S
 billalda/S
 billarda/S
 billa/S
@@ -4254,6 +4255,7 @@ eta/S
 eternidad/S
 ética/S
 etimología/S
+etiología/S
 etiqueta/S
 etites
 etnia/S
@@ -5336,10 +5338,12 @@ hipófisis
 hipoglucemia/S
 hipoteca/S
 hipotecnia/S
+hipotensión/S
 hipotenusa/S
 hipotermia/S
 hipótesis
 hipotiposis
+hipoxia/S
 hirundinaria/S
 hisca/S
 hisopadura/S
@@ -8691,6 +8695,7 @@ profundidad/S
 profundización/S
 progenie/S
 progenitura/S
+progesterona/S
 progne/S
 prognosis
 programación/S

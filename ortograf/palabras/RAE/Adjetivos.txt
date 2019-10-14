@@ -2198,6 +2198,7 @@ cárdeno/GS
 cardíaco/SG
 cardinal/S
 cardiotónico/SG
+cardiovascular/S
 careador/S
 carencial/S
 carente/S
@@ -8756,6 +8757,8 @@ nestoriano/SG
 neto/GS
 neumático/GS
 neuquino/GS
+neural/S
+neurálgico/GS
 neuroendocrino/GS
 neurológico/GS
 neuronal/S
