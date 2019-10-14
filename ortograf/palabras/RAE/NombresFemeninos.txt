@@ -1420,6 +1420,7 @@ boya/S
 boyera/S
 boza/S
 bráctea/S
+bractéola/S
 bradicardia/S
 bradilalia/S
 bradipepsia/S
@@ -3336,6 +3337,7 @@ diatriba/S
 dicacidad/S
 dicción/Sn
 dicha/Sh
+dicotiledóneas
 dicotomía/S
 dictadura/S
 diéresis
@@ -4184,6 +4186,7 @@ estimación/S
 estima/dSh
 estimativa/S
 estipticidad/S
+estípula/S
 estipulación/S
 estirada/S
 estira/S
@@ -4930,6 +4933,7 @@ gilipollez/S
 gillete/S
 gimnasia/S
 gimnástica/S
+gimnospermas
 ginebra/S
 ginesta/S
 giobertita/S
@@ -4956,6 +4960,7 @@ glotonería/S
 glucemia/S
 glucina/S
 glucosa/S
+gluma/S
 glutinosidad/S
 gnomónica/S
 gobernabilidad/S
@@ -6177,6 +6182,7 @@ ligamaza/S
 liga/NS
 ligazón/S
 ligereza/S
+lígula/S
 lija/S
 lijadora/S
 lilac/S
@@ -7095,6 +7101,7 @@ monición/nS
 monitorización/S
 monja/S
 monjita/S
+monocotiledóneas
 monodia/S
 monogamia/S
 monografía/S

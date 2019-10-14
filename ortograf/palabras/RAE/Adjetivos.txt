@@ -1987,6 +1987,7 @@ cada
 cadavérico/GS
 cadencioso/GS
 cadente/gS
+caducifolio/GS
 caduco/SG
 caedizo/GS
 café/S
@@ -2070,6 +2071,7 @@ camboyano/GS
 cámbrica/n
 cámbrico/nGS
 camelador/GS
+camélido/S
 camelotado/SG
 camero/SG
 camerunés/SG
@@ -3977,6 +3979,7 @@ dicho/rSGbp
 dichoso/GS
 diciente/S
 diclino/GS
+dicotiledóneo/GS
 dicótomo/SG
 dicroico/GS
 dictaminador/SG
@@ -4161,6 +4164,7 @@ disruptivo/GS
 distal/S
 distante/S
 distensible/S
+dístico/GS
 distinguible/kS
 distinguido/GS
 distinta/k
@@ -4734,6 +4738,7 @@ epidemial/S
 epidémico/SG
 epidérmico/GS
 epifito/SG
+epífito/GS
 epigástrico/GS
 epigeo/GS
 epigramatario/GS
@@ -5936,6 +5941,7 @@ gilí/S
 gilito/S
 gimnástico/GS
 gímnico/GS
+gimnospermo/GS
 girador/GS
 girante/S
 giratorio/GS
@@ -6393,6 +6399,7 @@ homeotermo/GS
 homérico/SG
 homicida/S
 hominal/S
+homínido/GS
 homocerca/S
 homogéneo/GS
 homólogo/SG
@@ -8401,6 +8408,7 @@ monitorio/nSG
 monjil/S
 mono/GS
 monocasco/S
+monocotiledóneo/GS
 monocromático/GS
 monocromo/GS
 monocular/S
@@ -11827,6 +11835,7 @@ superfluo/GS
 superior/GS
 superlativo/GS
 superno/GS
+súpero/GS
 supersticioso/GS
 superventas
 supervisor/SG
@@ -12133,6 +12142,7 @@ tetona/S
 tetrabranquial/S
 tetragonal/S
 tetrágono/S
+tetrápodo/GS
 tétrico/GS
 tetuda/S
 teucro/GS

@@ -1195,6 +1195,7 @@ arbolete/S
 arbolillo/S
 árbol/S
 arbotante/S
+arboreto/S
 arbusto/S
 arcabucero/S
 arcabuzazo/S
@@ -1247,6 +1248,7 @@ argumento/Sv
 árido/S
 arienzo/S
 ariete/S
+arilo/S
 arísaro/S
 aristarco/S
 aristino/S
@@ -2570,6 +2572,7 @@ cambráis		# Plural de cambray
 cambray
 cambur/S
 camelete/S
+camélidos
 camelio/S
 camellero/S
 camellón/S
@@ -3401,6 +3404,7 @@ clorato/S
 clorhidrato/S
 cloroformo/S
 cloro/S
+cloroplasto/S
 cloruro/S
 club/S
 clubs
@@ -5536,6 +5540,7 @@ esponjado/S
 esponsales
 esporangio/S
 esporidio/S
+esporofito/S
 esporozoo/S
 esportillero/S
 esportillo/S
@@ -6009,6 +6014,7 @@ florete/S
 florilegio/S
 florín/S
 floripondio/S
+flósculo/S
 flotador/S
 flotamiento/S
 flote/S
@@ -6030,6 +6036,7 @@ folclor/S
 folgo/S
 folículo/S
 folíolo/S
+foliolo/S
 folio/S
 follador/S
 follaje/S
@@ -6238,6 +6245,7 @@ gambeto/S
 gambito/S
 gamello/S
 gameto/S
+gametofito/S
 gamitido/S
 gamonal/SO
 gamo/S
@@ -6883,6 +6891,7 @@ homicidio/S
 homicillo/S
 homiliario/S
 hominicaco/S
+homínidos
 honcejo/S
 honda/H
 hondero/S
@@ -12490,6 +12499,7 @@ teñido/S
 teocali/S
 teodolito/S
 teorema/S
+tépalo/S
 tepe/S
 tequila/S
 terbio/S
@@ -12560,6 +12570,7 @@ tetradracma/S
 tetraedro/S
 tetrágono/S
 tetragrama/S
+tetrápodos
 tetrarca/S
 teucali/S
 teucrio/S
@@ -13488,6 +13499,7 @@ whisky # Extranjerismo no adaptado
 whiskys # Extranjerismo no adaptado
 wolframio
 xenón
+xilema/S
 xilófono/S
 yacedor/S
 yacente/S
