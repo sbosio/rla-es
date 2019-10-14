@@ -2627,6 +2627,7 @@ candilejo/S
 candilero/S
 candil/HNS
 candor/S
+canecillo/S
 canelar/S
 canela/S
 canelero/S
@@ -2874,6 +2875,7 @@ caserío/S
 caserón/S
 cases
 casete/S
+casetón/S
 casillero/S
 casiller/S
 casimir/S
@@ -4651,6 +4653,7 @@ domingo/SN
 dominguejo/S
 dominio/dfsSn
 dominó/S
+domo/S
 dompedro/S
 donaire/S
 donatario/S
@@ -5834,6 +5837,7 @@ fajamiento/S
 fajardo/S
 fajero/S
 fajín/S
+fajón/S
 falangismo/S
 falconete/S
 falcón/S
@@ -6373,6 +6377,7 @@ glamours
 glasé/S
 glasto/S
 glauco/S
+glifo/S
 globo/S
 glóbulo/S
 gloriapatri/S
@@ -7779,6 +7784,7 @@ lumínico/S
 lunario/S
 lunar/S
 lunes
+luneto/S
 lunfardismo/S
 lunfardo/S
 lupanar/S
@@ -9095,6 +9101,7 @@ octópodo/S
 octosílabo/S
 octubre
 ocular/S
+óculo/S
 ocultismo/S
 odeón/S
 odio/Si
@@ -12826,6 +12833,7 @@ transatlántico/S
 transbordador/S
 transcendentalismo/S
 transductor/S
+transepto/S
 transexualismo/S
 transformador/S
 transformamiento/S

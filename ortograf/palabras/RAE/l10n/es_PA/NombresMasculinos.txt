@@ -58,6 +58,7 @@ draque/S
 empacamiento/S
 encasquillador/S
 escobilleo/S
+fajón/S
 fierro/S
 fólder/S
 frijol/S

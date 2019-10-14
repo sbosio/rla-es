@@ -808,9 +808,11 @@ arpía/S
 arpillera/S
 arqueada/S
 arqueología/S
+arquería/S
 arqueta/S
 arquimesa/S
 arquitectura/S
+arquivolta/S
 arracacha/S
 arrancada/S
 arrancadera/S
@@ -4944,6 +4946,7 @@ giralda/NS
 girándula/S
 gira/S
 giratoria/S
+girola/S
 gitanada/S
 gitanería/S
 glaciación/S
