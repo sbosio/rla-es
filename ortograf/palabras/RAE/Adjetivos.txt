@@ -6321,6 +6321,7 @@ hidrográfico/GS
 hidrológico/GS
 hidrópico/GS
 hidrostático/GS
+hidrotermal/S
 hiemal/S
 hierático/GS
 hierosolimitano/GS
@@ -7209,6 +7210,7 @@ juvenil/S
 juzgador/SG
 kaki/S
 kantiano/GS
+kárstico/GS
 kazajo/GS
 kazako/GS
 keniano/GS

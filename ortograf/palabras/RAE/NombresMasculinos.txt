@@ -8380,6 +8380,7 @@ micho/S
 mico/S
 microbio/S
 microchip/S
+microclima/S
 microcosmo
 micrófono/S
 micrómetro/S
