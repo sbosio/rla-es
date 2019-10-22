@@ -1886,6 +1886,7 @@ brindador/GS
 brioso/SG
 briscado/GS
 británico/GS
+britano/GS
 briznoso/GS
 brocense/S
 brochada/i
@@ -1937,6 +1938,7 @@ burdeos
 burdo/GS
 burgalés/SG
 burgués/SG
+burgundio/GS
 buriel/S
 burlador/GS
 burlesco/GS
@@ -2535,6 +2537,7 @@ chaquetero/GS
 charanguero/SG
 charlador/SG
 charlatán/GS
+charrúa/S
 chárter
 chasqueador/SG
 chato/GS
@@ -3956,6 +3959,7 @@ diáfano/SG
 diaforético/GS
 diagnóstico/SG
 diagonal/S
+diaguita/S
 dialectal/S
 dialéctico/GS
 dialogal/S
@@ -5445,6 +5449,7 @@ feriante/S
 ferino/SG
 fermentador/SG
 fermentativo/GS
+feroés/GS
 feroz/S
 férreo/GS
 férrico/GS
@@ -5664,6 +5669,7 @@ francés/SG
 franciscano/SG
 francisco/GS
 franco/GS
+francófono/GS
 francote/SG
 franqueable/kS
 franquiciado/GS
@@ -6509,6 +6515,8 @@ husita/S
 husmeador/GS
 ibérico/SG
 iberio/GS
+íbero/GS
+ibero/GS
 iberoamericano/GS
 ibicenco/GS
 icario/GS
@@ -7068,6 +7076,7 @@ israelita/S
 italianófilo/GS
 italiano/GS
 itálica/S
+itálico/GS
 italicense/S
 italorrománico/GS
 iterativa/p
@@ -7853,6 +7862,7 @@ manchadizo/GS
 manchado/GS
 manchego/GS
 manchoso/GS
+manchú/S
 manco/SG
 mandadero/SG
 mandante/gS
@@ -7912,6 +7922,7 @@ mañanero/GS
 mañero/GS
 maño/GS
 mañoso/SG
+maorí/S
 mapuche/S
 maquiavelista/S
 maquilero/GS
@@ -8271,6 +8282,7 @@ mínimo/SG
 ministerial/S
 ministrador/sSG
 ministrante/S
+minoico/GS
 minorativo/SG
 minorista/S
 minoritario/GS
@@ -8313,6 +8325,7 @@ mitigador/GS
 mitigativo/GS
 mitigatorio/GS
 mitológico/GS
+mixteco/GS
 mixtilíneo/GS
 mixto/SG
 mixturero/GS
@@ -9768,6 +9781,7 @@ pionero/GS
 pión/G
 pion/S
 pipa/S
+pipil/S
 piramidal/S
 pirata/S
 pirático/GS
@@ -10505,6 +10519,7 @@ ramoso/GS
 rampante/S
 ranchero/GS
 rancio/SG
+ranquel/S
 ranunculáceo/GS
 ranurado/GS
 rapador/SG
@@ -10977,6 +10992,7 @@ romancesco/GS
 romanche/S
 romancista/S
 romanesco/GS
+romaní/S
 románico/SG
 romanista/S
 romano/nSG
@@ -11735,6 +11751,7 @@ soterraño/GS
 soviético/GS
 sport/S
 su
+suajili/S
 suarista/S
 suave/kS
 suavizador/GS
@@ -11822,6 +11839,7 @@ sumario/GS
 sumarísimo/GS
 sumergible/kS
 sumergido/SG
+sumerio/GS
 suministrador/GS
 sumisa/k
 sumiso/GkS
@@ -12253,6 +12271,7 @@ tópico/GS
 topino/GS
 topográfico/GS
 topológico/GS
+toponímico/GS
 topo/GS
 torácico/GS
 toral/S
@@ -12552,6 +12571,7 @@ truhanesco/GS
 truhan/S
 trujillano/GS
 tu
+tuareg/S
 tuberculosa/c
 tuberculoso/GSc
 tuberoso/GS
@@ -12689,6 +12709,7 @@ urbanista/S
 urbanístico/SG
 urbano/ksGSl
 urdidor/SG
+urdu/S
 urente/S
 uretral/S
 urgabonense/S
@@ -13103,6 +13124,7 @@ yesero/GS
 yesoso/GS
 yibutiano/GS
 yodado/GS
+yucateco/GS
 yuglandáceo/GS
 yugoslavo/SG
 yunto/SG

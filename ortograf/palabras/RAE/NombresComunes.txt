@@ -170,6 +170,7 @@ carrerista/S
 cartelista/S
 carterista/S
 cascarrabias
+casita/S
 casticista/S
 casualista/S
 catacaldos
@@ -193,6 +194,7 @@ chabolista/S
 chancleta/S
 chantajista/S
 chapa/SU
+charrúa/S
 chinche/S
 chota/S
 cicerone/S
@@ -289,6 +291,7 @@ déspota/S
 destajista/S
 destripacuentos
 detective/S
+diaguita/S
 dialoguista/S
 diamantista/S
 dibujante/S
@@ -488,12 +491,14 @@ maleta/S
 maltrabaja/S
 mamarrachista/S
 manazas
+manchú/S
 mandante/gS
 mandria/S
 mangante/S
 manifestante/S
 maniquí/S
 mano/S
+maorí/S
 maquinista/S
 marchante/S
 marmolista/S
@@ -624,6 +629,7 @@ pincerna/S
 pinchadiscos
 pinche/S
 pintamonas
+pipil/S
 pirata/S
 pobre/S
 poderdante/S
@@ -672,6 +678,7 @@ radio/S
 radiotelefonista/S
 radiotelegrafista/S
 radioyente/S
+ranquel/S
 rapsoda/S
 rascatripas
 rata/S
@@ -699,6 +706,7 @@ reventa/S
 ritualista/S
 romancerista/S
 romancista/S
+romaní/S
 rompegalas
 rompenecios
 rompepoyos
@@ -808,6 +816,7 @@ trotacalles
 trotamundos
 trovista/S
 trucha/S
+tuareg/S
 tufillas
 tumbacuartillos
 tumbaollas

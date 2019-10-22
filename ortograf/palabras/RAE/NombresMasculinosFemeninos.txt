@@ -292,6 +292,7 @@ braco/GS
 brasilero/GS
 breve/S
 briago/GS
+britano/GS
 brujo/GS
 bruto/GS
 bucólico/GS
@@ -301,6 +302,7 @@ bufón/GS
 buhonero/GS
 buitrero/GS
 burgués/GS
+burgundio/GS
 burlón/GS
 butifarrero/GS
 cabecero/GS
@@ -835,6 +837,7 @@ fautor/GS
 favorito/GS
 feligrés/GS
 fénix
+feroés/GS
 ferretero/GS
 festivalero/GS
 fiador/GS
@@ -866,6 +869,7 @@ fosforero/GS
 fotógrafo/GS
 francés/GS
 franchute/GS
+francófono/GS
 francotirador/GS
 frente/S
 fresco/GS
@@ -1007,6 +1011,8 @@ huerco/GS
 huésped/GS
 huevero/GS
 hulano/GS
+íbero/GS
+ibero/GS
 ideólogo/GS
 iluminador/GS
 ilustrado/GS
@@ -1033,6 +1039,7 @@ interventor/GS
 invertido/GS
 invitado/GS
 isleño/GS
+itálico/GS
 jabonero/GS
 jaecero/GS
 jardinero/GS
@@ -1222,6 +1229,7 @@ mimbrero/GS
 minero/GS
 mínimo/GS
 ministro/GS
+minoico/GS
 minusválido/GS
 mirado/GS
 misántropo/GS
@@ -1229,6 +1237,7 @@ misio/GS
 misionero/GS
 místico/GS
 mitólogo/GS
+mixteco/GS
 mochilero/GS
 mocho/GS
 moderador/GS
@@ -1717,6 +1726,7 @@ substituto/GS
 suegro/fGS
 suizo/GS
 sulfatador/GS
+sumerio/GS
 supernumerario/GS
 suplicacionero/GS
 suplicatorio/GS
@@ -1932,6 +1942,7 @@ votador/GS
 wifi/S
 yayo/GS
 yesero/GS
+yucateco/GS
 yunque/S
 zagal/GS
 zaga/S

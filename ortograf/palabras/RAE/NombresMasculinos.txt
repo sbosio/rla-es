@@ -2267,6 +2267,7 @@ brindis
 brinquiño/S
 brío/S
 briscado/S
+britano/S
 brocado/SN
 brocal/S
 brocamantón/S
@@ -2342,6 +2343,7 @@ bureo/S
 burgomaestre/S
 burgrave/S
 burgraviato/S
+burgundio/S
 buriel/S
 buril/S
 burí/S
@@ -3155,6 +3157,7 @@ charco/S
 charlatanismo/S
 charolista/S
 charol/S
+charrúa/S
 chárter
 chartreuse/S
 chascarro/SN
@@ -5921,6 +5924,7 @@ ferial/S
 fermento/S
 fermión/S
 ferodo/S
+feroés/S
 ferrador/S
 ferrero/S
 ferrete/S
@@ -7006,6 +7010,8 @@ husmo/S
 huso/SN
 ibérico/S
 iberismo/S
+íbero/S
+ibero/S
 ibis
 icaco/S
 iceberg/S
@@ -7192,6 +7198,7 @@ ISSN
 istmo/S
 italianismo/S
 italiano/S
+itálico/S
 italorrománico/S
 ítem
 ítems
@@ -7950,6 +7957,7 @@ manantial/S
 manatí/S
 manato/S
 mancamiento/S
+manchú/S
 manco/S
 mandamiento/Sh
 mandato/S
@@ -8014,6 +8022,7 @@ manuscrito/S
 manutigio/S
 manzanar/S
 manzano/NS
+maorí/S
 mapache/S
 mapamundi/S
 mapuche/S
@@ -8440,6 +8449,7 @@ minio/S
 ministerialismo/S
 ministerio/S
 ministrante/S
+minoico/S
 minorita/S
 minuendo/S
 minué/S
@@ -8491,6 +8501,7 @@ mitón/S
 mitote/S
 mitridatismo/S
 mitridato/OS
+mixteco/S
 mixtifori/S
 mixto/S
 mizo/S
@@ -10010,6 +10021,7 @@ pío/S
 pipirigallo/S
 pipiripao/S
 pipí/S
+pipil/S
 piporro/S
 pipote/S
 piquero/S
@@ -10782,6 +10794,7 @@ rancio/S
 rancor/S
 rango/S
 rano/S
+ranquel/S
 ranúnculo/S
 raño/S
 rap/S
@@ -11346,6 +11359,7 @@ romanador/S
 romanato/S
 romance/SN
 romanero/S
+romaní/S
 romanismo/S
 román/NS
 romanticismo/nS
@@ -12121,6 +12135,7 @@ soviet/S
 sóviet/S
 stand
 stands
+suajili/S
 suarismo/S
 suavizador/S
 suavizante/S
@@ -12188,6 +12203,7 @@ suma/S
 sumatorio/S
 sumergible/S
 sumergimiento/S
+sumerio/S
 sumidero/S
 sumiller/S
 suministro/S
@@ -12718,6 +12734,7 @@ tope/S
 topetazo/S
 tópico/S
 topless
+toponímico/S
 topónimo/S
 topo/S
 top/S
@@ -13048,6 +13065,7 @@ truquero/S
 truque/S
 truquiflor/S
 tsunami/S
+tuareg/S
 tubérculo/S
 tubo/S
 tuciorismo/S
@@ -13144,6 +13162,7 @@ urato/S
 urbanismo/S
 urbano/Ss
 urdidor/S
+urdu/S
 uréter/S
 urinario/S
 uro/aS
@@ -13545,6 +13564,7 @@ yogur/S
 yoqueis			# Plural de yóquey
 yóquey
 yoruba
+yucateco/S
 yudo
 yugo/S
 yuguero/S
