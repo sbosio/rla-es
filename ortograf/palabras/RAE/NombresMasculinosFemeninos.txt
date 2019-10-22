@@ -66,6 +66,7 @@ agregado/GS
 agricultor/GS
 agrimensor/GS
 agrio/GS
+agrónomo/GS
 aguadero/GS
 aguador/GS
 aguamiel/S
@@ -78,6 +79,7 @@ ahogador/GS
 ahorcado/GS
 ahumado/GS
 ajero/GS
+alamán/GS
 albano/GS
 albarizo/GS
 albergador/GS
@@ -350,7 +352,7 @@ canastillero/GS
 cancel/S
 cancerbero/GS
 canchero/GS
-candidato/GS
+candidato/GSn
 cangrejero/GS
 canijo/GS
 canillero/GS
@@ -477,6 +479,7 @@ cobrador/GS
 cocedero/GS
 cochero/GS
 cocinero/GS
+codirector/GS
 cofrero/GS
 cogedero/GS
 cogedor/GS
@@ -680,6 +683,7 @@ dormilón/GS
 dorsal/S
 dote/S
 dramático/GS
+dramaturgo/GS
 droguero/GS
 dulcero/GS
 dulzainero/GS
@@ -800,6 +804,7 @@ estrellero/GS
 estucador/GS
 estufero/GS
 ético/GS
+etnólogo/GS
 eurodiputado/GS
 europarlamentario/GS
 examinador/GS
@@ -861,6 +866,7 @@ flamenco/GS
 florero/GS
 floricultor/GS
 folclórico/GS
+folklórico/GS
 fontanero/GS
 forjador/GS
 formador/GS
@@ -981,6 +987,7 @@ herido/GS
 hermanastro/GS
 hermano/GS
 herrén/S
+hicso/GS
 hidalgo/GS
 hidráulico/GS
 hijastro/GS
@@ -1220,6 +1227,8 @@ metedor/GS
 meteorólogo/GS
 metido/GS
 mezclador/GS
+micénico/GS
+micólogo/GS
 miércoles
 milhojas
 miliciano/GS
@@ -1256,6 +1265,7 @@ mono/GS
 montado/GS
 montador/GS
 montante/S
+montañero/GS
 monterero/GS
 monterilla/S
 montero/GS
@@ -1274,6 +1284,7 @@ mulato/GS
 muletillero/GS
 muñequero/GS
 músico/GS
+musicólogo/GS
 mutuario/GS
 mutuatario/GS
 nacido/GS
@@ -1332,6 +1343,7 @@ organillero/GS
 ornitólogo/GS
 ortógrafo/GS
 ortopédico/GS
+ostrogodo/GS
 overo/GS
 pacotillero/GS
 paisano/GS
@@ -1714,6 +1726,7 @@ soplón/GS
 sordo/GS
 sortero/GS
 sospechoso/GS
+suevo/GS
 subalterno/GS
 subarrendatario/GS
 subastador/GS
@@ -1760,6 +1773,8 @@ tataranieto/GS
 tau/S
 taumaturgo/GS
 taurino/GS
+taxónomo/GS
+tecladista/S
 teclista/S
 técnico/GS
 teja/S
@@ -1767,6 +1782,7 @@ tejedor/GS
 tejero/GS
 telespectador/GS
 teletrabajador/GS
+telonero/GS
 tema/S
 tembladero/GS
 temblador/GS
@@ -1957,6 +1973,7 @@ zarandero/GS
 zocato/GS
 zoco/GS
 zona/S
+zoólogo/GS
 zoquetero/GS
 zorrero/GS
 zumbón/GS

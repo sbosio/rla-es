@@ -18,4 +18,5 @@ buscapleitos
 conferencista/S
 jaiba/S
 oficialista/S
+panelista/S
 vale/S

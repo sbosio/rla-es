@@ -20,4 +20,5 @@ esgrimista/S
 lustrabotas
 oficialista/S
 pana/S
+panelista/S
 tallerista/S

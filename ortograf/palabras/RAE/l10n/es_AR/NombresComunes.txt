@@ -26,6 +26,7 @@ lustrabotas
 magíster/S
 oficialista/S
 palangana/S
+panelista/S
 pierna/S
 sota/S
 traga/S

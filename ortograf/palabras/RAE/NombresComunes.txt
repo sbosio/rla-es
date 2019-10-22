@@ -114,6 +114,7 @@ baloncestista/S
 bambarria/S
 bandolinista/S
 bandolonista/S
+bañista/S
 base/S
 batería/S
 baterista/S
@@ -180,6 +181,7 @@ catavinos
 catequista/S
 causahabiente/S
 causante/S
+cazatalentos
 celtista/S
 cenobita/S
 centrocampista/S
@@ -196,6 +198,8 @@ chantajista/S
 chapa/SU
 charrúa/S
 chinche/S
+chofer/S
+chófer/S
 chota/S
 cicerone/S
 ciclista/S
@@ -309,6 +313,7 @@ durmiente/S
 ebanista/S
 ecologista/S
 economista/S
+edecán/S
 efraimita/S
 ejecutante/S
 ejercitante/S
@@ -390,10 +395,13 @@ gánster/S
 gatera/S
 genealogista/S
 general/S
+generalista/S
+genetista/S
 gentil/S
 geómetra/S
 germanista/S
 gimnasta/S
+golfista/S
 gomista/S
 gruista/S
 guaicurú/S
@@ -408,6 +416,7 @@ guionista/S
 guiri/S
 guitarra/S
 guitarrista/S
+gurú/S
 hablista/S
 hacendista/S
 hebraísta/S
@@ -469,6 +478,7 @@ laxista/S
 leccionista/fS
 legista/S
 lendakari
+letrista/S
 libelista/S
 librancista/S
 libretista/S
@@ -518,6 +528,7 @@ medievalista/S
 médium
 memorialista/S
 memorista/S
+menchevique/S
 meridional/S
 merodista/S
 metalista/eS
@@ -578,6 +589,7 @@ ofertante/S
 oficial/sS
 oficinista/S
 okupa/S
+olmeca/S
 operista/S
 oposicionista/S
 orate/S
@@ -609,6 +621,7 @@ pastelista/S
 pata/S
 patriota/S
 pediatra/S
+pehuenche/S
 pelma/S
 pelotari/S
 pelota/S
@@ -726,6 +739,7 @@ saltaparedes
 saltimbanqui/S
 sanscritista/S
 sargento/S
+sátrapa/S
 saxo/S
 saxofonista/S
 secante/S
@@ -758,8 +772,10 @@ sumista/S
 superintendente/S
 superrealista/S
 suplefaltas
+surfista/S
 tabaquista/S
 tallista/gS
+taoísta/S
 tarambana/S
 tararira/S
 taxidermista/S
@@ -785,6 +801,7 @@ tiple/S
 tiquismiquis
 tiranicida/S
 titerista/S
+todoterreno/S
 tontaina/S
 tope/S
 toxicómano/GS
@@ -835,6 +852,9 @@ vicegerente/S
 vidente/S
 viejales
 vigilante/S
+vinícola/S
+vitícola/S
+vitivinícola/S
 viola/S
 violinista/S
 violín/S
@@ -863,3 +883,4 @@ zelote/S
 zombi/S
 zopas
 zopitas
+zulú/S

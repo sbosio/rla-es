@@ -10864,6 +10864,7 @@ vecera/S
 vecindad/S
 veda/S
 vedeja/S
+vedete/S
 vedija/S
 vega/S
 vegetabilidad/S

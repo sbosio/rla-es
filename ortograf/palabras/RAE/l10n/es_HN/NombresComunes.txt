@@ -19,5 +19,6 @@ conferencista/S
 cucharón/S
 lustrabotas
 oficialista/S
+panelista/S
 pelis
 yegua/S

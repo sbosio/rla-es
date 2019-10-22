@@ -16,10 +16,12 @@
 
 buscapleitos
 conferencista/S
+edecán/S
 jáquima/S
 lanza/S
 locuaz/S
 menorista/S
 oficialista/S
+panelista/S
 portabandera/S
 yegua/S

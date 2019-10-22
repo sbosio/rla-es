@@ -25,4 +25,5 @@ guache/S
 lustrabotas
 magíster/S
 oficialista/S
+panelista/S
 tallerista/S

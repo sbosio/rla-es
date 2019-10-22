@@ -16,4 +16,6 @@
 
 buscapleitos
 conferencista/S
+edecán/S
 oficialista/S
+panelista/S

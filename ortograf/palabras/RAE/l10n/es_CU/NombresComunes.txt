@@ -24,5 +24,6 @@ guataca/S
 jaiba/S
 maceta/S
 oficialista/S
+panelista/S
 piraña/S
 yegua/S

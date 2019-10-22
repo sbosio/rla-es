@@ -501,6 +501,7 @@ alabeado/GS
 alada/h
 alado/GhS
 alama/S
+alamán/GS
 alambicado/SG
 alanceador/GS
 alangiáceo/GS
@@ -2759,6 +2760,7 @@ codal/S
 codiciador/GS
 codicioso/SG
 codificador/GSgh
+codirector/GS
 coercible/kS
 coercitivo/GS
 coetáneo/SG
@@ -4758,6 +4760,7 @@ epistemológico/GS
 epistolar/S
 epitelial/S
 epizoótico/GS
+epónimo/GS
 equidistante/S
 equilátero/GS
 equilibrada/h
@@ -5594,6 +5597,7 @@ folclórico/GS
 foliáceo/SG
 foliar/S
 folicular/S
+folklórico/GS
 folletinesco/GS
 follonero/GS
 follón/SG
@@ -6316,6 +6320,7 @@ hialino/GS
 hibernizo/GS
 hibleo/GS
 híbrido/GS
+hicso/GS
 hidalgo/GS
 hidatídico/GS
 hidratante/hS
@@ -8127,6 +8132,7 @@ memorativa/pf
 memorativo/pGSf
 memorioso/GS
 memorista/S
+menchevique/S
 mendaz/S
 mendeliano/GS
 mendicante/S
@@ -8231,6 +8237,7 @@ mexicano/GS
 mexica/S
 mezquino/GS
 mi
+micénico/GS
 microbiano/SG
 microbicida/S
 microcéfalo/GS
@@ -8458,6 +8465,7 @@ montado/GS
 montanista/S
 montano/GS
 montante/S
+montañero/GS
 montañés/GS
 montañoso/GS
 montaraz/GS
@@ -9036,6 +9044,7 @@ olímpico/GS
 olivarero/GS
 olivífero/SG
 olivoso/GS
+olmeca/S
 ológrafo/GS
 oloroso/GS
 olvidadizo/SG
@@ -9170,6 +9179,7 @@ ostentador/GS
 ostentativo/GS
 ostentoso/GS
 ostra/S
+ostrogodo/GS
 osudo/GS
 osuno/SG
 oteador/SG
@@ -9514,6 +9524,7 @@ pedunculado/GS
 pegadizo/GS
 pegajoso/GS
 pegaseo/GS
+pehuenche/S
 peinado/GS
 peinador/GS
 pelada/a
@@ -11279,6 +11290,7 @@ satisfactoria/k
 satisfactorio/kGS
 satisfecha/k
 satisfecho/kGS
+sátrapa/S
 saturado/GSk
 saturnal/S
 saturnino/SG
@@ -11756,6 +11768,7 @@ suarista/S
 suave/kS
 suavizador/GS
 suavizante/S
+suevo/GS
 suazi/S
 subclavio/GS
 subdesarrollado/GS
@@ -11976,6 +11989,7 @@ tanor/GS
 tanto/GS
 tanzano/GS
 tao/S
+taoísta/S
 tapado/GS
 tapador/GS
 tapatío/SG
@@ -12031,6 +12045,7 @@ teleósteo/S
 telepático/GS
 telescópico/SG
 televisivo/SG
+telonero/GS
 temático/GS
 tembladero/SG
 temblador/GS
@@ -12170,6 +12185,7 @@ tetrápodo/GS
 tétrico/GS
 tetuda/S
 teucro/GS
+teutón/GS
 texano/GS
 texcocano/GS
 textil/S
@@ -12238,6 +12254,7 @@ tocio/GS
 tocón/GS
 todo/GS
 todopoderoso/SG
+todoterreno/S
 togado/GS
 togolés/GS
 toledano/GS
@@ -12820,6 +12837,7 @@ vecinal/S
 vecino/SGf
 vectorial/S
 vector/S
+vedete/S
 veedor/GS
 vegano/GS
 vegetalista/S
@@ -12995,6 +13013,9 @@ vindicador/GS
 vindicativo/SG
 vindicatorio/GS
 vínico/GS
+vinícola/S
+vitícola/S
+vitivinícola/S
 viniente/S
 vinolento/SG
 vinoso/SG
@@ -13193,6 +13214,7 @@ zorrero/GS
 zorruno/GS
 zote/S
 zozobroso/GS
+zulú/S
 zumbador/GS
 zumbón/GS
 zumoso/GS

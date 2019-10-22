@@ -28,6 +28,7 @@ lenteja/S
 lustrabotas
 oficialista/S
 palangana/S
+panelista/S
 pergenio/S
 pierna/S
 sota/S

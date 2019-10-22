@@ -24,3 +24,4 @@ lustrabotas
 oficialista/S
 palangana/S
 palomilla/S
+panelista/S

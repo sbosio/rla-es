@@ -23,4 +23,5 @@ lustrabotas
 machi/S
 oficialista/S
 palomilla/S
+panelista/S
 tallerista/S

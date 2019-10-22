@@ -19,3 +19,4 @@ conferencista/S
 esgrimista/S
 lustrabotas
 oficialista/S
+panelista/S

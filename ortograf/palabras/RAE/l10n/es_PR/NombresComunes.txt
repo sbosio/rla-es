@@ -19,4 +19,5 @@ conferencista/S
 jaiba/S
 oficialista/S
 pana/S
+panelista/S
 yegua/S

@@ -22,3 +22,4 @@ jeringa/S
 lustrabotas
 oficialista/S
 palomilla/S
+panelista/S

@@ -23,3 +23,4 @@ esgrimista/S
 magíster/S
 oficialista/S
 pana/S
+panelista/S

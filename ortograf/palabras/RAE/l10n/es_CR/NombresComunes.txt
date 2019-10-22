@@ -21,5 +21,6 @@ magíster/S
 oficialista/S
 palangana/S
 panderetas
+panelista/S
 piraña/S
 yegua/S

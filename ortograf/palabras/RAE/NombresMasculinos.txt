@@ -5253,6 +5253,7 @@ epitelioma/S
 epitelio/S
 epíteto/S
 epítome/S
+epónimo/S
 equidna/S
 equilibrio/hS
 equilibrismo/S
@@ -6596,6 +6597,7 @@ gurbión/S
 guro/S
 gurriato/S
 gurrufero/S
+gurú/S
 gurullo/S
 gusano/NS
 gusarapo/S
@@ -8389,6 +8391,7 @@ miasma/S
 miau
 micado/S
 micelio/S
+micénico/S
 micer/S
 michelín/S
 michino/S
@@ -11679,6 +11682,7 @@ satirión/S
 satirio/S
 satis
 sato/S
+sátrapa/S
 saturnismo/S
 saturno/S
 saucegatillo/S
