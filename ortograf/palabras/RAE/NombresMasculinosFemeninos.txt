@@ -338,6 +338,7 @@ californio/GS
 calor/S
 calvo/GS
 camarero/GS
+camarógrafo/GS
 camaronero/GS
 camastrón/GS
 camero/GS
@@ -913,6 +914,7 @@ genitor/GS
 geofísico/GS
 geógrafo/GS
 geólogo/GS
+geopolítico/GS
 gerente/GS
 germán/GS
 germano/GS

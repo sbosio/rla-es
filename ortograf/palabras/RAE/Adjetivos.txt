@@ -5920,6 +5920,7 @@ geofísico/GS
 geográfico/GS
 geológico/GS
 geométrico/GS
+geopolítico/GS
 georgiano/SG
 geraniáceo/GS
 geriátrico/GS

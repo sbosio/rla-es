@@ -3476,6 +3476,7 @@ coladero/S
 colador/S
 colágeno/S
 colchón/S
+coleccionismo/S
 colectivismo/S
 colectivo/S
 colegio/S
@@ -4091,6 +4092,7 @@ cultismo/S
 cultivador/S
 cultivo/S
 culto/OS
+culturismo/S
 cumanagoto/S
 cumpleaños
 cumplido/S
@@ -9334,6 +9336,7 @@ paipáis		# Plural de paipay
 paipay
 país
 paisaje/S
+paisajismo/S
 paisanaje/S
 países
 pájaro/S
@@ -12137,8 +12140,8 @@ soto/S
 sotuer/S
 soviet/S
 sóviet/S
-stand
-stands
+stand # extranjerismo no adaptado #139
+stands # extranjerismo no adaptado #139
 suajili/S
 suarismo/S
 suavizador/S

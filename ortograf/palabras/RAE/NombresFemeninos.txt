@@ -235,6 +235,7 @@ agresividad/S
 agricultura/S
 agrifada/S
 agrimensura/S
+agronomía/S
 agrura/S
 aguachirle/S
 aguada/S
@@ -3599,6 +3600,7 @@ echazón/S
 eclampsia/S
 eclíptica
 eclosión/S
+ecografía/S
 ecolalia/S
 ecolocación/S
 ecología/S
@@ -4532,6 +4534,7 @@ filigrana/S
 filloa/S
 filmación/S
 filmina/S
+filmografía/S
 filmoteca/S
 filogenia/S
 filología/S
@@ -4916,6 +4919,7 @@ geografía/S
 geología/S
 geometría/S
 geomorfología/S
+geopolítica/S
 geotermia
 geraniácea/S
 gerencia/S
@@ -5277,7 +5281,9 @@ hidroelectricidad/S
 hidrofobia/S
 hidrogenación/S
 hidrognosia/S
+hidrografía/S
 hidrólisis
+hidrología/S
 hidromancia/S
 hidropesía/S
 hidroscopia/S
@@ -6940,6 +6946,7 @@ micha/S
 michina/S
 micosis
 micra/S
+microbiología/S
 microcefalia/S
 microelectrónica/S
 microfilmador/S
