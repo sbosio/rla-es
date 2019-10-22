@@ -7703,6 +7703,7 @@ liquidámbar/S
 lirio/gSf
 lirismo/S
 lirón/S
+lis/S
 listel/S
 listón/S
 litarge/S

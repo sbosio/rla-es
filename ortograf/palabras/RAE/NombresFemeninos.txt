@@ -6241,6 +6241,7 @@ liquidez/S
 lira/S
 liria/S
 lírica/S
+lis/S
 lisera/S
 lisiadura/S
 lisimaquia/S
@@ -8865,6 +8866,7 @@ putrefacción/S
 putridez/S
 puya/S
 puzolana/S
+qu
 quebradura/S
 quebrantador/S
 quebrantadura/S
