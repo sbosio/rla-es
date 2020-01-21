@@ -64,6 +64,7 @@ destusar/RED
 devolver/IRñòù
 difuntear/RED
 embanquetar/RED
+empanizar/RED
 empañetar/RED
 empetatar/RED
 empotrerar/RED

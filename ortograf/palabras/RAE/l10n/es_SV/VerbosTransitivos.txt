@@ -49,6 +49,7 @@ destusar/RED
 devolver/IRñòù
 difuntear/RED
 digitar/RED
+empanizar/RED
 empotrerar/RED
 engavetar/RED
 enlozar/RED

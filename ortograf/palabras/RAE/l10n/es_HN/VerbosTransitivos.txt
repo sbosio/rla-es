@@ -55,6 +55,7 @@ devolver/IRñòù
 difuntear/RED
 digitar/RED
 discar/RED
+empanizar/RED
 empañetar/RED
 empetatar/RED
 empotrerar/RED
