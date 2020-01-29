@@ -152,6 +152,7 @@ tincazo/S
 tipeo/S
 tlaco/S
 torito/S
+tortuguismo/S
 totoral/S
 traspatio/S
 tuco/S
