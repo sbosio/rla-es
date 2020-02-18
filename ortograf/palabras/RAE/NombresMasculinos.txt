@@ -13134,6 +13134,7 @@ ubio/S
 ucase/S
 ucraniano/S
 ujier/S
+ukelele/S
 ulema/S
 ultimátum
 ultraderechismo/S
