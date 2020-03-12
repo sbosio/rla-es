@@ -288,6 +288,7 @@ adenoma/S
 adentro/S
 aderezamiento/S
 aderezo/S
+adeudo/S
 adherente/S
 adhesivo/S
 adiestramiento/S
