@@ -222,6 +222,7 @@ combatiente/wS
 comemierda/S
 comensal/S
 comentarista/S
+comercializador/GS
 comerciante/S
 comisionista/S
 comodante/S

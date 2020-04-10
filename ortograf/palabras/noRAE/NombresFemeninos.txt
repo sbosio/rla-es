@@ -49,6 +49,7 @@ fosforilación/S
 granularidad/S
 heterolisis
 heterólisis
+historificación/S
 holofonía/S
 homogenización/S
 homolisis
@@ -70,6 +71,7 @@ preproducción/S			# Contribuida por Sergio Medina
 priorización/S
 quinasa/S
 reinvención/S
+remediación/S
 rememoranza/S
 retroalimentación/S
 sandwichera/S

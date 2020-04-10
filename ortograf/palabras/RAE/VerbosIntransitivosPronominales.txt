@@ -164,7 +164,7 @@ traspirar/RED
 tronar/IRD
 tropezar/IRDñò
 turnar/REDñòø
-ubicar/REDñòôø
+ubicar/pREDñòôø
 vegetar/RED
 venir/XDñóöú
 ventosear/RED

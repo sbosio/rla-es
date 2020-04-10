@@ -343,7 +343,7 @@ escalofriar/IRD
 escapar/REDÅñòôø
 escapular/RED
 escollar/RED
-escribir/REÀÁÂÄÆÍÚñòø
+escribir/REÀÁÂÄÆÍÏÎÚñòø
 escuchar/REDÀÁÂÄÅÆÍÎÙÚÛñòø
 escupir/REDÁÆñ
 escurrir/REDÀÄÌñò
@@ -504,7 +504,7 @@ recrecer/IRD
 redoblar/RED
 reducir/XDÀÁÈñóú
 reflejar/REDÀñò
-refrescar/REDÀÁÌñø
+refrescar/REDÀÁÌÍñø
 refundir/REDÀÁñ
 regir/XDÀÁñ
 rehervir/XD

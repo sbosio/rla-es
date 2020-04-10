@@ -2538,6 +2538,7 @@ complejidad/S
 complementación/S
 complementariedad/S
 completas
+completitud
 completud/S
 complexidad/S
 complexión/S
@@ -9121,6 +9122,7 @@ refrescadura/S
 refrigeración/S
 refringencia/S
 refulgencia/S
+refundición/S
 refutación/S
 regadera/S
 regadura/S
@@ -9164,6 +9166,7 @@ reliquia/S
 relojera/LS
 reluctancia/S
 remadura/S
+remedición/S
 remembranza/S
 reminiscencia/S
 remisoria/S

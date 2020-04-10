@@ -2,7 +2,7 @@
 # es_DO.aff
 #
 # Definición de prefijos y sufijos comunes del idioma español de
-# República Dominicana
+# República Dominicana.
 #
 # Copyright 2004-2011, Santiago Bosio.
 #
@@ -3664,7 +3664,7 @@ SFX Ì uzar      úzalo    uzar
 # Verbos regulares en imperativo, con clíticos de objeto directo o indirecto
 # en 1ª y 2ª persona, singular y plural; en posición enclítica.
 #
-SFX Í Y 168
+SFX Í Y 172
 SFX Í abar      ábame    abar
 SFX Í abar      ábanos   abar
 SFX Í r         me       r         # 2ª pers. singular (vos)
@@ -3749,6 +3749,8 @@ SFX Í ercar     ércame   ercar
 SFX Í ercar     ércanos  ercar
 SFX Í esar      ésame    esar
 SFX Í esar      ésanos   esar
+SFX Í escar     éscame   escar
+SFX Í escar     éscanos  escar
 SFX Í estar     éstame   estar
 SFX Í estar     éstanos  estar
 SFX Í etar      étame    etar
@@ -3839,7 +3841,7 @@ SFX Í uscar     úscanos  uscar
 # Verbos regulares en imperativo, con clíticos de objeto indirecto en
 # 3ª persona, singular y plural; en posición enclítica.
 #
-SFX Î Y 84
+SFX Î Y 86
 SFX Î abar      ábale    abar
 SFX Î abar      ábales   abar
 SFX Î r         le       r         # 2ª pers. singular (vos)
@@ -3882,6 +3884,8 @@ SFX Î eter      étele    eter
 SFX Î eter      ételes   eter
 SFX Î evar      évale    evar
 SFX Î evar      évales   evar
+SFX Î ibir      íbele    ibir
+SFX Î ibir      íbeles   ibir
 SFX Î icar      ícale    icar
 SFX Î icar      ícales   icar
 SFX Î iciar     íciale   iciar

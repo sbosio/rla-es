@@ -2856,7 +2856,7 @@ pastear/RED
 pasterizar/RED
 pasteurizar/RED
 pastorear/RED
-patentar/REDÀ
+patentar/REDÀÌ
 patentizar/REDÂ
 patinar/RED
 patrocinar/REDÀ
@@ -2864,6 +2864,7 @@ patronear/RED
 pautar/RED
 pavimentar/RED
 pavonar/RED
+peatonalizar/REDÀÄÌ
 pechear/REDÂ
 pectar/RED
 pedir/XDÀÁÂÃÈÉÊËÔÕÖØáâã
