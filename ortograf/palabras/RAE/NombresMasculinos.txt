@@ -12360,6 +12360,7 @@ tamiz/S
 tamojal/S
 tamojo/S
 tamo/S
+tampón/S
 tamujal/S
 tamujo/S
 tan
