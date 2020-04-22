@@ -7214,11 +7214,12 @@ mota/S
 motacila/S
 motilidad/S
 motivación/S
+moto/S
 motocicleta/S
 motolita/S
 motonave/S
 motorización/S
-moto/S
+motosierra/S
 motricidad/S
 movedura/S
 movilidad/Ska
