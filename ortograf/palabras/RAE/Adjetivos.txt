@@ -2472,6 +2472,7 @@ cerebroespinal/S
 ceremonial/S
 ceremoniero/GS
 ceremonioso/GS
+céreo/GS
 cerne/GS
 cernícalo/S
 cero/GS
