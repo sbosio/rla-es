@@ -4823,6 +4823,7 @@ elfo/S
 elipsoide/S
 elíseo/S
 elitismo/S
+élitro/S
 elixir/S
 ello/S
 elogio/S
