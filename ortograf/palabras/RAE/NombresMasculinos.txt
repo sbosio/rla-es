@@ -10537,6 +10537,7 @@ protocloruro/S
 protocolo/S
 protomedicato/S
 protomédico/S
+protórax
 protón/S
 protonotario/S
 protoplasma/S
