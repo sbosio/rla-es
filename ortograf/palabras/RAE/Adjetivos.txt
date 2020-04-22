@@ -4350,6 +4350,7 @@ ecologista/S
 económico/GS
 ecotado/GS
 ectodérmico/GS
+ectoparásito/GS
 ecuable/S
 ecuánime/S
 ecuante/S
