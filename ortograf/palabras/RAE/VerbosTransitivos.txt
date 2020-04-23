@@ -2842,6 +2842,7 @@ paralelar/RED
 paramentar/RED
 parametrizar/RED
 parangonar/RED
+parasitar/RED
 parcelar/REDÀ
 parchar/RED
 parchear/RED
