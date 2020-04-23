@@ -9307,6 +9307,8 @@ oxidante/hS
 óxido/Se
 oxidrilo/S
 oxígeno/S
+oxímoron
+oxímoros    # Creación irregular del plural
 oxiuro/S
 oxizacre/S
 ozono/S
