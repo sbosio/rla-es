@@ -6459,6 +6459,7 @@ horroroso/GS
 hortelano/GS
 hortense/S
 hortera/S
+hortícola/S
 hosco/SG
 hoscoso/GS
 hospedable/kS
