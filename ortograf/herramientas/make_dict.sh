@@ -86,7 +86,7 @@ do
       echo "    Crear un paquete ZIP de instalación manual para las"
       echo "    versiones 1.x ó 2.x de OpenOffice.org."
       echo "    Por defecto se crea una extensión (.oxt) para"
-      echo "    Apache OpenOffice/LibreOffice versión 3.x o superior."
+      echo "    LibreOffice/Apache OpenOffice versión 3.x o superior."
       echo
       echo "--completo | -c"
       echo "    Integrar los diccionarios de sinónimos y de separación"
@@ -146,7 +146,21 @@ for LOCALIZACION in $LOCALIZACIONES; do
   # prefijos y sufijos) de la localización seleccionada, eliminando los
   # comentarios y espacios innecesarios.
   AFFIX="$MDTMPDIR/$LOCALIZACION.aff"
-  echo -n "Creando el fichero de afijos... "
+  echo "Creando el fichero de afijos:"
+  
+  if [ ! -f ../afijos/l10n/$LOCALIZACION/afijos.txt ]; then
+    echo "Advertencia: no se ha encontrado el fichero ../afijos/l10n/$LOCALIZACION/afijos.txt"
+  fi
+  if [ ! -d "../palabras/RAE/l10n/$LOCALIZACION" ]; then
+    echo "Advertencia: no se ha encontrado el directorio ../palabras/RAE/l10n/$LOCALIZACION"
+  fi
+  if [ ! -d "../palabras/noRAE/l10n/$LOCALIZACION" ]; then
+    echo "Advertencia: no se ha encontrado el directorio ../palabras/noRAE/l10n/$LOCALIZACION"
+  fi
+  if [ ! -d "../palabras/toponimos/l10n/$LOCALIZACION" ]; then
+    echo "Advertencia: no se ha encontrado el directorio ../palabras/toponimos/l10n/$LOCALIZACION"
+  fi
+
 
   if [ ! -f ../afijos/l10n/$LOCALIZACION/afijos.txt ]; then
     # Si se solicitó un diccionario genérico, o la localización no ha
@@ -287,6 +301,12 @@ for LOCALIZACION in $LOCALIZACIONES; do
       TEXTO_LOCAL="LOCALIZADA PARA ESPAÑA                  "
       ICONO="España.png"
       ;;
+    es_GQ)
+      PAIS="Guinea Ecuatorial"
+      LOCALIZACIONES="es-GQ"
+      TEXTO_LOCAL="LOCALIZADA PARA GUINEA ECUATORIAL        "
+      ICONO="GuineaEcuatorial.png"
+      ;;
     es_GT)
       PAIS="Guatemala"
       LOCALIZACIONES="es-GT"
@@ -323,6 +343,12 @@ for LOCALIZACION in $LOCALIZACIONES; do
       TEXTO_LOCAL="LOCALIZADA PARA PERÚ                    "
       ICONO="Perú.png"
       ;;
+    es_PH)
+      PAIS="Filipinas"
+      LOCALIZACIONES="es-PH"
+      TEXTO_LOCAL="LOCALIZADA PARA FILIPINAS                "
+      ICONO="Filipinas.png"
+      ;;
     es_PR)
       PAIS="Puerto Rico"
       LOCALIZACIONES="es-PR"
@@ -341,6 +367,12 @@ for LOCALIZACION in $LOCALIZACIONES; do
       TEXTO_LOCAL="LOCALIZADA PARA EL SALVADOR             "
       ICONO="El_Salvador.png"
       ;;
+    es_US)
+      PAIS="Estados Unidos"
+      LOCALIZACIONES="es-US"
+      TEXTO_LOCAL="LOCALIZADA PARA ESTADOS UNIDOS          "
+      ICONO="EEUU.png"
+      ;;
     es_UY)
       PAIS="Uruguay"
       LOCALIZACIONES="es-UY"
@@ -354,11 +386,10 @@ for LOCALIZACION in $LOCALIZACIONES; do
       ICONO="Venezuela.png"
       ;;
     *)
-      PAIS="España y América Latina"
-      LOCALIZACIONES="es-AR es-BO es-CL es-CO es-CR es-CU es-DO es-EC es-ES es-GT"
-      LOCALIZACIONES="$LOCALIZACIONES es-HN es-MX es-NI es-PA es-PE es-PR es-PY"
-      LOCALIZACIONES="$LOCALIZACIONES es-SV es-UY es-VE"
-      TEXTO_LOCAL="GENÉRICA PARA TODAS LAS LOCALIZACIONES  "
+      PAIS="Español internacional"
+      LOCALIZACIONES="es-AR es-BO es-CL es-CO es-CR es-CU es-DO es-EC es-ES es-GQ \
+      			es-GT es-HN es-MX es-NI es-PA es-PE es-PH es-PR es-PY es-SV es-US es-UY es-VE"
+      TEXTO_LOCAL="ESPAÑOL INTERNACIONAL INCLUYENDO TODAS LAS VARIANTES REGIONALES"
       ICONO="Iberoamérica.png"
       ;;
   esac
@@ -437,10 +468,10 @@ for LOCALIZACION in $LOCALIZACIONES; do
   DIRECTORIO_TRABAJO="$(pwd)"
 
   if [ "$VERSION" != "3" ]; then
-    echo -n "Creando paquete comprimido para las versiones 1.x o 2.x de OpenOffice.org... "
+    echo -n "Creando $ZIPFILE "
     ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.zip"
   else
-    echo -n "Creando extensión para Apache OpenOffice/LibreOffice 3.x o superior (.oxt)... "
+    echo -n "Creando $ZIPFILE "
     ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.oxt"
   fi
 
