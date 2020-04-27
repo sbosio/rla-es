@@ -1,8 +1,7 @@
 #
-# es_ANY.aff
+# es_AR.aff
 #
-# Definición de prefijos y sufijos comunes del idioma español de España y
-# América Latina.
+# Definición de prefijos y sufijos comunes del idioma español de Argentina.
 #
 # Copyright 2004-2011, Santiago Bosio.
 #
