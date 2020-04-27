@@ -120,17 +120,17 @@ if [ "$LOCALIZACIONES" != "" ]; then
       exit 2
     else
       echo "Sí" >&2
-      LOCALIZACIONES="es_ANY"
+      LOCALIZACIONES="es"
     fi
   fi
 else
   # Si no se pasó el parámetro de localización, asumimos que se desea
   # generar el diccionario genérico.
-  LOCALIZACIONES="es_ANY"
+  LOCALIZACIONES="es"
 fi
 
 for LOCALIZACION in $LOCALIZACIONES; do
-  if [ "$LOCALIZACION" != "es_ANY" ]; then
+  if [ "$LOCALIZACION" != "es" ]; then
     # Cambiamos la localización y codificación de caracteres.
     LANG="$LOCALIZACION.UTF-8"
     echo "Creando un diccionario para la localización '$LOCALIZACION'..."
@@ -414,8 +414,8 @@ for LOCALIZACION in $LOCALIZACIONES; do
         /__ICON__/ { s//$ICONO/g; p; };
         /__COUNTRY__/ { s//$PAIS/g; p; }" \
       ../docs/package-description_full.txt > "$MDTMPDIR/package-description.txt"
-      cp ../../separacion/hyph_es_ANY.dic \
-        ../../separacion/README_hyph_es_ANY.txt "$MDTMPDIR"
+      cp ../../separacion/hyph_es.dic \
+        ../../separacion/README_hyph_es.txt "$MDTMPDIR"
       cp ../../sinonimos/palabras/README_th_es_ES.txt \
         ../../sinonimos/palabras/COPYING \
         ../../sinonimos/palabras/th_es_ES_v2.* "$MDTMPDIR"

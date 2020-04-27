@@ -1,5 +1,5 @@
 #
-# es_ANY.aff
+# es.aff
 #
 # Definición de prefijos y sufijos comunes del idioma español internacional. 
 # incluyendo España y América Latina.
