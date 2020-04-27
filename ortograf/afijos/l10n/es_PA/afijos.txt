@@ -4,11 +4,17 @@
 # Definición de prefijos y sufijos comunes del idioma español de
 # Panamá.
 #
-# Copyright 2004-2011, Santiago Bosio.
+# Copyright 2004-2020, Santiago Bosio y otros.
 #
-# Distribuido bajo la licencia 'GNU Lesser General Public License' (LGPL),
-# publicada por la Free Software Foundation.
+# El proyecto y los diccionarios se distribuyen bajo un triple esquema de # licencias disjuntas: 
+# GNU GPL versión 3 o posterior, GNU LGPL versión 3 o posterior o MPL versión 1.1 o posterior.
+# Puede seleccionar libremente bajo cuál de estas licencias realizará el uso.
 #
+# Puede consultar los detalles de cada licencia en:
+#
+# - https://www.gnu.org/licenses/gpl-3.0.en.html
+# - https://www.gnu.org/licenses/lgpl-3.0.en.html
+# - https://www.mozilla.org/en-US/MPL/1.1/
 #
 # Utilizamos la codificación UTF-8
 SET UTF-8  # Indica que el .dic está en formato UTF-8
