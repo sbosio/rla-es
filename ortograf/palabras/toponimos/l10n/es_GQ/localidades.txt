@@ -1,0 +1,26 @@
+# ciudades:
+Acalayong
+Aconibe
+Añisoc
+Bata
+Bidjabidjan
+#Ciudad de la Paz
+Paz
+Cogo
+Ebebiyín
+Evinayong
+Luba
+Machinda
+Malabo
+Mbini
+Mengomeyén
+Micomeseng
+Mongomo
+Ncue
+Niefang
+Nkimi
+Nsang
+# San Antonio de Palé
+Palé
+# San Antonio de Ureca
+Ureca

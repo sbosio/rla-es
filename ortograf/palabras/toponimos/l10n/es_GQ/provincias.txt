@@ -1,0 +1,21 @@
+# provincias: 
+#Provincia Litoral
+Litoral
+#Provincia de Bioko Sur
+Bioko
+Sur
+#Provincia Centro Sur
+Centro
+Sur
+#Provincia de Bioko Norte
+Norte
+#Provincia Kié-Ntem
+Kié
+Ntem
+#Provincia Wele-Nzas
+Wele
+Nzas
+#Provincia de Annobón
+Annobón
+#Provincia de Djibloho
+Djibloho
