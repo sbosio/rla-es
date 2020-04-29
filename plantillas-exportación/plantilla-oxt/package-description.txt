@@ -1,0 +1,8 @@
+Ortografía 2.5 · Separación 0.2 · Sinónimos 24/02/2013
+
+Para notificar errores y solicitar la inclusión de nuevos términos,
+hacer clic sobre el enlace.
+
+Esta extensión añade la compatibilidad en idioma español de España y América Latina
+para las herramientas de asistencia a la escritura (revisión ortográfica,
+separación silábica y sinónimos).
