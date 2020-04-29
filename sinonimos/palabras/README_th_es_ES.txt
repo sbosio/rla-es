@@ -5,17 +5,17 @@ Homepage: http://openthes-es.berlios.de
 
 Requisitos: ==========================================================
 
- Apache OpenOffice/LibreOffice
+ LibreOffice/Apache OpenOffice
 
 
 Nota: ================================================================
     
-    * Se asume que Apache OpenOffice/LibreOffice está bien instalado.
+    * Se asume que LibreOffice/Apache OpenOffice está bien instalado.
     * El diccionario de sinónimos y separación silábica es el mismo para Windows como para Linux.
 
 Instalación: =========================================================
 
-La instalación es sencilla. En Apache OpenOffice/LibreOffice:
+La instalación es sencilla. En LibreOffice/Apache OpenOffice:
 Herramientas -> Administrador de Extensiones -> Agregar
 
 licencia: =========================================================

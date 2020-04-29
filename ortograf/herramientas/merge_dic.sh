@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # merge_dic.sh: Script para mezclar varios diccionarios personales
-#               .dic de Apache OpenOffice en un único diccionario.
+#               .dic de LibreOffice en un único diccionario.
 #
 # Copyleft 2010, Santiago Bosio
 # Este programa se distribuye bajo licencia GNU GPL.
