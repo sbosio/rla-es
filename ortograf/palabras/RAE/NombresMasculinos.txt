@@ -3802,6 +3802,7 @@ corezuelo/S
 corimbo/S
 corindón/S
 corinto/S
+corion/S
 cornatillo/S
 cornejo/S
 cornero/S
