@@ -9405,6 +9405,7 @@ palomo/S
 palo/S
 palote/HS
 palpamiento/S
+palpo/S
 pal/SHN
 paludamento/S
 paludismo/S
