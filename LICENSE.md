@@ -12,3 +12,7 @@ El detalle de cada licencia está accesible en:
 - https://www.gnu.org/licenses/lgpl-3.0.en.html
 - https://www.mozilla.org/en-US/MPL/1.1/
 
+y en los ficheros:
+- LICENSE/GPLv3.txt  
+- LICENSE/LGPLv3.txt
+- LICENSE/MPL-1.1.txt
