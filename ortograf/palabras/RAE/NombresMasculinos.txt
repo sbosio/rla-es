@@ -6207,6 +6207,8 @@ fusible/S
 fusilamiento/S
 fusil/HS
 fusor/S
+fustal/S
+fustán/S
 fuste/aS
 fútbol/S
 futbol/S
