@@ -7,7 +7,7 @@
   **  VERSIÓN GENÉRICA PARA TODAS LAS LOCALIZACIONES DEL ESPAÑOL            **
   ****************************************************************************
 
-                                 Versión 0.2
+                                 Versión __VERSION__
 
 SUMARIO
 
@@ -25,12 +25,12 @@ inicialmente por Santiago Bosio; mediante el uso de la herramienta libre
 
 2. LICENCIA
 
-   Este listado de patrones para separación silábica, integrado por el fichero
-hyph_es_ANY.dic se distribuye
-bajo un triple esquema de licencias disjuntas: GNU GPL versión 3 o posterior,
-GNU LGPL versión 3 o posterior, ó MPL versión 1.1 o posterior. Puede
-seleccionar libremente bajo cuál de estas licencias utilizará este diccionario.
-En el fichero LICENSE.md encontrá más detalles.
+   Este listado de patrones para separación silábica, integrado por el
+fichero hyph_es_ANY.dic se distribuye bajo un triple esquema de licencias
+disjuntas: GNU GPL versión 3 o posterior, GNU LGPL versión 3 o posterior, ó
+MPL versión 1.1 o posterior.  Puede seleccionar libremente bajo cuál de
+estas licencias utilizará este diccionario.  En el fichero LICENSE.md
+encontrá más detalles.
 
 3. COLABORACIÓN
 

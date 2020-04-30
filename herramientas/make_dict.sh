@@ -2,36 +2,30 @@
 #
 # make_dict.sh: Script para la creación del paquete de diccionario.
 #
-# Copyleft 2005-2015, Santiago Bosio
-# Este programa se distribuye bajo licencia GNU GPL.
+# Copyleft 2005-2020, Santiago Bosio e Ismael Olea
+# Este programa se distribuye en los términos del proyecto RLA-ES:
+# https://github.com/sbosio/rla-es/blob/master/LICENSE.md
+
+L10N_REGIONALES="es_AR es_BO es_CL es_CO es_CR es_CU es_DO es_EC es_ES es_GQ es_GT es_HN"
+L10N_REGIONALES+=" es_MX es_NI es_PA es_PE es_PH es_PR es_PY es_SV es_US es_UY es_VE"
+L10N_DISPONIBLES="es $L10N_REGIONALES"
 
 # Herramientas básicas para el script
-MKTEMP=$(which mktemp 2>/dev/null)
-GREP=$(which grep 2>/dev/null)
-FIND=$(which find 2>/dev/null)
-ZIP=$(which zip 2>/dev/null)
+MKTEMP=$(command -v mktemp 2>/dev/null)
+GREP=$(command -v grep 2>/dev/null)
+FIND=$(command -v find 2>/dev/null)
+ZIP=$(command -v zip 2>/dev/null)
 
-# Abandonar si no se encuentra alguna de las herramientas
-if [ "$MKTEMP" == "" ]; then
-  echo "No se encontró el comando 'mktemp'... Abortando." >&2
+# Comprobaciones previas:
+[ "$MKTEMP" == "" ] && echo "No se encontró el comando 'mktemp'... Abortando." >&2 ;exit 1
+[ "$GREP" == "" ] && echo "No se encontró el comando 'grep'... Abortando." >&2; exit 1
+[ "$FIND" == "" ] && echo "No se encontró el comando 'find'... Abortando." >&2; exit 1
+[ "$ZIP" == "" ] && echo "No se encontró el comando 'zip'... Abortando." >&2;exit 1
+[ ! -d "ortografia/palabras/" ] && \
+  echo "Error: debe lanzar el script desde el directorio raiz del proyecto (normalmente rla-es/). Abortando" >&2; \
   exit 1
-fi
-if [ "$GREP" == "" ]; then
-  echo "No se encontró el comando 'grep'... Abortando." >&2
-  exit 1
-fi
-if [ "$FIND" == "" ]; then
-  echo "No se encontró el comando 'find'... Abortando." >&2
-  exit 1
-fi
-if [ "$ZIP" == "" ]; then
-  echo "No se encontró el comando 'zip'... Abortando." >&2
-  exit 1
-fi
 
-# Por defecto hacemos un paquete de extensión para OOo 3.x o superior
-VERSION="3"
-COMPLETO="NO"
+FUENTEOXT="plantillas-exportación/plantilla-oxt"
 
 # Realizar el análisis de los parámetros de la línea de comandos
 previa=
@@ -44,36 +38,33 @@ do
     continue
   fi
 
-  argumento=$(expr "z$opcion" : 'z[^=]*=\(.*\)')
+  # creo que esto ya no lo usamos
+  # argumento=$(expr "z$opcion" : 'z[^=]*=\(.*\)')
 
   case $opcion in
 
     --localizacion | --localización | --locale | -l)
       previa="LOCALIZACIONES" ;;
-    --localizacion=* | --localización=* | --locale=* | -l=*)
-      LOCALIZACIONES=$argumento ;;
+    # --localizacion=* | --localización=* | --locale=* | -l=*)
+    #   LOCALIZACIONES=$argumento 
+    #   ;;
 
     --todas | -t)
-      LOCALIZACIONES=$(ls ../../ortograf/palabras/RAE/l10n/) ;;
+      LOCALIZACIONES=$L10N_DISPONIBLES
+      TODAS="SÍ" ;;
 
-    --rae | -r)
-      RAE="SÍ" ;;
-
-    -2)
-      VERSION="2" ;;
-
-    --completo | -c)
-      COMPLETO="SÍ" ;;
+    --configurar | -c)
+      CONFIGURAR="SÍ" ;;
 
     --ayuda | --help | -h)
       echo
-      echo "Sintaxis del comando: $0 [opciones]."
+      echo "Sintaxis de la orden: $0 [opciones]."
       echo "Las opciones pueden ser las siguientes:"
       echo
       echo "--localizacion=LOC | -l LOC"
       echo "    Localización a utilizar en la generación del diccionario."
-      echo "    El argumento LOC debe ser un código ISO de localización"
-      echo "    implementado (es_AR, es_ES, es_MX, etc.)"
+      echo "    El argumento LOC debe ser un código CLDR de localización"
+      echo "    implementado (es_AR, es_ES, es_MX, etc)."
       echo
       echo "--todos | -t"
       echo "    Generar diccionarios para todas las localizaciones registradas."
@@ -82,17 +73,8 @@ do
       echo "    Incluir únicamente las palabras pertenecientes al"
       echo "    diccionario de la Real Academia Española."
       echo
-      echo "-2"
-      echo "    Crear un paquete ZIP de instalación manual para las"
-      echo "    versiones 1.x ó 2.x de OpenOffice.org."
-      echo "    Por defecto se crea una extensión (.oxt) para"
-      echo "    LibreOffice/Apache OpenOffice versión 3.x o superior."
-      echo
-      echo "--completo | -c"
-      echo "    Integrar los diccionarios de sinónimos y de separación"
-      echo "    silábica dentro del mismo paquete (sólo para versiones 3.x"
-      echo "    o posteriores)."
-      echo
+      echo "--configurar | -c"
+      echo "    Configurar detalles de publicación de los recursos"
       exit 0 ;;
 
     *)
@@ -104,14 +86,98 @@ do
   esac
 done
 
-# Hacemos una copia del valor de la variable LANG para poder restaurarla.
-LANG_BAK=$LANG
+
+# configuración de variables
+
+if [ "$CONFIGURAR" == "SÍ" ] ; 
+  then
+    # shellcheck disable=SC1091
+    [[ -f .versiones.cfg ]] && . .versiones.cfg
+    echo -n "Escriba el número de versión actual de corrector"; [ "$CORRECTOR" ] && echo -n " (valor actual $CORRECTOR) "; echo -n ": "
+    read -r RESPUESTA
+    [  "$RESPUESTA" == "" ] && [ "$CORRECTOR" == "" ]  && echo -e "\n \nIntroduzca un valor correcto." >&2 && exit 2
+    [ ! "$RESPUESTA" == "" ] && [ "$CORRECTOR" == "" ]  && CORRECTOR=$RESPUESTA
+    [  "$RESPUESTA" == "" ] && [ ! "$CORRECTOR" == "" ]  && :
+    [ ! "$RESPUESTA" == "" ] && [ ! "$CORRECTOR" == "" ]  && CORRECTOR=$RESPUESTA
+
+    echo -n "Escriba el número de versión actual de separación"; [ "$SEPARACION" ] && echo -n " (valor actual $SEPARACION): "
+    read -r RESPUESTA
+    [  "$RESPUESTA" == "" ] && [ "$SEPARACION" == "" ]  && echo -e "\n \nIntroduzca un valor correcto." >&2 && exit 2
+    [ ! "$RESPUESTA" == "" ] && [ "$SEPARACION" == "" ]  && SEPARACION=$RESPUESTA
+    [  "$RESPUESTA" == "" ] && [ ! "$SEPARACION" == "" ]  && :
+    [ ! "$RESPUESTA" == "" ] && [ ! "$SEPARACION" == "" ]  && SEPARACION=$RESPUESTA
+
+    echo -n "Escriba el número de versión actual de corrector"; [ "$SINONIMOS" ] && echo -n " (valor actual $SINONIMOS): "
+    read -r RESPUESTA
+    [  "$RESPUESTA" == "" ] && [ "$SINONIMOS" == "" ]  && echo -e "\n \nIntroduzca un valor correcto." >&2 && exit 2
+    [ ! "$RESPUESTA" == "" ] && [ "$SINONIMOS" == "" ]  && SINONIMOS=$RESPUESTA
+    [  "$RESPUESTA" == "" ] && [ ! "$SINONIMOS" == "" ]  && :
+    [ ! "$RESPUESTA" == "" ] && [ ! "$SINONIMOS" == "" ]  && SINONIMOS=$RESPUESTA
+
+    echo -n "Escriba la ruta al clon local del repositorio LibreOffice «dictionaries»"; [ "$LO_DICTIONARIES_GIT" ] && echo -n " (valor actual $LO_DICTIONARIES_GIT): "
+    read -r RESPUESTA
+    [  "$RESPUESTA" == "" ] && [ "$LO_DICTIONARIES_GIT" == "" ]  && echo -e "\n \nIntroduzca un valor correcto." >&2 && exit 2
+    [ ! "$RESPUESTA" == "" ] && [ "$LO_DICTIONARIES_GIT" == "" ]  && LO_DICTIONARIES_GIT=$RESPUESTA
+    [  "$RESPUESTA" == "" ] && [ ! "$LO_DICTIONARIES_GIT" == "" ]  && :
+    [ ! "$RESPUESTA" == "" ] && [ ! "$LO_DICTIONARIES_GIT" == "" ]  && LO_DICTIONARIES_GIT=$RESPUESTA
+
+    cat << EOF > ./.versiones.cfg
+# asignación de variables en lenguaje shell de Bash
+#
+# CORRECTOR, versión de la edición actual del corrector ortográfico
+CORRECTOR="$CORRECTOR"
+
+# SEPARACION, versión de la edición actual del patrón de silabeo
+SEPARACION="$SEPARACION"
+
+# SINONIMOS, versión de la edición actual del patrón de silabeo
+SINONIMOS="$SINONIMOS"
+
+# LO_DICTIONARIES_GIT, ruta a la copia local de https://gerrit.libreoffice.org/admin/repos/dictionaries
+LO_DICTIONARIES_GIT="$LO_DICTIONARIES_GIT"
+
+EOF
+    echo "El fichero de configuración .versiones.cfg está actualizado"
+    exit 0
+fi
+
+# shellcheck disable=SC1091
+if [[ -f .versiones.cfg ]] && . .versiones.cfg
+  then 
+    echo "Configuración actual:"
+    echo "Corrector: $CORRECTOR"
+    echo "Separación: $SEPARACION"
+    echo "Sinónimos: $SINONIMOS"
+    echo "Diccionarios LibreOffice: $LO_DICTIONARIES_GIT" 
+    echo -n "¿La configuración es correcta? (s/n) "
+    read -r  -n 1 RESPUESTA
+    if [ "$RESPUESTA" == "n" ] || [ "$RESPUESTA" == "N" ]; then
+      echo -e "\n¿No?, pues ni una palabra más." >&2
+      exit 2
+    fi
+  else 
+    echo "Error, no existe el fichero de configuración .versiones.cfg" 
+    echo "Para crear una configuración ejecute $0 con la opción --configurar | -c"
+    exit 1
+fi
+
+for item in $L10N_DISPONIBLES ; do 
+    if [ "$item" = "$LOCALIZACIONES" ] ; 
+      then break;
+    fi
+done
+
+if [ ! "$item" = "$LOCALIZACIONES" ] && [ ! "$TODAS" = "SÍ" ] 
+  then echo "Error: RLA-ES no contempla $LOCALIZACIONES. Use un código regional del español disponible: $L10N_DISPONIBLES"; exit 1;
+fi
+
+unset LANG
 
 # Verificar si se pasó una localización como parámetro.
 if [ "$LOCALIZACIONES" != "" ]; then
   # Verificar que la localización solicitada esté implementada.
-  if ! [ -d "../palabras/RAE/l10n/$LOCALIZACION" -o \
-       -d "../palabras/noRAE/l10n/$LOCALIZACION" ]; then
+  if ! [ -d "ortografia/palabras/RAE/l10n/$LOCALIZACION" -o \
+       -d "ortografia/palabras/noRAE/l10n/$LOCALIZACION" ]; then
     echo "No se ha implementado la localización '$LOCALIZACION'." >&2
     echo -ne "¿Desea crear el diccionario genérico? (S/n): " >&2
     read -r -s -n 1 RESPUESTA
@@ -136,7 +202,7 @@ for LOCALIZACION in $LOCALIZACIONES; do
     echo "Creando un diccionario para la localización '$LOCALIZACION'..."
   else
     echo "No se definió una localización; creando el diccionario genérico..."
-    LANG="es_ES.UTF-8"
+    LANG="es.UTF-8"
   fi
 
   # Crear un directorio temporal de trabajo
@@ -148,28 +214,28 @@ for LOCALIZACION in $LOCALIZACIONES; do
   AFFIX="$MDTMPDIR/$LOCALIZACION.aff"
   echo "Creando el fichero de afijos:"
   
-  if [ ! -f ../afijos/l10n/$LOCALIZACION/afijos.txt ]; then
-    echo "Advertencia: no se ha encontrado el fichero ../afijos/l10n/$LOCALIZACION/afijos.txt"
+  if [ ! -f ortografia/afijos/l10n/$LOCALIZACION/afijos.txt ]; then
+    echo "Advertencia: no he encontrado el fichero ortografia/afijos/l10n/$LOCALIZACION/afijos.txt"
   fi
-  if [ ! -d "../palabras/RAE/l10n/$LOCALIZACION" ]; then
-    echo "Advertencia: no se ha encontrado el directorio ../palabras/RAE/l10n/$LOCALIZACION"
+  if [ ! -d "ortografia/palabras/RAE/l10n/$LOCALIZACION" ]; then
+    echo "Advertenche el directorio ortografia/palabras/RAE/l10n/$LOCALIZACION"
   fi
-  if [ ! -d "../palabras/noRAE/l10n/$LOCALIZACION" ]; then
-    echo "Advertencia: no se ha encontrado el directorio ../palabras/noRAE/l10n/$LOCALIZACION"
+  if [ ! -d "ortografia/palabras/noRAE/l10n/$LOCALIZACION" ]; then
+    echo "Advertenche el directorio ortografia/palabras/noRAE/l10n/$LOCALIZACION"
   fi
-  if [ ! -d "../palabras/toponimos/l10n/$LOCALIZACION" ]; then
-    echo "Advertencia: no se ha encontrado el directorio ../palabras/toponimos/l10n/$LOCALIZACION"
+  if [ ! -d "ortografia/palabras/toponimos/l10n/$LOCALIZACION" ]; then
+    echo "Advertenche el directorio ortografia/palabras/toponimos/l10n/$LOCALIZACION"
   fi
 
 
-  if [ ! -f ../afijos/l10n/$LOCALIZACION/afijos.txt ]; then
+  if [ ! -f ortografia/afijos/l10n/$LOCALIZACION/afijos.txt ]; then
     # Si se solicitó un diccionario genérico, o la localización no ha
     # definido sus propias reglas para los afijos, utilizamos la versión
     # genérica de los ficheros.
-    ./remover_comentarios.sh < ../afijos/afijos.txt > "$AFFIX"
+    herramientas/remover_comentarios.sh < ortografia/afijos/afijos.txt > "$AFFIX"
   else
     # Se usa la versión de la localización solicitada.
-    ./remover_comentarios.sh < ../afijos/l10n/$LOCALIZACION/afijos.txt > "$AFFIX"
+    herramientas/remover_comentarios.sh < ortografia/afijos/l10n/$LOCALIZACION/afijos.txt > "$AFFIX"
   fi
   echo "¡listo!"
 
@@ -180,56 +246,56 @@ for LOCALIZACION in $LOCALIZACIONES; do
   echo -n "Creando la lista de lemas etiquetados... "
 
   # Palabras comunes a todos los idiomas, definidas por la RAE.
-  cat ../palabras/RAE/*.txt | ./remover_comentarios.sh > "$TMPWLIST"
+  cat ortografia/palabras/RAE/*.txt | herramientas/remover_comentarios.sh > "$TMPWLIST"
 
-  if [ -d "../palabras/RAE/l10n/$LOCALIZACION" ]; then
+  if [ -d "ortografia/palabras/RAE/l10n/$LOCALIZACION" ]; then
     # Incluir las palabras de la localización solicitada, definidas por la RAE.
-    cat ../palabras/RAE/l10n/$LOCALIZACION/*.txt \
-      | ./remover_comentarios.sh \
+    cat ortografia/palabras/RAE/l10n/$LOCALIZACION/*.txt \
+      | herramientas/remover_comentarios.sh \
       >> "$TMPWLIST"
   else
     # Diccionario genérico; incluir todas las localizaciones.
-    cat $($FIND ../palabras/RAE/l10n/ -iname "*.txt" -and ! -regex '.*/\.svn.*') \
-      | ./remover_comentarios.sh \
+    cat $($FIND ortografia/palabras/RAE/l10n/ -iname "*.txt" -and ! -regex '.*/\.svn.*') \
+      | herramientas/remover_comentarios.sh \
       >> "$TMPWLIST"
   fi
 
   if [ "$RAE" != "SÍ" ]; then
     # Incluir palabras comunes, no definidas por la RAE
-    cat ../palabras/noRAE/*.txt | ./remover_comentarios.sh >> "$TMPWLIST"
+    cat ortografia/palabras/noRAE/*.txt | herramientas/remover_comentarios.sh >> "$TMPWLIST"
 
     # Issue #39 - Incluir topónimos
     # Se especifica un prefijo de nombre de archivo porque hay directorios que
     # contienen archivos con explicaciones (p.e.: es_ES)
-    cat ../palabras/toponimos/toponimos-*.txt \
-      | ./remover_comentarios.sh \
+    cat ortografia/palabras/toponimos/toponimos-*.txt \
+      | herramientas/remover_comentarios.sh \
       >> "$TMPWLIST"
 
-    if [ -d "../palabras/noRAE/l10n/$LOCALIZACION" ]; then
+    if [ -d "ortografia/palabras/noRAE/l10n/$LOCALIZACION" ]; then
       # Incluir las palabras de la localización solicitada.
-      cat ../palabras/noRAE/l10n/$LOCALIZACION/*.txt \
-        | ./remover_comentarios.sh \
+      cat ortografia/palabras/noRAE/l10n/$LOCALIZACION/*.txt \
+        | herramientas/remover_comentarios.sh \
         >> "$TMPWLIST"
 
       # Issue #39 - Incluir topónimos de la localización (pendiente de definir
       # condiciones de inclusión)
-      if [ -d "../palabras/toponimos/l10n/$LOCALIZACION" ]; then
-        cat ../palabras/toponimos/l10n/$LOCALIZACION/toponimos-*.txt \
-          | ./remover_comentarios.sh \
+      if [ -d "ortografia/palabras/toponimos/l10n/$LOCALIZACION" ]; then
+        cat ortografia/palabras/toponimos/l10n/$LOCALIZACION/toponimos-*.txt \
+          | herramientas/remover_comentarios.sh \
           >> "$TMPWLIST"
       fi
     else
       # Diccionario genérico; incluir todas las localizaciones.
-      cat $($FIND ../palabras/noRAE/l10n/ \
+      cat $($FIND ortografia/palabras/noRAE/l10n/ \
                  -iname "*.txt" -and ! -regex '.*/\.svn.*') \
-        | ./remover_comentarios.sh \
+        | herramientas/remover_comentarios.sh \
         >> "$TMPWLIST"
 
       # Issue #39 - Incluir topónimos de todas las localizaciones (pendiente de
       # definir condiciones de inclusión)
-      cat $($FIND ../palabras/toponimos/l10n/ \
+      cat $($FIND ortografia/palabras/toponimos/l10n/ \
                  -iname "toponimos-*.txt" -and ! -regex '.*/\.svn.*') \
-        | ./remover_comentarios.sh \
+        | herramientas/remover_comentarios.sh \
         >> "$TMPWLIST"
     fi
   fi
@@ -242,153 +308,149 @@ for LOCALIZACION in $LOCALIZACIONES; do
   rm -f "$TMPWLIST"
   echo "¡listo!"
 
-  # Restauramos la variable de entorno LANG
-  LANG=$LANG_BAK
-
   # Crear paquete de diccionario
   case $LOCALIZACION in
     es_AR)
       PAIS="Argentina"
-      LOCALIZACIONES="es-AR"
+      LOCALIZACIONES="es_AR"
       TEXTO_LOCAL="LOCALIZADA PARA ARGENTINA               "
       ICONO="Argentina.png"
       ;;
     es_BO)
       PAIS="Bolivia"
-      LOCALIZACIONES="es-BO"
+      LOCALIZACIONES="es_BO"
       TEXTO_LOCAL="LOCALIZADA PARA BOLIVIA                 "
       ICONO="Bolivia.png"
       ;;
     es_CL)
       PAIS="Chile"
-      LOCALIZACIONES="es-CL"
+      LOCALIZACIONES="es_CL"
       TEXTO_LOCAL="LOCALIZADA PARA CHILE                   "
       ICONO="Chile.png"
       ;;
     es_CO)
       PAIS="Colombia"
-      LOCALIZACIONES="es-CO"
+      LOCALIZACIONES="es_CO"
       TEXTO_LOCAL="LOCALIZADA PARA COLOMBIA                "
       ICONO="Colombia.png"
       ;;
     es_CR)
       PAIS="Costa Rica"
-      LOCALIZACIONES="es-CR"
+      LOCALIZACIONES="es_CR"
       TEXTO_LOCAL="LOCALIZADA PARA COSTA RICA              "
       ICONO="Costa_Rica.png"
       ;;
     es_CU)
       PAIS="Cuba"
-      LOCALIZACIONES="es-CU"
+      LOCALIZACIONES="es_CU"
       TEXTO_LOCAL="LOCALIZADA PARA CUBA                    "
       ICONO="Cuba.png"
       ;;
     es_DO)
       PAIS="República Dominicana"
-      LOCALIZACIONES="es-DO"
+      LOCALIZACIONES="es_DO"
       TEXTO_LOCAL="LOCALIZADA PARA REPÚBLICA DOMINICANA    "
       ICONO="República_Dominicana.png"
       ;;
     es_EC)
       PAIS="Ecuador"
-      LOCALIZACIONES="es-EC"
+      LOCALIZACIONES="es_EC"
       TEXTO_LOCAL="LOCALIZADA PARA ECUADOR                 "
       ICONO="Ecuador.png"
       ;;
     es_ES)
       PAIS="España"
-      LOCALIZACIONES="es-ES"
+      LOCALIZACIONES="es_ES"
       TEXTO_LOCAL="LOCALIZADA PARA ESPAÑA                  "
       ICONO="España.png"
       ;;
     es_GQ)
       PAIS="Guinea Ecuatorial"
-      LOCALIZACIONES="es-GQ"
+      LOCALIZACIONES="es_GQ"
       TEXTO_LOCAL="LOCALIZADA PARA GUINEA ECUATORIAL        "
       ICONO="GuineaEcuatorial.png"
       ;;
     es_GT)
       PAIS="Guatemala"
-      LOCALIZACIONES="es-GT"
+      LOCALIZACIONES="es_GT"
       TEXTO_LOCAL="LOCALIZADA PARA GUATEMALA               "
       ICONO="Guatemala.png"
       ;;
     es_HN)
       PAIS="Honduras"
-      LOCALIZACIONES="es-HN"
+      LOCALIZACIONES="es_HN"
       TEXTO_LOCAL="LOCALIZADA PARA HONDURAS                "
       ICONO="Honduras.png"
       ;;
     es_MX)
       PAIS="México"
-      LOCALIZACIONES="es-MX"
+      LOCALIZACIONES="es_MX"
       TEXTO_LOCAL="LOCALIZADA PARA MÉXICO                  "
       ICONO="México.png"
       ;;
     es_NI)
       PAIS="Nicaragua"
-      LOCALIZACIONES="es-NI"
+      LOCALIZACIONES="es_NI"
       TEXTO_LOCAL="LOCALIZADA PARA NICARAGUA               "
       ICONO="Nicaragua.png"
       ;;
     es_PA)
       PAIS="Panamá"
-      LOCALIZACIONES="es-PA"
+      LOCALIZACIONES="es_PA"
       TEXTO_LOCAL="LOCALIZADA PARA PANAMÁ                  "
       ICONO="Panamá.png"
       ;;
     es_PE)
       PAIS="Perú"
-      LOCALIZACIONES="es-PE"
+      LOCALIZACIONES="es_PE"
       TEXTO_LOCAL="LOCALIZADA PARA PERÚ                    "
       ICONO="Perú.png"
       ;;
     es_PH)
       PAIS="Filipinas"
-      LOCALIZACIONES="es-PH"
+      LOCALIZACIONES="es_PH"
       TEXTO_LOCAL="LOCALIZADA PARA FILIPINAS                "
       ICONO="Filipinas.png"
       ;;
     es_PR)
       PAIS="Puerto Rico"
-      LOCALIZACIONES="es-PR"
+      LOCALIZACIONES="es_PR"
       TEXTO_LOCAL="LOCALIZADA PARA PUERTO RICO             "
       ICONO="Puerto_Rico.png"
       ;;
     es_PY)
       PAIS="Paraguay"
-      LOCALIZACIONES="es-PY"
+      LOCALIZACIONES="es_PY"
       TEXTO_LOCAL="LOCALIZADA PARA PARAGUAY                "
       ICONO="Paraguay.png"
       ;;
     es_SV)
       PAIS="El Salvador"
-      LOCALIZACIONES="es-SV"
+      LOCALIZACIONES="es_SV"
       TEXTO_LOCAL="LOCALIZADA PARA EL SALVADOR             "
       ICONO="El_Salvador.png"
       ;;
     es_US)
       PAIS="Estados Unidos"
-      LOCALIZACIONES="es-US"
+      LOCALIZACIONES="es_US"
       TEXTO_LOCAL="LOCALIZADA PARA ESTADOS UNIDOS          "
       ICONO="EEUU.png"
       ;;
     es_UY)
       PAIS="Uruguay"
-      LOCALIZACIONES="es-UY"
+      LOCALIZACIONES="es_UY"
       TEXTO_LOCAL="LOCALIZADA PARA URUGUAY                 "
       ICONO="Uruguay.png"
       ;;
     es_VE)
       PAIS="Venezuela"
-      LOCALIZACIONES="es-VE"
+      LOCALIZACIONES="es_VU"
       TEXTO_LOCAL="LOCALIZADA PARA VENEZUELA               "
       ICONO="Venezuela.png"
       ;;
-    *)
-      PAIS="Español internacional"
-      LOCALIZACIONES="es-AR es-BO es-CL es-CO es-CR es-CU es-DO es-EC es-ES es-GQ \
-      			es-GT es-HN es-MX es-NI es-PA es-PE es-PH es-PR es-PY es-SV es-US es-UY es-VE"
+    es)
+      PAIS="español internacional"
+      LOCALIZACIONES=$L10N_REGIONALES
       TEXTO_LOCAL="ESPAÑOL INTERNACIONAL INCLUYENDO TODAS LAS VARIANTES REGIONALES"
       ICONO="Iberoamérica.png"
       ;;
@@ -398,86 +460,62 @@ for LOCALIZACION in $LOCALIZACIONES; do
     /__/! { p; };
     /__LOCALE__/ { s//$LOCALIZACION/g; p; };
     /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
-    /__LOCALE_TEXT__/ {s//$TEXTO_LOCAL/g; p; };
-    /__COUNTRY__/ { s//$PAIS/g; p; }" \
-    ../docs/README_base.txt > "$MDTMPDIR/README.txt"
-  cp ../docs/Changelog.txt ../docs/GPLv3.txt ../docs/LGPLv3.txt \
-    ../docs/MPL-1.1.txt "$MDTMPDIR"
+    /__VERSION__/ {s//$CORRECTOR/g; p; }" \
+    "$FUENTEOXT"/README_hunspell_es.txt > "$MDTMPDIR/README.txt"
+  
+  cp LICENSE/* "$MDTMPDIR"
 
-  if [ "$VERSION" != "2" ]; then
-    if [ "$COMPLETO" != "SÍ" ]; then
-      DESCRIPCION="Español ($PAIS): Ortografía"
-      sed -n -e "
-        /__/! { p; };
-        /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-        /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
-        /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
-        /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
-        /__ICON__/ { s//$ICONO/g; p; };
-        /__COUNTRY__/ { s//$PAIS/g; p; }" \
-      ../docs/dictionaries.xcu> "$MDTMPDIR/dictionaries.xcu"
-      sed -n -e "
-        /__/! { p; };
-        /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-        /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
-        /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
-        /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
-        /__ICON__/ { s//$ICONO/g; p; };
-        /__COUNTRY__/ { s//$PAIS/g; p; }" \
-      ../docs/package-description.txt > "$MDTMPDIR/package-description.txt"
-    else
-      DESCRIPCION="Español ($PAIS): Ortografía, separación y sinónimos"
-      sed -n -e "
-        /__/! { p; };
-        /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-        /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
-        /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
-        /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
-        /__ICON__/ { s//$ICONO/g; p; };
-        /__COUNTRY__/ { s//$PAIS/g; p; }" \
-      ../docs/dictionaries_full.xcu > "$MDTMPDIR/dictionaries.xcu"
-      sed -n -e "
-        /__/! { p; };
-        /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-        /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
-        /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
-        /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
-        /__ICON__/ { s//$ICONO/g; p; };
-        /__COUNTRY__/ { s//$PAIS/g; p; }" \
-      ../docs/package-description_full.txt > "$MDTMPDIR/package-description.txt"
-      cp ../../separacion/hyph_es.dic \
-        ../../separacion/README_hyph_es.txt "$MDTMPDIR"
-      cp ../../sinonimos/palabras/README_th_es_ES.txt \
-        ../../sinonimos/palabras/COPYING \
-        ../../sinonimos/palabras/th_es_ES_v2.* "$MDTMPDIR"
-    fi
-    sed -n -e "
-      /__/! { p; };
-      /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-      /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
-      /__LOCALE_TEXT__/ { s//$TEXTO_LOCAL/g; p; };
-      /__DESCRIPTION__/ { s//$DESCRIPCION/g; p; };
-      /__ICON__/ { s//$ICONO/g; p; };
-      /__COUNTRY__/ { s//$PAIS/g; p; }" \
-    ../docs/description.xml > "$MDTMPDIR/description.xml"
-    cp ../docs/$ICONO "$MDTMPDIR"
-    mkdir "$MDTMPDIR/META-INF"
-    cp ../docs/manifest.xml "$MDTMPDIR/META-INF"
+  DESCRIPCION="Español ($PAIS): Ortografía, separación y sinónimos"
+  sed -n -e "
+    /__/! { p; };
+    /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+    /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }" \
+    "$FUENTEOXT"/dictionaries.xcu > "$MDTMPDIR/dictionaries.xcu"
+
+  sed -n -e "
+    /__/! { p; };
+    /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+    /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };;
+    /__CORRECTOR__/ {s//$CORRECTOR/g; p; };
+    /__SEPARACION__/ {s//$SEPARACION/g; p; };
+    /__SINONIMOS__/ {s//$SINONIMOS/g; p; }" \
+    "$FUENTEOXT/package-description.txt" > "$MDTMPDIR/package-description.txt"
+  
+  sed -n -e "
+    /__/! { p; };
+    /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+    /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+    /__VERSION__/ {s//$SEPARACION/g; p; }" \
+    "$FUENTEOXT/README_hyph_es.txt" > "$MDTMPDIR/README_hyph_es.txtt"
+    cp separacion/hyph_es.dic "$MDTMPDIR"
+
+  cp "$FUENTEOXT/README_th_es.txt" \
+     sinonimos/palabras/COPYING \
+     sinonimos/palabras/th_es_v2.* "$MDTMPDIR"
+
+  sed -n -e "
+    /__/! { p; };
+    /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+    /__VERSION__/ {s//$CORRECTOR/g; p; };
+    /__ICON__/ { s//$ICONO/g; p; };
+    /__PAIS__/ { s//$PAIS/g; p; }" \
+    "$FUENTEOXT/description.xml" > "$MDTMPDIR/description.xml"
+
+  cp plantillas-exportación/iconos/$ICONO "$MDTMPDIR"
+  cp -a "$FUENTEOXT/META-INF" "$MDTMPDIR/"
+
+  DIRECTORIO_TRABAJO="$(pwd)/productos"
+
+  if [ ! -d "$DIRECTORIO_TRABAJO" ]; then
+    mkdir "$DIRECTORIO_TRABAJO"
   fi
 
-  DIRECTORIO_TRABAJO="$(pwd)"
+  ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.oxt"
+  echo -n "Creando $ZIPFILE "
 
-  if [ "$VERSION" != "3" ]; then
-    echo -n "Creando $ZIPFILE "
-    ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.zip"
-  else
-    echo -n "Creando $ZIPFILE "
-    ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.oxt"
-  fi
-
-  cd "$MDTMPDIR"
+  pushd "$MDTMPDIR" || exit
   $ZIP -r -q "$ZIPFILE" ./*
-  cd "$DIRECTORIO_TRABAJO"
+  popd || exit
   echo "¡listo!"
 
   # Eliminar la carpeta temporal

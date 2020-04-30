@@ -4,10 +4,12 @@
   **                      LibreOffice/Apache OpenOffice                     **
   **                                                                        **
   ****************************************************************************
-  **  VERSIÓN __LOCALE_TEXT__                      **
+
+Para: __LOCALES__
+
   ****************************************************************************
 
-                                  Versión 2.5
+                                  Versión __VERSION__
 
 SUMARIO
 
@@ -43,7 +45,6 @@ La buena noticia es que ¡usted también puede participar!
    ¿Tiene dudas o sugerencias? ¿Desearía ver palabras agregadas, o que se
 realizaran correcciones? Consulte las indicaciones técnicas publicadas en
 CONTRIBUTING.md. Estaremos encantados de atenderle.
-
 
 4. AGRADECIMIENTOS
 

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
 
-    <version value="__CORRECTOR__" />
-    <identifier value="RLA.hunspell-es.__LOCALE__" />
+    <version value="__VERSION__" />
+    <identifier value="RLA-ES.hunspell-es.__LOCALE__" />
 
     <display-name>
-        <name lang="en-US">Spanish spelling dictionary, hyphenation rules, and thesaurus for Spain and Latin America</name>
-        <name lang="es">Español (España y América Latina): Ortografía, separación y sinónimos</name>
+        <name lang="es">Corrector ortográfico, separación de sílabas y diccionario de sinónimos para __PAIS__.</name>
+        <name lang="en">Spanish spelling dictionary, hyphenation rules, and thesaurus for __PAIS__.</name>
     </display-name>
 
     <platform value="all" />
@@ -16,10 +16,10 @@
     </dependencies>
 
     <publisher>
-        <name xlink:href="https://github.com/sbosio/rla-es" lang="es">rla-es</name>
-        <name xlink:href="https://github.com/sbosio/rla-es" lang="en">rla-es</name>
+        <name xlink:href="https://github.com/sbosio/rla-es" lang="es">Recursos Lingüísticos Abiertos del español (RLA-ES)</name>
+        <name xlink:href="https://github.com/sbosio/rla-es" lang="en">Open language resources for Spanish (RLA-ES)</name>
     </publisher>
   <icon>
-    <default xlink:href="icon.png" />
+    <default xlink:href="__ICONO__" />
   </icon>
 </description>
