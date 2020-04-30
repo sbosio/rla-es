@@ -1,5 +1,7 @@
 ortograf/tmp
 *~
 *.oxt
+*.xpi
 *.zip
 .vscode
+productos/
