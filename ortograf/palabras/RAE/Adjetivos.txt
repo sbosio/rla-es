@@ -5684,6 +5684,7 @@ fraternal/S
 fraterno/GS
 fratricida/S
 fraudulento/GS
+freático/SG
 frecuentador/SG
 frecuente/GS
 frecuentes/k
