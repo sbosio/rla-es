@@ -1,4 +1,6 @@
-Ortografía __CORRECTOR__ · Separación __SEPARACION__ · Sinónimos __SINONIMOS__
+Ortografía: __CORRECTOR__
+Separación: __SEPARACION__
+Sinónimos: __SINONIMOS__
 
 Para notificar errores y solicitar la inclusión de nuevos términos,
 pinche el enlace.
