@@ -17,15 +17,16 @@ FIND=$(command -v find 2>/dev/null)
 ZIP=$(command -v zip 2>/dev/null)
 
 # Comprobaciones previas:
-[ "$MKTEMP" == "" ] && echo "No se encontró el comando 'mktemp'... Abortando." >&2 ;exit 1
-[ "$GREP" == "" ] && echo "No se encontró el comando 'grep'... Abortando." >&2; exit 1
-[ "$FIND" == "" ] && echo "No se encontró el comando 'find'... Abortando." >&2; exit 1
-[ "$ZIP" == "" ] && echo "No se encontró el comando 'zip'... Abortando." >&2;exit 1
+[ "$MKTEMP" == "" ] && echo "No se encontró el comando 'mktemp'... Abortando." >&2 && exit 1
+[ "$GREP" == "" ] && echo "No se encontró el comando 'grep'... Abortando." >&2 && exit 1
+[ "$FIND" == "" ] && echo "No se encontró el comando 'find'... Abortando." >&2 && exit 1
+[ "$ZIP" == "" ] && echo "No se encontró el comando 'zip'... Abortando." >&2 && exit 1
 [ ! -d "ortografia/palabras/" ] && \
-  echo "Error: debe lanzar el script desde el directorio raiz del proyecto (normalmente rla-es/). Abortando" >&2; \
+  echo "Error: debe lanzar el script desde el directorio raiz del proyecto (normalmente rla-es/). Abortando" >&2 && \
   exit 1
 
 FUENTEOXT="plantillas-exportación/plantilla-oxt"
+FUENTELO="plantillas-exportación/libreoffice-dictionaries-git"
 
 # Realizar el análisis de los parámetros de la línea de comandos
 previa=
@@ -56,6 +57,9 @@ do
     --configurar | -c)
       CONFIGURAR="SÍ" ;;
 
+    --subir-a-LibreOffice | -L)
+      LO_PUBLICAR="SÍ" ;;
+
     --ayuda | --help | -h)
       echo
       echo "Sintaxis de la orden: $0 [opciones]."
@@ -74,7 +78,10 @@ do
       echo "    diccionario de la Real Academia Española."
       echo
       echo "--configurar | -c"
-      echo "    Configurar detalles de publicación de los recursos"
+      echo "    Configurar detalles de publicación de los recursos."
+      echo
+      echo "--subir-a-LibreOffice | -L"
+      echo "    Preparar los materiales para publicar extensiones en LibreOffice."
       exit 0 ;;
 
     *)
@@ -156,8 +163,8 @@ if [[ -f .versiones.cfg ]] && . .versiones.cfg
       exit 2
     fi
   else 
-    echo "Error, no existe el fichero de configuración .versiones.cfg" 
-    echo "Para crear una configuración ejecute $0 con la opción --configurar | -c"
+    echo "Error, no existe el fichero de configuración .versiones.cfg"  >&2
+    echo "Para crear una configuración ejecute $0 con la opción --configurar | -c"  >&2
     exit 1
 fi
 
@@ -168,7 +175,7 @@ for item in $L10N_DISPONIBLES ; do
 done
 
 if [ ! "$item" = "$LOCALIZACIONES" ] && [ ! "$TODAS" = "SÍ" ] 
-  then echo "Error: RLA-ES no contempla $LOCALIZACIONES. Use un código regional del español disponible: $L10N_DISPONIBLES"; exit 1;
+  then echo "Error: RLA-ES no contempla $LOCALIZACIONES. Use un código regional del español disponible: $L10N_DISPONIBLES"  >&2; exit 1;
 fi
 
 unset LANG
@@ -203,6 +210,8 @@ for LOCALIZACION in $LOCALIZACIONES; do
   else
     echo "No se definió una localización; creando el diccionario genérico..."
     LANG="es.UTF-8"
+    # echo "No se ha indicado ninguna variante que generar. No hay nada más que hacer."
+    # exit 0
   fi
 
   # Crear un directorio temporal de trabajo
@@ -218,13 +227,13 @@ for LOCALIZACION in $LOCALIZACIONES; do
     echo "Advertencia: no he encontrado el fichero ortografia/afijos/l10n/$LOCALIZACION/afijos.txt"
   fi
   if [ ! -d "ortografia/palabras/RAE/l10n/$LOCALIZACION" ]; then
-    echo "Advertenche el directorio ortografia/palabras/RAE/l10n/$LOCALIZACION"
+    echo "Advertencia: no he encontrado el directorio ortografia/palabras/RAE/l10n/$LOCALIZACION"
   fi
   if [ ! -d "ortografia/palabras/noRAE/l10n/$LOCALIZACION" ]; then
-    echo "Advertenche el directorio ortografia/palabras/noRAE/l10n/$LOCALIZACION"
+    echo "Advertencia: no he encontrado el directorio ortografia/palabras/noRAE/l10n/$LOCALIZACION"
   fi
   if [ ! -d "ortografia/palabras/toponimos/l10n/$LOCALIZACION" ]; then
-    echo "Advertenche el directorio ortografia/palabras/toponimos/l10n/$LOCALIZACION"
+    echo "Advertencia: no he encontrado el directorio ortografia/palabras/toponimos/l10n/$LOCALIZACION"
   fi
 
 
@@ -312,185 +321,184 @@ for LOCALIZACION in $LOCALIZACIONES; do
   case $LOCALIZACION in
     es_AR)
       PAIS="Argentina"
-      LOCALIZACIONES="es_AR"
+      CLDR="es_AR"
       TEXTO_LOCAL="LOCALIZADA PARA ARGENTINA               "
       ICONO="Argentina.png"
       ;;
     es_BO)
       PAIS="Bolivia"
-      LOCALIZACIONES="es_BO"
+      CLDR="es_BO"
       TEXTO_LOCAL="LOCALIZADA PARA BOLIVIA                 "
       ICONO="Bolivia.png"
       ;;
     es_CL)
       PAIS="Chile"
-      LOCALIZACIONES="es_CL"
+      CLDR="es_CL"
       TEXTO_LOCAL="LOCALIZADA PARA CHILE                   "
       ICONO="Chile.png"
       ;;
     es_CO)
       PAIS="Colombia"
-      LOCALIZACIONES="es_CO"
+      CLDR="es_CO"
       TEXTO_LOCAL="LOCALIZADA PARA COLOMBIA                "
       ICONO="Colombia.png"
       ;;
     es_CR)
       PAIS="Costa Rica"
-      LOCALIZACIONES="es_CR"
+      CLDR="es_CR"
       TEXTO_LOCAL="LOCALIZADA PARA COSTA RICA              "
       ICONO="Costa_Rica.png"
       ;;
     es_CU)
       PAIS="Cuba"
-      LOCALIZACIONES="es_CU"
+      CLDR="es_CU"
       TEXTO_LOCAL="LOCALIZADA PARA CUBA                    "
       ICONO="Cuba.png"
       ;;
     es_DO)
       PAIS="República Dominicana"
-      LOCALIZACIONES="es_DO"
+      CLDR="es_DO"
       TEXTO_LOCAL="LOCALIZADA PARA REPÚBLICA DOMINICANA    "
-      ICONO="República_Dominicana.png"
+      ICONO="Republica_Dominicana.png"
       ;;
     es_EC)
       PAIS="Ecuador"
-      LOCALIZACIONES="es_EC"
+      CLDR="es_EC"
       TEXTO_LOCAL="LOCALIZADA PARA ECUADOR                 "
       ICONO="Ecuador.png"
       ;;
     es_ES)
       PAIS="España"
-      LOCALIZACIONES="es_ES"
+      CLDR="es_ES"
       TEXTO_LOCAL="LOCALIZADA PARA ESPAÑA                  "
-      ICONO="España.png"
+      ICONO="Espanna.png"
       ;;
     es_GQ)
       PAIS="Guinea Ecuatorial"
-      LOCALIZACIONES="es_GQ"
+      CLDR="es_GQ"
       TEXTO_LOCAL="LOCALIZADA PARA GUINEA ECUATORIAL        "
       ICONO="GuineaEcuatorial.png"
       ;;
     es_GT)
       PAIS="Guatemala"
-      LOCALIZACIONES="es_GT"
+      CLDR="es_GT"
       TEXTO_LOCAL="LOCALIZADA PARA GUATEMALA               "
       ICONO="Guatemala.png"
       ;;
     es_HN)
       PAIS="Honduras"
-      LOCALIZACIONES="es_HN"
+      CLDR="es_HN"
       TEXTO_LOCAL="LOCALIZADA PARA HONDURAS                "
       ICONO="Honduras.png"
       ;;
     es_MX)
       PAIS="México"
-      LOCALIZACIONES="es_MX"
+      CLDR="es_MX"
       TEXTO_LOCAL="LOCALIZADA PARA MÉXICO                  "
-      ICONO="México.png"
+      ICONO="Mexico.png"
       ;;
     es_NI)
       PAIS="Nicaragua"
-      LOCALIZACIONES="es_NI"
+      CLDR="es_NI"
       TEXTO_LOCAL="LOCALIZADA PARA NICARAGUA               "
       ICONO="Nicaragua.png"
       ;;
     es_PA)
       PAIS="Panamá"
-      LOCALIZACIONES="es_PA"
+      CLDR="es_PA"
       TEXTO_LOCAL="LOCALIZADA PARA PANAMÁ                  "
-      ICONO="Panamá.png"
+      ICONO="Panama.png"
       ;;
     es_PE)
       PAIS="Perú"
-      LOCALIZACIONES="es_PE"
+      CLDR="es_PE"
       TEXTO_LOCAL="LOCALIZADA PARA PERÚ                    "
-      ICONO="Perú.png"
+      ICONO="Peru.png"
       ;;
     es_PH)
       PAIS="Filipinas"
-      LOCALIZACIONES="es_PH"
+      CLDR="es_PH"
       TEXTO_LOCAL="LOCALIZADA PARA FILIPINAS                "
       ICONO="Filipinas.png"
       ;;
     es_PR)
       PAIS="Puerto Rico"
-      LOCALIZACIONES="es_PR"
+      CLDR="es_PR"
       TEXTO_LOCAL="LOCALIZADA PARA PUERTO RICO             "
       ICONO="Puerto_Rico.png"
       ;;
     es_PY)
       PAIS="Paraguay"
-      LOCALIZACIONES="es_PY"
+      CLDR="es_PY"
       TEXTO_LOCAL="LOCALIZADA PARA PARAGUAY                "
       ICONO="Paraguay.png"
       ;;
     es_SV)
       PAIS="El Salvador"
-      LOCALIZACIONES="es_SV"
+      CLDR="es_SV"
       TEXTO_LOCAL="LOCALIZADA PARA EL SALVADOR             "
       ICONO="El_Salvador.png"
       ;;
     es_US)
       PAIS="Estados Unidos"
-      LOCALIZACIONES="es_US"
+      CLDR="es_US"
       TEXTO_LOCAL="LOCALIZADA PARA ESTADOS UNIDOS          "
       ICONO="EEUU.png"
       ;;
     es_UY)
       PAIS="Uruguay"
-      LOCALIZACIONES="es_UY"
+      CLDR="es_UY"
       TEXTO_LOCAL="LOCALIZADA PARA URUGUAY                 "
       ICONO="Uruguay.png"
       ;;
     es_VE)
       PAIS="Venezuela"
-      LOCALIZACIONES="es_VU"
+      CLDR="es_VE"
       TEXTO_LOCAL="LOCALIZADA PARA VENEZUELA               "
       ICONO="Venezuela.png"
       ;;
     es)
       PAIS="español internacional"
-      LOCALIZACIONES=$L10N_REGIONALES
+      CLDR=$L10N_DISPONIBLES
       TEXTO_LOCAL="ESPAÑOL INTERNACIONAL INCLUYENDO TODAS LAS VARIANTES REGIONALES"
-      ICONO="Iberoamérica.png"
+      ICONO="Iberoamerica.png"
       ;;
   esac
 
   sed -n -e "
     /__/! { p; };
     /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-    /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+    /__LOCALES__/ {s//$CLDR/g; p; };
     /__VERSION__/ {s//$CORRECTOR/g; p; }" \
     "$FUENTEOXT"/README_hunspell_es.txt > "$MDTMPDIR/README.txt"
   
-  cp LICENSE/* "$MDTMPDIR"
+  cp LICENSE.md LICENSE/* "$MDTMPDIR"
 
-  DESCRIPCION="Español ($PAIS): Ortografía, separación y sinónimos"
   sed -n -e "
     /__/! { p; };
     /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-    /__LOCALES__/ {s//$LOCALIZACIONES/g; p; }" \
+    /__LOCALES__/ {s//$CLDR/g; p; }" \
     "$FUENTEOXT"/dictionaries.xcu > "$MDTMPDIR/dictionaries.xcu"
 
   sed -n -e "
     /__/! { p; };
     /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-    /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };;
-    /__CORRECTOR__/ {s//$CORRECTOR/g; p; };
-    /__SEPARACION__/ {s//$SEPARACION/g; p; };
-    /__SINONIMOS__/ {s//$SINONIMOS/g; p; }" \
-    "$FUENTEOXT/package-description.txt" > "$MDTMPDIR/package-description.txt"
+    /__LOCALES__/ {s//$CLDR/g; p; };
+    /__CORRECTOR__/ { s//$CORRECTOR/g; p; };
+    /__SEPARACION__/ { s//$SEPARACION/g; p; };
+    /__SINONIMOS__/ {s||$SINONIMOS|g; p; };
+    /__COUNTRY__/ { s//$PAIS/g; p; }" \
+  "$FUENTEOXT"/package-description.txt > "$MDTMPDIR/package-description.txt"    
   
   sed -n -e "
     /__/! { p; };
     /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-    /__LOCALES__/ {s//$LOCALIZACIONES/g; p; };
+    /__LOCALES__/ {s//$CLDR/g; p; };
     /__VERSION__/ {s//$SEPARACION/g; p; }" \
-    "$FUENTEOXT/README_hyph_es.txt" > "$MDTMPDIR/README_hyph_es.txtt"
+    "$FUENTEOXT/README_hyph_es.txt" > "$MDTMPDIR/README_hyph_es.txt"
     cp separacion/hyph_es.dic "$MDTMPDIR"
 
   cp "$FUENTEOXT/README_th_es.txt" \
-     sinonimos/palabras/COPYING \
      sinonimos/palabras/th_es_v2.* "$MDTMPDIR"
 
   sed -n -e "
@@ -513,13 +521,41 @@ for LOCALIZACION in $LOCALIZACIONES; do
   ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.oxt"
   echo -n "Creando $ZIPFILE "
 
-  pushd "$MDTMPDIR" || exit
+  pushd "$MDTMPDIR" > /dev/null || exit
   $ZIP -r -q "$ZIPFILE" ./*
-  popd || exit
+  popd > /dev/null || exit
   echo "¡listo!"
 
   # Eliminar la carpeta temporal
   rm -Rf "$MDTMPDIR"
 done
 
-echo "¡Proceso finalizado!"
+if [ "$LO_PUBLICAR" == "SÍ" ] ; then
+  echo "Manos a la obra con el repositorio de diccionarios de LibreOffice."
+  echo -n "Actualizamos el repositorio git al estado más reciente"
+  pushd "$LO_DICTIONARIES_GIT" > /dev/null || exit
+  git checkout master > /dev/null 2>&1 ; git pull > /dev/null 2>&1 
+  popd > /dev/null || exit
+  echo "¡listo!"
+
+
+  for LOCALIZACION in $LOCALIZACIONES; do
+    :
+    # recrear Dictionary_CLDR.mk:
+    sed  -e "s/__LOCALE__/$LOCALIZACION/g" -e "s/__ICON__/$ICONO/g" \
+      > "$LO_DICTIONARIES_GIT"Dictionary_"$LOCALIZACION".mk \
+      < "$FUENTELO"/Dictionary_CLDR.mk  
+
+    DESTINO="$LO_DICTIONARIES_GIT""$LOCALIZACION"
+
+    # recrear cada libreoffice-dictionaries/CLDR/
+    rm -rf "$DESTINO"; mkdir "$DESTINO"
+    # volcar cada OXT en libreoffice-dictionaries
+    echo -n "Volcando el contenido de $LOCALIZACION al repositorio local de LibreOffice. "
+    unzip "$DIRECTORIO_TRABAJO"/"$LOCALIZACION".oxt -d "$DESTINO" > /dev/null
+    rm "$DESTINO"/th_es_v2.idx   # aquí no lo necesitaremos
+    echo "¡listo!"
+
+  done
+fi
+echo "Proceso finalizado."
