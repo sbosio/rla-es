@@ -12533,6 +12533,7 @@ tenientazgo/S
 tenis
 tenorio/S
 tenor/S
+tensiómetro/S
 tensor/S
 tentáculo/S
 tentadero/S
