@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
 
-    <version value="2.5" />
-    <identifier value="spanish.es_ANY.dicts.from.rla-es" />
+    <version value="__CORRECTOR__" />
+    <identifier value="RLA.hunspell-es.__LOCALE__" />
 
     <display-name>
         <name lang="en-US">Spanish spelling dictionary, hyphenation rules, and thesaurus for Spain and Latin America</name>
@@ -17,6 +17,9 @@
 
     <publisher>
         <name xlink:href="https://github.com/sbosio/rla-es" lang="es">rla-es</name>
+        <name xlink:href="https://github.com/sbosio/rla-es" lang="en">rla-es</name>
     </publisher>
-
+  <icon>
+    <default xlink:href="icon.png" />
+  </icon>
 </description>
