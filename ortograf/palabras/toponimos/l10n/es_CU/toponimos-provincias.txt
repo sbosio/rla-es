@@ -1,16 +1,23 @@
 Artemisa
 Camagüey
-Ciego de Ávila
+#Ciego de Ávila
+Ciego
+Ávila
 Cienfuegos
 Granma
 Guantánamo
 Holguín
-Isla de la Juventud
-La Habana
-Las Tunas
+#Isla de la Juventud
+#La Habana
+Habana
+#Las Tunas
+Tunas
 Matanzas
 Mayabeque
-Pinar del Río
-Sancti Spíritus
-Santiago de Cuba
-Villa Clara
+#Pinar del Río
+#Sancti Spíritus
+Sancti
+Spíritus
+#Santiago de Cuba
+Santiago
+#Villa Clara
