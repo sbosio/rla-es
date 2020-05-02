@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "dictionaries": {
+    "__LOCALE__": "dictionaries/__LOCALE__.dic"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "__LOCALE__@RLA-ES.hunspell-es"
+    }
+  },
+  "applications": {
+    "gecko": {
+      "id": "__LOCALE__@RLA-ES.hunspell-es"
+    }
+  },
+  "version": "__VERSION__", 
+  "name": "Spell checker for __LOCALE__",
+  "description": "Spell checker dictionary for __PAIS__ ",
+  "author": "Proyecto RLA-ES"
+}
