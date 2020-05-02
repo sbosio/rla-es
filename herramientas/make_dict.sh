@@ -10,6 +10,46 @@ L10N_REGIONALES="es_AR es_BO es_CL es_CO es_CR es_CU es_DO es_EC es_ES es_GQ es_
 L10N_REGIONALES+=" es_MX es_NI es_PA es_PE es_PH es_PR es_PY es_SV es_US es_UY es_VE"
 L10N_DISPONIBLES="es $L10N_REGIONALES"
 
+verifica_versiones () {
+  local RESPUESTA
+  # shellcheck disable=SC1091
+  if [[ -f .versiones.cfg ]] && source .versiones.cfg
+    then 
+      echo "Configuración actual:"
+      echo "Corrector: $CORRECTOR"
+      echo "Separación: $SEPARACION"
+      echo "Sinónimos: $SINONIMOS"
+      echo "Diccionarios LibreOffice: $LO_DICTIONARIES_GIT" 
+      echo -n "¿La configuración es correcta? (s/n) "
+      read -r  -n 1 RESPUESTA
+      if [ "$RESPUESTA" == "n" ] || [ "$RESPUESTA" == "N" ]; then
+        echo
+        echo "La configuración no es correcta."
+        echo "Si lo desea puede reconfigurar las versiones lanzando:"
+        echo "$0 --configurar | -c"
+        exit 
+      fi
+    else 
+      echo
+      echo "Error, no existe el fichero de configuración .versiones.cfg"  >&2
+      echo "Para crear una configuración ejecute $0 con la opción --configurar | -c"  >&2
+      exit 1
+  fi
+}
+
+Version_penultima=""
+Version_ultima=""
+version_etiqueta_git () {
+  # leemos las dos últimas etiquetas en el repo git
+  local STR
+  local STR_linea
+  STR=$(git tag -l |tail -2)
+  while read -r STR_linea; do
+      Version_penultima=$STR_linea
+      read -r Version_ultima
+  done <<< "$STR"
+}
+
 # Herramientas básicas para el script
 MKTEMP=$(command -v mktemp 2>/dev/null)
 GREP=$(command -v grep 2>/dev/null)
@@ -25,8 +65,10 @@ ZIP=$(command -v zip 2>/dev/null)
   echo "Error: debe lanzar el script desde el directorio raiz del proyecto (normalmente rla-es/). Abortando" >&2 && \
   exit 1
 
-FUENTEOXT="plantillas-exportación/plantilla-oxt"
-FUENTELO="plantillas-exportación/libreoffice-dictionaries-git"
+PLANTILLAOXT="plantillas-exportación/plantilla-oxt"
+PLANTILLAXPI="plantillas-exportación/plantilla-xpi"
+
+PLANTILLALO="plantillas-exportación/libreoffice-dictionaries-git"
 
 # Realizar el análisis de los parámetros de la línea de comandos
 previa=
@@ -60,6 +102,12 @@ do
     --subir-a-LibreOffice | -L)
       LO_PUBLICAR="SÍ" ;;
 
+    --changelog | -C)
+      CHANGELOG="SÍ" ;;
+
+    --publicar-version | -P)
+      PUBLICAR="SÍ" ;;
+
     --ayuda | --help | -h)
       echo
       echo "Sintaxis de la orden: $0 [opciones]."
@@ -80,8 +128,15 @@ do
       echo "--configurar | -c"
       echo "    Configurar detalles de publicación de los recursos."
       echo
+      echo "--changelog | -C"
+      echo "    Imprimir los cambios entre las dos últimas versiones etiquetadas."
+      echo
+      echo "--publicar-version | -P)"
+      echo "    Asistente para la publicación de una versión oficial de RLA-ES."
+      echo
       echo "--subir-a-LibreOffice | -L"
       echo "    Preparar los materiales para publicar extensiones en LibreOffice."
+      echo
       exit 0 ;;
 
     *)
@@ -93,13 +148,100 @@ do
   esac
 done
 
+if [ "$PUBLICAR" == "SÍ" ] ; then
+  verifica_versiones;
+  version_etiqueta_git;
+  
+  if [[ ! "${Version_ultima//v/}" = "$CORRECTOR" ]] ; then
+    echo
+    echo "ERROR: el número de versión de la configuración actual ($CORRECTOR) no es igual que la última versión etiquetada en el repositorio (${Version_ultima//v})."
+    echo "Revise que tanto la configuración como la etiqueta en el repositorio git son correctos."
+    exit 1
+  fi
+  echo -n "Confirme ¿el fichero Changelog.txt está actualizado para la versión $CORRECTOR? (s/n) "
+  read -r  -n 1 RESPUESTA
+  if [ "$RESPUESTA" != "s" ] && [ "$RESPUESTA" != "S" ]; then
+    echo -e "\nPuede actualizar el fichero Changelog con la orden $0 --changelog | -C"
+    exit 1
+  fi
+  echo "A continuación vamos a realizar cambios en el repositorio git del proyecto."
 
-# configuración de variables
+  echo -e "\n¿Está seguro de que ha añadido al repositorio todos los cambios relacionados con esta versión?"
+  read -r  -n 1 RESPUESTA
+  if [ "$RESPUESTA" != "s" ] && [ "$RESPUESTA" != "S" ]; then
+    echo -e "\n- repase los cambios pendientes: git status"
+    echo "- añada todos los cambios necesarios: git add <fichero1>, <fichero2»..."
+    echo "- aplique los cambios: git commit" 
+    echo "- vuelva a ejectutar $0 --publicar-version | -P"
+    exit 0
+  fi
+
+  echo -n "¿Actualizar el repositorio local refrescando con los últimos cambios en origen?"
+  read -r  -n 1 RESPUESTA
+  if [ "$RESPUESTA" = "s" ] || [ "$RESPUESTA" = "S" ]; then
+    echo -e "\nejecutando: git fetch; git checkout master; git merge"
+    git fetch || exit 1
+    git checkout master || exit 1
+    git merge || exit 1
+  fi  
+
+  echo -ne "\n¿Crear en el repositorio git la etiqueta v$CORRECTOR?"
+  read -r  -n 1 RESPUESTA
+  if [ "$RESPUESTA" = "s" ] || [ "$RESPUESTA" = "S" ]; then
+    echo -e "\nejecutando: git tag -a v$CORRECTOR"
+    git tag -a "v$CORRECTOR" || exit 1
+  fi
+
+  echo "La etiqueta v$CORRECTOR ha sido creada."
+  
+  echo "Finalmente: "
+  echo " - Genere todas las extensiones actualizadas a v$CORRECTOR: $0 --todos | -t "
+  echo " - Crear una nueva «release» Github asociada a v$CORRECTOR en la URL https://github.com/sbosio/rla-es/releases/new"
+  echo "    - como descripción de la release use el texto añadido a Changelog.txt"
+  echo "    - suba a la release todos los contenidos creados en el directorio productos/"
+  echo " - Incorpore al repositorio «dictionaries» de LibreOffice situado en $LO_DICTIONARIES_GIT todos los cambios: --subir-a-LibreOffice | -L "
+
+fi
+
+if [ "$CHANGELOG" == "SÍ" ] ; 
+  then
+    verifica_versiones;
+    version_etiqueta_git;
+  
+    if [[ "${Version_ultima//v/}" < "$CORRECTOR" ]] ;
+    then
+      echo
+      echo
+      echo "A continuación aparecerá el listado de actividad desde $Version_ultima hasta v$CORRECTOR."
+      echo "Copie el texto que necesite para preparar el contenido definitivo"
+      echo "a incluir en el fichero Changelog.txt."
+      echo "Pulse intro.";
+      # shellcheck disable=SC2162
+      read; 
+      git log --graph --oneline --decorate --color "$Version_penultima".."$Version_ultima"
+      echo -n "¿Quiere editar el fichero Changelog.txt ahora? (s/n) "
+      read -r  -n 1 RESPUESTA
+      if [ "$RESPUESTA" == "s" ] || [ "$RESPUESTA" == "S" ]; then
+        tmp=$( stat -c %Y Changelog.txt )
+        $EDITOR Changelog.txt
+        [ "$( stat -c %Y Changelog.txt )" == "$tmp" ] && echo -e "\nAdvertencia: el fichero Changelog.txt parece que no ha sido modificado."
+      fi
+      echo
+      exit
+    else
+      echo
+      echo "ERROR: el número de versión de la configuración actual ($CORRECTOR) no es mayor que la última versión etiquetada en el repositorio (${Version_ultima//v})."
+      echo "Revise que tanto la configuración como la etiqueta en el repositorio git son correctos."
+      exit 1
+    fi
+fi
 
 if [ "$CONFIGURAR" == "SÍ" ] ; 
   then
     # shellcheck disable=SC1091
-    [[ -f .versiones.cfg ]] && . .versiones.cfg
+    [[ -f .versiones.cfg ]] && source .versiones.cfg
+    echo "Los códigos de versión que usamos son estilo vM.n.p."
+    echo "Para saber más del estilo de versiones semánticas consulte https://semver.org/."
     echo -n "Escriba el número de versión actual de corrector"; [ "$CORRECTOR" ] && echo -n " (valor actual $CORRECTOR) "; echo -n ": "
     read -r RESPUESTA
     [  "$RESPUESTA" == "" ] && [ "$CORRECTOR" == "" ]  && echo -e "\n \nIntroduzca un valor correcto." >&2 && exit 2
@@ -148,25 +290,7 @@ EOF
     exit 0
 fi
 
-# shellcheck disable=SC1091
-if [[ -f .versiones.cfg ]] && . .versiones.cfg
-  then 
-    echo "Configuración actual:"
-    echo "Corrector: $CORRECTOR"
-    echo "Separación: $SEPARACION"
-    echo "Sinónimos: $SINONIMOS"
-    echo "Diccionarios LibreOffice: $LO_DICTIONARIES_GIT" 
-    echo -n "¿La configuración es correcta? (s/n) "
-    read -r  -n 1 RESPUESTA
-    if [ "$RESPUESTA" == "n" ] || [ "$RESPUESTA" == "N" ]; then
-      echo -e "\n¿No?, pues ni una palabra más." >&2
-      exit 2
-    fi
-  else 
-    echo "Error, no existe el fichero de configuración .versiones.cfg"  >&2
-    echo "Para crear una configuración ejecute $0 con la opción --configurar | -c"  >&2
-    exit 1
-fi
+verifica_versiones
 
 for item in $L10N_DISPONIBLES ; do 
     if [ "$item" = "$LOCALIZACIONES" ] ; 
@@ -215,12 +339,14 @@ for LOCALIZACION in $LOCALIZACIONES; do
   fi
 
   # Crear un directorio temporal de trabajo
-  MDTMPDIR="$($MKTEMP -d /tmp/makedict.XXXXXXXXXX)"
+  OXTTMPDIR="$($MKTEMP -d /tmp/makedict.XXXXXXXXXX)"
+  XPITMPDIR="$($MKTEMP -d /tmp/makedict.XXXXXXXXXX)"
+  mkdir "$XPITMPDIR/dictionaries/"
 
   # Para el fichero de afijos encadenamos los distintos segmentos (encabezado,
   # prefijos y sufijos) de la localización seleccionada, eliminando los
   # comentarios y espacios innecesarios.
-  AFFIX="$MDTMPDIR/$LOCALIZACION.aff"
+  AFFIX="$OXTTMPDIR/$LOCALIZACION.aff"
   echo "Creando el fichero de afijos:"
   
   if [ ! -f ortografia/afijos/l10n/$LOCALIZACION/afijos.txt ]; then
@@ -236,7 +362,6 @@ for LOCALIZACION in $LOCALIZACIONES; do
     echo "Advertencia: no he encontrado el directorio ortografia/palabras/toponimos/l10n/$LOCALIZACION"
   fi
 
-
   if [ ! -f ortografia/afijos/l10n/$LOCALIZACION/afijos.txt ]; then
     # Si se solicitó un diccionario genérico, o la localización no ha
     # definido sus propias reglas para los afijos, utilizamos la versión
@@ -246,12 +371,13 @@ for LOCALIZACION in $LOCALIZACIONES; do
     # Se usa la versión de la localización solicitada.
     herramientas/remover_comentarios.sh < ortografia/afijos/l10n/$LOCALIZACION/afijos.txt > "$AFFIX"
   fi
+  cp "$AFFIX" "$XPITMPDIR/dictionaries/"
   echo "¡listo!"
 
   # La lista de palabras se conforma con los distintos grupos de palabras
   # comunes a todos los idiomas, más los de la localización solicitada.
   # Si se crea el diccionario genérico, se incluyen todas las localizaciones.
-  TMPWLIST="$MDTMPDIR/wordlist.tmp"
+  TMPWLIST="$OXTTMPDIR/wordlist.tmp"
   echo -n "Creando la lista de lemas etiquetados... "
 
   # Palabras comunes a todos los idiomas, definidas por la RAE.
@@ -311,9 +437,10 @@ for LOCALIZACION in $LOCALIZACIONES; do
 
   # Generar el fichero con la lista de palabras (únicas), indicando en la
   # primera línea el número de palabras que contiene.
-  DICFILE="$MDTMPDIR/$LOCALIZACION.dic"
+  DICFILE="$OXTTMPDIR/$LOCALIZACION.dic"
   sort -u < "$TMPWLIST" | wc -l | cut -d ' ' -f1 > "$DICFILE"
   sort -u < "$TMPWLIST" >> "$DICFILE"
+  cp "$DICFILE" "$XPITMPDIR/dictionaries/"
   rm -f "$TMPWLIST"
   echo "¡listo!"
 
@@ -465,20 +592,30 @@ for LOCALIZACION in $LOCALIZACIONES; do
       ;;
   esac
 
+
+  sed -n -e "
+    /__/! { p; };
+    /__LOCALE__/ { s//$LOCALIZACION/g; p; };
+    /__PAIS__/ {s//$PAIS/g; p; };
+    /__VERSION__/ {s//$CORRECTOR/g; p; }" \
+    "$PLANTILLAXPI"/manifest.json > "$XPITMPDIR/manifest.json"
+
   sed -n -e "
     /__/! { p; };
     /__LOCALE__/ { s//$LOCALIZACION/g; p; };
     /__LOCALES__/ {s//$CLDR/g; p; };
     /__VERSION__/ {s//$CORRECTOR/g; p; }" \
-    "$FUENTEOXT"/README_hunspell_es.txt > "$MDTMPDIR/README.txt"
+    "$PLANTILLAOXT"/README_hunspell_es.txt > "$OXTTMPDIR/README.txt"
+  cp "$OXTTMPDIR/README.txt" "$XPITMPDIR/dictionaries/"
   
-  cp LICENSE.md LICENSE/* "$MDTMPDIR"
+  cp LICENSE.md LICENSE/* "$OXTTMPDIR"
+  cp LICENSE.md LICENSE/GPLv3.txt LICENSE/LGPLv3.txt LICENSE/MPL-1.1.txt "$XPITMPDIR/dictionaries/"
 
   sed -n -e "
     /__/! { p; };
     /__LOCALE__/ { s//$LOCALIZACION/g; p; };
     /__LOCALES__/ {s//$CLDR/g; p; }" \
-    "$FUENTEOXT"/dictionaries.xcu > "$MDTMPDIR/dictionaries.xcu"
+    "$PLANTILLAOXT"/dictionaries.xcu > "$OXTTMPDIR/dictionaries.xcu"
 
   sed -n -e "
     /__/! { p; };
@@ -488,18 +625,18 @@ for LOCALIZACION in $LOCALIZACIONES; do
     /__SEPARACION__/ { s//$SEPARACION/g; p; };
     /__SINONIMOS__/ {s||$SINONIMOS|g; p; };
     /__COUNTRY__/ { s//$PAIS/g; p; }" \
-  "$FUENTEOXT"/package-description.txt > "$MDTMPDIR/package-description.txt"    
+  "$PLANTILLAOXT"/package-description.txt > "$OXTTMPDIR/package-description.txt"    
   
   sed -n -e "
     /__/! { p; };
     /__LOCALE__/ { s//$LOCALIZACION/g; p; };
     /__LOCALES__/ {s//$CLDR/g; p; };
     /__VERSION__/ {s//$SEPARACION/g; p; }" \
-    "$FUENTEOXT/README_hyph_es.txt" > "$MDTMPDIR/README_hyph_es.txt"
-    cp separacion/hyph_es.dic "$MDTMPDIR"
+    "$PLANTILLAOXT/README_hyph_es.txt" > "$OXTTMPDIR/README_hyph_es.txt"
+    cp separacion/hyph_es.dic "$OXTTMPDIR"
 
-  cp "$FUENTEOXT/README_th_es.txt" \
-     sinonimos/palabras/th_es_v2.* "$MDTMPDIR"
+  cp "$PLANTILLAOXT/README_th_es.txt" \
+     sinonimos/palabras/th_es_v2.* "$OXTTMPDIR"
 
   sed -n -e "
     /__/! { p; };
@@ -507,10 +644,10 @@ for LOCALIZACION in $LOCALIZACIONES; do
     /__VERSION__/ {s//$CORRECTOR/g; p; };
     /__ICON__/ { s//$ICONO/g; p; };
     /__PAIS__/ { s//$PAIS/g; p; }" \
-    "$FUENTEOXT/description.xml" > "$MDTMPDIR/description.xml"
+    "$PLANTILLAOXT/description.xml" > "$OXTTMPDIR/description.xml"
 
-  cp plantillas-exportación/iconos/$ICONO "$MDTMPDIR"
-  cp -a "$FUENTEOXT/META-INF" "$MDTMPDIR/"
+  cp plantillas-exportación/iconos/$ICONO "$OXTTMPDIR"
+  cp -a "$PLANTILLAOXT/META-INF" "$OXTTMPDIR/"
 
   DIRECTORIO_TRABAJO="$(pwd)/productos"
 
@@ -521,13 +658,22 @@ for LOCALIZACION in $LOCALIZACIONES; do
   ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.oxt"
   echo -n "Creando $ZIPFILE "
 
-  pushd "$MDTMPDIR" > /dev/null || exit
+  pushd "$OXTTMPDIR" > /dev/null || exit
+  $ZIP -r -q "$ZIPFILE" ./*
+  popd > /dev/null || exit
+  echo "¡listo!"
+
+  ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.xpi"
+  echo -n "Creando $ZIPFILE "
+
+  pushd "$XPITMPDIR" > /dev/null || exit
   $ZIP -r -q "$ZIPFILE" ./*
   popd > /dev/null || exit
   echo "¡listo!"
 
   # Eliminar la carpeta temporal
-  rm -Rf "$MDTMPDIR"
+  rm -Rf "$OXTTMPDIR"
+  rm -Rf "$XPITMPDIR"
 done
 
 if [ "$LO_PUBLICAR" == "SÍ" ] ; then
@@ -544,7 +690,7 @@ if [ "$LO_PUBLICAR" == "SÍ" ] ; then
     # recrear Dictionary_CLDR.mk:
     sed  -e "s/__LOCALE__/$LOCALIZACION/g" -e "s/__ICON__/$ICONO/g" \
       > "$LO_DICTIONARIES_GIT"Dictionary_"$LOCALIZACION".mk \
-      < "$FUENTELO"/Dictionary_CLDR.mk  
+      < "$PLANTILLALO"/Dictionary_CLDR.mk  
 
     DESTINO="$LO_DICTIONARIES_GIT""$LOCALIZACION"
 
