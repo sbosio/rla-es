@@ -23,6 +23,7 @@ ajicero/S
 altoparlante/S
 amacayo/S
 ara/S
+aserrío/S
 atrenzo/S
 beisbol/S
 bíper/S
