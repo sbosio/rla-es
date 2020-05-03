@@ -196,7 +196,7 @@ if [ "$PUBLICAR" == "SÍ" ] ; then
     exit 0
   fi
 
-  echo -en "\nActualizar el repositorio local con los últimos cambios, ¿está seguro? (s/n): "
+  echo -en "\nVamos a actualizar el repositorio local con los últimos cambios, ¿está seguro? (s/n): "
   read -r  -n 1 RESPUESTA
   if [ "$RESPUESTA" = "s" ] || [ "$RESPUESTA" = "S" ]; then
     echo -e "\nejecutando: git fetch; git checkout master; git merge"
