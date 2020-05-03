@@ -20,6 +20,6 @@
         <name xlink:href="https://github.com/sbosio/rla-es" lang="en">Open language resources for Spanish (RLA-ES)</name>
     </publisher>
   <icon>
-    <default xlink:href="__ICONO__" />
+    <default xlink:href="__ICON__" />
   </icon>
 </description>
