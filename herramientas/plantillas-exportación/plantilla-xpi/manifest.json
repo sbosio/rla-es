@@ -3,14 +3,9 @@
   "dictionaries": {
     "__LOCALE__": "dictionaries/__LOCALE__.dic"
   },
-  "browser_specific_settings": {
-    "gecko": {
-      "id": "__LOCALE__@RLA-ES.hunspell-es"
-    }
-  },
   "applications": {
     "gecko": {
-      "id": "__LOCALE__@RLA-ES.hunspell-es"
+      "id": "__LOCALE__@dictionaries.addons.mozilla.org"
     }
   },
   "version": "__VERSION__", 
