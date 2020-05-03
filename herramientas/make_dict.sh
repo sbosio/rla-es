@@ -201,11 +201,21 @@ if [ "$PUBLICAR" == "SÍ" ] ; then
   if [ "$RESPUESTA" = "s" ] || [ "$RESPUESTA" = "S" ]; then
     echo -e "\nejecutando: git fetch; git checkout master; git merge"
     git fetch || exit 1
+    # para pruebas:
+    # git checkout olea-devel || exit 1
+    # fuego real:
     git checkout master || exit 1
     git merge || exit 1
   fi  
 
-  echo -ne "\n¿Crear en el repositorio git la etiqueta v$CORRECTOR?"
+  echo -ne "\nVamos a crear en el repositorio git la etiqueta v$CORRECTOR, ¿está seguro? (s/n): "
+  read -r  -n 1 RESPUESTA
+  if [ "$RESPUESTA" = "s" ] || [ "$RESPUESTA" = "S" ]; then
+    echo -e "\nejecutando: git tag -a v$CORRECTOR"
+    git tag -a "v$CORRECTOR" || exit 1
+  fi
+
+  echo -ne "\nHay que subir al repositorio origen todos los cambios de la versión v$CORRECTOR, ¿está seguro? (s/n): "
   read -r  -n 1 RESPUESTA
   if [ "$RESPUESTA" = "s" ] || [ "$RESPUESTA" = "S" ]; then
     echo -e "\nejecutando: git tag -a v$CORRECTOR"
@@ -215,12 +225,12 @@ if [ "$PUBLICAR" == "SÍ" ] ; then
   echo "La etiqueta v$CORRECTOR ha sido creada."
   
   echo "Finalmente: "
-  echo " - Genere todas las extensiones actualizadas a v$CORRECTOR: $0 --todos | -t "
+  echo " - Genere todas las extensiones actualizadas a v$CORRECTOR: $0 --todas | -t "
   echo " - Crear una nueva «release» Github asociada a v$CORRECTOR en la URL https://github.com/sbosio/rla-es/releases/new"
   echo "    - como descripción de la release use el texto añadido a Changelog.txt"
   echo "    - suba a la release todos los contenidos creados en el directorio productos/"
-  echo " - Incorpore al repositorio «dictionaries» de LibreOffice situado en $LO_DICTIONARIES_GIT todos los cambios: --subir-a-LibreOffice | -L "
-
+  echo " - Incorpore al repositorio «dictionaries» de LibreOffice, situado en $LO_DICTIONARIES_GIT, todos los cambios: $0 --subir-a-LibreOffice | -L "
+  exit 0
 fi
 
 if [ "$CHANGELOG" == "SÍ" ] ; 
@@ -332,12 +342,19 @@ if [ "$LO_PUBLICAR" == "SÍ" ] ; then
     echo "$0 --todos | -t"
     exit 1
   fi
-  [ ! -d "$LO_DICTIONARIES_GIT" ] && echo -e "\nERROR: no existe el directorio $LO_DICTIONARIES_GIT" && exit 2;
-  
+  if [ ! -d "$LO_DICTIONARIES_GIT" ] ; then
+    echo -e "\nERROR: no existe el directorio $LO_DICTIONARIES_GIT"
+    echo 
+    echo "Si no ha descargado el repositorio a su sistema deberá usar una orden semejante a esta pero con sus propios datos de usuario:"
+    echo "  git clone \"ssh://USUARIO@gerrit.libreoffice.org:29418/dictionaries\" && scp -p -P 29418 USUARIO@gerrit.libreoffice.org:hooks/commit-msg \"dictionaries/.git/hooks/\""
+    echo "En cualquier caso configure el directorio correcto con $0 --configurar | -c"
+    exit 2;
+  fi
+
   RAMA_GIT="hunspell-es-$CORRECTOR"
-  echo "Prepararmos el repositorio git al estado más reciente con una rama nueva para la actualización:"
+  echo -e "\nPrepararmos el repositorio git al estado más reciente con una rama nueva para la actualización:"
   pushd "$LO_DICTIONARIES_GIT" > /dev/null || exit
-  echo git fetch || exit
+  git fetch || exit
   git checkout master || exit
   git rebase origin/master || exit
   git checkout -b "$RAMA_GIT" || exit
@@ -346,34 +363,35 @@ if [ "$LO_PUBLICAR" == "SÍ" ] ; then
 
   # configuración de diccionarios para el repo:
   rm -f "$LO_DICTIONARIES_GIT"Dictionary_es.mk
-  install "$PLANTILLALO"/Dictionary_es.mk "$LO_DICTIONARIES_GIT"Dictionary_es.mk
+  install -m 644 "$PLANTILLALO"/Dictionary_es.mk "$LO_DICTIONARIES_GIT"Dictionary_es.mk
 
   DESTINO="$LO_DICTIONARIES_GIT"/es
   
   # limpieza de la versión anterior
-  rm -f "$DESTINO"/*
+  rm -rf "$DESTINO" || exit
+  mkdir "$DESTINO" || exit
 
   # copiamos metadatos
-  install -d "$PLANTILLAOXT"META-INF/manifest.xml "$DESTINO"/META-INF/manifest.xml
-  install "$PLANTILLALO"/description.xml "$DESTINO"
-  install "$PLANTILLALO"/dictionaries.xcu "$DESTINO"
-  install "$PLANTILLALO"/package-description.txt "$DESTINO"
-  install herramientas/plantillas-exportación/iconos/RLA-ES.png "$DESTINO"
+  install -m 644 -d "$PLANTILLAOXT"META-INF/manifest.xml "$DESTINO"/META-INF/manifest.xml
+  install -m 644 "$PLANTILLALO"/description.xml "$DESTINO"
+  install -m 644 "$PLANTILLALO"/dictionaries.xcu "$DESTINO"
+  install -m 644 "$PLANTILLALO"/package-description.txt "$DESTINO"
+  install -m 644 herramientas/plantillas-exportación/iconos/RLA-ES.png "$DESTINO"
 
   # copiamos licencias:
-  install LEAME.md LICENCIAS* "$DESTINO"
+  install -m 644 LICENSE.md LICENSE/* "$DESTINO"
 
   # copiamos descripciones
-  install "$PLANTILLAOXT"/README*txt "$DESTINO"
+  install -m 644 "$PLANTILLAOXT"/README*txt "$DESTINO"
 
   # extraemos hyph_es.dic th_es_v2.dat 
-  unzip "$DIRECTORIO_TRABAJO"/"$LOCALIZACION".oxt hyph_es.dic th_es_v2.dat -d "$DESTINO" > /dev/null
+  unzip productos/es.oxt hyph_es.dic th_es_v2.dat -d "$DESTINO" > /dev/null
 
   # extraemos los diccionarios regionales
-  for LOCALIZACION in $LOCALIZACIONES; do
+  for item in $L10N_DISPONIBLES; do
   
-    echo -n "Volcando el contenido de $LOCALIZACION al repositorio local de LibreOffice. "
-    unzip "$DIRECTORIO_TRABAJO"/"$LOCALIZACION".oxt "$LOCALIZACION".dic "$LOCALIZACION".aff  \
+    echo -n "Volcando el contenido de $item al repositorio local de LibreOffice. "
+    unzip productos/"$item".oxt "$item".dic "$item".aff  \
         -d "$DESTINO" > /dev/null
     echo "¡listo!"
 
@@ -385,15 +403,17 @@ if [ "$LO_PUBLICAR" == "SÍ" ] ; then
   echo "A continuación examine el estado de los cambios:"
   git status
 
-  echo "Si considera que los cambios son correctos hay que añadirlos al repositorio local."
+  echo "Si son correctos hay que añadirlos al repositorio local."
   echo "Ejecute las siguientes órdenes _manualmente_:"
+  echo
   echo "cd $LO_DICTIONARIES_GIT"
   echo "git commit"
   echo "(se abrirá un editor en el que debe describir _en inglés_ los cambios relacionados con la versión)"
   echo
   echo "Finalmente, para para enviar los cambios a gerrit ejecute:"
-  echo git 
-  
+  echo
+  echo "git push origin $RAMA_GIT"
+  echo   
   echo "El cambio será evaluado en https://gerrit.libreoffice.org/q/project:dictionaries antes" \
     " de ser incorporado a la rama principal del repositorio."
   echo "Si lo desea también podría avisar del cambio escribiendo a mailto:libreoffice@lists.freedesktop.org."
