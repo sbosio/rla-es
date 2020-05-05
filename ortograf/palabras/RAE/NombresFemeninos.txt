@@ -98,6 +98,7 @@ acetosa/NS
 acetosidad/S
 achicadura/S
 acicaladura/S
+acícula/S
 acidez/S
 acidia/S
 acidosis
