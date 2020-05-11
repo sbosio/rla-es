@@ -3374,6 +3374,7 @@ civismo/S
 clamor/S
 clan/S
 claqué/S
+clareo/S
 clarete/S
 clarín/HS
 clarión/S
