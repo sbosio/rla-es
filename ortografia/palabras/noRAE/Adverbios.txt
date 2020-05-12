@@ -24,6 +24,7 @@ abrumadoramente		# Contribuida por Ricardo Goldberger
 abruptamente
 abultadamente
 abundosamente
+abusivamente		# Contribuida por 'aperalesf'
 acarameladamente
 acartonadamente
 acerosamente
@@ -66,6 +67,7 @@ apáticamente
 aplastantemente
 apreciativamente
 apresuradamente
+argumentalmente
 arrogantemente
 arteramente
 artísticamente
@@ -140,6 +142,7 @@ chapuceramente
 chirriantemente
 chocantemente
 cínicamente
+cívicamente
 clarividentemente
 cobardemente
 coincidentemente
