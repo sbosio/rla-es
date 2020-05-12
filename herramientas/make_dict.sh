@@ -352,7 +352,7 @@ if [ "$LO_PUBLICAR" == "SÍ" ] ; then
   fi
 
   RAMA_GIT="hunspell-es-$CORRECTOR"
-  echo -e "\nPrepararmos el repositorio git al estado más reciente con una rama nueva para la actualización:"
+  echo -e "\nPreparamos el repositorio git al estado más reciente con una rama nueva para la actualización:"
   pushd "$LO_DICTIONARIES_GIT" > /dev/null || exit
   git fetch || exit
   git checkout master || exit
