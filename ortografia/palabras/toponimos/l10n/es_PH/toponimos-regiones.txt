@@ -1,0 +1,39 @@
+
+Bicolandia
+#Bisayas Centrales
+#Bisayas Occidentales
+#Bisayas Orientales
+Bisayas
+Centrales
+Occidentales
+Orientales
+Caraga
+#Gran Manila
+Gran
+Manila
+Ilocos
+#La Cordillera
+Cordillera
+#Luzón Central
+Luzón
+Central
+Mimaropa
+#Mindanao del Norte
+Mindanao
+Norte
+#Mindanao Musulmán
+Musulmán
+#Nación Mora
+Nación
+Mora
+#Península de Zamboanga
+Península
+Zamboanga
+#Región de Davao
+Región
+Davao
+#Región IV-A
+#Región XII
+#Valle del Cagayán
+Valle
+Cagayán

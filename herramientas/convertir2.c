@@ -1,6 +1,6 @@
 /*
  * convertir2.c: Convierte un listado de palabras en texto plano al formato
- *               personal .dic versión 7 (texto etiquetado) de Apache OpenOffice
+ *               personal .dic versión 7 (texto etiquetado) de LibreOffice
  *
  * Para compilar el programa ejecute: "gcc -o convertir2 convertir2.c"
  *

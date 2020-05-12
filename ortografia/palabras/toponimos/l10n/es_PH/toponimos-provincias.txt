@@ -1,0 +1,116 @@
+Abra
+#Agusan del Norte
+#Agusan del Sur
+Agusan
+Norte
+Sur
+Aklan
+Albay
+Antique
+Apayao
+Aurora
+Basilán
+Bataán
+Batanes
+Batangas
+Benguet
+Bilirán
+Bohol
+Bukidnon
+Bulacán
+Cagayán
+#Camarines Norte
+#Camarines Sur
+Camarines
+Camiguín
+Cápiz
+Catanduanes
+Cavite
+Cebú
+Cotabato
+#Cotabato del Sur
+Davao
+#Davao de Oro
+Oro
+#Davao del Norte
+Norte
+#Davao del Sur
+Sur
+#Dávao Occidental
+Dávao
+Occidental
+#Davao Oriental
+Oriental
+Guimarás
+Ifugao
+#Ilocos Norte
+#Ilocos Sur
+Ilocos
+Iloílo
+Isabela
+#Islas Dinagat
+Islas
+Dinagat
+Kalinga
+#Kalinga-Apayao
+Apayao
+#La Laguna
+Laguna
+#La Montaña
+Montaña
+#La Unión
+Unión
+#Lanao del Norte
+#Lanao del Sur
+Lanao
+Leyte
+#Leyte del Sur
+Maguindanao
+Marinduque
+Masbate
+#Mindoro Occidental
+#Mindoro Oriental
+Mindoro
+#Misamis Occidental
+#Misamis Oriental
+Misamis
+#Negros Occidental
+#Negros Oriental
+Negros
+#Nueva Écija
+Nueva
+Écija
+#Nueva Vizcaya
+Vizcaya
+Palawan
+Pampanga
+Pangasinán
+#Provincia de Lanao
+#Provincia de Mindoro
+Quezón
+Quirino
+Rizal
+Romblón
+Sámar
+Sámar
+#Sámar del Norte
+#Sámar Oriental
+Sarangani
+Siquijor
+Sorsogón
+#Sultán Kudarat
+Sultán
+Kudarat
+Sulú
+#Surigao del Norte
+#Surigao del Sur
+Surigao
+Tarlac
+#Tawi-Tawi
+Tawi
+Zambales
+#Zamboanga del Norte
+#Zamboanga del Sur
+#Zamboanga Sibugay
+Zamboanga
+Sibugay

@@ -1,6 +1,6 @@
 /*
  * convertir.c: Convierte un listado de palabras en texto plano al formato
- *              personal .dic versión 6 (binario) de Apache OpenOffice
+ *              personal .dic versión 6 (binario) de LibreOffice
  *
  * Para compilar el programa ejecute: "gcc -o convertir convertir.c"
  *

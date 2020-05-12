@@ -1,0 +1,96 @@
+#A Jojó
+Jojó
+Abanga
+#Barranco de Baó
+Baó
+#Barranco Siaca
+Siaca
+Cus
+Djane
+Famangós
+Ferec
+#Lago Atoc
+Atoc
+#Lago Claret
+Claret
+#Lago de Biaó
+Biaó
+#Lago Loreto
+Loreto
+#Lago Mazafin
+Mazafin
+#Laguna Erri
+Erri
+#Laguna Lombé
+Lombé
+Lede
+Maama
+#Macizo de Santa Mina
+Mbangua
+#Monte Abicin
+Abicin
+#Monte Agudo
+Agudo
+#Monte Bombanyoko
+Bombanyoko
+#Monte Cusuzua
+Cusuzua
+#Monte Mitra
+Mitra
+#Monte Quioveo
+Quioveo
+#Monte Santiago
+Santiago
+Mueque
+#Pico Basilé
+Basilé
+#Pico Biaó
+Biaó
+#Pico de la Concepción
+Concepción
+#Pico de San Joaquín
+Joaquín
+#Pico del Centro
+Centro
+#Pico del Fuego
+Fuego
+#Pico do Fogo
+Fogo
+#Pico Lago
+Lago
+#Pico Quioveo
+#Pico Surcado
+Surcado
+#Río Bacá
+Bacá
+#Río Boó
+Boó
+#Río Campo
+Campo
+#Río Congüe
+Congüe
+#Río Komo
+Komo
+#Río Mabi
+Mabi
+#Río Mandyani
+Mandyani
+#Río Mbini
+Mbini
+#Río Mitimele
+Mitimele
+#Río Mitong
+Mitong
+#Río Mocoavo
+Mocoavoro
+#Río Muni
+Muni
+#río Mven
+Mven
+#río Uoro Mbini
+Uoro
+Mbini
+#Río Utamboni
+Utamboni
+#Volcán San Carlos
+Carlos

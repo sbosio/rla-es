@@ -1,0 +1,214 @@
+Abreus
+#Aguada de Pasajeros
+Alquízar
+Amancio
+Antilla
+#Arroyo Naranjo
+Artemisa
+#Bahía Honda
+Banes
+Baracoa
+Baraguá
+#Bartolomé Masó
+Bartolomé
+Masó
+Batabanó
+Bauta
+Bayamo
+Bejucal
+Bolivia
+Boyeros
+#Buey Arriba
+Báguanos
+Cabaiguán
+Cacocum
+Caibarién
+Caimanera
+Caimito
+Calimete
+#Calixto García
+Calixto
+García
+Camagüey
+Camajuaní
+Campechuela
+Candelaria
+#Carlos Manuel de Céspedes
+Carlos
+Manuel
+Céspedes
+#Cauto Cristo
+#Centro Habana
+Habana
+Cerro
+Chambas
+#Ciego de Ávila
+Ávila
+#Cienaga de Zapata
+Cienaga
+Zapata
+Cienfuegos
+Cifuentes
+#Ciro Redondo
+Ciro
+Colombia
+Colón
+#Consolación del sur
+Consolación
+Contramaestre
+Corralillo
+Cotorro
+Cruces
+Cueto
+Cumanayagua
+Cárdenas
+#Diez de Octubre
+#El Salvador
+Encrucijada
+Esmeralda
+Florencia
+Florida
+Fomento
+#Frank País
+Frank
+País
+Gibara
+Guamá
+Guanabacoa
+Guanajay
+Guane
+Guantánamo
+Guisa
+Guáimaro
+Güines
+#Güira de Melena
+Güira
+#Habana del Este
+Holguín
+Imías
+#Isla de la Juventud
+#Jagüey Grande
+Jagüey 
+Jaruco
+Jatibonico
+#Jesús Menéndez
+Jesús
+Menéndez
+Jiguaní
+Jimaguayú
+Jobabo
+Jovellanos
+#La Habana Vieja
+#La Lisa
+#La Palma
+#La Sierpe
+Sierpe
+Lajas
+#Las Tunas
+Tunas
+Limonar
+#Los Arabos
+Arabos
+#Los Palacios
+Madruga
+Maisí
+Majagua
+Majibacoa
+Manatí
+Manicaragua
+Mantua
+#Manuel Tames
+Manuel
+Tames
+Manzanillo
+Marianao
+Mariel
+Martí
+Matanzas
+Mayarí
+#Media Luna
+#Melena del Sur
+Mella
+Minas
+#Minas de Matahambre
+Matahambre
+Moa
+Morón
+Najasa
+#Niceto Pérez
+Niceto
+Pérez
+Niquero
+#Nueva Paz
+Nuevitas
+#Palma Soriano
+Soriano
+Palmira
+#Pedro Betancourt
+Pedro
+Betancourt
+Perico
+Pilón
+#Pinar del Río
+Placetas
+Playa
+#Plaza de la Revolución
+#Primero de Enero
+#Puerto Padre
+#Quemado de Güines
+Quemado
+Güines
+Quivicán
+#Rafael Freyre
+Rafel
+Freyre
+Ranchuelo
+Regla
+Remedios
+Rodas
+#Río Cauto
+Cauto
+#Sagua La Grande
+#Sagua de Tánamo
+Sagua
+Tánamo
+#San Antonio de los Baños
+#San Antonio del Sur
+#San Cristóbal
+#San José de las Lajas
+Lajas
+#San Juan y Martínez
+#San Luis
+#San Miguel del Padrón
+#San Nicolás
+#Sancti Spíritus
+Sancti
+Spíritus
+Sandino
+#Santa Clara
+Clara
+#Santa Cruz del Norte
+#Santa Cruz del Sur
+#Santiago de Cuba
+Santiago
+#Santo Domingo
+#Segundo Frente
+Sibanicú
+#Sierra de Cubitas
+Cubitas
+#Songo La Maya
+Songo
+Maya
+Taguasco
+#Tercer Frente
+Trinidad
+#Unión de Reyes
+#Urbano Noris
+Urbano
+Noris
+Venezuela
+Vertientes
+Viñales
+Yaguajay
+Yara
+Yateras

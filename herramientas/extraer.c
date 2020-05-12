@@ -1,6 +1,6 @@
 /*
  * extraer.c: Extrae el listado de palabras de un diccionario
- *            personal .dic de Apache OpenOffice
+ *            personal .dic de LibreOffice
  *
  * Para compilar el programa ejecute: "gcc -o extraer extraer.c"
  *
