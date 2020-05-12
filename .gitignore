@@ -1,4 +1,3 @@
-ortograf/tmp
 *~
 *.oxt
 *.xpi
@@ -6,3 +5,4 @@ ortograf/tmp
 .vscode
 productos/
 .versiones.cfg
+contrib/

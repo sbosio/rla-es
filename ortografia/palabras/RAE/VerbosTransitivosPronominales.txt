@@ -263,7 +263,7 @@ anchar/RED
 anegar/REDÂñ
 angustiar/REDÁÂñ
 anieblar/RED
-animalizar/RED
+animalizar/REDA
 animar/pREDÀÁÂÄÅÆÎñòôøA
 animizar/RED
 aniquilar/REDñTA

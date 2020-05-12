@@ -38,6 +38,8 @@ cap
 Cdad
 cent/S
 cént/S
+cf
+cfr
 cgo
 Cía
 cit

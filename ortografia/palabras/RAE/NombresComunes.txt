@@ -481,6 +481,7 @@ legista/S
 lendakari
 letrista/S
 libelista/S
+liberal/cS
 librancista/S
 libretista/S
 licorista/S

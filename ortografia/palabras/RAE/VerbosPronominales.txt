@@ -144,6 +144,7 @@ atipar/RED
 atorozonar/RED
 atrever/REDñòôø
 autolesionar/REDñ
+autodefinir/REDñ
 automedicar/REDñA
 autorregular/REDA
 autosugestionar/RED
