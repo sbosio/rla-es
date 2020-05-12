@@ -5,3 +5,4 @@ ortograf/tmp
 *.zip
 .vscode
 productos/
+.versiones.cfg
