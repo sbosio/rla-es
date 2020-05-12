@@ -84,7 +84,7 @@ class Hyphenator:
                 pieces.append('')
         return pieces
 
-with codecs.open('hyph_es_ANY.dic', 'r', 'iso-8859-1') as patternfile:
+with codecs.open('hyph_es.dic', 'r', 'iso-8859-1') as patternfile:
     patterns=(patternfile.read().replace('ISO8859-1\nLEFTHYPHENMIN 2\nRIGHTHYPHENMIN 2\n', '').replace('\n', ' '))
 
 exceptions = """

@@ -1,7 +1,0 @@
-Ortografía 2.5
-
-Para notificar errores y solicitar la inclusión de nuevos términos,
-hacer clic sobre el enlace.
-
-Esta extensión añade la compatibilidad en idioma español de __COUNTRY__
-para la herramienta de revisión ortográfica.

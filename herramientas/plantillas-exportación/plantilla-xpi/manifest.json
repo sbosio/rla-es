@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "dictionaries": {
+    "__LOCALE__": "dictionaries/__LOCALE__.dic"
+  },
+  "applications": {
+    "gecko": {
+      "id": "__LOCALE__@dictionaries.addons.mozilla.org"
+    }
+  },
+  "version": "__VERSION__", 
+  "name": "Spell checker for __LOCALE__",
+  "description": "Spell checker dictionary for __PAIS__ ",
+  "author": "Proyecto RLA-ES"
+}
