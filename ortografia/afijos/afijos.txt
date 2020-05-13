@@ -31,7 +31,7 @@ FLAG UTF-8 # Indica que las reglas de este fichero están en formato UTF-8
 TRY aeroinsctldumpbgfvhzóíjáqéñxyúükwAEROINSCTLDUMPBGFVHZÓÍJÁQÉÑXYÚÜKW
 
 # Tabla de reemplazos
-REP 20
+REP 19
 REP ás         az
 REP az         ás
 REP cc         x
@@ -51,7 +51,6 @@ REP nv         mb
 REP seci       cesi
 REP x          cc
 REP y          ll
-REP vámonos    vayámonos # Error común en el español
 
 # Mapeo de caracteres. Es útil en palabras acentuadas en la vocal incorrecta.
 # Por ej.: autómatico -> automático. Si bien estos casos son poco frecuentes,
