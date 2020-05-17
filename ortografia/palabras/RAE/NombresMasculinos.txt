@@ -3391,6 +3391,7 @@ civismo/S
 clamor/S
 clan/S
 claqué/S
+clareo/S
 clarete/S
 clarín/HS
 clarión/S
@@ -3821,6 +3822,7 @@ corezuelo/S
 corimbo/S
 corindón/S
 corinto/S
+corion/S
 cornatillo/S
 cornejo/S
 cornero/S
@@ -4842,6 +4844,7 @@ elfo/S
 elipsoide/S
 elíseo/S
 elitismo/S
+élitro/S
 elixir/S
 ello/S
 elogio/S
@@ -6224,6 +6227,8 @@ fusible/S
 fusilamiento/S
 fusil/HS
 fusor/S
+fustal/S
+fustán/S
 fuste/aS
 fútbol/S
 futbol/S
@@ -9425,6 +9430,7 @@ palomo/S
 palo/S
 palote/HS
 palpamiento/S
+palpo/S
 pal/SHN
 paludamento/S
 paludismo/S
@@ -10557,6 +10563,7 @@ protocloruro/S
 protocolo/S
 protomedicato/S
 protomédico/S
+protórax
 protón/S
 protonotario/S
 protoplasma/S
@@ -12548,6 +12555,7 @@ tenientazgo/S
 tenis
 tenorio/S
 tenor/S
+tensiómetro/S
 tensor/S
 tentáculo/S
 tentadero/S
