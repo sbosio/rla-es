@@ -2496,6 +2496,7 @@ cerebroespinal/S
 ceremonial/S
 ceremoniero/GS
 ceremonioso/GS
+céreo/GS
 cerne/GS
 cernícalo/S
 cero/GS
@@ -4374,6 +4375,7 @@ ecologista/S
 económico/GS
 ecotado/GS
 ectodérmico/GS
+ectoparásito/GS
 ecuable/S
 ecuánime/S
 ecuante/S
@@ -5706,6 +5708,7 @@ fraternal/S
 fraterno/GS
 fratricida/S
 fraudulento/GS
+freático/SG
 frecuentador/SG
 frecuente/GS
 frecuentes/k
@@ -6481,6 +6484,7 @@ horroroso/GS
 hortelano/GS
 hortense/S
 hortera/S
+hortícola/S
 hosco/SG
 hoscoso/GS
 hospedable/kS

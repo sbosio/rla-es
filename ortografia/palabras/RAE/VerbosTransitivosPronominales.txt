@@ -1794,7 +1794,7 @@ meter/REDÀÁÂÇÌÏñòôø
 mezclar/REDÁñòøT
 mimbrar/RED
 mimetizar/REDñ
-mineralizar/RED
+mineralizar/REDA
 minorar/RED
 mitigar/REDÀA
 mocar/RED

@@ -98,6 +98,7 @@ acetosa/NS
 acetosidad/S
 achicadura/S
 acicaladura/S
+acícula/S
 acidez/S
 acidia/S
 acidosis
@@ -10395,6 +10396,7 @@ tipiadora/S
 tipicidad/S	# Contribuida por Alonso González Cuchillo
 tipografía/S
 tipología/S
+típula/S
 tirada/S
 tiradera/S
 tiramira/S
