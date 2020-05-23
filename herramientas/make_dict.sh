@@ -483,8 +483,8 @@ for LOCALIZACION in $LOCALIZACIONES; do
   OXTTMPDIR="$($MKTEMP -d /tmp/makedict.XXXXXXXXXX)"
   XPITMPDIR="$($MKTEMP -d /tmp/makedict.XXXXXXXXXX)"
   mkdir "$XPITMPDIR/dictionaries/"
-  # Mozilla usa CLDR estilo XX-YY en lugar de XX_YY
-  LOC_XPI="${LOCALIZACION//_/-}"
+  # En los metadatos de las extensiones se usa CLDR estilo XX-YY en lugar de XX_YY
+  CLDR2="${LOCALIZACION//_/-}"
 
   # Para el fichero de afijos encadenamos los distintos segmentos (encabezado,
   # prefijos y sufijos) de la localización seleccionada, eliminando los
@@ -514,7 +514,7 @@ for LOCALIZACION in $LOCALIZACIONES; do
     # Se usa la versión de la localización solicitada.
     herramientas/remover_comentarios.sh < ortografia/afijos/l10n/$LOCALIZACION/afijos.txt > "$AFFIX"
   fi
-  cp "$AFFIX" "$XPITMPDIR/dictionaries/$LOC_XPI.aff"
+  cp "$AFFIX" "$XPITMPDIR/dictionaries/$CLDR2.aff"
   echo "¡listo!"
 
   # La lista de palabras se conforma con los distintos grupos de palabras
@@ -583,7 +583,7 @@ for LOCALIZACION in $LOCALIZACIONES; do
   DICFILE="$OXTTMPDIR/$LOCALIZACION.dic"
   sort -u < "$TMPWLIST" | wc -l | cut -d ' ' -f1 > "$DICFILE"
   sort -u < "$TMPWLIST" >> "$DICFILE"
-  cp "$DICFILE" "$XPITMPDIR/dictionaries/$LOC_XPI.dic"
+  cp "$DICFILE" "$XPITMPDIR/dictionaries/$CLDR2.dic"
   rm -f "$TMPWLIST"
   echo "¡listo!"
 
@@ -735,7 +735,7 @@ for LOCALIZACION in $LOCALIZACIONES; do
       ;;
   esac
 
-    sed  -e "s/__LOCALE__/$LOC_XPI/g" -e "s/__PAIS__/$PAIS/g" \
+    sed  -e "s/__LOCALE__/$CLDR2/g" -e "s/__PAIS__/$PAIS/g" \
       -e "s/__VERSION__/$CORRECTOR/g" \
       > "$XPITMPDIR"/manifest.json \
       < "$PLANTILLAXPI"/manifest.json  
@@ -754,7 +754,7 @@ for LOCALIZACION in $LOCALIZACIONES; do
   sed -n -e "
     /__/! { p; };
     /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-    /__LOCALES__/ {s//$CLDR/g; p; }" \
+    /__LOCALES__/ {s//$CLDR2/g; p; }" \
     "$PLANTILLAOXT"/dictionaries.xcu > "$OXTTMPDIR/dictionaries.xcu"
 
   sed -n -e "
