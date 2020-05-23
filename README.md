@@ -33,7 +33,7 @@ De todas las especificaciones de variantes regionales del español recogidas en 
 | es_US | Estados Unidos |
 | es_UY | Uruguay |
 | es_VE | Venezuela |
-| es |  general iberoamericano |
+| es |  general, español internacional |
 
 A pesar de nuestro esfuerzo el grado de cobertura de cada variante regional puede estar más o menos completa. Tu ayuda es importante.
 
