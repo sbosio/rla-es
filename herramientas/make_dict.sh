@@ -33,6 +33,7 @@ verifica_versiones () {
       echo
       echo "ERROR, no existe el fichero de configuración .versiones.cfg"  >&2
       echo "Para crear una configuración ejecute $0 con la opción --configurar | -c"  >&2
+      echo "Para ver una configuración de ejemplo, consulte el fichero .versiones.cfg-EJEMPLO" >&2
       exit 1
   fi
 }
@@ -271,32 +272,32 @@ if [ "$CONFIGURAR" == "SÍ" ] ;
   then
     # shellcheck disable=SC1091
     [[ -f .versiones.cfg ]] && source .versiones.cfg
-    echo "Los códigos de versión que usamos son estilo vM.n.p."
+    echo "Los códigos de versión que usamos son estilo vM.n.p. La letra v se añade por el sistema, no debe indicarla."
     echo "Para saber más del estilo de versiones semánticas consulte https://semver.org/."
-    echo -n "Escriba el número de versión actual de corrector"; [ "$CORRECTOR" ] && echo -n " (valor actual $CORRECTOR) "; echo -n ": "
+    echo -n "Escriba el número de versión actual de corrector (ej.: 2.6"; [ "$CORRECTOR" ] && echo -n ", valor actual $CORRECTOR"; echo -n "): "
     read -r RESPUESTA
     [  "$RESPUESTA" == "" ] && [ "$CORRECTOR" == "" ]  && echo -e "\n \nIntroduzca un valor correcto." >&2 && exit 2
     [ ! "$RESPUESTA" == "" ] && [ "$CORRECTOR" == "" ]  && CORRECTOR=$RESPUESTA
     [  "$RESPUESTA" == "" ] && [ ! "$CORRECTOR" == "" ]  && :
     [ ! "$RESPUESTA" == "" ] && [ ! "$CORRECTOR" == "" ]  && CORRECTOR=$RESPUESTA
 
-    echo -n "Escriba el número de versión actual de separación"; [ "$SEPARACION" ] && echo -n " (valor actual $SEPARACION): "
+    echo -n "Escriba el número de versión actual de separación (ej.: 0.2"; [ "$SEPARACION" ] && echo -n ", valor actual $SEPARACION"; echo -n "): "
     read -r RESPUESTA
     [  "$RESPUESTA" == "" ] && [ "$SEPARACION" == "" ]  && echo -e "\n \nIntroduzca un valor correcto." >&2 && exit 2
     [ ! "$RESPUESTA" == "" ] && [ "$SEPARACION" == "" ]  && SEPARACION=$RESPUESTA
     [  "$RESPUESTA" == "" ] && [ ! "$SEPARACION" == "" ]  && :
     [ ! "$RESPUESTA" == "" ] && [ ! "$SEPARACION" == "" ]  && SEPARACION=$RESPUESTA
 
-    echo -n "Escriba el número de versión actual de corrector"; [ "$SINONIMOS" ] && echo -n " (valor actual $SINONIMOS): "
+    echo -n "Escriba el identificador de versión actual de sinónimos (ej.: 24/02/2013"; [ "$SINONIMOS" ] && echo -n ", valor actual $SINONIMOS"; echo -n "): "
     read -r RESPUESTA
     [  "$RESPUESTA" == "" ] && [ "$SINONIMOS" == "" ]  && echo -e "\n \nIntroduzca un valor correcto." >&2 && exit 2
     [ ! "$RESPUESTA" == "" ] && [ "$SINONIMOS" == "" ]  && SINONIMOS=$RESPUESTA
     [  "$RESPUESTA" == "" ] && [ ! "$SINONIMOS" == "" ]  && :
     [ ! "$RESPUESTA" == "" ] && [ ! "$SINONIMOS" == "" ]  && SINONIMOS=$RESPUESTA
 
-    echo -n "Escriba la ruta al clon local del repositorio LibreOffice «dictionaries»"; [ "$LO_DICTIONARIES_GIT" ] && echo -n " (valor actual $LO_DICTIONARIES_GIT): "
+    echo -n "Escriba la ruta al clon local del repositorio LibreOffice «dictionaries»"; [ "$LO_DICTIONARIES_GIT" ] && echo -n " (valor actual $LO_DICTIONARIES_GIT)"; echo -n ": "
     read -r RESPUESTA
-    [  "$RESPUESTA" == "" ] && [ "$LO_DICTIONARIES_GIT" == "" ]  && echo -e "\n \nIntroduzca un valor correcto." >&2 && exit 2
+#    [  "$RESPUESTA" == "" ] && [ "$LO_DICTIONARIES_GIT" == "" ]  && echo -e "\n \nIntroduzca un valor correcto." >&2 && exit 2
     [ ! "$RESPUESTA" == "" ] && [ "$LO_DICTIONARIES_GIT" == "" ]  && LO_DICTIONARIES_GIT=$RESPUESTA
     [  "$RESPUESTA" == "" ] && [ ! "$LO_DICTIONARIES_GIT" == "" ]  && :
     [ ! "$RESPUESTA" == "" ] && [ ! "$LO_DICTIONARIES_GIT" == "" ]  && LO_DICTIONARIES_GIT=$RESPUESTA
