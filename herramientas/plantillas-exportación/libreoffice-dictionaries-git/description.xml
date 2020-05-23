@@ -2,7 +2,7 @@
 <description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <version value="__VERSION__" />
-    <identifier value="RLA-ES.hunspell-es" />
+    <identifier value="spanish.es.dicts.from.rla-es"/>
 
     <display-name>
         <name lang="es">Corrector ortográfico, separación de sílabas y diccionario de sinónimos para el español (todas las variantes).</name>
