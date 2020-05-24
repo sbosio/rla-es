@@ -13,7 +13,7 @@
                 <value>__LOCALES__</value>
             </prop>
         </node>
-        <node oor:name="HyphDic_es" oor:op="fuse">
+        <node oor:name="HyphDic____LOCALE__" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/hyph_es.dic</value>
             </prop>
@@ -24,7 +24,7 @@
                 <value>__LOCALES__</value>
             </prop>
         </node>
-        <node oor:name="ThesDic_es" oor:op="fuse">
+        <node oor:name="ThesDic____LOCALE__" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/th_es_v2.dat %origin%/th_es_v2.idx</value>
             </prop>

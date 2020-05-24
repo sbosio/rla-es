@@ -10,8 +10,6 @@
 $(eval $(call gb_Dictionary_Dictionary,dict-es,dictionaries/es))
 
 $(eval $(call gb_Dictionary_add_root_files,dict-es,\
-	dictionaries/es.dic \
-	dictionaries/es.aff \
 	dictionaries/es_AR.aff \
 	dictionaries/es_AR.dic \
 	dictionaries/es_BO.aff \

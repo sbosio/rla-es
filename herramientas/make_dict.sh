@@ -46,6 +46,7 @@ version_etiqueta_git () {
   local STR_linea
   STR=$(git tag -l |tail -2)
   while read -r STR_linea; do
+      # shellcheck disable=SC2034 
       Version_penultima=$STR_linea
       read -r Version_ultima
   done <<< "$STR"
@@ -121,16 +122,10 @@ do
     continue
   fi
 
-  # creo que esto ya no lo usamos
-  # argumento=$(expr "z$opcion" : 'z[^=]*=\(.*\)')
-
   case $opcion in
 
     --localizacion | --localización | --locale | -l)
       previa="LOCALIZACIONES" ;;
-    # --localizacion=* | --localización=* | --locale=* | -l=*)
-    #   LOCALIZACIONES=$argumento 
-    #   ;;
 
     --todas | -t)
       LOCALIZACIONES=$L10N_DISPONIBLES
@@ -202,9 +197,6 @@ if [ "$PUBLICAR" == "SÍ" ] ; then
   if [ "$RESPUESTA" = "s" ] || [ "$RESPUESTA" = "S" ]; then
     echo -e "\nejecutando: git fetch; git checkout master; git merge"
     git fetch || exit 1
-    # para pruebas:
-    # git checkout olea-devel || exit 1
-    # fuego real:
     git checkout master || exit 1
     git merge || exit 1
   fi  
@@ -362,15 +354,15 @@ if [ "$LO_PUBLICAR" == "SÍ" ] ; then
   popd > /dev/null || exit
   echo "¡listo!"
 
-  # configuración de diccionarios para el repo:
-  rm -f "$LO_DICTIONARIES_GIT"Dictionary_es.mk
+  # configuración de diccionarios para el repo diccionarios de LibreOffice:
+  rm -f "$LO_DICTIONARIES_GIT"Dictionary_es.mk || exit 1
   install -m 644 "$PLANTILLALO"/Dictionary_es.mk "$LO_DICTIONARIES_GIT"Dictionary_es.mk
 
   DESTINO="$LO_DICTIONARIES_GIT"/es
   
   # limpieza de la versión anterior
-  rm -rf "$DESTINO" || exit
-  mkdir "$DESTINO" || exit
+  rm -rf "$DESTINO" || exit 1
+  mkdir "$DESTINO" || exit 1
 
   # copiamos metadatos
   install -m 644 -d "$PLANTILLAOXT"META-INF/manifest.xml "$DESTINO"/META-INF/manifest.xml
@@ -451,7 +443,7 @@ if [ "$LOCALIZACIONES" != "" ]; then
   if ! [ -d "ortografia/palabras/RAE/l10n/$LOCALIZACION" -o \
        -d "ortografia/palabras/noRAE/l10n/$LOCALIZACION" ]; then
     echo "No se ha implementado la localización '$LOCALIZACION'." >&2
-    echo -ne "¿Desea crear el diccionario genérico? (S/n): " >&2
+    echo -ne "¿Desea crear el diccionario general? (S/n): " >&2
     read -r -s -n 1 RESPUESTA
     if [ "$RESPUESTA" == "n" -o "$RESPUESTA" == "N" ]; then
       echo -e "No.\nProceso abortado.\n" >&2
@@ -463,7 +455,7 @@ if [ "$LOCALIZACIONES" != "" ]; then
   fi
 else
   # Si no se pasó el parámetro de localización, asumimos que se desea
-  # generar el diccionario genérico.
+  # generar el diccionario general.
   LOCALIZACIONES="es"
 fi
 
@@ -473,7 +465,7 @@ for LOCALIZACION in $LOCALIZACIONES; do
     LANG="$LOCALIZACION.UTF-8"
     echo "Creando un diccionario para la localización '$LOCALIZACION'..."
   else
-    echo "No se definió una localización; creando el diccionario genérico..."
+    echo "No se definió una localización; creando el diccionario general..."
     LANG="es.UTF-8"
     # echo "No se ha indicado ninguna variante que generar. No hay nada más que hacer."
     # exit 0
@@ -506,7 +498,7 @@ for LOCALIZACION in $LOCALIZACIONES; do
   fi
 
   if [ ! -f ortografia/afijos/l10n/$LOCALIZACION/afijos.txt ]; then
-    # Si se solicitó un diccionario genérico, o la localización no ha
+    # Si se solicitó el diccionario general, o la localización no ha
     # definido sus propias reglas para los afijos, utilizamos la versión
     # genérica de los ficheros.
     herramientas/remover_comentarios.sh < ortografia/afijos/afijos.txt > "$AFFIX"
@@ -519,7 +511,7 @@ for LOCALIZACION in $LOCALIZACIONES; do
 
   # La lista de palabras se conforma con los distintos grupos de palabras
   # comunes a todos los idiomas, más los de la localización solicitada.
-  # Si se crea el diccionario genérico, se incluyen todas las localizaciones.
+  # Si se crea el diccionario general, se incluyen todas las localizaciones.
   TMPWLIST="$OXTTMPDIR/wordlist.tmp"
   echo -n "Creando la lista de lemas etiquetados... "
 
@@ -532,7 +524,7 @@ for LOCALIZACION in $LOCALIZACIONES; do
       | herramientas/remover_comentarios.sh \
       >> "$TMPWLIST"
   else
-    # Diccionario genérico; incluir todas las localizaciones.
+    # Diccionario general; incluir todas las localizaciones.
     cat $($FIND ortografia/palabras/RAE/l10n/ -iname "*.txt" -and ! -regex '.*/\.svn.*') \
       | herramientas/remover_comentarios.sh \
       >> "$TMPWLIST"
@@ -563,7 +555,7 @@ for LOCALIZACION in $LOCALIZACIONES; do
           >> "$TMPWLIST"
       fi
     else
-      # Diccionario genérico; incluir todas las localizaciones.
+      # Diccionario general; incluir todas las localizaciones.
       cat $($FIND ortografia/palabras/noRAE/l10n/ \
                  -iname "*.txt" -and ! -regex '.*/\.svn.*') \
         | herramientas/remover_comentarios.sh \
@@ -584,7 +576,7 @@ for LOCALIZACION in $LOCALIZACIONES; do
   sort -u < "$TMPWLIST" | wc -l | cut -d ' ' -f1 > "$DICFILE"
   sort -u < "$TMPWLIST" >> "$DICFILE"
   cp "$DICFILE" "$XPITMPDIR/dictionaries/$CLDR2.dic"
-  rm -f "$TMPWLIST"
+  rm -f "$TMPWLIST"  || exit 1
   echo "¡listo!"
 
   # Crear paquete de diccionario
@@ -728,17 +720,17 @@ for LOCALIZACION in $LOCALIZACIONES; do
       ICONO="Venezuela.png"
       ;;
     es)
-      PAIS="español internacional"
+      PAIS="español general"
       CLDR=$L10N_DISPONIBLES
-      TEXTO_LOCAL="ESPAÑOL INTERNACIONAL INCLUYENDO TODAS LAS VARIANTES REGIONALES"
+      TEXTO_LOCAL="ESPAÑOL general INCLUYENDO TODAS LAS VARIANTES REGIONALES"
       ICONO="RLA-ES.png"
       ;;
   esac
 
-    sed  -e "s/__LOCALE__/$CLDR2/g" -e "s/__PAIS__/$PAIS/g" \
-      -e "s/__VERSION__/$CORRECTOR/g" \
-      > "$XPITMPDIR"/manifest.json \
-      < "$PLANTILLAXPI"/manifest.json  
+  sed  -e "s/__LOCALE__/$CLDR2/g" -e "s/__PAIS__/$PAIS/g" \
+    -e "s/__VERSION__/$CORRECTOR/g" \
+    > "$XPITMPDIR"/manifest.json \
+    < "$PLANTILLAXPI"/manifest.json  
 
   sed -n -e "
     /__/! { p; };
@@ -751,10 +743,12 @@ for LOCALIZACION in $LOCALIZACIONES; do
   cp LICENSE.md LICENSE/* "$OXTTMPDIR"
   cp LICENSE.md LICENSE/GPLv3.txt LICENSE/LGPLv3.txt LICENSE/MPL-1.1.txt "$XPITMPDIR/dictionaries/"
 
+  CLDR3="${CLDR//_/-}"
+
   sed -n -e "
     /__/! { p; };
     /__LOCALE__/ { s//$LOCALIZACION/g; p; };
-    /__LOCALES__/ {s//$CLDR2/g; p; }" \
+    /__LOCALES__/ {s//$CLDR3/g; p; }" \
     "$PLANTILLAOXT"/dictionaries.xcu > "$OXTTMPDIR/dictionaries.xcu"
 
   sed -n -e "
@@ -798,22 +792,24 @@ for LOCALIZACION in $LOCALIZACIONES; do
   ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.oxt"
   echo -n "Creando $ZIPFILE "
 
-  pushd "$OXTTMPDIR" > /dev/null || exit
+  rm -f "$ZIPFILE" || exit 1
+  pushd "$OXTTMPDIR" > /dev/null || exit 1
   $ZIP -r -q "$ZIPFILE" ./*
-  popd > /dev/null || exit
+  popd > /dev/null || exit 1
   echo "¡listo!"
 
   ZIPFILE="$DIRECTORIO_TRABAJO/$LOCALIZACION.xpi"
   echo -n "Creando $ZIPFILE "
 
-  pushd "$XPITMPDIR" > /dev/null || exit
+  rm -f "$ZIPFILE" || exit 1
+  pushd "$XPITMPDIR" > /dev/null || exit 1
   $ZIP -r -q "$ZIPFILE" ./*
-  popd > /dev/null || exit
+  popd > /dev/null || exit 1
   echo "¡listo!"
 
   # Eliminar la carpeta temporal
-  rm -Rf "$OXTTMPDIR"
-  rm -Rf "$XPITMPDIR"
+  rm -Rf "$OXTTMPDIR" || exit 1
+  rm -Rf "$XPITMPDIR" || exit 1
 done
 
 echo "Proceso finalizado."
