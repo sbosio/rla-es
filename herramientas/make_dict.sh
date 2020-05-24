@@ -731,7 +731,7 @@ for LOCALIZACION in $LOCALIZACIONES; do
       PAIS="español internacional"
       CLDR=$L10N_DISPONIBLES
       TEXTO_LOCAL="ESPAÑOL INTERNACIONAL INCLUYENDO TODAS LAS VARIANTES REGIONALES"
-      ICONO="Iberoamerica.png"
+      ICONO="RLA-ES.png"
       ;;
   esac
 
