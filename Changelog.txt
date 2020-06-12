@@ -14,7 +14,7 @@ Versión 2.6:
 - Añadidos verbos no reconocidos oficialmente por la RAE como desamontonar, desequipar, desestructurar, etc.
 - Añadidos diversos sustantivos en variantes regionales como disquero, fifi, tortuguismo, etc.
 - Añadidos diversos verbos en variantes regionales como empanizar.
-- Añadidos topónimos de Guinea Ecuatorial y Filipinas.
+- Añadidos topónimos de Cuba, Guinea Ecuatorial y Filipinas.
 
 Versión 2.5:
 - Mejorada la generación de diminutivos acabados en -illo.
