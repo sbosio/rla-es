@@ -15,6 +15,7 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 abatanado/GS
+aduanal/S
 alón/SG
 aplazado/GS
 barrial/S

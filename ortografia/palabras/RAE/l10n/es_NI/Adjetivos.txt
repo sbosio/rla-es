@@ -18,6 +18,7 @@ abajeño/GS
 abatanado/GS
 acomedido/GS
 acompañado/GS
+aduanal/S
 alón/SG
 aplazado/GS
 barrial/S

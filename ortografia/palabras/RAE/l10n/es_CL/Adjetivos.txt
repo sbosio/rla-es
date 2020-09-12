@@ -17,6 +17,7 @@
 abatanado/GS
 acomedido/GS
 acusete/S
+aduanal/S
 agalludo/GS
 alón/SG
 aparatero/GS
