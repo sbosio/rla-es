@@ -332,7 +332,7 @@ if [ "$LO_PUBLICAR" == "SÍ" ] ; then
   read -r  -n 1 RESPUESTA
   if [ "$RESPUESTA" != "s" ] && [ "$RESPUESTA" != "S" ]; then
     echo -e "\nPor favor genere todas las extensiones con la orden:"
-    echo "$0 --todos | -t"
+    echo "$0 --todas | -t"
     exit 1
   fi
   if [ ! -d "$LO_DICTIONARIES_GIT" ] ; then
@@ -405,7 +405,7 @@ if [ "$LO_PUBLICAR" == "SÍ" ] ; then
   echo
   echo "Finalmente, para para enviar los cambios a gerrit ejecute:"
   echo
-  echo "git push origin $RAMA_GIT"
+  echo "git push origin $RAMA_GIT:refs/for/master"
   echo   
   echo "El cambio será evaluado en https://gerrit.libreoffice.org/q/project:dictionaries antes" \
     " de ser incorporado a la rama principal del repositorio."
