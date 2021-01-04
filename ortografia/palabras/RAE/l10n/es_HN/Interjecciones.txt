@@ -15,5 +15,6 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 ahijuna
+fuchi
 híjole
 órale
