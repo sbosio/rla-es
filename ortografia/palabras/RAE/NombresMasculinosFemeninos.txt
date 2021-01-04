@@ -628,6 +628,7 @@ denunciador/GS
 depositario/GS
 derechero/GS
 derecho/GS
+dermatólogo/GS
 descubierto/GS
 desgraciado/GS
 deshecho/GS
