@@ -3234,6 +3234,7 @@ derivación/S
 deriva/S
 dermalgia/S
 dermatitis
+dermatología/S
 dermatosis
 dermis
 dermitis
