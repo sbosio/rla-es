@@ -25,7 +25,6 @@ ditero/GS
 fato/GS
 fornecino/GS
 freidor/GS
-grafitero/GS
 hechor/GS
 manzanillero/GS
 maqueto/GS

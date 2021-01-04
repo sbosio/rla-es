@@ -944,6 +944,7 @@ grabador/GS
 gracioso/GS
 graduando/GS
 gráfico/GS
+grafitero/GS
 gramático/GS
 granadino/GS
 granizado/GS
