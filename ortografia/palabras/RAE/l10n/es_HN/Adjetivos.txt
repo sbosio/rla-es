@@ -25,6 +25,7 @@ barrial/S
 botado/GS
 breco/SG
 canchero/GS
+catrín/GS
 cebado/SG
 celeque/S
 chancho/GS

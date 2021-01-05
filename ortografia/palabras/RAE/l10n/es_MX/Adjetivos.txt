@@ -29,6 +29,7 @@ buzo/GS
 cachudo/GS
 canchero/GS
 cansón/GS
+catrín/GS
 cebado/SG
 chancho/GS
 chapeado/GS

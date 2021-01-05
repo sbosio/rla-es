@@ -23,6 +23,7 @@ aplazado/GS
 barrial/S
 cajonero/GS
 canchero/GS
+catrín/GS
 cebado/SG
 chancho/GS
 chapín/SG

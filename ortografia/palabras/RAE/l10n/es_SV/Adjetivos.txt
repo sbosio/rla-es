@@ -23,6 +23,7 @@ botado/GS
 buzo/GS
 canchero/GS
 carón/GS
+catrín/GS
 cebado/SG
 celeque/S
 chancho/GS
