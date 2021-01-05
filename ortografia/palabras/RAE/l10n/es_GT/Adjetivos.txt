@@ -45,6 +45,7 @@ ferrocarrilero/GS
 filudo/GS
 fondeado/GS
 fregado/GS
+fregón/GS
 fundido/GS
 gallero/S
 macanudo/GS
