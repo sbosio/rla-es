@@ -505,6 +505,7 @@ alubia/S
 álula/S
 alúmina/S
 aluminita/S
+aluminosis
 alusión/S
 alverjana/S
 alverja/S
