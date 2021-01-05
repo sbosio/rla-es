@@ -3777,6 +3777,7 @@ convertidor/S
 convictorio/S
 convictor/S
 convite/S
+convivio/S
 convoy/S
 coñac/S
 coño/SH
