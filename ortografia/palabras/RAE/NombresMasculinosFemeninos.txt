@@ -1326,6 +1326,7 @@ novillero/GS
 novio/GS
 nuecero/GS
 numismático/GS
+nutricionista/S
 oblato/GS
 obligado/GS
 obligatorio/GS
