@@ -7357,6 +7357,7 @@ napea/S
 napias
 naranjada/S
 naranjilla/S
+narcolepsia/S
 narcosis
 narcotina/S
 nares
