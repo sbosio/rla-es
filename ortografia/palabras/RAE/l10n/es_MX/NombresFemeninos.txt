@@ -109,6 +109,7 @@ sarteneja/S
 seringa/S
 sobrebota/S
 soca/S
+soya/S
 tallada/S
 tapisca/S
 tigra/S

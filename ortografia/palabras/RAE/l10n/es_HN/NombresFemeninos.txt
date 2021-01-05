@@ -93,6 +93,7 @@ seringa/S
 silbatina/S
 sobrebota/S
 soca/S
+soya/S
 talonera/S
 taltuza/S
 tambarria/S

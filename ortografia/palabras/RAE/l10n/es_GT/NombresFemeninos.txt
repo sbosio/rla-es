@@ -61,6 +61,7 @@ renquera/S
 seringa/S
 sobrebota/S
 soca/S
+soya/S
 talonera/S
 taltuza/S
 tapisca/S
