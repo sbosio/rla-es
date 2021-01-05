@@ -79,6 +79,7 @@ jícaro/S
 jicote/S
 jilote/S
 jonrón/S
+lonche/S
 maguey/S
 marquesote/S
 mecate/S

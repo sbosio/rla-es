@@ -75,6 +75,7 @@ jicote/S
 jilote/S
 jonrón/S
 lana/S
+lonche/S
 maguey/S
 mecate/S
 metate/S
