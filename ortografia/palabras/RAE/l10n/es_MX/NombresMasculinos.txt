@@ -64,6 +64,7 @@ carpidor/S
 celular/S
 cempasúchil/S
 cencuate/S
+chapulín/S
 chiche/S
 chile/S
 chipote/S

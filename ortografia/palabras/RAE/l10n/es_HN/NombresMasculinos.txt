@@ -53,6 +53,7 @@ casual/S
 caulote/S
 celular/S
 cempasúchil/S
+chapulín/S
 chiche/S
 chile/S
 chinín/S

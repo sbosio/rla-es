@@ -43,6 +43,7 @@ caulote/S
 celular/S
 cempasúchil/S
 cenero/S
+chapulín/S
 chile/S
 chipote/S
 coloniaje/S

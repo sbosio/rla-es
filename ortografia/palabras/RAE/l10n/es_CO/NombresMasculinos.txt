@@ -53,6 +53,7 @@ caripelado/S
 carpidor/S
 celular/S
 chamicero/S
+chapulín/S
 chiche/S
 chontaduro/S
 chucho/S

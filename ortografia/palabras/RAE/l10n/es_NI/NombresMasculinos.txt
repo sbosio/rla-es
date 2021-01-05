@@ -41,6 +41,7 @@ carángano/S
 carato/S
 carpidor/S
 celular/S
+chapulín/S
 chile/S
 chipote/S
 coloniaje/S
