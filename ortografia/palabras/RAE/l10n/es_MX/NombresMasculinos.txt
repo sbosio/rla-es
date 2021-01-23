@@ -71,6 +71,7 @@ chipote/S
 chipotle/S
 chucho/S
 chuletón/S
+chunche/S
 chupaflor/S
 clavado/S
 clóset/S
