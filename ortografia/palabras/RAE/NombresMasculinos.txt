@@ -12890,6 +12890,7 @@ tranquero/S
 tranquil/S
 transatlántico/S
 transbordador/S
+transbordo/S
 transcendentalismo/S
 transductor/S
 transepto/S
