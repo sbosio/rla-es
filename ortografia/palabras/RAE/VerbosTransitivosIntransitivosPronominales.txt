@@ -456,7 +456,7 @@ palatalizar/RED
 palmear/REDÀÂò
 parar/REDÀÂÅñòôø
 partir/REDÀÂÃÌÎÙñò
-pasar/pREDÀÃÄÅÇÍÌÏÙÛñòôøT
+pasar/pREDÀÃÄÅÆÇÍÌÏÙÛñòôøT
 pasear/REDÁÅñò
 pasmar/REDÁñôø
 pegar/REDÀÁÂÄÅÆÎñòô
