@@ -98,6 +98,7 @@ inst
 izq
 izqdo/G
 jhs
+kg
 km
 ldo/G
 lic
