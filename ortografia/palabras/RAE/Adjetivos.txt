@@ -4921,6 +4921,7 @@ escurridizo/GS
 escurrido/GS
 escusado/GS
 escutiforme/S
+esdrújulo/GS
 ese/GS
 esencial/Sn
 esenio/GS
@@ -11678,8 +11679,10 @@ sobornador/GS
 sobrado/GS
 sobrancero/S
 sobrante/S
+sobreesdrújulo/GS
 sobrentendido/GS
 sobrero/GS
+sobresdrújulo/GS
 sobrestante/S
 sobrio/GS
 socairero/S
