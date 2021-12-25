@@ -838,7 +838,7 @@ desenfilar/RED
 desenfrenar/RED
 desenfurecer/IRD
 desenfurruñar/RED
-desenganchar/REDñ
+desenganchar/REDÀñ
 desengañar/REDñôø
 desengarzar/RED
 desengoznar/RED
@@ -1988,7 +1988,7 @@ redondear/RED
 reembarcar/RED
 reembolsar/REDÂñT
 reencontrar/IRDÀÂñò
-reenganchar/RED
+reenganchar/REDÀ
 referir/XDÁÈÉÊñóúT
 refinar/RED
 refirmar/RED

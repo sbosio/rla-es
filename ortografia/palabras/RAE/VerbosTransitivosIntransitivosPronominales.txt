@@ -303,7 +303,7 @@ enflaquecer/IRD
 enflorecer/IRD
 enfrailar/RED
 enfriar/IRDÀÐñù
-enganchar/REDÄñô
+enganchar/REDÀÄñô
 engarabitar/RED
 engargantar/RED
 engolfar/RED
