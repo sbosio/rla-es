@@ -3641,6 +3641,7 @@ definidor/GS
 definitivo/GS
 definitorio/GS
 deflagrador/SG
+deflagrante/cS
 deformable/kS
 deformatorio/GS
 deforme/S
