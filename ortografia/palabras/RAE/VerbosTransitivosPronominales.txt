@@ -1853,7 +1853,7 @@ ornar/RED
 oxidar/RED
 oxigenar/RED
 pagar/REDÀÁÂÃÅÌÇÙñòø
-paralizar/REDÀÅñò
+paralizar/REDÀÅÄñò
 paralogizar/RED
 parapetar/REDÁñ
 particularizar/RED

@@ -3550,7 +3550,7 @@ subtender/IRD
 subtitular/RED
 subvencionar/REDÀÂ
 subvertir/XDÀ
-succionar/REDÀÂ
+succionar/REDÀÂÄ
 sufragar/RED
 sugerir/XDÀÁÂÃÉÊ
 suministrar/REDÀÁÂÃÆT
