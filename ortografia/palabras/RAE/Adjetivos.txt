@@ -2639,6 +2639,7 @@ cicatero/GS
 cicatrizante/S
 cicatrizativo/GS
 ciceroniano/GS
+ciclable/S
 cíclico/GS
 ciclista/S
 ciclístico/GS
