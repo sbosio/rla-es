@@ -2286,7 +2286,7 @@ gasificar/RED
 gavillar/RED
 gayar/RED
 generar/REDÀÂÆÎT
-gestionar/REDÀÂ
+gestionar/REDÁÀÂ
 gibar/RED
 glasear/RED
 globalizar/RED
