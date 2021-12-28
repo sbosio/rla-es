@@ -803,6 +803,7 @@ anacardiáceo/GS
 anacardino/GS
 anacreóntico/GS
 anacrónico/GS
+anaeróbico/GS
 anafórico/SG
 anagramático/GS
 analfabeto/GS
@@ -1438,6 +1439,7 @@ autónomo/SG
 autopropulsado/GS
 autoritario/GS
 autorizado/SG
+autorizador/GS
 auxiliador/GS
 auxiliar/S
 avanzado/GS
