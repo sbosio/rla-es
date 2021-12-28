@@ -8772,6 +8772,7 @@ nefando/GS
 nefasto/GS
 nefrítico/GS
 negable/kS
+negacionista/S
 negada/p
 negador/pGS
 negado/SGp
