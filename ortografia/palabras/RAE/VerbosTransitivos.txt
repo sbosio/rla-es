@@ -2840,7 +2840,7 @@ paragonar/RED
 parahusar/IRD
 paralelar/RED
 paramentar/RED
-parametrizar/RED
+parametrizar/REDA
 parangonar/RED
 parasitar/RED
 parcelar/REDÀ
@@ -2866,7 +2866,7 @@ patronear/RED
 pautar/RED
 pavimentar/RED
 pavonar/RED
-peatonalizar/REDÀÄÌ
+peatonalizar/REDAÀÄÌ
 pechear/REDÂ
 pectar/RED
 pedir/XDÀÁÂÃÈÉÊËÔÕÖØáâã
