@@ -525,6 +525,7 @@ matricida/S
 maula/S
 mayorazguista/S
 mayorista/S
+medallista/S
 medellinense/S
 medievalista/S
 médium
