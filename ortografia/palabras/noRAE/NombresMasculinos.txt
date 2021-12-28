@@ -25,6 +25,7 @@ autodesarrollo/S
 bailecillo/S
 barión/S
 bitcóin/S
+búfer/S
 capacitor/S								# Acordado en https://github.com/sbosio/rla-es/issues/8
 causalismo/S
 cibercafé/S
