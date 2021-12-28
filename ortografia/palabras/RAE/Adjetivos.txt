@@ -10679,6 +10679,7 @@ redentorista/S
 redera/f
 redero/GfS
 redimible/kS
+redistributivo/GS
 redolente/S
 redomado/GS
 redondeado/SG
@@ -12078,6 +12079,7 @@ tejedor/SGj
 teledirigido/GS
 telefónico/GS
 telegráfico/GS
+telemático/GS
 telendo/GS
 teleósteo/S
 telepático/GS

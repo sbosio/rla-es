@@ -10231,12 +10231,13 @@ tejuela/S
 tela/N
 telaraña/S
 telas/j
+tele/GS
 telecabina/S
 telecomunicación/S
 teleconferencia/S
 telefonía/S
 telegrafía/S
-tele/GS
+telemática
 telenovela/S
 telepatía/S
 telera/S
