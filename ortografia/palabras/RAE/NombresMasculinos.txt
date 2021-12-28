@@ -5583,6 +5583,7 @@ esportillero/S
 esportillo/S
 espráis
 espray
+esprint
 espulgadero/S
 espumaje/S
 espumajo/S
