@@ -4101,6 +4101,7 @@ dinamarqués/GS
 dinámico/GS
 dinamista/S
 dinamitero/GS
+dinamizador/GS
 dinástico/SG
 dinerario/GS
 dineroso/GS
