@@ -6856,6 +6856,7 @@ infesto/GS
 infinitesimal/S
 inflacionario/GS
 inflacionista/S
+inflador/GS
 inflamable/kS
 inflamador/GS
 inflamatorio/GS
