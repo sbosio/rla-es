@@ -907,6 +907,7 @@ corchar/RED
 corcovar/RED
 corcusir/RED
 cordelar/RED
+cordinar/REDÀÁÄ
 corear/REDÄ
 coreografiar/IRD
 corlar/RED

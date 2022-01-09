@@ -1041,6 +1041,7 @@ antiinflamatorio/S
 antillanismo/S
 antílope/S
 antimonio/S
+antinflamatorio/S
 antipendio/S
 antispasto/S
 antojo/S
@@ -10345,6 +10346,7 @@ portapliegos
 portaplumas
 portaventanero/S
 portaviandas
+portaviones
 portazgo/S
 portazguero/S
 portazo/S
@@ -10430,6 +10432,7 @@ predicado/S
 predicamento/S
 predio
 preescolar/S
+preestreno/S
 prefacio/S
 prefecto/sS
 prefijo/S
@@ -10463,6 +10466,7 @@ presidario/S
 presidencialismo/S
 presidio/S
 prest
+prestreno/S
 préstamo/S
 preste/S
 prestigio/hS

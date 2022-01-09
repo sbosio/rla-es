@@ -952,6 +952,7 @@ antiinflamatorio/GS
 antillano/GS
 antimicrobiano/GS
 antimonial/S
+antinflamatorio/GS
 antiniebla/S
 antipático/GS
 antipersona/S
@@ -11435,6 +11436,7 @@ semiforme/S
 semiinconsciente/S
 seminal/S
 seminario/SG
+seminconsciente/S
 semiótico/GS
 semita/Sc
 semítico/GS

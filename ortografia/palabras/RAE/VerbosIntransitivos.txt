@@ -297,6 +297,7 @@ conversar/RED
 convivir/RED
 cooperar/RED
 copear/RED
+coperar/RED
 coplear/RED
 coquetear/RED
 corcovear/RED
