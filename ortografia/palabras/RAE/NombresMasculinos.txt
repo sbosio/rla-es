@@ -10345,6 +10345,7 @@ portapliegos
 portaplumas
 portaventanero/S
 portaviandas
+portaviones
 portazgo/S
 portazguero/S
 portazo/S
@@ -10430,6 +10431,7 @@ predicado/S
 predicamento/S
 predio
 preescolar/S
+preestreno/S
 prefacio/S
 prefecto/sS
 prefijo/S
