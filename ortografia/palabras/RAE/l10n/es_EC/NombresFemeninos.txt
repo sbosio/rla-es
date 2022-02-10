@@ -55,6 +55,7 @@ maloca/S
 mamancona/S
 mantequillera/S
 membresía/S
+multicancha/S
 naranjillada/S
 narigada/S
 ña

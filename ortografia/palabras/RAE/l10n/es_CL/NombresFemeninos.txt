@@ -73,6 +73,7 @@ maloca/S
 manguilla
 mantequillera/S
 mapoteca/S
+multicancha/S
 nalca/S
 ña
 oroya/S
