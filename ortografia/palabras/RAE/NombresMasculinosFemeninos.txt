@@ -572,6 +572,7 @@ corvo/GS
 cosechero/GS
 costeño/GS
 costero/GS
+COVID
 cracoviano/GS
 crápula/S
 creativo/GS
