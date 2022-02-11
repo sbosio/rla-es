@@ -3840,6 +3840,7 @@ corolario/S
 coronado/S
 coronal/S
 coronamiento/S
+coronavirus
 corondel/S
 coronel/S
 coronio/S
