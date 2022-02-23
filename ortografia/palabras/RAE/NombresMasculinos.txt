@@ -7468,6 +7468,7 @@ lagunar/S
 lagunazo/S
 laicismo/S
 lais		# Plural de lay
+laísmo/S
 lama/S
 lambel/S
 lambeo/S
@@ -7593,6 +7594,7 @@ légamo/S
 legendario/S
 legisperito/S
 leima/S
+leísmo/S
 lejos
 lema/S
 lemario/S
