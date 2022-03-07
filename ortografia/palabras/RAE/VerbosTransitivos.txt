@@ -927,6 +927,7 @@ crear/REDÀÁÂÄÅÆÌÍÏÙÚÜT
 crenchar/RED
 creosotar/RED
 cribar/RED
+criminalizar/REDÀÁÄÌÙ
 criminar/RED
 crinar/RED
 crisolar/RED
@@ -1178,7 +1179,7 @@ descremar/RED
 descrestar/RED
 describir/REÀÁÂÃÄÅÆÍÏÚ
 descruzar/RED
-descuartizar/REDÀÁÄ
+descuartizar/REDÀÁÄÌ
 descuerar/RED
 descular/RED
 desdeñar/REDÀT
