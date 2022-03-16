@@ -2352,6 +2352,7 @@ bulo/S
 bulto/S
 bumerán/S
 bungalow/S
+búnquer/S
 buque/S
 burato/S
 burdel/S
