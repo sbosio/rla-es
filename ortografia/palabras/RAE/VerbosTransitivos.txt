@@ -994,6 +994,7 @@ deludir/RED
 demandar/REDÀÁÂÆ
 demarcar/REDÀ
 demoler/IRDÀÁ
+demonizar/RED
 demostrar/IRDÀÁÂÃÄÅÆÐÑÒÓ
 denegar/IRDÀÂ
 denigrar/REDÀÁÂÄ
