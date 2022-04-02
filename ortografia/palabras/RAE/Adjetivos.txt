@@ -1357,7 +1357,6 @@ aticista/S
 ático/GS
 atigrado/GS
 atinente/S
-atípico/GS
 atisbador/GS
 atizador/GS
 atlántica/u
@@ -3406,7 +3405,7 @@ cristiana/c
 cristiano/cGS
 cristino/GS
 criticador/GS
-crítico/GS
+crítico/GSa
 criticón/GS
 croata/S
 crocante/S
@@ -12260,7 +12259,7 @@ tinta/p
 tintóreo/SG
 tinto/SGp
 tioneo/S
-típico/SG
+típico/SGa
 tiplisonante/S
 tipográfico/SG
 tirada/p
