@@ -5731,7 +5731,7 @@ estregamiento/S
 estrelladero/S
 estrellamiento/S
 estremecimiento/S
-estreno/S
+estreno/nS
 estrenque/S
 estreñimiento/S
 estrépito/S
@@ -10431,7 +10431,6 @@ predicado/S
 predicamento/S
 predio
 preescolar/S
-preestreno/S
 prefacio/S
 prefecto/sS
 prefijo/S
