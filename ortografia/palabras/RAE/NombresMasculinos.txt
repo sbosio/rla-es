@@ -5734,7 +5734,7 @@ estregamiento/S
 estrelladero/S
 estrellamiento/S
 estremecimiento/S
-estreno/S
+estreno/nS
 estrenque/S
 estreñimiento/S
 estrépito/S
@@ -10352,6 +10352,7 @@ portapliegos
 portaplumas
 portaventanero/S
 portaviandas
+portaviones
 portazgo/S
 portazguero/S
 portazo/S
