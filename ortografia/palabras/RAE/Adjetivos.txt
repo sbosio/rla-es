@@ -10155,6 +10155,7 @@ presago/GS
 présago/SG
 presbiteral/S
 presbiteriano/GS
+presciente/S
 prescindible/Sk
 prescriptible/kS
 prescriptor/GS
