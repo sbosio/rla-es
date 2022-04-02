@@ -2352,6 +2352,7 @@ bulo/S
 bulto/S
 bumerán/S
 bungalow/S
+búnker/S
 buque/S
 burato/S
 burdel/S
@@ -3711,6 +3712,7 @@ consorcio/S
 constitucionalismo/S
 constituyente/S
 constructivismo
+constructo/S
 consuelo/hS
 consulado/S
 consultorio/S
@@ -7785,6 +7787,7 @@ logo/S
 logogrifo/S
 logotipo/S
 logro/S
+loísmo/S
 lombardero/S
 lombo/fS
 lomo/SN
