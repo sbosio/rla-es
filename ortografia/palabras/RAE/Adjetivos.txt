@@ -3179,6 +3179,7 @@ contingente/GS
 continuador/GS
 continua/kh
 continuativo/GS
+continuista/S
 continuo/kGSh
 contrabandista/S
 contrachapado/GS
