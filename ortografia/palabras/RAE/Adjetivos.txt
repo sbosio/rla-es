@@ -1135,6 +1135,7 @@ arcano/GS
 archibruto/GS
 archiducal/S
 archivador/GS
+archivístico/GS
 arcilloso/GS
 arciprestal/S
 arcobricense/S

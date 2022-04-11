@@ -783,6 +783,7 @@ arca/S
 arcatura/S
 archa/S
 archiduquesa/S
+archivología/S
 arcilla/S
 ardeviejas
 ardilla/S
