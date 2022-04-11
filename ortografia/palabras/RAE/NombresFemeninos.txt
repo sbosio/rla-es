@@ -1276,6 +1276,7 @@ bibliofilia/S
 bibliografía/S
 bibliología
 biblioteca/S
+biblioteconomía/S
 bicha/S
 bicicleta/S
 bici/S
