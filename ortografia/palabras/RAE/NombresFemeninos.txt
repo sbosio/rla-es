@@ -5525,6 +5525,8 @@ husada/S
 husera/S
 huta/S
 hutía/S
+i
+íes
 iconografía/S
 ictericia/S
 ida
@@ -7556,6 +7558,7 @@ nutriz/S
 ñas
 ñoñez/S
 o
+oes
 obcecación/S
 obediencia/hS
 obencadura/S
@@ -10770,6 +10773,7 @@ tutoría/S
 tutorización/S
 tuya/S
 u
+ues
 ubicación/S
 ubicuidad/S
 ubiquidad/S
