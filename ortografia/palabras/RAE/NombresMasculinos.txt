@@ -9030,6 +9030,7 @@ noctambulismo/S
 nocturno/S
 nodo/S
 nódulo/S
+noes
 nogal/S
 nogueral/S
 nomadismo/S
