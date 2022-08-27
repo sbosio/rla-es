@@ -1,3 +1,16 @@
+Versión 2.7:
+
+- Añadidos sustantivos como aluminosis, búnker, colocón, constructo, convivio, coronavirus, COVID, dermatólogo, dermatología, garrafón, grafitero, inventariable, laísmo, leísmo, loísmo, narcolepsia, negacionismo, negacionista, nutricionista, perrillo, portaviones, preestreno y transbordo.
+- Añadidos numerosos lemas recogidos en el reporte 183.
+- Añadida abreviatura kg.
+- Corregidos clíticos de objeto directo en verbos enganchar, desenganchar, paralizar, reenganchar y succionar.
+- Corregidos clíticos de objeto indirecto en 3ª persona en verbo pasar.
+- Añadidos los sustantivos catrín, chapulín, chunche, fregón, lonche, multicancha y soya en diversas variantes regionales.
+- Añadido el adjetivo aduanal en diversas variantes regionales.
+- Añadida la interjección guácala en diversas variantes regionales.
+- Añadido el sustantivo calaca en es_HN y es_MX.
+- Añadida la interjección fuchi en es_HN y es_MX.
+
 Versión 2.6:
 
 - Se ha renombrado la variante internacional "es_ANY" al valor estándar "es".
