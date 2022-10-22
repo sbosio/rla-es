@@ -2907,6 +2907,7 @@ compensable/kpS
 compensador/GS
 compensativo/GS
 compensatorio/GS
+competencial/S
 competente/kS
 competidor/GS
 competitivo/SG
