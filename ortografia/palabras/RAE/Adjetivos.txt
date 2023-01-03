@@ -1357,7 +1357,6 @@ aticista/S
 ático/GS
 atigrado/GS
 atinente/S
-atípico/GS
 atisbador/GS
 atizador/GS
 atlántica/u
@@ -2908,6 +2907,7 @@ compensable/kpS
 compensador/GS
 compensativo/GS
 compensatorio/GS
+competencial/S
 competente/kS
 competidor/GS
 competitivo/SG
@@ -3406,7 +3406,7 @@ cristiana/c
 cristiano/cGS
 cristino/GS
 criticador/GS
-crítico/GS
+crítico/GSa
 criticón/GS
 croata/S
 crocante/S
@@ -10156,6 +10156,7 @@ presago/GS
 présago/SG
 presbiteral/S
 presbiteriano/GS
+presciente/S
 prescindible/Sk
 prescriptible/kS
 prescriptor/GS
@@ -12260,7 +12261,7 @@ tinta/p
 tintóreo/SG
 tinto/SGp
 tioneo/S
-típico/SG
+típico/SGa
 tiplisonante/S
 tipográfico/SG
 tirada/p
