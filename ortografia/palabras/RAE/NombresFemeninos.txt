@@ -3809,7 +3809,7 @@ endolinfa/S
 endoscopia/S
 endrina/S
 endulzadura/S
-ene
+ene/S
 enea/S
 enebrina/S
 enemiga/S
@@ -3885,6 +3885,7 @@ envidia/S
 envoltura/Sh
 enyesadura/S
 enzootia/S
+eñe/S
 epacta/SN
 epanadiplosis
 epanalepsis
