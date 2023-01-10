@@ -6794,7 +6794,7 @@ indigenista/S
 indigente/S
 indigerido/SG
 indigesto/SG
-indignante/G
+indignante/S
 índigo/S
 indio/SG
 indiscriminado/GS
