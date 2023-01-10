@@ -8633,6 +8633,7 @@ multidisciplinario/GS
 multifloro/GS
 multiforme/S
 multilateral/S
+multilingüe/S
 multimedia/S
 multimillonario/GS
 multinacional/S
