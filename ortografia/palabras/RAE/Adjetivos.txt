@@ -1135,6 +1135,7 @@ arcano/GS
 archibruto/GS
 archiducal/S
 archivador/GS
+archivístico/GS
 arcilloso/GS
 arciprestal/S
 arcobricense/S
@@ -3179,6 +3180,7 @@ contingente/GS
 continuador/GS
 continua/kh
 continuativo/GS
+continuista/S
 continuo/kGSh
 contrabandista/S
 contrachapado/GS
@@ -5432,6 +5434,7 @@ fasto/SG
 fastuoso/GS
 fatalista/S
 fatal/S
+fático/SG
 fatídico/SG
 fatigador/GS
 fatigoso/GS
@@ -6791,6 +6794,7 @@ indigenista/S
 indigente/S
 indigerido/SG
 indigesto/SG
+indignante/S
 índigo/S
 indio/SG
 indiscriminado/GS
@@ -8629,6 +8633,7 @@ multidisciplinario/GS
 multifloro/GS
 multiforme/S
 multilateral/S
+multilingüe/S
 multimedia/S
 multimillonario/GS
 multinacional/S

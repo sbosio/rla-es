@@ -783,6 +783,7 @@ arca/S
 arcatura/S
 archa/S
 archiduquesa/S
+archivología/S
 arcilla/S
 ardeviejas
 ardilla/S
@@ -1276,6 +1277,7 @@ bibliofilia/S
 bibliografía/S
 bibliología
 biblioteca/S
+biblioteconomía/S
 bicha/S
 bicicleta/S
 bici/S
@@ -3807,7 +3809,7 @@ endolinfa/S
 endoscopia/S
 endrina/S
 endulzadura/S
-ene
+ene/S
 enea/S
 enebrina/S
 enemiga/S
@@ -3883,6 +3885,7 @@ envidia/S
 envoltura/Sh
 enyesadura/S
 enzootia/S
+eñe/S
 epacta/SN
 epanadiplosis
 epanalepsis
@@ -5524,6 +5527,8 @@ husada/S
 husera/S
 huta/S
 hutía/S
+i
+íes
 iconografía/S
 ictericia/S
 ida
@@ -7555,6 +7560,7 @@ nutriz/S
 ñas
 ñoñez/S
 o
+oes
 obcecación/S
 obediencia/hS
 obencadura/S
@@ -10769,6 +10775,7 @@ tutoría/S
 tutorización/S
 tuya/S
 u
+ues
 ubicación/S
 ubicuidad/S
 ubiquidad/S
