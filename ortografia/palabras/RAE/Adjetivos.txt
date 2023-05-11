@@ -8377,6 +8377,7 @@ mixtilíneo/GS
 mixto/SG
 mixturero/GS
 mizo/GS
+mnemotécnico/GS
 moabita/S
 mobiliaria/k
 mobiliario/kGS
