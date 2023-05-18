@@ -155,6 +155,7 @@ cambista/S
 campista/S
 canalla/S
 cana/S
+cáncamo/S
 canciller/S
 cancionista/S
 canguro/S
