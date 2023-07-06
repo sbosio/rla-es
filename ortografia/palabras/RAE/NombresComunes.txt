@@ -360,6 +360,7 @@ fabricante/S
 fabulista/S
 fagot/S
 falangista/S
+fan/S
 faramalla/S
 farfulla/S
 farraguista/S
