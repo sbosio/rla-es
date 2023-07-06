@@ -2631,6 +2631,7 @@ canal/NS
 canapé/S
 canasto/SN
 canastro/S
+cáncamo/S
 cancelariato/S
 cancelario/S
 cancel/S
@@ -4326,6 +4327,7 @@ descarrío/S
 descascarillado/S
 descendimiento/S
 descervigamiento/S
+desciframiento/S
 descimbramiento/S
 desclavador/S
 descodificador/S
