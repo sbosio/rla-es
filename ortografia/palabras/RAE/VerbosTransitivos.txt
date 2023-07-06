@@ -3108,7 +3108,8 @@ rebujar/RED
 reburujar/RED
 rebuscar/RED
 rebutir/RED
-recabar/REDÀÂ
+recabar/REDÀÂf
+recalificar/REDÀÁÂÄ
 recalzar/RED
 recamar/RED
 recambiar/RED
