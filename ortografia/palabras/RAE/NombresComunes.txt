@@ -457,6 +457,7 @@ intérprete/S
 intocable/S
 israelí/S
 izquierdista/S
+jáquer/S
 jefe/S
 jemer/S
 jerarca/S
