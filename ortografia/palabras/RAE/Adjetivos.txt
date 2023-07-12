@@ -10874,6 +10874,7 @@ resfriador/SG
 residencial/S
 residente/S
 residual/S
+resiliente/S
 resinero/GS
 resinífero/GS
 resinoso/GS
