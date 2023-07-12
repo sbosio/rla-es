@@ -1619,6 +1619,7 @@ barruntador/GS
 barullero/GS
 barzón/GS
 basal/S
+basáltico/GS
 bascoso/GS
 basculante/S
 básico/SG
@@ -8647,6 +8648,7 @@ multiplicando/S
 multiplicativo/GS
 múltiplo/sSG
 multipolar/S
+multitarea
 multitudinario/GS
 multiuso/S
 mundanal/S
