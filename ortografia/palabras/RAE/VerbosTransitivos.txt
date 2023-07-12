@@ -1140,7 +1140,7 @@ descerrajar/REDÀÁÂ
 descerrar/IRD
 descervigar/RED
 deschuponar/RED
-descifrar/REDÀÂ
+descifrar/REDÀÂP
 descimbrar/RED
 descimentar/IRD
 descinchar/RED
