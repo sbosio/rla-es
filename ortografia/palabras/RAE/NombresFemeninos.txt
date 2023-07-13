@@ -4285,6 +4285,7 @@ estudiosidad/S
 estufa/SN
 estulticia/S
 estuosidad/S
+estupa/S
 estupefacción/S
 estupidez/S
 etamina/S
