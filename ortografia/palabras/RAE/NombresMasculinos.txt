@@ -2631,6 +2631,7 @@ canal/NS
 canapé/S
 canasto/SN
 canastro/S
+cáncamo/S
 cancelariato/S
 cancelario/S
 cancel/S
@@ -10010,6 +10011,7 @@ pienso/S
 pie/S
 pietismo/S
 piezgo/S
+pífano/S
 pigargo/S
 pigmento/S
 pijama/S
