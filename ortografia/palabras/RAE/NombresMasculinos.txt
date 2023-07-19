@@ -3425,6 +3425,8 @@ climaterio/S
 clímax/c
 clinopodio/S
 clip/S
+clípeo/S 
+clíper/S
 clisé/S
 clister/S
 clítoris
@@ -3581,6 +3583,7 @@ comino/NS
 comisariado/S
 comistrajo/S
 comité/S
+cómitre/S
 comodato/S
 comodín/S
 comodoro/S
@@ -8273,6 +8276,7 @@ mediomundo/S
 mediquillo/S
 medro/Sh
 megáfono/S
+megalitismo/S
 megalito/S
 megaterio/S
 megavatio/S
@@ -8564,6 +8568,7 @@ mochuelo/S
 moco/NGS
 modal/S
 modelado/S
+modelismo/S
 módem
 moderante/SO
 moderantismo/S
@@ -8824,6 +8829,7 @@ muleto/Sa
 mullidor/S
 mullido/S
 mulo/S
+multicine/S
 multiculturalismo/S
 multímetro/S
 mundial/S
@@ -10581,6 +10587,8 @@ protocloruro/S
 protocolo/S
 protomedicato/S
 protomédico/S
+prótomo/S
+protomo/S
 protórax
 protón/S
 protonotario/S
@@ -10894,6 +10902,7 @@ raspamiento/S
 rasponazo/S
 raspón/S
 ras/S
+rasel/S
 rastreo/S
 rastrillado/S
 rastrillo/C
