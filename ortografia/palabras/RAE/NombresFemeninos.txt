@@ -3581,6 +3581,7 @@ droga/LS
 drogadicción/S
 drogodependencia/S
 droguería/S		# Contribuida por Dylan Nicholson
+dromomanía/S
 drosera/S
 drupa/S
 drusa/S
@@ -4840,6 +4841,7 @@ gallineta/S
 gallipava/S
 gallocresta/S
 gallofa/S
+gallonada/S
 galocha/S
 galopa/S
 galota/S
@@ -9145,6 +9147,7 @@ redonda/NSM
 redova/S
 reducción/S
 redundancia/S
+reedificación/S
 reelección/S
 reencarnación/S
 refección/S
@@ -9197,6 +9200,7 @@ relación/Sfl
 relajación/S
 relajada/S
 relatividad/S
+relectura/S
 relevancia/kS
 religión/S
 religiosidad/kS
@@ -10132,6 +10136,7 @@ talamera/S
 talanquera/S
 tala/S
 talasemia/S
+talasocracia/S
 talasoterapia/S
 talaya/S
 talegada/S
