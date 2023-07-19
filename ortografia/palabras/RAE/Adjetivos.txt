@@ -9020,7 +9020,7 @@ occidental/S
 occipital/S
 occiso/SG
 occitano/GS
-oceánico/SG
+oceánico/SGu
 ocelado/GS
 ochavo/GS
 ochenta/S
@@ -12470,7 +12470,6 @@ transmundano/GS
 transmutable/kS
 transmutativo/SG
 transmutatorio/SG
-transoceánico/GS
 transpadano/GS
 transparente/GS
 transpirenaico/SG
@@ -12510,7 +12509,6 @@ traslativo/GS
 traslato/GS
 trasmerano/GS
 trasnochador/GS
-trasoceánico/GS
 trasojado/GS
 traspadano/GS
 traspasador/SG
