@@ -2890,6 +2890,7 @@ comilón/SG
 cominero/GS
 comisionado/GS
 comitente/S
+cómitre/S
 commelináceo/SG
 cómodo/kGS
 comodón/SG
@@ -4328,6 +4329,8 @@ drástico/SG
 dravídico/SG
 drogadicto/GS
 drogodependiente/S
+dromomaníaco/GS
+dromomaniaco/GS
 drupáceo/GS
 druso/GS
 dualista/S
@@ -5856,9 +5859,10 @@ gallináceo/GS
 gallina/S
 gallinero/GS
 gallito/S
+gallo/S
 gallofero/GS
 gallofo/GS
-gallo/S
+gallonado/GS
 galo/GS
 galocho/GS
 galopante/S
@@ -6565,6 +6569,7 @@ iberoamericano/GS
 ibicenco/GS
 icario/GS
 iconoclasta/S
+iconográfico/GS
 icoroso/GS
 ictericiado/GS
 ictérico/SG
@@ -8248,6 +8253,7 @@ mesolítico/GS
 mesonero/GS
 mesonil/S
 mesonista/S
+mesopotámico/GS
 mesozoico/GS
 mestenco/GS
 mestizo/GS
@@ -8261,6 +8267,7 @@ metálico/SG
 metalífero/GS
 metalúrgico/GS
 metamórfico/SG
+metanero/GS
 metatarsiano/GS
 metazoo/S
 meteco/S
@@ -8484,6 +8491,7 @@ monógamo/GS
 monogenista/S
 monográfico/GS
 monoico/GS
+monolingüe/S
 monolítico/GS
 monomaniaco/GS
 monometalista/S
@@ -10060,6 +10068,7 @@ positiva/nk
 positivista/S
 positivo/GSnk
 posmeridiano/GS
+posmoderno/GS
 posoperatorio/GS
 pospalatal/S
 pospositivo/SG
@@ -12461,6 +12470,7 @@ transmundano/GS
 transmutable/kS
 transmutativo/SG
 transmutatorio/SG
+transoceánico/GS
 transpadano/GS
 transparente/GS
 transpirenaico/SG
@@ -12500,6 +12510,7 @@ traslativo/GS
 traslato/GS
 trasmerano/GS
 trasnochador/GS
+trasoceánico/GS
 trasojado/GS
 traspadano/GS
 traspasador/SG
@@ -12578,6 +12589,7 @@ trigonal/S
 trigonométrico/GS
 trigueño/SG
 triguero/GS
+trilingüe/S
 trillado/GS
 trillador/GS
 trilobulado/GS
