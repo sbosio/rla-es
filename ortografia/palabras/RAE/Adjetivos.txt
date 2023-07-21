@@ -947,6 +947,7 @@ antiguano/SG
 antiguo/SG
 antihistamínico/GS
 antihelmíntico/GS
+antihemorroidal/S
 antihorario/GS
 antiinflamatorio/GS
 antillano/GS
