@@ -3888,6 +3888,7 @@ cortapapeles
 cortapicos
 cortaplumas
 cortapuros
+cortaúñas
 cortaviento/S
 cortejo/S
 corte/S
@@ -5895,6 +5896,7 @@ falseamiento/S
 falseo/S
 falsete/S
 falsopeto/S
+falucho/S
 familiar/S
 fanal/S
 fanatismo/S
@@ -6002,6 +6004,7 @@ fil
 filamento/S
 filelí/S
 filete/S
+filibote/S
 filibusterismo/S
 filibustero/OS
 fililí/S
@@ -8889,6 +8892,7 @@ nabar/S
 nabato/S
 nabo/S
 nácar/S
+nacedero/S
 naciente
 nacimiento/Sp
 nacionalismo/lS
@@ -9380,6 +9384,8 @@ pagel/S
 pago/Sk
 pagro/S
 paico/S
+pailebot/S
+pailebote/S
 paipáis		# Plural de paipay
 paipay
 país
