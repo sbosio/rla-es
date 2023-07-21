@@ -4462,6 +4462,7 @@ falsía/S
 falsificación/S
 falta/S
 faltriquera/S
+falúa/S
 faluca/S
 fama/S
 familiaridad/S
@@ -6628,6 +6629,7 @@ manigueta/S
 manija/S
 manilla/S
 maniobra/S
+maniobrabilidad/S
 maniota/S
 manipulación/S
 manirrotura/S
@@ -9490,6 +9492,7 @@ sacristía/S
 sacudida/S
 sacudidura/S
 saeta/NS
+saetía/S
 sagacidad/S
 saga/S
 sagitaria/S
@@ -10818,6 +10821,7 @@ urbanidad/kS
 urbanística/S
 urbanización/S
 urbe/S
+urca/S
 urdidera/S
 urdidura/S
 urdiembre/S
@@ -11195,6 +11199,7 @@ yes
 yesca/S
 yesera/S
 yincana/S
+yola/S
 yubarta/S
 yuca/S
 yugada/S
