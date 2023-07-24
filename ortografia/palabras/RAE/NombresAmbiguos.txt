@@ -30,6 +30,7 @@ azud/S
 azumbre/S
 babel/S
 bermudas
+bricbarca/S
 callicida/S
 canal/S
 casete/S
@@ -88,6 +89,7 @@ tilde/S
 tizne/S
 trapa/S
 trípode/S
+trirreme/S
 vertiente/S
 vislumbre/S
 vodka/S
