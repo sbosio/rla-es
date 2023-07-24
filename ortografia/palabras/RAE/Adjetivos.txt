@@ -947,7 +947,6 @@ antiguano/SG
 antiguo/SG
 antihistamínico/GS
 antihelmíntico/GS
-antihemorroidal/S
 antihorario/GS
 antiinflamatorio/GS
 antillano/GS
@@ -6302,7 +6301,7 @@ hembra/S
 hemencioso/GS
 hemíptero/S
 hemolítico/GS
-hemorroidal/S
+hemorroidal/Sc
 hemostático/SG
 henchidor/GS
 hendedor/GS
