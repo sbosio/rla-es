@@ -465,6 +465,7 @@ almoneda/S
 almorrana/S
 almorta/S
 almunia/S
+alocución/S
 aloja/S
 alondra/S
 alopecia/S
@@ -1100,6 +1101,7 @@ balsaminácea/S
 balsamina/S
 balsamita/S
 balsa/S
+balumba/S
 bambalina/S
 bamba/S
 bambolla/S
@@ -1475,6 +1477,7 @@ breva/S
 brevedad/S
 briba/S
 bribonada/S
+bribonería/S
 brida/S
 briega/S
 brigantina/S
@@ -1576,6 +1579,7 @@ cabria/S
 cabriola/S
 cabritilla/S
 cabronada/S
+cabullería/S
 cabuya/LS
 caca/S
 cacatúa/S
@@ -1593,6 +1597,7 @@ cachetina/S
 cachimba/S
 cachipolla/S
 cachiporra/S
+cachola/S
 cachondas
 cachondez/S
 cachorra/S
@@ -2504,6 +2509,7 @@ coliflor/S
 coligadura/S
 colisión/S
 colitis
+collada/S
 colleja/S
 collera/S
 colmena/NS
@@ -2852,6 +2858,7 @@ corneja/S
 cornetilla/S
 cornicabra/S
 cornisa/S
+cornucopia/S
 cornudilla/S
 coroides
 corola/S
@@ -3754,6 +3761,7 @@ empolladura/S
 emprenta/S
 empulgadura/hS
 empuñadura/S
+empuñidura/S
 emulación/S
 emulsión/S
 enagua/S
@@ -3820,6 +3828,7 @@ energía/S
 enfardeladura/S
 enfermedad/S
 enfermería/S
+enfilación/S
 enfriadera/S
 enfundadura/S
 engañifa/S
@@ -4606,6 +4615,7 @@ fisura/S
 flaccidez/S
 flacidez/S
 flacura/S
+flagelación/S
 flagrancia/S
 flama/S
 flamenquilla/S
@@ -4613,6 +4623,7 @@ flaqueza/S
 flatulencia/S
 flebitis
 flecha/S
+flechadura/S
 flechera/S
 flegma/S
 flema/S
@@ -5104,6 +5115,7 @@ grima/S
 gripe/S
 griseta/S
 grita/LS
+groera/S
 grosería/S
 grosura/S
 grúa/S
@@ -6689,6 +6701,7 @@ marchitez/S
 marcialidad/S
 marea/S
 marejada/S
+marejadilla/S 
 mareta/S
 margajita/S
 margarina/S
@@ -6697,6 +6710,7 @@ marga/S
 marginalidad/S
 marguera/Sa
 maría/S
+maricangalla/S
 mariconera/S
 mariguana/S
 marihuana/S
@@ -7258,6 +7272,7 @@ moto/S
 motocicleta/S
 motolita/S
 motonave/S
+motonería/S
 motorización/S
 motosierra/S
 motricidad/S
@@ -8872,6 +8887,7 @@ pulmonaria/S
 pulmonía/S
 pulpa/S
 pulpeta/S
+pulpería/S
 pulsación/S
 pulsatila/S
 pulsera/S
@@ -9431,6 +9447,7 @@ rozadera/S
 rozadura/S
 roza/S
 rúa/S
+rubefacción/S
 rubeta/S
 rubiácea/S
 rubia/S
@@ -10685,6 +10702,7 @@ trinca/S
 trincha/S
 trinchera/S
 trinidad/S
+trinqueta/S
 trinquetada/S
 trinquetilla/S
 tripada/S
@@ -11104,6 +11122,7 @@ violetera/S
 virada/S
 virago/S
 vira/S
+virazón/S
 virgaza/S
 virginidad/S
 vírgula/S
