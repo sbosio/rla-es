@@ -836,6 +836,7 @@ amanecer/S
 amaneramiento/S
 amansamiento/S
 amante/S
+amantillo/S
 amaranto/S
 amargor/S
 amargo/SN
@@ -936,6 +937,7 @@ ancestro/S
 ancladero/S
 anclaje/S
 anclote/S
+ancón/S
 ancoraje/S
 ancorel/S
 ancorero/S
@@ -1246,6 +1248,7 @@ arestín/S
 arete/S
 arganda/S
 arganeo/S
+árgano/S
 argén/S
 argentinismo/S
 argentino/S
@@ -2085,6 +2088,7 @@ blog/S
 bloqueo/Sv
 bloque/S
 blues
+blusón/S
 boalar/CS
 boato/S
 bobillo/S
@@ -2228,6 +2232,7 @@ boxeador/S
 boxeo/S
 bóxer/S
 boyardo/S
+boyarín/S
 boyero/S
 bozalejo/S
 bozo/pSi
@@ -2282,7 +2287,9 @@ brinco/NS
 brindis
 brinquiño/S
 brío/S
+briol/S
 briscado/S
+brisote/S
 britano/S
 brocado/SN
 brocal/S
@@ -2442,6 +2449,7 @@ cachivache/S
 cachizo/S
 cachorro/NSU
 cacho/S
+cachón/S
 cachuchero/S
 cachucho/S
 cachuelo/S
@@ -3130,6 +3138,7 @@ chacal/S
 chacolí/S
 chaco/S
 chacó/S
+chafaldete/S
 chafarote/S
 chafarrocas
 chaflán/S
@@ -3169,6 +3178,8 @@ chapitel/S
 chapoteo/S
 chapucero/S
 chapuz/S
+chapuzón/S
+chaqué/S
 chaquetón/S
 charango/S
 charanguero/S
@@ -3205,6 +3216,7 @@ chic/S
 chiflato/S
 chifle/S
 chiflete/S
+chigre/S
 chihuahua/S
 chilenismo/S
 chillido/S
@@ -3545,6 +3557,7 @@ coloquio
 colorante/S
 colorete/S
 colorido/S
+colorín/S
 colorismo/S
 coloso/S
 cólquico/S
@@ -3940,7 +3953,7 @@ coturno/S
 coulomb
 coxis
 coyote/S
-coy
+coy/S    # Su plural es coyes o cois
 coyuntero/aS
 crack
 crac/S
@@ -4249,6 +4262,7 @@ delito/S
 demiurgo/S
 demonche/S
 demonio/S
+demontre/S
 demóstenes
 demostrativo/S
 demudamiento/S
@@ -5654,7 +5668,7 @@ estatuderato/S
 estatúder/S
 estatus
 estatuto/S
-estay		# Su plural es estáis que se reconoce como forma correcta por el verbo estar
+estay/S		# Su plural es estayes o estáis, que se reconoce como forma correcta por el verbo estar
 estebar/S
 estelo/S
 estema/S
@@ -6049,6 +6063,7 @@ flechazo/S
 flechero/S
 fleco/NS
 fleje/S
+flemón/S
 fletador/S
 fletamento/S
 fletante/S
@@ -6111,6 +6126,7 @@ fontanar/S
 foque/iS
 foramen/S
 foraminíferos
+forcejeo/S
 forcejo/S
 forero/S
 forjado/S
@@ -6185,6 +6201,8 @@ fresón/S
 frey/S
 frezador/S
 frigorífico/S
+frijol/S
+fríjol/S
 frior/S
 frisón/S
 friso/S
@@ -6517,6 +6535,7 @@ gránulo/S
 grao/S
 grasero/S
 graso/GS
+gratil/S
 grátil/S
 gravamen/S
 gravímetro/S
@@ -6579,6 +6598,7 @@ guardabrisa/S
 guardacartuchos
 guardacostas
 guardadamas
+guardamancebos
 guardador/S
 guardafrenos
 guardafuego/S
@@ -6597,6 +6617,8 @@ guardapolvo/S
 guardapuntas
 guardarruedas
 guardasol/S
+guardiamarina/S 
+guardín/S
 guarismo/S
 guarnecido/S
 guarnimiento/S
@@ -7813,6 +7835,7 @@ LSD
 lubigante/S
 lucentor/S
 lucero/S
+luchadero/S
 lucifer/S
 lucillo/S
 lucimiento/hSi
@@ -7895,6 +7918,7 @@ madrigal/S
 madrinazgo/S
 madroncillo/S
 madroño/S
+madrugón/S
 maduradero/S
 madurativo/S
 maese/S
@@ -8018,6 +8042,7 @@ mandrachero/S
 mandrache/S
 mandracho/S
 mandril/S
+mantón/S
 manejo/S
 manes/h
 mangajarro/S
@@ -8092,6 +8117,7 @@ marcapaso/S
 marcapasos
 marceo/S
 marchamero/S
+marchapié/S
 marchitamiento/S
 marcial/S
 marcio/S
@@ -10550,6 +10576,7 @@ procónsul/S
 procordado/S
 prodigio/S
 producto/sS
+proel/S
 proemio/S
 profanamiento/S
 profesionalismo/S
@@ -10952,6 +10979,7 @@ rebuscamiento/S
 rebusco/S
 rebuzno/S
 recado/S
+recalmón/S
 recambio/S
 recargador/S
 recatón/H
@@ -11054,6 +11082,7 @@ reforzador/S
 refractor/S
 refranero/S
 refrán/S
+refregón/S
 refrenamiento/S
 refrendario/S
 refrescamiento/S
@@ -11165,6 +11194,7 @@ remontista/S
 remoque/S
 remo/S
 remozamiento/S
+rempujo/S
 remudamiento/S
 renacuajo/S
 rencor/S
@@ -11959,6 +11989,7 @@ siete/S
 sifón/S
 sigilo/S
 siglo/S
+signario/S
 significado/S
 significante/S
 signo/S
@@ -12063,6 +12094,7 @@ sobrecruz
 sobreempeine/S
 sobreguarda/S
 sobrehilado
+sobrejuanete/S
 sobrentendido/S
 sobrero/S
 sobre/S
@@ -12144,6 +12176,7 @@ sonadero/S
 sonador/pS
 sonajero/S
 sonambulismo/S
+sondeo/S
 sonecillo/S
 sonetico/S
 soneto/SN
@@ -12237,6 +12270,7 @@ suburbio/S
 succino/S
 sucedido/S
 suceso/S
+sucucho/S
 sudadero/S
 sudario/S
 sudeste/S
@@ -12430,6 +12464,7 @@ tanatorio/S
 tanganillo/S
 tángano/S
 tango/GNS
+tangón/S
 tanino/S
 tanque/S
 tantalio/S
@@ -12855,6 +12890,7 @@ tortazo/S
 tortero/Sp
 torteruelo/S
 tórtolo/S
+tortor/S
 toruno/S
 torviscal/S
 torvisco/S
@@ -13570,6 +13606,7 @@ vocativo/S
 vocerío/S
 vodevil/S
 voila/S
+volantín/S
 volatero/S
 volatín/S
 volcán/S
