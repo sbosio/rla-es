@@ -3908,7 +3908,7 @@ desmolado/GS
 desmoronadizo/GS
 desmotador/GS
 desnudador/GS
-desnudo/GS
+desnudo/GSq
 desocupado/GS
 desodorante/S
 desodorizante/S
@@ -11499,7 +11499,6 @@ semiautomático/GS
 semiconsonante/S
 semicopado/SG
 semicursivo/GS
-semidesnudo/GS
 semidormido/GS
 semielaborado/GS
 semiforme/S
