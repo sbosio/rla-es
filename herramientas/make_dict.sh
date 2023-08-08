@@ -15,7 +15,7 @@ verifica_versiones () {
   # shellcheck disable=SC1091
   if [[ -f .versiones.cfg ]] && source .versiones.cfg
     then 
-      echo "Configuración actual:"
+      echo "Publicar una nueva versión necesita de la configuración contenida en el fichero .versiones.cfg. Revise si el contenido actual es correcto antes de continuar:"
       echo "Corrector: $CORRECTOR"
       echo "Separación: $SEPARACION"
       echo "Sinónimos: $SINONIMOS"
@@ -61,7 +61,7 @@ imprime_ayuda () {
       echo "    Muestra todas las regiones de las variantes del español"
       echo "    más importantes del mundo expresadas con su código CLDR."
       echo 
-      echo "--localizacion=LOC | -l LOC"
+      echo "--localizacion LOC | -l LOC"
       echo "    Localización a utilizar en la generación del diccionario."
       echo "    El argumento LOC debe ser un código CLDR de localización"
       echo "    implementado (es_AR, es_ES, es_MX, etc). Cada diccionario"
@@ -177,12 +177,12 @@ if [ "$PUBLICAR" == "SÍ" ] ; then
   echo -ne "\nConfirme: ¿el fichero Changelog.txt está actualizado para la versión $CORRECTOR? (s/n): "
   read -r  -n 1 RESPUESTA
   if [ "$RESPUESTA" != "s" ] && [ "$RESPUESTA" != "S" ]; then
-    echo -e "\nPuede actualizar el fichero Changelog.txt con la orden $0 --changelog | -C"
+    echo -e "\n Puede generar el contenido para usar en Changelog.txt usando la orden $0 --changelog | -C"
     exit 1
   fi
   echo -e "\nA continuación vamos a realizar cambios en el repositorio git del proyecto."
 
-  echo -en "\n¿Está seguro de que ha añadido al repositorio todos los cambios relacionados con esta versión? (s/n): "
+  echo -en "\nIMPORTANTE: ¿Está seguro de que ha añadido al repositorio git todos los cambios relacionados con esta versión? (s/n): "
   read -r  -n 1 RESPUESTA
   if [ "$RESPUESTA" != "s" ] && [ "$RESPUESTA" != "S" ]; then
     echo -e "\n- repase los cambios pendientes: git status"
@@ -192,7 +192,7 @@ if [ "$PUBLICAR" == "SÍ" ] ; then
     exit 0
   fi
 
-  echo -en "\nVamos a actualizar el repositorio local con los últimos cambios, ¿está seguro? (s/n): "
+  echo -en "\nVamos a actualizar el repositorio local con los últimos cambios. Usaremos la orden «git fetch; git checkout master; git merge». ¿Está seguro? (s/n): "
   read -r  -n 1 RESPUESTA
   if [ "$RESPUESTA" = "s" ] || [ "$RESPUESTA" = "S" ]; then
     echo -e "\nejecutando: git fetch; git checkout master; git merge"
@@ -233,23 +233,19 @@ if [ "$CHANGELOG" == "SÍ" ] ;
   
     if [[ "${Version_ultima//v/}" < "$CORRECTOR" ]] ;
     then
+      CHANGELOG_TMP=Changelog-"${CORRECTOR}".txt
       echo
       echo
-      echo "A continuación aparecerá el listado de actividad desde $Version_ultima hasta ahora."
-      echo "Copie el texto que necesite para preparar el contenido definitivo"
-      echo "a incluir en el fichero Changelog.txt."
-      echo "Pulse intro.";
-      # shellcheck disable=SC2162
-      read; 
-      git log --graph --oneline --decorate --color "$Version_ultima.."
-      echo -n "¿Quiere editar el fichero Changelog.txt ahora? (s/n): "
-      read -r  -n 1 RESPUESTA
-      if [ "$RESPUESTA" == "s" ] || [ "$RESPUESTA" == "S" ]; then
-        tmp=$( stat -c %Y Changelog.txt )
-        $EDITOR Changelog.txt
-        [ "$( stat -c %Y Changelog.txt )" == "$tmp" ] && echo -e "\nAdvertencia: el fichero Changelog.txt parece que no ha sido modificado."
+      echo "A continuación se genera el resumen del texto a añadir a Changelog.txt a partir del registro de actividad de git."
+      printf "Versión %s:\n\n" "${CORRECTOR}" > "${CHANGELOG_TMP}"
+      git log --pretty=format:"- %s (%h) by %an" "$Version_ultima.." >> "${CHANGELOG_TMP}"
+      if [[ -f "${CHANGELOG_TMP}" ]] ;
+      then
+        echo "El fichero ${CHANGELOG_TMP} está disponible. Puede editar a mano y usar el contenido para actualizar Changelog.txt a su conveniencia."
+        echo "Antes de publicar una nueva edición de RLA-ES asegúrese de haber actualizado Changelog.txt."
+      else
+        echo "ERROR, por algún motivo el fichero ${CHANGELOG_TMP} no ha podido ser generado."
       fi
-      echo
       exit
     else
       echo
