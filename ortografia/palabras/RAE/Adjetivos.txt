@@ -5874,7 +5874,6 @@ gallináceo/GS
 gallina/S
 gallinero/GS
 gallito/S
-gallo/S
 gallofero/GS
 gallofo/GS
 gallonado/GS
