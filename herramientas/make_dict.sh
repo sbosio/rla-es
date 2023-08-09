@@ -2,13 +2,14 @@
 #
 # make_dict.sh: Script para la creación del paquete de diccionario.
 #
-# Copyleft 2005-2020, Santiago Bosio e Ismael Olea
+# Copyleft 2005-2022, Santiago Bosio e Ismael Olea
 # Este programa se distribuye en los términos del proyecto RLA-ES:
 # https://github.com/sbosio/rla-es/blob/master/LICENSE.md
 
 L10N_REGIONALES="es_AR es_BO es_CL es_CO es_CR es_CU es_DO es_EC es_ES es_GQ es_GT es_HN"
 L10N_REGIONALES+=" es_MX es_NI es_PA es_PE es_PH es_PR es_PY es_SV es_US es_UY es_VE"
 L10N_DISPONIBLES="es $L10N_REGIONALES"
+DIRECTORIO_TRABAJO="$(pwd)/productos"
 
 verifica_versiones () {
   local RESPUESTA
@@ -38,6 +39,7 @@ verifica_versiones () {
   fi
 }
 
+vCORRECTOR="v${CORRECTOR}"
 Version_penultima=""
 Version_ultima=""
 version_etiqueta_git () {
@@ -182,44 +184,66 @@ if [ "$PUBLICAR" == "SÍ" ] ; then
   fi
   echo -e "\nA continuación vamos a realizar cambios en el repositorio git del proyecto."
 
-  echo -en "\nIMPORTANTE: ¿Está seguro de que ha añadido al repositorio git todos los cambios relacionados con esta versión? (s/n): "
+  echo -e "\nIMPORTANTE: ¿Está seguro de que ha añadido al repositorio todos los cambios relacionados"
+  echo -n "para esta edición? (s/n): "
   read -r  -n 1 RESPUESTA
   if [ "$RESPUESTA" != "s" ] && [ "$RESPUESTA" != "S" ]; then
     echo -e "\n- repase los cambios pendientes: git status"
     echo "- añada todos los cambios necesarios: git add «fichero1» «fichero2»..."
     echo "- aplique los cambios (escribiendo una descripción de los mismos): git commit" 
-    echo "- vuelva a ejectutar $0 --publicar-version | -P"
+    echo -e "\nVuelva a ejecutar el programa cuando esté listo."
     exit 0
   fi
 
-  echo -en "\nVamos a actualizar el repositorio local con los últimos cambios. Usaremos la orden «git fetch; git checkout master; git merge». ¿Está seguro? (s/n): "
+  echo -e "\nVamos a actualizar el repositorio local con los últimos cambios en el repositorio"
+  echo -n "remoto. Usaremos las órdenes «git fetch; git checkout master; git merge». ¿Está seguro? (s/n): "
+
   read -r  -n 1 RESPUESTA
   if [ "$RESPUESTA" = "s" ] || [ "$RESPUESTA" = "S" ]; then
     echo -e "\nejecutando: git fetch; git checkout master; git merge"
     git fetch || exit 1
-    git checkout master || exit 1
+    git checkout 20230808-olea-tmp || exit 1
     git merge || exit 1
+  else 
+    echo -e "\nVuelva a ejecutar el programa cuando esté listo."
+    exit 0
   fi  
 
-  echo -ne "\nVamos a crear en el repositorio git la etiqueta v$CORRECTOR, ¿está seguro? (s/n): "
+  echo "VERSION $vCORRECTOR"
+  exit 1
+
+  echo -ne "\n¿Quiere crear la etiqueta $vCORRECTOR en el repositorio git local? (s/n): "
   read -r  -n 1 RESPUESTA
   if [ "$RESPUESTA" = "s" ] || [ "$RESPUESTA" = "S" ]; then
-    echo -e "\nejecutando: git tag -a v$CORRECTOR"
-    git tag -a "v$CORRECTOR" || exit 1
+    echo -e "\nejecutando: git tag -a $vCORRECTOR"
+    git tag -a "$vCORRECTOR" || exit 1
+    echo "La etiqueta $vCORRECTOR ha sido creada."
+  else
+    echo -e "\nVuelva a ejecutar el programa cuando esté listo."
+    exit 0    
   fi
 
-  echo -ne "\nHay que subir al repositorio origen todos los cambios de la versión v$CORRECTOR, ¿está seguro? (s/n): "
+  echo -e "\nHay que subir al repositorio origen todos los cambios de la versión $vCORRECTOR,"
+  echo -n "¿está seguro? (s/n): "
   read -r  -n 1 RESPUESTA
   if [ "$RESPUESTA" = "s" ] || [ "$RESPUESTA" = "S" ]; then
-    echo -e "\nejecutando: git tag -a v$CORRECTOR"
-    git tag -a "v$CORRECTOR" || exit 1
+    echo -e "\nejecutando: git push origin $vCORRECTOR"
+    git push origin "$vCORRECTOR" || exit 1
+    echo "La etiqueta $vCORRECTOR ha sido actualizada en el repositorio remoto principal."
+  else 
+    echo -e "\nVuelva a ejecutar el programa cuando esté listo."
+    exit 0
   fi
-
-  echo "La etiqueta v$CORRECTOR ha sido creada."
   
+  echo -e "\nAhora creamos los paquetes de código fuente a publicar:"
+  git archive --format=zip --prefix=rla-"${vCORRECTOR}/"  -o "${DIRECTORIO_TRABAJO}/${vCORRECTOR}".zip "${vCORRECTOR}" || exit 1
+  echo "${DIRECTORIO_TRABAJO}/${vCORRECTOR}.zip está listo"
+  git archive --format=tgz --prefix=rla-"${vCORRECTOR}/"  -o "${DIRECTORIO_TRABAJO}/${vCORRECTOR}".tar.gz "${vCORRECTOR}" || exit 1
+  echo "${DIRECTORIO_TRABAJO}/${vCORRECTOR}.tar.gz está listo"
+
   echo "Finalmente: "
-  echo " - Genere todas las extensiones actualizadas a v$CORRECTOR: $0 --todas | -t "
-  echo " - Crear una nueva «release» Github asociada a v$CORRECTOR en la URL https://github.com/sbosio/rla-es/releases/new"
+  echo " - Genere todas las extensiones actualizadas a $vCORRECTOR: $0 --todas | -t "
+  echo " - Crear una nueva «release» Github asociada a $vCORRECTOR en la URL https://github.com/sbosio/rla-es/releases/new"
   echo "    - como descripción de la release use el texto añadido a Changelog.txt"
   echo "    - suba a la release todos los contenidos creados en el directorio productos/"
   echo " - Incorpore al repositorio «dictionaries» de LibreOffice, situado en $LO_DICTIONARIES_GIT, todos los cambios: $0 --subir-a-LibreOffice | -L "
@@ -441,9 +465,9 @@ if [ "$LOCALIZACIONES" != "" ]; then
     echo "No se ha implementado la localización '$LOCALIZACION'." >&2
     echo -ne "¿Desea crear el diccionario general? (S/n): " >&2
     read -r -s -n 1 RESPUESTA
-    if [ "$RESPUESTA" == "n" -o "$RESPUESTA" == "N" ]; then
-      echo -e "No.\nProceso abortado.\n" >&2
-      exit 2
+    if [ "$RESPUESTA" == "n" ] || [ "$RESPUESTA" == "N" ]; then
+      echo -e "\nVuelva a ejecutar el programa cuando esté listo."
+      exit 0    
     else
       echo "Sí" >&2
       LOCALIZACIONES="es"
@@ -516,7 +540,7 @@ for LOCALIZACION in $LOCALIZACIONES; do
 
   if [ -d "ortografia/palabras/RAE/l10n/$LOCALIZACION" ]; then
     # Incluir las palabras de la localización solicitada, definidas por la RAE.
-    cat ortografia/palabras/RAE/l10n/$LOCALIZACION/*.txt \
+    cat ortografia/palabras/RAE/l10n/"$LOCALIZACION"/*.txt \
       | herramientas/remover_comentarios.sh \
       >> "$TMPWLIST"
   else
@@ -539,28 +563,26 @@ for LOCALIZACION in $LOCALIZACIONES; do
 
     if [ -d "ortografia/palabras/noRAE/l10n/$LOCALIZACION" ]; then
       # Incluir las palabras de la localización solicitada.
-      cat ortografia/palabras/noRAE/l10n/$LOCALIZACION/*.txt \
+      cat ortografia/palabras/noRAE/l10n/"$LOCALIZACION"/*.txt \
         | herramientas/remover_comentarios.sh \
         >> "$TMPWLIST"
 
       # Issue #39 - Incluir topónimos de la localización (pendiente de definir
       # condiciones de inclusión)
       if [ -d "ortografia/palabras/toponimos/l10n/$LOCALIZACION" ]; then
-        cat ortografia/palabras/toponimos/l10n/$LOCALIZACION/toponimos-*.txt \
+        cat ortografia/palabras/toponimos/l10n/"$LOCALIZACION"/toponimos-*.txt \
           | herramientas/remover_comentarios.sh \
           >> "$TMPWLIST"
       fi
     else
       # Diccionario general; incluir todas las localizaciones.
-      cat $($FIND ortografia/palabras/noRAE/l10n/ \
-                 -iname "*.txt" -and ! -regex '.*/\.svn.*') \
+      cat $($FIND ortografia/palabras/noRAE/l10n/ -iname "*.txt" -and ! -regex '.*/\.svn.*') \
         | herramientas/remover_comentarios.sh \
         >> "$TMPWLIST"
 
       # Issue #39 - Incluir topónimos de todas las localizaciones (pendiente de
       # definir condiciones de inclusión)
-      cat $($FIND ortografia/palabras/toponimos/l10n/ \
-                 -iname "toponimos-*.txt" -and ! -regex '.*/\.svn.*') \
+      cat $($FIND ortografia/palabras/toponimos/l10n/ -iname "toponimos-*.txt" -and ! -regex '.*/\.svn.*') \
         | herramientas/remover_comentarios.sh \
         >> "$TMPWLIST"
     fi
@@ -778,8 +800,6 @@ for LOCALIZACION in $LOCALIZACIONES; do
 
   cp herramientas/plantillas-exportación/iconos/$ICONO "$OXTTMPDIR"
   cp -a "$PLANTILLAOXT/META-INF" "$OXTTMPDIR/"
-
-  DIRECTORIO_TRABAJO="$(pwd)/productos"
 
   if [ ! -d "$DIRECTORIO_TRABAJO" ]; then
     mkdir "$DIRECTORIO_TRABAJO"
