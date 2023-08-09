@@ -2,7 +2,7 @@
 #
 # make_dict.sh: Script para la creación del paquete de diccionario.
 #
-# Copyleft 2005-2022, Santiago Bosio e Ismael Olea
+# Copyleft 2005-2023, Santiago Bosio e Ismael Olea
 # Este programa se distribuye en los términos del proyecto RLA-ES:
 # https://github.com/sbosio/rla-es/blob/master/LICENSE.md
 
@@ -64,6 +64,10 @@ imprime_ayuda () {
       echo "--listado-regiones"
       echo "    Muestra todas las regiones de las variantes del español"
       echo "    más importantes expresadas con su código CLDR."
+      echo
+      echo "--rae | -r"
+      echo "    Incluir únicamente las palabras pertenecientes al"
+      echo "    diccionario de la Real Academia Española."
       echo 
       echo "--localizacion LOC | -l LOC"
       echo "    Crea un diccionario para la localización LOC."
@@ -71,14 +75,6 @@ imprime_ayuda () {
       echo "    implementado (es_AR, es_ES, es_MX, etc). Cada diccionario"
       echo "    se produce dentro del directorio productos/ emapquetado en"
       echo "    forma de extensión de LibreOffice (oxt) y de Mozilla (xpi)."
-      echo
-      echo "--todas | -t"
-      echo "    Generar diccionarios para todas las localizaciones registradas."
-      echo "    Igual que la anterior pero para todas las variantes LOC"
-      echo
-      echo "--rae | -r"
-      echo "    Incluir únicamente las palabras pertenecientes al"
-      echo "    diccionario de la Real Academia Española."
       echo
       echo "--configurar | -c"
       echo "    Asistente para configurar $0 modificando"
@@ -90,6 +86,10 @@ imprime_ayuda () {
       echo
       echo "--publicar-version | -P)"
       echo "    Asistente para la publicación de una versión oficial de RLA-ES."
+      echo
+      echo "--todas | -t"
+      echo "    Generar diccionarios para todas las localizaciones registradas."
+      echo "    Igual que la anterior pero para todas las variantes LOC"      
       echo
       echo "--subir-a-LibreOffice | -L"
       echo "    Actualiza el repositorio de diccionarios de LibreOffice con la"
@@ -103,13 +103,17 @@ imprime_ayuda () {
 MKTEMP=$(command -v mktemp 2>/dev/null)
 GREP=$(command -v grep 2>/dev/null)
 FIND=$(command -v find 2>/dev/null)
+TAIL=$(command -v tail 2>/dev/null)
 ZIP=$(command -v zip 2>/dev/null)
+GIT=$(command -v git 2>/dev/null)
 
 # Comprobaciones previas:
 [ "$MKTEMP" == "" ] && echo "No se encontró la orden 'mktemp', no podemos continuar." >&2 && exit 1
 [ "$GREP" == "" ] && echo "No se encontró la orden 'grep', no podemos continuar." >&2 && exit 1
 [ "$FIND" == "" ] && echo "No se encontró la orden 'find', no podemos continuar." >&2 && exit 1
+[ "$TAIL" == "" ] && echo "No se encontró la orden 'tail', no podemos continuar." >&2 && exit 1
 [ "$ZIP" == "" ] && echo "No se encontró la orden 'zip', no podemos continuar." >&2 && exit 1
+[ "$GIT" == "" ] && echo "No se encontró la orden 'git', no podemos continuar." >&2 && exit 1
 [ ! -d "ortografia/palabras/" ] && \
   echo -e "\nERROR: debe lanzar el script desde el directorio raiz del proyecto (normalmente rla-es/). Abortando" >&2 && \
   exit 1
@@ -217,7 +221,7 @@ if [ "$PUBLICAR" == "SÍ" ] ; then
   read -r  -n 1 RESPUESTA
   if [ "$RESPUESTA" = "s" ] || [ "$RESPUESTA" = "S" ]; then
     echo -e "\nejecutando: git tag -a $vCORRECTOR"
-    git tag -a "$vCORRECTOR" || exit 1
+    git tag -a "$vCORRECTOR" -m "Creando rama para la versión $vCORRECTOR de RLA-ES." || exit 1
   fi
 
   echo -e "\nHay que subir al repositorio origen todos los cambios de la versión $vCORRECTOR,"
@@ -375,8 +379,8 @@ if [ "$LO_PUBLICAR" == "SÍ" ] ; then
   echo "¡listo!"
 
   # configuración de diccionarios para el repo diccionarios de LibreOffice:
-  rm -f "$LO_DICTIONARIES_/ || exit 1
-  install -m 644 "$PLANTILLALO"/Dictionary_es.mk "$LO_DICTIONARIES_/
+  rm -f "$LO_DICTIONARIES_GIT"/Dictionary_es.mk || exit 1
+  install -m 644 "$PLANTILLALO"/Dictionary_es.mk "$LO_DICTIONARIES_GIT"/Dictionary_es.mk
 
   DESTINO="$LO_DICTIONARIES_GIT"/es
   
@@ -385,7 +389,7 @@ if [ "$LO_PUBLICAR" == "SÍ" ] ; then
   mkdir "$DESTINO" || exit 1
 
   # copiamos metadatos
-  install -m 644 -d "$PLANTILLAOXT"META-INF/manifest.xml "$DESTINO"/META-INF/manifest.xml
+  install -m 644 -D "$PLANTILLAOXT"/META-INF/manifest.xml "$DESTINO"/META-INF/manifest.xml
   install -m 644 "$PLANTILLALO"/description.xml "$DESTINO"
   install -m 644 "$PLANTILLALO"/dictionaries.xcu "$DESTINO"
   install -m 644 herramientas/plantillas-exportación/iconos/RLA-ES.png "$DESTINO"
@@ -423,21 +427,33 @@ if [ "$LO_PUBLICAR" == "SÍ" ] ; then
   git status
 
   echo "Si son correctos hay que añadirlos al repositorio local."
-  echo "Ejecute las siguientes órdenes _manualmente_:"
+  echo
+  echo -ne "\n¿Quiere incorporar los cambios al repositorio git local de diccionarios LibreOffice? (s/n): "
+  read -r  -n 1 RESPUESTA
+  if [ "$RESPUESTA" = "s" ] || [ "$RESPUESTA" = "S" ]; then
+    echo -e "\tgit commit --message=\"Updating RLA-ES Spanish spellcheker to $vCORRECTOR.\""
+    cd "$LO_DICTIONARIES_GIT" || exit 1
+    git commit --message="Updating RLA-ES Spanish spellcheker to $vCORRECTOR." || exit 1
+  else
+    echo 
+    echo "Los cambios tendrán que ser incorporados a mano."
+    echo -e "\tcd $LO_DICTIONARIES_GIT"
+    echo -e "\tgit commit --message=\"Updating RLA-ES Spanish spellcheker to $vCORRECTOR.\""    
+  fi
+
+  echo "Finalmente, hay que enviar al repositorio principal de LibreOffice los"
+  echo "cambios de la nueva edición de RLA-ES. Esta es una decisión muy delicada"
+  echo "y ha de hacerse manualmente:"
   echo
   echo -e "\tcd $LO_DICTIONARIES_GIT"
-  echo -e "\tgit commit"
-  echo -e "\n(se abrirá un editor en el que debe describir _en inglés_ los cambios relacionados con la versión)"
-  echo
-  echo "Finalmente, para para enviar los cambios a gerrit ejecute:"
-  echo
   echo -e "\tgit push origin $RAMA_GIT:refs/for/master"
-  echo   
-  echo "El cambio será evaluado en https://gerrit.libreoffice.org/q/project:dictionaries antes" \
-    " de ser incorporado a la rama principal del repositorio."
-  echo "Si lo desea también puede avisar del cambio escribiendo a mailto:libreoffice@lists.freedesktop.org."
+  echo  
+  echo "Es obvio que sólo podrán subir cambios personas con credenciales"
+  echo "de escritura en el repositorio de LibreOffice. Los cambios, en"
+  echo "forma de parche, serán evaluados en https://gerrit.libreoffice.org/q/project:dictionaries"
+  echo "antes de ser incorporados por un revisor a la rama principal del repositorio."
+  echo "Si lo desea también puede mandar un aviso a mailto:libreoffice@lists.freedesktop.org."
   popd > /dev/null || exit 1
-  echo "¡listo!"
   exit
 fi
 
@@ -467,12 +483,12 @@ unset LANG
 # Verificar si se pasó una localización como parámetro.
 if [ "$LOCALIZACIONES" != "" ]; then
   # Verificar que la localización solicitada esté implementada.
-  if ! [ -d "ortografia/palabras/RAE/l10n/$LOCALIZACION" ] || \
-      [ -d "ortografia/palabras/noRAE/l10n/$LOCALIZACION" ]; then
+  if ! [ -d "ortografia/palabras/RAE/l10n/$LOCALIZACION" -o \
+       -d "ortografia/palabras/noRAE/l10n/$LOCALIZACION" ]; then
     echo "No se ha implementado la localización '$LOCALIZACION'." >&2
     echo -ne "¿Desea crear el diccionario general? (S/n): " >&2
     read -r -s -n 1 RESPUESTA
-    if [ "$RESPUESTA" == "n" ] || [ "$RESPUESTA" == "N" ]; then
+    if [ "$RESPUESTA" == "n" -o "$RESPUESTA" == "N" ]; then
       echo -e "\nVuelva a ejecutar el programa cuando esté listo."
       exit 0    
     else
@@ -583,13 +599,15 @@ for LOCALIZACION in $LOCALIZACIONES; do
       fi
     else
       # Diccionario general; incluir todas las localizaciones.
-      cat $($FIND ortografia/palabras/noRAE/l10n/ -iname "*.txt" -and ! -regex '.*/\.svn.*') \
+      cat $($FIND ortografia/palabras/noRAE/l10n/ \
+                 -iname "*.txt" -and ! -regex '.*/\.svn.*') \
         | herramientas/remover_comentarios.sh \
         >> "$TMPWLIST"
 
       # Issue #39 - Incluir topónimos de todas las localizaciones (pendiente de
       # definir condiciones de inclusión)
-      cat $($FIND ortografia/palabras/toponimos/l10n/ -iname "toponimos-*.txt" -and ! -regex '.*/\.svn.*') \
+      cat $($FIND ortografia/palabras/toponimos/l10n/ \
+                 -iname "toponimos-*.txt" -and ! -regex '.*/\.svn.*') \
         | herramientas/remover_comentarios.sh \
         >> "$TMPWLIST"
     fi
