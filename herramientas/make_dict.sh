@@ -11,7 +11,7 @@ L10N_REGIONALES+=" es_MX es_NI es_PA es_PE es_PH es_PR es_PY es_SV es_US es_UY e
 L10N_DISPONIBLES="es $L10N_REGIONALES"
 DIRECTORIO_TRABAJO="$(pwd)/productos"
 
-verifica_versiones () {
+verifica_versiones_cfg () {
   local RESPUESTA
   # shellcheck disable=SC1091
   if [[ -f .versiones.cfg ]] && source .versiones.cfg
@@ -26,8 +26,8 @@ verifica_versiones () {
       if [ "$RESPUESTA" == "n" ] || [ "$RESPUESTA" == "N" ]; then
         echo
         echo "La configuración no es correcta."
-        echo "Si lo desea puede reconfigurar las versiones lanzando:"
-        echo "$0 --configurar | -c"
+        echo "Puede usar el asistente de configuración con la orden:"
+        echo -e "\t$0 --configurar | -c"
         exit 
       fi
       # configuramos la varible de trabajo vCORRECTOR
@@ -40,7 +40,8 @@ verifica_versiones () {
       exit 1
   fi
 }
-
+## ¿ésto sirve?
+## vCORRECTOR="v${CORRECTOR}"
 Version_penultima=""
 Version_ultima=""
 version_etiqueta_git () {
@@ -102,12 +103,12 @@ FIND=$(command -v find 2>/dev/null)
 ZIP=$(command -v zip 2>/dev/null)
 
 # Comprobaciones previas:
-[ "$MKTEMP" == "" ] && echo "No se encontró el comando 'mktemp'... Abortando." >&2 && exit 1
-[ "$GREP" == "" ] && echo "No se encontró el comando 'grep'... Abortando." >&2 && exit 1
-[ "$FIND" == "" ] && echo "No se encontró el comando 'find'... Abortando." >&2 && exit 1
-[ "$ZIP" == "" ] && echo "No se encontró el comando 'zip'... Abortando." >&2 && exit 1
+[ "$MKTEMP" == "" ] && echo "No se encontró la orden 'mktemp', no podemos continuar." >&2 && exit 1
+[ "$GREP" == "" ] && echo "No se encontró la orden 'grep', no podemos continuar." >&2 && exit 1
+[ "$FIND" == "" ] && echo "No se encontró la orden 'find', no podemos continuar." >&2 && exit 1
+[ "$ZIP" == "" ] && echo "No se encontró la orden 'zip', no podemos continuar." >&2 && exit 1
 [ ! -d "ortografia/palabras/" ] && \
-  echo "ERROR: debe lanzar el script desde el directorio raiz del proyecto (normalmente rla-es/). Abortando" >&2 && \
+  echo -e "\nERROR: debe lanzar el script desde el directorio raiz del proyecto (normalmente rla-es/). Abortando" >&2 && \
   exit 1
 
 PLANTILLAOXT="herramientas/plantillas-exportación/plantilla-oxt"
@@ -159,19 +160,20 @@ do
     *)
       echo
       echo "Opción no reconocida: '$opcion'." >&2
-      echo "Consulte la ayuda del comando: '$0 --ayuda'." >&2
+      echo "Consulte la ayuda: '$0 --ayuda'." >&2
       echo
       exit 1 ;;
   esac
 done
 
 if [ "$PUBLICAR" == "SÍ" ] ; then
-  verifica_versiones;
+  verifica_versiones_cfg;
   version_etiqueta_git;
   
   if [[ ! "${Version_ultima//v/}" < "$CORRECTOR" ]] ; then
     echo
-    echo "ERROR: el número de versión de la configuración actual ($CORRECTOR) no es menor que la última versión etiquetada en el repositorio (${Version_ultima//v})."
+    echo "ERROR: el número de versión de la configuración actual ($CORRECTOR) no es menor que la"
+    echo "última versión etiquetada en el repositorio (${Version_ultima//v})."
     echo "Se da por sentado que no ha seguido el procedimiento de publicación de esta herramienta."
     echo "Revise que tanto la configuración como la etiqueta en el repositorio git son correctos."
     exit 1
@@ -210,9 +212,6 @@ if [ "$PUBLICAR" == "SÍ" ] ; then
     exit 0
   fi  
 
-  echo "VERSION $vCORRECTOR"
-  exit 1
-
   echo -ne "\n¿Quiere crear la etiqueta $vCORRECTOR en el repositorio git local? (s/n): "
   read -r  -n 1 RESPUESTA
   if [ "$RESPUESTA" = "s" ] || [ "$RESPUESTA" = "S" ]; then
@@ -247,26 +246,25 @@ if [ "$PUBLICAR" == "SÍ" ] ; then
   echo " - Crear una nueva «release» Github asociada a $vCORRECTOR en la URL https://github.com/sbosio/rla-es/releases/new"
   echo "    - como descripción de la release use el texto añadido a Changelog.txt"
   echo "    - suba a la release todos los contenidos creados en el directorio productos/"
-  echo " - Incorpore al repositorio «dictionaries» de LibreOffice, situado en $LO_DICTIONARIES_GIT, todos los cambios: $0 --subir-a-LibreOffice | -L "
+  echo " - Añada todos los cambios al repositorio «dictionaries» de LibreOffice:"
+  echo -e "   \t$0 --subir-a-LibreOffice"
   exit 0
 fi
 
 if [ "$CHANGELOG" == "SÍ" ] ; 
   then
-    verifica_versiones;
+    verifica_versiones_cfg;
     version_etiqueta_git;
   
     if [[ "${Version_ultima//v/}" < "$CORRECTOR" ]] ;
     then
       CHANGELOG_TMP=Changelog-"${CORRECTOR}".txt
-      echo
-      echo
-      echo "A continuación se genera el resumen del texto a añadir a Changelog.txt a partir del registro de actividad de git."
       printf "Versión %s:\n\n" "${CORRECTOR}" > "${CHANGELOG_TMP}"
       git log --pretty=format:"- %s (%h) by %an" "$Version_ultima.." >> "${CHANGELOG_TMP}"
       if [[ -f "${CHANGELOG_TMP}" ]] ;
       then
-        echo "El fichero ${CHANGELOG_TMP} está disponible. Puede editar a mano y usar el contenido para actualizar Changelog.txt a su conveniencia."
+        echo -e "\nEl fichero ${CHANGELOG_TMP} está disponible. Puede editar a mano y usar el"
+        echo "contenido para actualizar Changelog.txt a su conveniencia."
         echo "Antes de publicar una nueva edición de RLA-ES asegúrese de haber actualizado Changelog.txt."
       else
         echo "ERROR, por algún motivo el fichero ${CHANGELOG_TMP} no ha podido ser generado."
@@ -274,8 +272,10 @@ if [ "$CHANGELOG" == "SÍ" ] ;
       exit
     else
       echo
-      echo "ERROR: el número de versión de la configuración actual ($CORRECTOR) no es mayor que la última versión etiquetada en el repositorio (${Version_ultima//v})."
-      echo "Se da por sentado que si ha etiquetado la versión ya no tiene lugar añadir los cambios relacionados con la misma."
+      echo "ERROR: el número de versión de la configuración actual ($CORRECTOR)"
+      echo "no es mayor que la última versión etiquetada en el repositorio (${Version_ultima//v})."
+      echo "Se da por sentado que si ha etiquetado la versión ya no tiene lugar añadir los cambios"
+      echo "relacionados con la misma."
       echo "Revise que tanto la configuración como la etiqueta en el repositorio git son correctos."
       exit 1
     fi
@@ -336,7 +336,7 @@ EOF
 fi
 
 if [ "$LO_PUBLICAR" == "SÍ" ] ; then
-  verifica_versiones;
+  verifica_versiones_cfg;
   version_etiqueta_git;
   
   if [[ ! "${Version_ultima//v/}" = "$CORRECTOR" ]] ; then
@@ -389,8 +389,14 @@ if [ "$LO_PUBLICAR" == "SÍ" ] ; then
   install -m 644 -d "$PLANTILLAOXT"META-INF/manifest.xml "$DESTINO"/META-INF/manifest.xml
   install -m 644 "$PLANTILLALO"/description.xml "$DESTINO"
   install -m 644 "$PLANTILLALO"/dictionaries.xcu "$DESTINO"
-  install -m 644 "$PLANTILLALO"/package-description.txt "$DESTINO"
   install -m 644 herramientas/plantillas-exportación/iconos/RLA-ES.png "$DESTINO"
+  echo "$CORRECTOR $SEPARACION $SINONIMOS"
+  sed -n -e "
+    /__/! { p; };
+    /__CORRECTOR__/ { s//$CORRECTOR/g; p; };
+    /__SEPARACION__/ { s//$SEPARACION/g; p; };
+    /__SINONIMOS__/ {s||$SINONIMOS|g; p; };" \
+  "$PLANTILLALO"/package-description.txt > "$DESTINO"/package-description.txt
 
   # copiamos licencias:
   install -m 644 LICENSE.md LICENSE/* "$DESTINO"
@@ -412,7 +418,7 @@ if [ "$LO_PUBLICAR" == "SÍ" ] ; then
   done
   pushd "$LO_DICTIONARIES_GIT" > /dev/null || exit
   echo "Preparamos el commit:"
-  git add "$LO_DICTIONARIES_GIT"Dictionary_es.mk "$DESTINO" || exit
+  git add "$LO_DICTIONARIES_GIT"/Dictionary_es.mk "$DESTINO" || exit
 
   echo "A continuación examine el estado de los cambios:"
   git status
@@ -420,19 +426,20 @@ if [ "$LO_PUBLICAR" == "SÍ" ] ; then
   echo "Si son correctos hay que añadirlos al repositorio local."
   echo "Ejecute las siguientes órdenes _manualmente_:"
   echo
-  echo "cd $LO_DICTIONARIES_GIT"
-  echo "git commit"
-  echo "(se abrirá un editor en el que debe describir _en inglés_ los cambios relacionados con la versión)"
+  echo -e "\tcd $LO_DICTIONARIES_GIT"
+  echo -e "\tgit commit"
+  echo -e "\n(se abrirá un editor en el que debe describir _en inglés_ los cambios relacionados con la versión)"
   echo
   echo "Finalmente, para para enviar los cambios a gerrit ejecute:"
   echo
-  echo "git push origin $RAMA_GIT:refs/for/master"
+  echo -e "\tgit push origin $RAMA_GIT:refs/for/master"
   echo   
   echo "El cambio será evaluado en https://gerrit.libreoffice.org/q/project:dictionaries antes" \
     " de ser incorporado a la rama principal del repositorio."
-  echo "Si lo desea también podría avisar del cambio escribiendo a mailto:libreoffice@lists.freedesktop.org."
-  popd || exit
-  exit 0
+  echo "Si lo desea también puede avisar del cambio escribiendo a mailto:libreoffice@lists.freedesktop.org."
+  popd > /dev/null || exit 1
+  echo "¡listo!"
+  exit
 fi
 
 # Si no hay ninguna opción nos despedimos imprimiendo la ayuda 
@@ -443,7 +450,7 @@ fi
 
 # a partir de aquí se generan los diccionarios empaquetándolos en extensiones OXT y XPI:
 
-verifica_versiones;
+verifica_versiones_cfg;
 echo
 
 for item in $L10N_DISPONIBLES ; do 
@@ -453,7 +460,7 @@ for item in $L10N_DISPONIBLES ; do
 done
 
 if [ ! "$item" = "$LOCALIZACIONES" ] && [ ! "$TODAS" = "SÍ" ] 
-  then echo "ERROR: RLA-ES no contempla $LOCALIZACIONES. Use un código regional del español disponible: $L10N_DISPONIBLES"  >&2; exit 1;
+  then echo -e "\nERROR: RLA-ES no contempla $LOCALIZACIONES. Use un código regional del español disponible: $L10N_DISPONIBLES"  >&2; exit 1;
 fi
 
 unset LANG
@@ -461,8 +468,8 @@ unset LANG
 # Verificar si se pasó una localización como parámetro.
 if [ "$LOCALIZACIONES" != "" ]; then
   # Verificar que la localización solicitada esté implementada.
-  if ! [ -d "ortografia/palabras/RAE/l10n/$LOCALIZACION" -o \
-       -d "ortografia/palabras/noRAE/l10n/$LOCALIZACION" ]; then
+  if ! [ -d "ortografia/palabras/RAE/l10n/$LOCALIZACION" ] || \
+      [ -d "ortografia/palabras/noRAE/l10n/$LOCALIZACION" ]; then
     echo "No se ha implementado la localización '$LOCALIZACION'." >&2
     echo -ne "¿Desea crear el diccionario general? (S/n): " >&2
     read -r -s -n 1 RESPUESTA
