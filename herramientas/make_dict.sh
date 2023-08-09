@@ -16,7 +16,7 @@ verifica_versiones_cfg () {
   # shellcheck disable=SC1091
   if [[ -f .versiones.cfg ]] && source .versiones.cfg
     then 
-      echo "Publicar una nueva versión necesita de la configuración contenida en el fichero .versiones.cfg. Revise si el contenido actual es correcto antes de continuar:"
+      echo "La configuración actual del proyecto en el fichero .versiones.cfg:"
       echo "Corrector: $CORRECTOR"
       echo "Separación: $SEPARACION"
       echo "Sinónimos: $SINONIMOS"
@@ -34,14 +34,14 @@ verifica_versiones_cfg () {
       vCORRECTOR="v${CORRECTOR}"
     else 
       echo
-      echo "ERROR, no existe el fichero de configuración .versiones.cfg"  >&2
+      echo -e "\nERROR, no existe el fichero de configuración .versiones.cfg"  >&2
       echo "Para crear una configuración ejecute $0 con la opción --configurar | -c"  >&2
       echo "Para ver una configuración de ejemplo, consulte el fichero .versiones.cfg-EJEMPLO" >&2
+      echo
       exit 1
   fi
 }
-## ¿ésto sirve?
-## vCORRECTOR="v${CORRECTOR}"
+
 Version_penultima=""
 Version_ultima=""
 version_etiqueta_git () {
@@ -63,10 +63,10 @@ imprime_ayuda () {
       echo
       echo "--listado-regiones"
       echo "    Muestra todas las regiones de las variantes del español"
-      echo "    más importantes del mundo expresadas con su código CLDR."
+      echo "    más importantes expresadas con su código CLDR."
       echo 
       echo "--localizacion LOC | -l LOC"
-      echo "    Localización a utilizar en la generación del diccionario."
+      echo "    Crea un diccionario para la localización LOC."
       echo "    El argumento LOC debe ser un código CLDR de localización"
       echo "    implementado (es_AR, es_ES, es_MX, etc). Cada diccionario"
       echo "    se produce dentro del directorio productos/ emapquetado en"
@@ -81,10 +81,12 @@ imprime_ayuda () {
       echo "    diccionario de la Real Academia Española."
       echo
       echo "--configurar | -c"
-      echo "    Configurar detalles de publicación de los recursos."
+      echo "    Asistente para configurar $0 modificando"
+      echo "    el contenido del fichero .versiones.cfg"
       echo
       echo "--changelog | -C"
-      echo "    Imprimir los cambios entre las dos últimas versiones etiquetadas."
+      echo "    Extrae de la actividad del repositorio git el resumen de cambios"
+      echo "    de la última edición para usarlos en Changelog.txt."
       echo
       echo "--publicar-version | -P)"
       echo "    Asistente para la publicación de una versión oficial de RLA-ES."
@@ -92,7 +94,8 @@ imprime_ayuda () {
       echo "--subir-a-LibreOffice | -L"
       echo "    Actualiza el repositorio de diccionarios de LibreOffice con la"
       echo "    última versión de los productos del proyecto."
-      
+      echo "    Debe usarse después de haber generado todos los diccionarios con"
+      echo "    la opcion --todas."
       echo
 }
 
@@ -171,9 +174,7 @@ if [ "$PUBLICAR" == "SÍ" ] ; then
   version_etiqueta_git;
   
   if [[ ! "${Version_ultima//v/}" < "$CORRECTOR" ]] ; then
-    echo
-    echo "ERROR: el número de versión de la configuración actual ($CORRECTOR) no es menor que la"
-    echo "última versión etiquetada en el repositorio (${Version_ultima//v})."
+    echo -e "\nERROR: el número de versión de la configuración actual ($CORRECTOR) no es menor que la última versión etiquetada en el repositorio (${Version_ultima//v})."
     echo "Se da por sentado que no ha seguido el procedimiento de publicación de esta herramienta."
     echo "Revise que tanto la configuración como la etiqueta en el repositorio git son correctos."
     exit 1
@@ -217,10 +218,6 @@ if [ "$PUBLICAR" == "SÍ" ] ; then
   if [ "$RESPUESTA" = "s" ] || [ "$RESPUESTA" = "S" ]; then
     echo -e "\nejecutando: git tag -a $vCORRECTOR"
     git tag -a "$vCORRECTOR" || exit 1
-    echo "La etiqueta $vCORRECTOR ha sido creada."
-  else
-    echo -e "\nVuelva a ejecutar el programa cuando esté listo."
-    exit 0    
   fi
 
   echo -e "\nHay que subir al repositorio origen todos los cambios de la versión $vCORRECTOR,"
@@ -271,12 +268,13 @@ if [ "$CHANGELOG" == "SÍ" ] ;
       fi
       exit
     else
-      echo
-      echo "ERROR: el número de versión de la configuración actual ($CORRECTOR)"
-      echo "no es mayor que la última versión etiquetada en el repositorio (${Version_ultima//v})."
-      echo "Se da por sentado que si ha etiquetado la versión ya no tiene lugar añadir los cambios"
-      echo "relacionados con la misma."
+      echo -e "\nERROR: el número de versión de la edición del diccionario según configuración"
+      echo "actual ($CORRECTOR) no es mayor que la última versión etiquetada en el"
+      echo "repositorio (${Version_ultima//v})."
+      echo "Se da por sentado que si ha etiquetado la versión en git ya no tiene lugar añadir los"
+      echo "cambios relacionados con la misma."
       echo "Revise que tanto la configuración como la etiqueta en el repositorio git son correctos."
+      echo
       exit 1
     fi
 fi
@@ -340,8 +338,7 @@ if [ "$LO_PUBLICAR" == "SÍ" ] ; then
   version_etiqueta_git;
   
   if [[ ! "${Version_ultima//v/}" = "$CORRECTOR" ]] ; then
-    echo
-    echo "ERROR: el número de versión de la configuración actual ($CORRECTOR) no es igual que la última versión etiquetada en el repositorio (${Version_ultima//v})."
+    echo -e "\nERROR: el número de versión de la configuración actual ($CORRECTOR) no es igual que la última versión etiquetada en el repositorio (${Version_ultima//v})."
     echo "No tiene sentido enviar a LibreOffice cambios de una versión oficial no publicada oficialmente."
     echo "Revise que tanto la configuración como la etiqueta en el repositorio git son correctos."
     exit 1
@@ -356,12 +353,14 @@ if [ "$LO_PUBLICAR" == "SÍ" ] ; then
     echo "$0 --todas | -t"
     exit 1
   fi
+
   if [ ! -d "$LO_DICTIONARIES_GIT" ] ; then
     echo -e "\nERROR: no existe el directorio $LO_DICTIONARIES_GIT"
     echo 
     echo "Si no ha descargado el repositorio a su sistema deberá usar una orden semejante a esta pero con sus propios datos de usuario:"
     echo "  git clone \"ssh://USUARIO@gerrit.libreoffice.org:29418/dictionaries\" && scp -p -P 29418 USUARIO@gerrit.libreoffice.org:hooks/commit-msg \"dictionaries/.git/hooks/\""
     echo "En cualquier caso configure el directorio correcto con $0 --configurar | -c"
+    echo 
     exit 2;
   fi
 
@@ -376,8 +375,8 @@ if [ "$LO_PUBLICAR" == "SÍ" ] ; then
   echo "¡listo!"
 
   # configuración de diccionarios para el repo diccionarios de LibreOffice:
-  rm -f "$LO_DICTIONARIES_GIT"Dictionary_es.mk || exit 1
-  install -m 644 "$PLANTILLALO"/Dictionary_es.mk "$LO_DICTIONARIES_GIT"Dictionary_es.mk
+  rm -f "$LO_DICTIONARIES_/ || exit 1
+  install -m 644 "$PLANTILLALO"/Dictionary_es.mk "$LO_DICTIONARIES_/
 
   DESTINO="$LO_DICTIONARIES_GIT"/es
   
@@ -512,27 +511,27 @@ for LOCALIZACION in $LOCALIZACIONES; do
   AFFIX="$OXTTMPDIR/$LOCALIZACION.aff"
   echo "Creando el fichero de afijos:"
   
-  if [ ! -f ortografia/afijos/l10n/$LOCALIZACION/afijos.txt ]; then
+  if [ ! -f ortografia/afijos/l10n/"$LOCALIZACION"/afijos.txt ]; then
     echo "Advertencia: no he encontrado el fichero ortografia/afijos/l10n/$LOCALIZACION/afijos.txt"
   fi
-  if [ ! -d "ortografia/palabras/RAE/l10n/$LOCALIZACION" ]; then
+  if [ ! -d ortografia/palabras/RAE/l10n/"$LOCALIZACION" ]; then
     echo "Advertencia: no he encontrado el directorio ortografia/palabras/RAE/l10n/$LOCALIZACION"
   fi
-  if [ ! -d "ortografia/palabras/noRAE/l10n/$LOCALIZACION" ]; then
+  if [ ! -d ortografia/palabras/noRAE/l10n/"$LOCALIZACION" ]; then
     echo "Advertencia: no he encontrado el directorio ortografia/palabras/noRAE/l10n/$LOCALIZACION"
   fi
-  if [ ! -d "ortografia/palabras/toponimos/l10n/$LOCALIZACION" ]; then
+  if [ ! -d ortografia/palabras/toponimos/l10n/"$LOCALIZACION" ]; then
     echo "Advertencia: no he encontrado el directorio ortografia/palabras/toponimos/l10n/$LOCALIZACION"
   fi
 
-  if [ ! -f ortografia/afijos/l10n/$LOCALIZACION/afijos.txt ]; then
+  if [ ! -f ortografia/afijos/l10n/"$LOCALIZACION"/afijos.txt ]; then
     # Si se solicitó el diccionario general, o la localización no ha
     # definido sus propias reglas para los afijos, utilizamos la versión
     # genérica de los ficheros.
     herramientas/remover_comentarios.sh < ortografia/afijos/afijos.txt > "$AFFIX"
   else
     # Se usa la versión de la localización solicitada.
-    herramientas/remover_comentarios.sh < ortografia/afijos/l10n/$LOCALIZACION/afijos.txt > "$AFFIX"
+    herramientas/remover_comentarios.sh < ortografia/afijos/l10n/"$LOCALIZACION"/afijos.txt > "$AFFIX"
   fi
   cp "$AFFIX" "$XPITMPDIR/dictionaries/$CLDR2.aff"
   echo "¡listo!"
@@ -546,7 +545,7 @@ for LOCALIZACION in $LOCALIZACIONES; do
   # Palabras comunes a todos los idiomas, definidas por la RAE.
   cat ortografia/palabras/RAE/*.txt | herramientas/remover_comentarios.sh > "$TMPWLIST"
 
-  if [ -d "ortografia/palabras/RAE/l10n/$LOCALIZACION" ]; then
+  if [ -d ortografia/palabras/RAE/l10n/"$LOCALIZACION" ]; then
     # Incluir las palabras de la localización solicitada, definidas por la RAE.
     cat ortografia/palabras/RAE/l10n/"$LOCALIZACION"/*.txt \
       | herramientas/remover_comentarios.sh \
@@ -806,7 +805,7 @@ for LOCALIZACION in $LOCALIZACIONES; do
     /__PAIS__/ { s//$PAIS/g; p; }" \
     "$PLANTILLAOXT/description.xml" > "$OXTTMPDIR/description.xml"
 
-  cp herramientas/plantillas-exportación/iconos/$ICONO "$OXTTMPDIR"
+  cp herramientas/plantillas-exportación/iconos/"$ICONO" "$OXTTMPDIR"
   cp -a "$PLANTILLAOXT/META-INF" "$OXTTMPDIR/"
 
   if [ ! -d "$DIRECTORIO_TRABAJO" ]; then
