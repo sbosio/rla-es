@@ -92,8 +92,8 @@ alemán/GS
 alfombrero/GS
 alfonsino/GS
 alforjero/GS
-algalia/S
 algodonero/GS
+alguero/GS
 alienígena/S
 alijador/GS
 almacenero/GS
@@ -914,6 +914,7 @@ gandul/GS
 garbancero/GS
 garduño/GS
 gatero/GS
+gaviero/GS
 génesis
 genético/GS
 genitor/GS
@@ -1256,6 +1257,7 @@ misionero/GS
 místico/GS
 mitólogo/GS
 mixteco/GS
+mocetón/GS
 mochilero/GS
 mocho/GS
 moderador/GS
