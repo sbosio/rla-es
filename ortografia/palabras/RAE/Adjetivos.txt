@@ -7811,6 +7811,7 @@ madrigado/GS
 madrigalesco/GS
 madrileño/GS
 madrugador/GS
+madrugón/GS
 madurador/GS
 madura/k
 madurativo/SG
