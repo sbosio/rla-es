@@ -1579,7 +1579,6 @@ cabria/S
 cabriola/S
 cabritilla/S
 cabronada/S
-cabullería/S
 cabuya/LS
 caca/S
 cacatúa/S
@@ -3828,7 +3827,6 @@ energía/S
 enfardeladura/S
 enfermedad/S
 enfermería/S
-enfilación/S
 enfriadera/S
 enfundadura/S
 engañifa/S
@@ -4615,7 +4613,6 @@ fisura/S
 flaccidez/S
 flacidez/S
 flacura/S
-flagelación/S
 flagrancia/S
 flama/S
 flamenquilla/S
@@ -9165,7 +9162,6 @@ redonda/NSM
 redova/S
 reducción/S
 redundancia/S
-reedificación/S
 reelección/S
 reencarnación/S
 refección/S
@@ -10702,7 +10698,6 @@ trinca/S
 trincha/S
 trinchera/S
 trinidad/S
-trinqueta/S
 trinquetada/S
 trinquetilla/S
 tripada/S
