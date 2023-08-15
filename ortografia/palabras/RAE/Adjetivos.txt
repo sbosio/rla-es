@@ -2890,8 +2890,7 @@ comido/GS
 comilón/SG
 cominero/GS
 comisionado/GS
-comitente/S
-cómitre/S
+comitente/Sc
 commelináceo/SG
 cómodo/kGS
 comodón/SG
