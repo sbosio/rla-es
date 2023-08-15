@@ -2440,6 +2440,7 @@ celtíbero/GS
 céltico/GS
 celulario/SG
 celular/sSl
+cementero/GS
 cementoso/GS
 cenador/GS
 cenagoso/GS
@@ -2889,7 +2890,7 @@ comido/GS
 comilón/SG
 cominero/GS
 comisionado/GS
-comitente/S
+comitente/Sc
 commelináceo/SG
 cómodo/kGS
 comodón/SG
@@ -3437,6 +3438,16 @@ cuadrado/GS
 cuadragenario/GS
 cuadragesimal/S
 cuadragésimo/GS
+cuadragesimoctavo/GS
+cuadragesimocuarto/GS
+cuadragesimonono/GS
+cuadragesimonoveno/GS
+cuadragesimoprimero/GS
+cuadragesimoquinto/GS
+cuadragesimosegundo/GS
+cuadragesimoséptimo/GS
+cuadragesimosexto/GS
+cuadragesimotercero/GS
 cuadrangular/S
 cuadrángulo/GS
 cuadrante/S
@@ -3587,6 +3598,7 @@ dañino/SG
 dañoso/SG
 dardanio/GS
 dárdano/GS
+darwiniano/GS
 datilera/S
 deambulatorio/GS
 debilitante/S
@@ -3603,13 +3615,15 @@ decible/Skn
 decidido/GS
 decidor/GS
 decimal/S
+décimo/GS
 decimoctavo/GS
 decimocuarto/GS
-décimo/GS
 decimonónico/GS
 decimonono/GS
 decimonoveno/GS
+decimoprimero/GS  # Forma alternativa a undécimo
 decimoquinto/GS
+decimosegundo/GS  # Forma alternativa a duodécimo
 decimoséptimo/GS
 decimosexto/GS
 decimotercero/SG
@@ -3893,7 +3907,7 @@ desmolado/GS
 desmoronadizo/GS
 desmotador/GS
 desnudador/GS
-desnudo/GS
+desnudo/GSq
 desocupado/GS
 desodorante/S
 desodorizante/S
@@ -4328,6 +4342,8 @@ drástico/SG
 dravídico/SG
 drogadicto/GS
 drogodependiente/S
+dromomaníaco/GS
+dromomaniaco/GS
 drupáceo/GS
 druso/GS
 dualista/S
@@ -5729,6 +5745,7 @@ frescachón/GS
 frescal/S
 fresco/SG
 frescote/SG
+freudiano/GS
 friable/S
 fricativo/GS
 frígido/SG
@@ -5858,7 +5875,7 @@ gallinero/GS
 gallito/S
 gallofero/GS
 gallofo/GS
-gallo/S
+gallonado/GS
 galo/GS
 galocho/GS
 galopante/S
@@ -6125,6 +6142,7 @@ grisáceo/GS
 gríseo/GS
 gris/S
 gritador/GS
+gritón/GS
 grogui/S
 grosella/S
 grosero/SG
@@ -6297,7 +6315,7 @@ hembra/S
 hemencioso/GS
 hemíptero/S
 hemolítico/GS
-hemorroidal/S
+hemorroidal/Sc
 hemostático/SG
 henchidor/GS
 hendedor/GS
@@ -6413,6 +6431,7 @@ hippy/S
 hircano/GS
 hiriente/S
 hirsuto/GS
+hirviente/S
 hispalense/S
 hispalio/GS
 hispánica/n
@@ -6565,6 +6584,7 @@ iberoamericano/GS
 ibicenco/GS
 icario/GS
 iconoclasta/S
+iconográfico/GS
 icoroso/GS
 ictericiado/GS
 ictérico/SG
@@ -6677,6 +6697,7 @@ impresor/GS
 imprestable/S
 imprevisto/SG
 imprimador/GS
+ímprobo/GS
 improfanable/S
 improvisador/GS
 improviso/GS
@@ -7790,6 +7811,7 @@ madrigado/GS
 madrigalesco/GS
 madrileño/GS
 madrugador/GS
+madrugón/GS
 madurador/GS
 madura/k
 madurativo/SG
@@ -8248,6 +8270,7 @@ mesolítico/GS
 mesonero/GS
 mesonil/S
 mesonista/S
+mesopotámico/GS
 mesozoico/GS
 mestenco/GS
 mestizo/GS
@@ -8261,6 +8284,7 @@ metálico/SG
 metalífero/GS
 metalúrgico/GS
 metamórfico/SG
+metanero/GS
 metatarsiano/GS
 metazoo/S
 meteco/S
@@ -8484,6 +8508,7 @@ monógamo/GS
 monogenista/S
 monográfico/GS
 monoico/GS
+monolingüe/S
 monolítico/GS
 monomaniaco/GS
 monometalista/S
@@ -8565,6 +8590,7 @@ mortal/kS
 mortecino/GS
 mortífero/GS
 mortificador/SG
+mortificante/GS
 mortinato/GS
 mortuorio/GS
 moruno/GS
@@ -8888,6 +8914,16 @@ nominativa/g
 nominativo/SGg
 nonagenario/GS
 nonagésimo/GS
+nonagesimoctavo/GS
+nonagesimocuarto/GS
+nonagesimonono/GS
+nonagesimonoveno/GS
+nonagesimoprimero/GS
+nonagesimoquinto/GS
+nonagesimosegundo/GS
+nonagesimoséptimo/GS
+nonagesimosexto/GS
+nonagesimotercero/GS
 nonagonal/S
 nonágono/SG
 nonato/GS
@@ -9012,7 +9048,7 @@ occidental/S
 occipital/S
 occiso/SG
 occitano/GS
-oceánico/SG
+oceánico/SGu
 ocelado/GS
 ochavo/GS
 ochenta/S
@@ -9030,6 +9066,16 @@ octingentésimo/GS
 octocoralario/S
 octogenario/GS
 octogésimo/GS
+octogesimoctavo/GS
+octogesimocuarto/GS
+octogesimonono/GS
+octogesimonoveno/GS
+octogesimoprimero/GS
+octogesimoquinto/GS
+octogesimosegundo/GS
+octogesimoséptimo/GS
+octogesimosexto/GS
+octogesimotercero/GS
 octogonal/S
 octógono/GS
 octópodo/SG
@@ -9933,6 +9979,7 @@ plomizo/GS
 plomoso/GS
 plumado/GS
 plumbado/GS
+plumífero/GS
 plumoso/GS
 plural/S
 pluralista/S
@@ -10013,6 +10060,7 @@ pontifical/S
 pontificio/GS
 ponzoñoso/GS
 pop/S
+popel/S
 populachero/GS
 popular/kS
 populista/S
@@ -10060,6 +10108,7 @@ positiva/nk
 positivista/S
 positivo/GSnk
 posmeridiano/GS
+posmoderno/GS
 posoperatorio/GS
 pospalatal/S
 pospositivo/SG
@@ -10265,6 +10314,7 @@ pródigo/SG
 productiva/kp
 productivo/kSGp
 productor/pGS
+proel/S
 profanador/GS
 profano/SG
 profesional/S
@@ -10512,6 +10562,16 @@ quinceno/GS
 quince/S
 quincuagenario/GS
 quincuagésimo/GS
+quincuagesimoctavo/GS
+quincuagesimocuarto/GS
+quincuagesimonono/GS
+quincuagesimonoveno/GS
+quincuagesimoprimero/GS
+quincuagesimoquinto/GS
+quincuagesimosegundo/GS
+quincuagesimoséptimo/GS
+quincuagesimosexto/GS
+quincuagesimotercero/GS
 quinientista/S
 quinientos
 quinquenal/S
@@ -11498,6 +11558,16 @@ séptimo/GS
 septingentésimo/GS
 septuagenario/SG
 septuagésimo/SG
+septuagesimoctavo/GS
+septuagesimocuarto/GS
+septuagesimonono/GS
+septuagesimonoveno/GS
+septuagesimoprimero/GS
+septuagesimoquinto/GS
+septuagesimosegundo/GS
+septuagesimoséptimo/GS
+septuagesimosexto/GS
+septuagesimotercero/GS
 sepulcral/S
 sepultador/GS
 sequizo/GS
@@ -11556,6 +11626,17 @@ sextantario/SG
 sexto/SG
 sexuada/a
 sexuado/GSa
+sexuagésimo/GS
+sexuagesimoctavo/GS
+sexuagesimocuarto/GS
+sexuagesimonono/GS
+sexuagesimonoveno/GS
+sexuagesimoprimero/GS
+sexuagesimoquinto/GS
+sexuagesimosegundo/GS
+sexuagesimoséptimo/GS
+sexuagesimosexto/GS
+sexuagesimotercero/GS
 sexual/eSa
 sexualizado/GS
 sexy
@@ -11833,6 +11914,7 @@ subjetivo/GS
 sublimatorio/GS
 sublime/GS
 subliminal/S
+submarino/GSc
 subordinado/GS
 subordinante/S
 subranquial/S
@@ -12574,10 +12656,21 @@ trifloro/GS
 trifoliado/GS
 triforme/S
 trigésimo/SG
+trigesimoctavo/GS
+trigesimocuarto/GS
+trigesimonono/GS
+trigesimonoveno/GS
+trigesimoprimero/GS
+trigesimoquinto/GS
+trigesimosegundo/GS
+trigesimoséptimo/GS
+trigesimosexto/GS
+trigesimotercero/GS
 trigonal/S
 trigonométrico/GS
 trigueño/SG
 triguero/GS
+trilingüe/S
 trillado/GS
 trillador/GS
 trilobulado/GS
@@ -12874,6 +12967,7 @@ vasallo/GS
 vascongado/GS
 vascón/GS
 vasco/SG
+vascónico/GS
 vascuence/S
 vascular/S
 vasculoso/GS
@@ -13043,6 +13137,16 @@ vienés/SG
 vietnamita/S
 vigente/S
 vigésimo/SG
+vigesimoctavo/GS
+vigesimocuarto/GS
+vigesimonono/GS
+vigesimonoveno/GS
+vigesimoprimero/GS
+vigesimoquinto/GS
+vigesimosegundo/GS
+vigesimoséptimo/GS
+vigesimosexto/GS
+vigesimotercero/GS
 vigilante/S
 vigilativo/SG
 vigorizador/GS
@@ -13148,6 +13252,7 @@ voladizo/GS
 volador/GS
 volandero/GS
 volante/S
+volantín/GS
 volantón/GS
 volátil/S
 volcánico/GS
