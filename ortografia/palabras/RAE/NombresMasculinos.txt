@@ -6598,7 +6598,6 @@ guardabrisa/S
 guardacartuchos
 guardacostas
 guardadamas
-guardamancebos
 guardador/S
 guardafrenos
 guardafuego/S
@@ -6617,7 +6616,6 @@ guardapolvo/S
 guardapuntas
 guardarruedas
 guardasol/S
-guardiamarina/S 
 guardín/S
 guarismo/S
 guarnecido/S
