@@ -210,7 +210,7 @@ if [ "$PUBLICAR" == "SÍ" ] ; then
   if [ "$RESPUESTA" = "s" ] || [ "$RESPUESTA" = "S" ]; then
     echo -e "\nejecutando: git fetch; git checkout master; git merge"
     git fetch || exit 1
-    git checkout 20230808-olea-tmp || exit 1
+    git checkout master || exit 1
     git merge || exit 1
   else 
     echo -e "\nVuelva a ejecutar el programa cuando esté listo."
