@@ -1479,6 +1479,7 @@ plateador/GS
 platero/GS
 playero/GS
 pleno/GS
+plumífero/GS
 pluriempleado/GS
 poblano/GS
 podólogo/GS
