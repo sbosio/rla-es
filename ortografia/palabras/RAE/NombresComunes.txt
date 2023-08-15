@@ -225,6 +225,7 @@ comentarista/S
 comercializador/GS
 comerciante/S
 comisionista/S
+cómitre/S
 comodante/S
 compareciente/S
 comparsa/S
@@ -413,6 +414,7 @@ guardaespaldas
 guardagujas
 guardarropa/S
 guarda/S
+guardiamarina/S
 guía/S
 guionista/S
 guiri/S
