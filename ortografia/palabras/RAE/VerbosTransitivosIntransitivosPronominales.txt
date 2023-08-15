@@ -299,7 +299,6 @@ encordar/IRD
 encostrar/RED
 enderezar/REDÀñò
 enfermar/REDñ
-enfilar/AREDÀñ
 enflaquecer/IRD
 enflorecer/IRD
 enfrailar/RED
