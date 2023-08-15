@@ -10313,6 +10313,7 @@ pródigo/SG
 productiva/kp
 productivo/kSGp
 productor/pGS
+proel/S
 profanador/GS
 profano/SG
 profesional/S
@@ -13250,6 +13251,7 @@ voladizo/GS
 volador/GS
 volandero/GS
 volante/S
+volantín/GS
 volantón/GS
 volátil/S
 volcánico/GS
