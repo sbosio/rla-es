@@ -1625,7 +1625,7 @@ imaginar/REDÀÁÂÃÄÅÇÙÜñòôø
 imanar/RED
 imantar/RED
 impacientar/REDÁñ
-implantar/REDÀÂÄñ
+implantar/REDÀÂÄTñ
 impregnar/REDÀÁÂÄÆñòT
 impresionar/REDÀÁÂÄñT
 incardinar/RED
@@ -1795,6 +1795,7 @@ mezclar/REDÁñòøT
 mimbrar/RED
 mimetizar/REDñ
 mineralizar/REDA
+miniaturizar/REDA
 minorar/RED
 mitigar/REDÀA
 mocar/RED

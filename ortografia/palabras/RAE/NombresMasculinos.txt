@@ -12331,6 +12331,7 @@ sur
 surco/Sj
 súrculo/S
 sureste/S
+surfactante/S
 surgidero/S
 surgimiento/pS
 suroeste/S

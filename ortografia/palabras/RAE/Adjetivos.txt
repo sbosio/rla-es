@@ -6384,6 +6384,7 @@ hidráulico/GS
 hídrico/GS
 hidrocéfalo/GS
 hidroeléctrico/SG
+hidrofóbico/GS
 hidrográfico/GS
 hidrológico/GS
 hidrópico/GS
@@ -12032,6 +12033,7 @@ surcoreano/GS
 surculado/GS
 surculoso/GS
 sureño/GS
+surfactante/S
 surgidor/GS
 surinamés/GS
 surrealista/S
