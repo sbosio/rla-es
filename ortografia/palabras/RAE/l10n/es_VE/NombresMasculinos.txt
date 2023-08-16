@@ -150,6 +150,7 @@ rayador/S
 recorrida/S
 reservorio/S
 resuelve/S
+rin/S
 rocambor/S
 romerillo/S
 rompenueces

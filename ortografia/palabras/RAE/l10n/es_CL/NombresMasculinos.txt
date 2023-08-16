@@ -151,6 +151,7 @@ quique/S
 quirquincho/S
 quisco/S
 rayador/S
+removedor/S
 reservorio/S
 riflero/S
 rocambor/S

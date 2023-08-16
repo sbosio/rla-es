@@ -148,6 +148,7 @@ quijongo/S
 quijo/S
 quilombo/S
 reservorio/S
+rin/S
 rollito/S
 romerillo/S
 rompenueces

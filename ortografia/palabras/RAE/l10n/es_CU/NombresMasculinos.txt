@@ -123,6 +123,7 @@ platón/S
 polvillo/S
 quijo/S
 quitasolillo/S
+removedor/S
 reservorio/S
 retranquero/S
 revientacaballo/S

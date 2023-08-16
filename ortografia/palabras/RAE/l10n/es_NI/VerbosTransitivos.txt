@@ -66,6 +66,7 @@ parquear/RED
 peticionar/RED
 pialar/RED
 puyar/RED
+recepcionar/REDT
 refaccionar/REDÀ
 reportear/RED
 rodajear/RED

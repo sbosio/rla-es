@@ -101,6 +101,7 @@ platón/S
 polvillo/S
 quijo/S
 reservorio/S
+rin/S
 romerillo/S
 rompenueces
 rubro/S

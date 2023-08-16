@@ -106,6 +106,7 @@ polvillo/S
 quijo/S
 rellenito/S
 reservorio/S
+rin/S
 romerillo/S
 rompenueces
 rubro/S

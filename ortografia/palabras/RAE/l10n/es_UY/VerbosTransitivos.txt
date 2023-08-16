@@ -84,6 +84,7 @@ pichulear/RED
 pispar/RED
 quinchar/RED
 rasquetear/RED
+recepcionar/REDT
 refaccionar/REDÀ
 reportear/RED
 revolear/RED

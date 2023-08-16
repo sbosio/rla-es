@@ -159,6 +159,7 @@ rayador/S
 rayero/S
 reservorio/S
 riflero/S
+rin/S
 rinde/S
 rocambor/S
 rollito/S
