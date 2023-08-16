@@ -1551,7 +1551,7 @@ finchar/RED
 fingir/REDÀÁÄñò
 firmar/REDÀÁÂÆÎÛñ
 fisionar/RED
-flagelar/dREDÁÄñ
+flagelar/dAREDÁÄñ
 fletar/RED
 flexibilizar/REDÀ
 focalizar/RED
