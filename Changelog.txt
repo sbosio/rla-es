@@ -1,3 +1,15 @@
+Versión 2.8:
+
+- Añadidos ordinales que faltaban hasta el centenar (cuadragesimoprimero, septuagesimoquinto, etc.).
+- Añadidos adjetivos acrítico, archivístico, anticomitente, antihemorroidal, atípico, basáltico, cementero, comitente, competencial, continuista, darwiniano, desnudo, dromomaniaco y dromomaníaco, fático, freudiano, gallonado, gritón, hemorroidal, hidrofóbico, hirviente, iconográfico, implantable, ímprobo, indignante, madrugón, mesopotámico, metanero, monolingüe, mortificante, multilingüe, multitarea, oceánico, plumífero, popel, posmoderno, presciente, proel, resiliente, semidesnudo, sicalíptico, submarino, surfactante, trilingüe, vascónico y volantín.
+- Añadidos adverbios acríticamente y educadamente.
+- Añadidos sustantivos alguero, alocución, amantillo, ancón, archivología, árgano, balumba, biblioteconomía, blusón, boyarín, bribonería, bricbarca, briol, brisote, cachola, cachón, cáncamo, chafaldete, chapuzón, chaqué, chigre, clípeo, clíper, collada, colorín, cómitre, cornucopia, cortaúñas, coy, demontre, desciframiento, dromomanía, empuñidura, enes (plural de ene), enfilación, eñes (plural de eñe), estay, estupa, facería, falúa, falucho, fan, filibote, flagelación, flechadura, flemón, forcejeo, frijol, fríjol, gallonada, gaviero, gratil, groera, guardiamarina, guardín, luchadero, i e íes, jáquer, madrugón, maniobrabilidad, mantón, marchapié, marejadilla, maricangalla, megalitismo, mnemotécnico, mocetón, modelismo, motonería, multicine, nacedero, noes (plural de no), oes (plural de o), pailebot, pailebote, pífano, pulpería, plumífero, proel, protomo, prótomo, rasel, recalmón, reedificación, refregón, relectura, rempujo, rubefacción, saetía, signario, sobrejuanete, sondeo, sucucho, surfactante, talasocracia, tangón, tortor, trirreme, ues (plural de u), urca, virazón, volantín y yola.
+- Añadidos verbos criminalizar, demonizar, miniaturizar y recalificar.
+- Añadida forma verbal irregular que faltaba de andar, andéis.
+- Añadidos enclíticos de complemento directo en descuartizar.
+- Añadido el nombre rin (es_AR, es_CO, es_EC, es_GT, es_HN, es_MX, es_NI, es_PA) y removedor (es_CL, es_CU, es_UY). 
+- Añadido el verbo recepcionar (es_AR, es_NI, es_PE).
+
 Versión 2.7:
 
 - Añadidos sustantivos como aluminosis, búnker, colocón, constructo, convivio, coronavirus, COVID, dermatólogo, dermatología, garrafón, grafitero, inventariable, laísmo, leísmo, loísmo, narcolepsia, negacionismo, negacionista, nutricionista, perrillo, portaviones, preestreno y transbordo.
