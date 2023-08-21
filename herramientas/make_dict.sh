@@ -143,7 +143,7 @@ do
       TODAS="SÍ" ;;
 
     --listado-regiones )
-      echo -e "\nMuestra los códigos CLDR con los que trabaja RLA-ES:"
+      echo -e "\nCódigos CLDR de las variantes del español contempladas:"
       echo "$L10N_DISPONIBLES"
       exit 0 ;;      
 
