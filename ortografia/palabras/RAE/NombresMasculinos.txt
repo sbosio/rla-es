@@ -1288,7 +1288,6 @@ aron
 árones
 arpende/S
 arpeo/S
-arponero/S
 arpón/S
 arqueamiento/S
 arqueo/S
@@ -12494,7 +12493,8 @@ tamujo/S
 tan
 tanaceto/S
 tanatorio/S
-tándem/S
+tándem
+tandems # Plural recomendado de tándem
 tanganillo/S
 tángano/S
 tango/GNS
