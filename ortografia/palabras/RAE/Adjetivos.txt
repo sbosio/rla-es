@@ -60,6 +60,7 @@ abizcochado/SG
 ablandador/GS
 ablandativo/GS
 ablativo/GS
+abnegado/GS
 abobado/GS
 abocinado/SG
 abofeteador/GS
@@ -924,6 +925,7 @@ antequerano/GS
 anterior/S
 antes/t
 anti
+antialcohólico/GS
 antiautoritario/GS
 antibalas
 antibiótico/SG
@@ -941,6 +943,7 @@ antidepresivo/GS
 antidisturbios
 antidopaje/S
 antidroga/S
+antiescorbútico/GS
 antiespañol/GS
 antiestrés
 antiguano/SG
@@ -1725,6 +1728,7 @@ bienal/S
 bienandante/S
 bienaventurado/GS
 bienhechor/GS
+bienhumorado/GS
 bienintencionado/GS
 bienmandado/GS
 bienoliente/S
@@ -1742,6 +1746,7 @@ biliario/GS
 biliar/S
 bilingüe/S
 billonario/GS
+bilobular/S
 bimano/GS
 bimembre/S
 bimestral/S
@@ -2555,6 +2560,7 @@ chamorro/GS
 chamuscado/SG
 chancero/GS
 chanchullero/GS
+chanflón/GS
 chapado/GS
 chaparro/GS
 chaparrudo/GS
@@ -2735,6 +2741,7 @@ cizañero/SG
 clamoroso/GS
 clandestino/SG
 clara/nj
+clarificador/GS
 clarisa/S
 clarividente/S
 claro/njSG
@@ -2986,6 +2993,7 @@ conciliador/GSp
 conciliatorio/GS
 conciso/GS
 conclusa/k
+conclusivo/GS
 concluso/kSG
 concluyente/S
 concoideo/GS
@@ -3522,6 +3530,7 @@ culero/SG
 culinario/SG
 culinegro/SG
 culminante/S
+culón/GS
 culpable/Sk
 culpada/k
 culpado/SGk
@@ -4205,6 +4214,7 @@ dispar/S
 dispendioso/SG
 dispensable/kS
 dispensador/SG
+dispéptico/GS
 disperso/GS
 dispersor/GS
 displicente/S
@@ -4384,6 +4394,7 @@ easonense/S
 ebionita/S
 ebrio/GS
 ebrioso/GS
+ebúrneo/GS
 eccematoso/GS
 ecdótico/SG
 echada/N
@@ -4446,6 +4457,7 @@ egipcio/GS
 egiptano/GS
 egocéntrico/GS
 egoísta/S
+egolátrico/GS
 egregio/GS
 eidético/GS
 ejecutante/S
@@ -4791,6 +4803,7 @@ eoceno/GS
 eólico/GS
 eolio/GS
 épico/GS
+epicúreo/GS
 epidemial/S
 epidémico/SG
 epidérmico/GS
@@ -4835,6 +4848,7 @@ ercavicense/S
 eréctil/S
 erecto/GS
 erector/SG
+eremítico/GS
 ergonómico/GS
 ergotista/S
 erial/S
@@ -4899,6 +4913,7 @@ escita/S
 esclarecedor/GS
 esclarecido/SG
 esclavista/S
+esclavizador/GS
 esclavón/GS
 esclavonio/SG
 esclavo/SG
@@ -5080,6 +5095,7 @@ estereofónico/GS
 estereográfico/GS
 estéreo/S
 estereotipado/SG
+estereotípico/GS
 esterilizador/SG
 estéril/S
 esteroídico/SG
@@ -5159,6 +5175,7 @@ eterno/GS
 ético/GS
 etimológico/SG
 etíope/S
+etiópico/GS
 étnico/GS
 etnográfico/GS
 etolio/GS
@@ -5339,6 +5356,7 @@ extractador/GS
 extracurricular/S
 extraembrionario/GS
 extraescolar/S
+extrafino/GS
 extrajudicial/S
 extralingüístico/GS
 extramatrimonial/S
@@ -5472,6 +5490,7 @@ fecha/S
 feculento/GS
 fecundador/GS
 fecunda/k
+fecundante/S
 fecundativo/GS
 fecundizador/SG
 fecundo/kGS
@@ -5557,6 +5576,7 @@ filamentoso/GS
 filántropo/GS
 filatelista/S
 filial/S
+filibustero/GS
 filicíneo/GS
 filiforme/S
 filipense/S
@@ -5593,6 +5613,7 @@ fiscal/S
 fisgador/GS
 fisgón/SG
 físico/GS
+fisiognómico/GS
 fisiológico/SG
 fisiopatológico/SG
 fisonomista/S
@@ -5706,6 +5727,7 @@ fosforero/GS
 fosforescente/S
 fosfórico/GS
 fósil/S
+fosilífero/GS
 fotoconductor/GS
 fotocopiador/GS
 fotoeléctrico/GS
@@ -5740,6 +5762,7 @@ frecuente/GS
 frecuentes/k
 fregador/GS
 frenético/GS
+frenológico/GS
 fresa/S
 frescachón/GS
 frescal/S
@@ -6313,6 +6336,7 @@ hematófago/GS
 hematozoario/S
 hembra/S
 hemencioso/GS
+hemipléjico/GS
 hemíptero/S
 hemolítico/GS
 hemorroidal/Sc
@@ -6346,6 +6370,7 @@ herido/rGS
 heridor/GS
 heril/S
 hermafrodita/S
+hermafrodítico/GS
 hermenéutico/GS
 hermético/GS
 hermoseador/GS
@@ -6777,6 +6802,7 @@ incomprendido/GS
 inconcuso/GS
 inconmovible/S
 inconstruible/S
+inconsútil/S
 incontaminado/GS
 incontenible/S
 incontratable/S
@@ -7020,6 +7046,7 @@ inteligible/Sk
 intemperado/GS
 intencionado/GS
 intencional/S
+intensificador/GS
 intensivo/GS
 intento/GS
 interamericano/GS
@@ -7589,6 +7616,7 @@ liliáceo/SG
 liliputiense/S
 limado/GS
 limador/GS
+limeño/GS
 limícola/S
 limitada/k
 limitado/GSk
@@ -8157,6 +8185,7 @@ medroso/GS
 medular/S
 meduloso/GS
 meduseo/GS
+mefistofélico/GS
 megalítico/GS
 megalómano/GS
 megarense/S
@@ -8375,6 +8404,7 @@ mirrino/GS
 mirtáceo/SG
 mirtino/GS
 misal/S
+misantrópico/GS
 misceláneo/GS
 miscible/S
 miserable/S
@@ -8391,6 +8421,7 @@ mis/O
 misógino/GS
 misterioso/SG
 místico/GS
+mistificador/GS
 mistral/S
 misturero/GS
 mítico/GS
@@ -8399,6 +8430,7 @@ mitigativo/GS
 mitigatorio/GS
 mitológico/GS
 mixteco/GS
+mixtificador/GS
 mixtilíneo/GS
 mixto/SG
 mixturero/GS
@@ -8512,6 +8544,7 @@ monoico/GS
 monolingüe/S
 monolítico/GS
 monomaniaco/GS
+monomaníaco/GS
 monometalista/S
 monomiario/S
 monona/S
@@ -9001,6 +9034,7 @@ obedecedor/GS
 obediente/hSk
 obeso/SG
 obispal/S
+objetable/S
 objetante/S
 objetivo/GS
 objetor/GS
@@ -9092,6 +9126,7 @@ ocupante/nS
 ocurrente/S
 ocurrido/GS
 odioso/GS
+odontológico/GS
 odorífero/GS
 ofendedor/GS
 ofendido/GS
@@ -9152,6 +9187,7 @@ omnipotente/S
 omnipresente/S
 omnisciente/S
 omniscio/GS
+omnívoro/GS
 onanista/S
 onceavo/GS
 once/S
@@ -9530,6 +9566,8 @@ pastoral/S
 pastoril/S
 pastoso/GS
 pataco/GS
+patagónico/GS
+pataleante/S
 patán/S
 patatero/GS
 patente/GS
@@ -9898,6 +9936,7 @@ pirroniano/SG
 pirrónico/SG
 pisador/SG
 pisano/GS
+piscícola/S
 pisciforme/S
 piscis
 piscívoro/SG
@@ -11232,6 +11271,7 @@ sacramental/S
 sacramentario/GS
 sacramentino/GS
 sacrificador/GS
+sacrificial/S
 sacrílego/SG
 sacristanesco/SG
 sacrosanto/S
@@ -11441,6 +11481,7 @@ sedante/S
 sedativo/GS
 sedentario/GS
 sedente/S
+sedeño/GS
 sedero/GS
 sedicioso/GS
 sediento/GS
@@ -11569,6 +11610,7 @@ septuagesimosegundo/GS
 septuagesimoséptimo/GS
 septuagesimosexto/GS
 septuagesimotercero/GS
+séptuple/S
 sepulcral/S
 sepultador/GS
 sequizo/GS
@@ -11798,6 +11840,7 @@ sociocultural/S
 socioeconómico/GS
 sociológico/GS
 socorredor/SG
+socrático/GS
 sódica/o
 sódico/SGo
 sodomita/S
@@ -12085,6 +12128,7 @@ táctico/GS
 táctil/S
 tagalo/GS
 tagarino/GS
+tahitiano/GS
 tahuresco/GS
 tahúr/SG
 tailandés/GS
@@ -12352,6 +12396,7 @@ timpánico/GS
 tinelar/S
 tinerfeño/GS
 tinta/p
+tintineante/S
 tintóreo/SG
 tinto/SGp
 tioneo/S
@@ -12795,6 +12840,7 @@ turulato/GS
 tusa/fS
 tutelar/S
 tuvaluano/GS
+ubérrimo/GS
 ubicuo/GS
 ubiquitario/GS
 ucraniano/GS
