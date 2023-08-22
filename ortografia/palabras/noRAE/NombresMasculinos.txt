@@ -64,6 +64,7 @@ posprocesamiento/S
 precálculo/S
 preprocesamiento/S
 punzonado/S
+radiocarbono/S
 ratito/S
 rebarbado/S
 renting # extranjerismo no adaptado #139
