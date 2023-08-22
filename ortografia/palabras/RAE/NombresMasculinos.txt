@@ -298,6 +298,7 @@ aditamento/S
 aditivo/S
 adive/S
 adivinamiento/S
+adminículo/S
 adobado/S
 adobe/S
 adobo/S
@@ -616,6 +617,7 @@ alelamiento/S
 alelí/S
 alelo/S
 alenguamiento/S
+alepín/S
 alerce/S
 alérgeno/S
 alerón/S
@@ -1549,6 +1551,7 @@ autismo/S
 autobombo/S
 autobús
 autodidactismo
+autoengaño/S
 autoestop
 autoestopes
 autogobierno/S
@@ -1700,6 +1703,7 @@ bailable/S
 bailadero/S
 bailecito/S
 baile/S
+bailío/S
 baipás/S
 bajalato/S
 bajamanero/S
@@ -1719,6 +1723,7 @@ balaje/pSi
 balaj/S
 balancero/S
 balance/S
+balanceo/S
 balancín/S
 balandrán/S
 balandro/S
@@ -1740,7 +1745,9 @@ balcón/SCN
 baldado/S
 baldamiento/S
 baldaquín/S
+baldaquino/S
 balde/S
+baldeo/S
 baldés
 baldes/S
 baldío/S
@@ -1904,6 +1911,7 @@ batiente/S
 batihoja/S
 batimento/S
 batimiento/aSp
+batín/S
 batintín/S
 bato/GS
 batos/p
@@ -2107,6 +2115,8 @@ bochorno/S
 bocinero/S
 bocín/S
 bocio/S
+bocoy
+bocoyes # Plural de bocoy, no existe bocóis
 bodegón/S
 bode/S
 bodigo/S
@@ -2360,6 +2370,7 @@ bulto/S
 bumerán/S
 bungalow/S
 búnker/S
+buñuelo/S
 buque/S
 burato/S
 burdel/S
@@ -3044,6 +3055,7 @@ cendrazo/S
 cenicero/S
 cenit
 cenizal/S
+centelleo/S
 cenobio/S
 cenobitismo/S
 cenotafio/S
@@ -3646,6 +3658,7 @@ conchabamiento/S
 conchero/S
 concho/S
 concierto/hS
+conciliábulo/S
 conciliar/S
 cónclave/S
 conclavista/S
@@ -4420,6 +4433,7 @@ desnudo
 desodorante/S
 desolladero/S
 desollador/S
+desollamiento/S
 desorden/S
 desorejamiento/S
 desove/S
@@ -6423,6 +6437,7 @@ gilbert
 gilbertes
 gil/S
 gimnasio/S
+gimoteo/S
 gineceo/S
 gin/S
 girante/S
@@ -7068,6 +7083,7 @@ huronero/S
 hurón/S
 hurraco/S
 hurto/S
+húsar/S
 husero/S
 husillero/S
 husmo/S
@@ -7166,11 +7182,13 @@ indumento/S
 industrialismo/S
 infantado/S
 infanticidio/S
+infantilismo/S
 infarto/S
 infernáculo/S
 infierno/SN
 infinitivo/S
 infinito/S
+infolio/S
 informativo/S
 informe/S
 infortunio/S
@@ -7204,6 +7222,7 @@ insulto/S
 integrismo/S
 intelecto/S
 intelectualismo/S
+intensificador/S
 intento/S
 intercambiador/S
 intercolumnio/S
@@ -7418,6 +7437,7 @@ juncial/S
 junco/SN
 junio
 júnior/S
+junípero/S
 junqueral/S
 juntorio/S
 júpiter
@@ -7474,6 +7494,7 @@ lactucario/S
 lactumen/S
 lacunario/S
 ládano/S
+ladeo/S
 ladierno/Sa
 ladino/S
 lado/NS
@@ -8172,6 +8193,7 @@ marsupial/S
 marsupio/S
 martelo/S
 marte/NS
+martilleo/S
 martillo/H
 martinete/S
 martinico/S
@@ -8284,6 +8306,7 @@ mechero/S
 mechoacán/S
 mechón/S
 meconio/S
+medallón/S
 medianero/S
 medianil/S
 medianista/S
@@ -8516,6 +8539,7 @@ mineraje/S
 mineral/S
 mingitorio/S
 mingo/S
+minarete/S
 minifundio/S
 minimista/S
 minino/S
@@ -8730,6 +8754,7 @@ montilla/S
 montonero/S
 montón/S
 monumento/S
+monzón/S
 moño/S
 moquero/S
 moquete/pS
@@ -8828,6 +8853,7 @@ mucronato/S
 mudar/S
 mueble/CS
 muebles/k
+muecín/S
 muelar/S
 muelle/CS
 muérdago/S
@@ -9747,6 +9773,7 @@ pazote/S
 peajero/S
 peaje/S
 peal/S
+peán/S
 pebetero/S
 pebete/S
 pebre/S
@@ -9772,6 +9799,7 @@ pedestal/S
 pedestrismo/S
 pedicelo/S
 pedido/S
+pedigrí/S
 pediluvio/S
 pedimento/Sk
 pedo/HS
@@ -10871,6 +10899,7 @@ rajadillo/S
 rajador/S
 rallador/S
 rallo/S
+ramadán/S
 ramal/HNS
 ramblar/S
 ramblazo/S
@@ -10917,6 +10946,7 @@ rascalino/S
 rascamiento/S
 rascle/S
 rascón/S
+rasel/S
 rasero/S
 rases/i
 rasete/S
@@ -11270,6 +11300,7 @@ respetable/S
 respeto/S
 respiradero/S
 respirador/S
+respiro/S
 resplandecimiento/S
 resplandor/S
 resplendor/S
@@ -11297,6 +11328,7 @@ retal/S
 retamal/S
 retamar/S
 retardo/S
+retazo/S
 retejador/S
 retel/S
 retenimiento/S
@@ -11443,6 +11475,7 @@ rodillo/HS
 rodio/S
 rododendro/S
 rodomiel/S
+rodrigón/S
 roedor/S
 roete/S
 rojal/S
@@ -12121,6 +12154,7 @@ sofismo/GS
 sofista/S
 sofocamiento/S
 sofoco/S
+sofocón/S
 sofrito/S
 software
 soguero/S
@@ -12460,6 +12494,7 @@ tamujo/S
 tan
 tanaceto/S
 tanatorio/S
+tándem/S
 tanganillo/S
 tángano/S
 tango/GNS
@@ -12720,6 +12755,7 @@ tiempo/jS
 tiento/S
 tiesto/S
 tifo/S
+tifón/S
 tifus
 tijeretazo/S
 tilo/S
@@ -13302,6 +13338,7 @@ vadeador/S
 vademécum
 vade/S
 vado/S
+vagabundeo/S
 vagar/S
 vagido/S
 vago/GS
@@ -13711,6 +13748,7 @@ zarajo/S
 zarambeque/S
 zarandillo/S
 zarapito/S
+zarandeo/S
 zar/aS
 zarcero/S
 zarcillitos
@@ -13735,6 +13773,7 @@ zipizape/S
 ziszás/S
 zócalo/S
 zodiaco/S
+zodíaco/S
 zoizo/S
 zonote/S
 zooftirio/S
