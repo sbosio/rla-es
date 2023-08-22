@@ -12494,7 +12494,7 @@ tan
 tanaceto/S
 tanatorio/S
 tándem
-tandems # Plural recomendado de tándem
+tándems # Plural recomendado de tándem, con tilde por ser grupo consonántico final
 tanganillo/S
 tángano/S
 tango/GNS
