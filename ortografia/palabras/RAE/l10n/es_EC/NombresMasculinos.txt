@@ -136,6 +136,7 @@ quirquincho/S
 rayador/S
 reservorio/S
 retro/S
+rin/S
 rocambor/S
 romerillo/S
 rompenueces

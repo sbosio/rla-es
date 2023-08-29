@@ -3174,7 +3174,7 @@ redoblegar/RED
 redorar/RED
 redrojar/RED
 reduplicar/RED
-reedificar/RED
+reedificar/ARED
 reeditar/REDÀ
 reeducar/REDÀÁÂ
 reelegir/XDÀÁT

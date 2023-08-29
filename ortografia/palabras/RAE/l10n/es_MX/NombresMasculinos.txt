@@ -177,6 +177,7 @@ pozole/S
 pulque/S
 quijo/S
 reservorio/S
+rin/S
 roatán/S
 romerillo/S
 rompenueces

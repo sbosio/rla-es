@@ -465,6 +465,7 @@ almoneda/S
 almorrana/S
 almorta/S
 almunia/S
+alocución/S
 aloja/S
 alondra/S
 alopecia/S
@@ -1100,6 +1101,7 @@ balsaminácea/S
 balsamina/S
 balsamita/S
 balsa/S
+balumba/S
 bambalina/S
 bamba/S
 bambolla/S
@@ -1475,6 +1477,7 @@ breva/S
 brevedad/S
 briba/S
 bribonada/S
+bribonería/S
 brida/S
 briega/S
 brigantina/S
@@ -1593,6 +1596,7 @@ cachetina/S
 cachimba/S
 cachipolla/S
 cachiporra/S
+cachola/S
 cachondas
 cachondez/S
 cachorra/S
@@ -2504,6 +2508,7 @@ coliflor/S
 coligadura/S
 colisión/S
 colitis
+collada/S
 colleja/S
 collera/S
 colmena/NS
@@ -2852,6 +2857,7 @@ corneja/S
 cornetilla/S
 cornicabra/S
 cornisa/S
+cornucopia/S
 cornudilla/S
 coroides
 corola/S
@@ -3581,6 +3587,7 @@ droga/LS
 drogadicción/S
 drogodependencia/S
 droguería/S		# Contribuida por Dylan Nicholson
+dromomanía/S
 drosera/S
 drupa/S
 drusa/S
@@ -3753,6 +3760,7 @@ empolladura/S
 emprenta/S
 empulgadura/hS
 empuñadura/S
+empuñidura/S
 emulación/S
 emulsión/S
 enagua/S
@@ -4461,6 +4469,7 @@ falsía/S
 falsificación/S
 falta/S
 faltriquera/S
+falúa/S
 faluca/S
 fama/S
 familiaridad/S
@@ -4611,6 +4620,7 @@ flaqueza/S
 flatulencia/S
 flebitis
 flecha/S
+flechadura/S
 flechera/S
 flegma/S
 flema/S
@@ -4840,6 +4850,7 @@ gallineta/S
 gallipava/S
 gallocresta/S
 gallofa/S
+gallonada/S
 galocha/S
 galopa/S
 galota/S
@@ -5101,6 +5112,7 @@ grima/S
 gripe/S
 griseta/S
 grita/LS
+groera/S
 grosería/S
 grosura/S
 grúa/S
@@ -6626,6 +6638,7 @@ manigueta/S
 manija/S
 manilla/S
 maniobra/S
+maniobrabilidad/S
 maniota/S
 manipulación/S
 manirrotura/S
@@ -6685,6 +6698,7 @@ marchitez/S
 marcialidad/S
 marea/S
 marejada/S
+marejadilla/S 
 mareta/S
 margajita/S
 margarina/S
@@ -6693,6 +6707,7 @@ marga/S
 marginalidad/S
 marguera/Sa
 maría/S
+maricangalla/S
 mariconera/S
 mariguana/S
 marihuana/S
@@ -7254,6 +7269,7 @@ moto/S
 motocicleta/S
 motolita/S
 motonave/S
+motonería/S
 motorización/S
 motosierra/S
 motricidad/S
@@ -8868,6 +8884,7 @@ pulmonaria/S
 pulmonía/S
 pulpa/S
 pulpeta/S
+pulpería/S
 pulsación/S
 pulsatila/S
 pulsera/S
@@ -9197,6 +9214,7 @@ relación/Sfl
 relajación/S
 relajada/S
 relatividad/S
+relectura/S
 relevancia/kS
 religión/S
 religiosidad/kS
@@ -9425,6 +9443,7 @@ rozadera/S
 rozadura/S
 roza/S
 rúa/S
+rubefacción/S
 rubeta/S
 rubiácea/S
 rubia/S
@@ -9486,6 +9505,7 @@ sacristía/S
 sacudida/S
 sacudidura/S
 saeta/NS
+saetía/S
 sagacidad/S
 saga/S
 sagitaria/S
@@ -10132,6 +10152,7 @@ talamera/S
 talanquera/S
 tala/S
 talasemia/S
+talasocracia/S
 talasoterapia/S
 talaya/S
 talegada/S
@@ -10813,6 +10834,7 @@ urbanidad/kS
 urbanística/S
 urbanización/S
 urbe/S
+urca/S
 urdidera/S
 urdidura/S
 urdiembre/S
@@ -11095,6 +11117,7 @@ violetera/S
 virada/S
 virago/S
 vira/S
+virazón/S
 virgaza/S
 virginidad/S
 vírgula/S
@@ -11190,6 +11213,7 @@ yes
 yesca/S
 yesera/S
 yincana/S
+yola/S
 yubarta/S
 yuca/S
 yugada/S

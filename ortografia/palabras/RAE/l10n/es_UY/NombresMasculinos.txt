@@ -135,6 +135,7 @@ quique/S
 quirquincho/S
 radioteatro/S
 rayador/S
+removedor/S
 reservorio/S
 rinde/S
 rocambor/S

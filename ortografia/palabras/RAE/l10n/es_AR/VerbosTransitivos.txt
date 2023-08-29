@@ -96,6 +96,7 @@ pispar/RED
 promesar/RED
 quinchar/RED
 rasquetear/RED
+recepcionar/REDT
 refaccionar/REDÀ
 reportear/RED
 repuntar/RED
