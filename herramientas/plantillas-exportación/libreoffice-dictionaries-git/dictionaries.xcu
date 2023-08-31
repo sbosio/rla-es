@@ -2,7 +2,7 @@
 <oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="Linguistic" oor:package="org.openoffice.Office">
  <node oor:name="ServiceManager">
     <node oor:name="Dictionaries">
-        <node oor:name="HunSpellDic_es-AR" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_AR" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_AR.aff %origin%/es_AR.dic</value>
             </prop>
@@ -13,7 +13,7 @@
                 <value>es-AR</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-BO" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_BO" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_BO.aff %origin%/es_BO.dic</value>
             </prop>
@@ -24,7 +24,7 @@
                 <value>es-BO</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-CL" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_CL" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_CL.aff %origin%/es_CL.dic</value>
             </prop>
@@ -35,7 +35,7 @@
                 <value>es-CL</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-CO" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_CO" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_CO.aff %origin%/es_CO.dic</value>
             </prop>
@@ -46,7 +46,7 @@
                 <value>es-CO</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-CR" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_CR" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_CR.aff %origin%/es_CR.dic</value>
             </prop>
@@ -57,7 +57,7 @@
                 <value>es-CR</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-CU" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_CU" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_CU.aff %origin%/es_CU.dic</value>
             </prop>
@@ -68,7 +68,7 @@
                 <value>es-CU</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-DO" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_DO" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_DO.aff %origin%/es_DO.dic</value>
             </prop>
@@ -79,7 +79,7 @@
                 <value>es-DO</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-EC" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_EC" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_EC.aff %origin%/es_EC.dic</value>
             </prop>
@@ -90,7 +90,7 @@
                 <value>es-EC</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-ES" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_ES" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_ES.aff %origin%/es_ES.dic</value>
             </prop>
@@ -101,7 +101,7 @@
                 <value>es-ES</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-GQ" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_GQ" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_GQ.aff %origin%/es_GQ.dic</value>
             </prop>
@@ -112,7 +112,7 @@
                 <value>es-GQ</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-GT" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_GT" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_GT.aff %origin%/es_GT.dic</value>
             </prop>
@@ -123,7 +123,7 @@
                 <value>es-GT</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-HN" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_HN" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_HN.aff %origin%/es_HN.dic</value>
             </prop>
@@ -134,7 +134,7 @@
                 <value>es-HN</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-MX" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_MX" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_MX.aff %origin%/es_MX.dic</value>
             </prop>
@@ -145,7 +145,7 @@
                 <value>es-MX</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-NI" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_NI" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_NI.aff %origin%/es_NI.dic</value>
             </prop>
@@ -156,7 +156,7 @@
                 <value>es-NI</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-PA" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_PA" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_PA.aff %origin%/es_PA.dic</value>
             </prop>
@@ -167,7 +167,7 @@
                 <value>es-PA</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-PE" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_PE" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_PE.aff %origin%/es_PE.dic</value>
             </prop>
@@ -178,7 +178,7 @@
                 <value>es-PE</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-PH" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_PH" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_PH.aff %origin%/es_PH.dic</value>
             </prop>
@@ -189,7 +189,7 @@
                 <value>es-PH</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-PR" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_PR" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_PR.aff %origin%/es_PR.dic</value>
             </prop>
@@ -200,7 +200,7 @@
                 <value>es-PR</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-PY" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_PY" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_PY.aff %origin%/es_PY.dic</value>
             </prop>
@@ -211,7 +211,7 @@
                 <value>es-PY</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-SV" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_SV" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_SV.aff %origin%/es_SV.dic</value>
             </prop>
@@ -222,7 +222,7 @@
                 <value>es-SV</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-US" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_US" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_US.aff %origin%/es_US.dic</value>
             </prop>
@@ -233,7 +233,7 @@
                 <value>es-US</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-UY" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_UY" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_UY.aff %origin%/es_UY.dic</value>
             </prop>
@@ -244,7 +244,7 @@
                 <value>es-UY</value>
             </prop>
         </node>
-        <node oor:name="HunSpellDic_es-VE" oor:op="fuse">
+        <node oor:name="HunSpellDic_es_VE" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
                 <value>%origin%/es_VE.aff %origin%/es_VE.dic</value>
             </prop>
@@ -268,7 +268,7 @@
         </node>
         <node oor:name="ThesDic_es" oor:op="fuse">
             <prop oor:name="Locations" oor:type="oor:string-list">
-                <value>%origin%/th_es-v2.dat %origin%/th_es-v2.idx</value>
+                <value>%origin%/th_es_v2.dat %origin%/th_es_v2.idx</value>
             </prop>
             <prop oor:name="Format" oor:type="xs:string">
                 <value>DICT_THES</value>

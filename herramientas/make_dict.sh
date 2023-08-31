@@ -390,8 +390,17 @@ if [ "$LO_PUBLICAR" == "SÍ" ] ; then
 
   # copiamos metadatos
   install -m 644 -D "$PLANTILLAOXT"/META-INF/manifest.xml "$DESTINO"/META-INF/manifest.xml
-  install -m 644 "$PLANTILLALO"/description.xml "$DESTINO"
+  sed -n -e "
+    /__/! { p; };
+    /__VERSION__/ {s//$CORRECTOR/g; p; }" \
+    "$PLANTILLALO"/description.xml > "$DESTINO/description.xml"
   install -m 644 "$PLANTILLALO"/dictionaries.xcu "$DESTINO"
+  sed -n -e "
+    /__/! { p; };
+    /__CORRECTOR__/ { s//$CORRECTOR/g; p; };
+    /__SEPARACION__/ { s//$SEPARACION/g; p; };
+    /__SINONIMOS__/ {s||$SINONIMOS|g; p; }" \
+  "$PLANTILLALO"/package-description.txt > "$DESTINO/package-description.txt"    
   install -m 644 herramientas/plantillas-exportación/iconos/RLA-ES.png "$DESTINO"
   echo "$CORRECTOR $SEPARACION $SINONIMOS"
   sed -n -e "
@@ -411,7 +420,7 @@ if [ "$LO_PUBLICAR" == "SÍ" ] ; then
   unzip productos/es.oxt hyph_es.dic th_es_v2.dat -d "$DESTINO" > /dev/null
 
   # extraemos los diccionarios regionales
-  for item in $L10N_DISPONIBLES; do
+  for item in $L10N_REGIONALES; do
   
     echo -n "Volcando el contenido de $item al repositorio local de LibreOffice. "
     unzip productos/"$item".oxt "$item".dic "$item".aff  \
@@ -764,7 +773,7 @@ for LOCALIZACION in $LOCALIZACIONES; do
       ;;
     es)
       PAIS="español general"
-      CLDR=$L10N_DISPONIBLES
+      CLDR="$L10N_DISPONIBLES"
       TEXTO_LOCAL="ESPAÑOL general INCLUYENDO TODAS LAS VARIANTES REGIONALES"
       ICONO="RLA-ES.png"
       ;;
