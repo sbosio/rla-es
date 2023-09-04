@@ -2949,6 +2949,7 @@ catarrino/S
 catarro/S
 catascopio/S
 catastro/S
+catastrofismo/S
 cataviento/S
 catavino/S
 cateador/S
@@ -3437,7 +3438,7 @@ climaterio/S
 clímax/c
 clinopodio/S
 clip/S
-clípeo/S 
+clípeo/S
 clíper/S
 clisé/S
 clister/S

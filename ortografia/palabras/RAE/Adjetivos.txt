@@ -2350,6 +2350,7 @@ catarroso/SG
 catártico/GS
 catastral/S
 catastrófico/GS
+catastrofista/S
 catatónico/GS
 catedralicio/GS
 categórico/GS
