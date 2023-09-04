@@ -24,6 +24,7 @@ arruinado/GS
 barrial/S
 botado/GS
 breco/SG
+canalero/GS
 canchero/GS
 catrín/GS
 cebado/SG
