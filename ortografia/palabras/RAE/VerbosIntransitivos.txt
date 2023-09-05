@@ -890,7 +890,7 @@ regoldar/IRD
 regresar/RED
 regruñir/RED
 reguilar/RED
-regurgitar/RED
+regurgitar/REDA
 rehelear/RED
 rehoyar/RED
 reilar/IRD
