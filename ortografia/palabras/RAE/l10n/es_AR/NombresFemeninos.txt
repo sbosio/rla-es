@@ -26,6 +26,7 @@ boludez/S
 bombacha/S
 calilla/S
 calla/S
+canalera/S
 canastita/S
 cantuta/S
 cañabrava/S
