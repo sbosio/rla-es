@@ -167,6 +167,7 @@ adivinanza/S
 adjunta/S
 admisibilidad/S
 admisión/S
+admonición/S
 adobera/S
 adolescencia/S
 adopción/S
@@ -858,6 +859,7 @@ arteriola/S
 arteriosclerosis
 artesanía/S
 artesa/NS
+artificialidad/S
 artillería/S
 artimaña/S
 artolas
@@ -931,6 +933,7 @@ asunción/S
 atabladera/S
 atacamita/S
 atadura/hpS
+ataguía/S
 atanasia/S
 ataraxia/S
 atarjea/S
@@ -979,6 +982,7 @@ autoafirmación/S
 autoclave/S
 autocompasión/S
 autoconfianza/S
+autocontención/S
 autocopista/S
 autocracia/S
 autocrítica/S
@@ -1930,6 +1934,7 @@ carraspada/S
 carraspera/S
 carrera/NS
 carreta/LNS
+carretada/S
 carretela/S
 carretera/S
 carretonada/S
@@ -2200,6 +2205,7 @@ chamusquina/S
 chanca/S
 chancla/S
 chanfaina/S
+chanfla/S
 chanza/S
 chanzoneta/S
 chaola/S
@@ -3060,6 +3066,7 @@ cuchar/S
 cucheta/S
 cuchillada/S
 cuchilla/S
+cuchillería/S
 cuchipanda/S
 cuchufleta/S
 cuculla/S
@@ -4419,6 +4426,7 @@ extrusión/S
 extrusor/S
 exuberancia/S
 exudación/S
+exultación/S
 eyaculación/S
 fabada/S
 fabla/S
@@ -4603,6 +4611,7 @@ firmeza/S
 fiscalía/S
 fisga/S
 física/S
+fisiognomía/S
 fisiología/S
 fisionomía/S
 fisión/S
@@ -5266,6 +5275,7 @@ hematuria/S
 hembra/NS
 hemeroteca/S
 hemina/S
+hemiplejía/S
 hemocianina/S
 hemofilia/S
 hemoglobina/S
@@ -5680,6 +5690,7 @@ inexorabilidad/S
 infamia/S
 infancia/S
 infantería/S
+infatuación/S
 infección/hS
 inferencia/S
 inferioridad/S
@@ -5687,6 +5698,7 @@ infidencia/S
 infinidad/S
 inflación/S
 inflamación/S
+inflexibidad/S
 influenza/S
 informática/S
 informatización/S
@@ -5792,6 +5804,7 @@ interioridad/S
 interjección/S
 intermitencia/S
 internacional/S
+interpelación/S
 interpolación/S
 interrogación/S
 interrupción/S
@@ -6012,7 +6025,9 @@ labra/S
 labrusca/S
 laca/S
 lacena/Sa
+laceración/S
 laceria/S
+lacería/S
 lacha/aS
 lacinia/S
 lactancia/S
@@ -6127,6 +6142,7 @@ lechaza/S
 lechecillas
 lechera/S
 leche/S
+lechería/S
 lechetrezna/S
 lechigada/S
 lechiga/S
@@ -6135,6 +6151,7 @@ lechuga/SN
 lechuguina/S
 lectoría/S
 lectura/S
+legación/S
 legadura/S
 legalidad/kS
 legalización/S
@@ -6174,6 +6191,7 @@ lentejuela/S
 lentilla/S
 lentitud/S
 leña/S
+leñera/S
 leona/S
 leonera/S
 leónica/S
@@ -6663,6 +6681,7 @@ mantellina/S
 mantenencia/S
 mantenida/S
 mantequera/S
+mantequería/S
 mantis
 mantisa/S
 manualidad/S
@@ -7018,6 +7037,7 @@ miera/S
 mierla/S
 mierra/S
 mies/S
+mieses # Plural irregular de mies
 migajada/S
 migaja/S
 miga/Sa
@@ -7092,6 +7112,8 @@ mistificación/S
 mistión/S
 mitad/S
 mita/S
+mies/S
+mitigación/S
 mitocondria/S
 mitología/S
 mitosis/a
@@ -8697,6 +8719,7 @@ presidenta/S
 presión/kSpg
 prestamera/S
 presteza/S
+prestidigitación/S
 presunción/S
 presura/S
 pretendienta/S
@@ -9500,6 +9523,7 @@ sacerdotisa/S
 sachadura/S
 saciedad/S
 sacra/S
+sacralidad/S
 sacristana/S
 sacristía/S
 sacudida/S
@@ -9691,8 +9715,10 @@ secuoya/S
 secura/S
 sedadera/S
 sede
+sedeña/S
 sedera/S
 sed/GS
+sedeña/S
 sedición/S
 sedimentación/S
 seducción/S
@@ -9840,6 +9866,7 @@ significación/S
 sílaba/S
 silba/S
 silepsis
+sílfide/S
 sílice/S
 silicona/S
 silicosis
@@ -10676,6 +10703,7 @@ trepidación/S
 treta/Sp
 trezna/S
 triaca/S
+tríada/S
 triangulación/S
 tría/S
 tribu/S
@@ -11169,6 +11197,8 @@ volanta/S
 volatería/S
 volatilidad/S
 volatilla/S
+visicitud/S
+volición/S
 voltariedad/S
 voltereta/S
 volteta/S
@@ -11232,6 +11262,7 @@ zaina/S
 zalama/S
 zalamería/S
 zalea/Sa
+zalema/S
 zamarra/NS
 zamboa/aS
 zambomba/S
