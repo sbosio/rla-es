@@ -111,6 +111,8 @@ reconducible/S
 representacional/S
 reproducible/S
 reumatoide/S
+reverberante/S
+rugiente/S
 santaluciano/GS
 semiconsciente/S
 senoidal/S
