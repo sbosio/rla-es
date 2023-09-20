@@ -983,6 +983,7 @@ antropológico/SG
 antropomórfico/GS
 antropomorfita/S
 antropomorfo/GS
+antroponímico/GS
 antuerpiense/S
 anual/S
 anudador/GS
@@ -5825,6 +5826,7 @@ fumante/S
 fumista/S
 fumoso/GS
 funcional/S
+funcionalista/S
 funcionarial/S
 fundacional/S
 fundador/SG
@@ -6338,6 +6340,7 @@ hembra/S
 hemencioso/GS
 hemipléjico/GS
 hemíptero/S
+hemisférico/GS
 hemolítico/GS
 hemorroidal/Sc
 hemostático/SG
@@ -6429,6 +6432,7 @@ hinchable/S
 hinchado/GS
 hindú
 hindúes
+hinduista/S
 hinnible/S
 hiogloso/GS
 hioideo/GS
@@ -6472,6 +6476,7 @@ historial/S
 histórica/n
 historicista/S
 histórico/nSG
+historiográfico/GS
 hitita/S
 hitleriano/GS
 hito/GS
@@ -10148,6 +10153,7 @@ positiva/nk
 positivista/S
 positivo/GSnk
 posmeridiano/GS
+posmodernista/S
 posmoderno/GS
 posoperatorio/GS
 pospalatal/S
@@ -11839,6 +11845,7 @@ sociniano/GS
 sociocultural/S
 socioeconómico/GS
 sociológico/GS
+sociopolítico/GS
 socorredor/SG
 socrático/GS
 sódica/o
