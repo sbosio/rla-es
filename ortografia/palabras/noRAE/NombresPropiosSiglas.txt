@@ -16,12 +16,14 @@
 
 Abel
 Acosta
+Acuario
 ADN
 Adolfo
 Adrián
 Aguilar
 Aguirre
 Aitor
+Aladino
 Albert
 Alberto
 Alejandra
@@ -38,6 +40,7 @@ Amelia
 Ana
 Andrea
 Andrés
+Andrómeda
 Ángela
 Anguilla
 Anguita
@@ -49,6 +52,7 @@ Antonio
 Aquiles
 Araceli
 Ariel
+Aries
 Aristóteles
 Arturo
 Ayala
@@ -58,6 +62,7 @@ Barça
 Barrionuevo
 Beatriz
 Begoña
+Belcebú
 Benítez
 Berlusconi
 Bernabéu
@@ -66,11 +71,16 @@ Berta
 Betis
 Blas
 BOE
+Borbón
 Borges
 Borja
 Borrell
+Caín
 Camacho
+Cáncer
+Capricornio
 Carlitos
+Carlomagno
 Carlos
 Carlota
 Carmelo
@@ -85,16 +95,19 @@ Chávez
 chofer
 CIA
 Claudio
+Cleopatra
 Contreras
 Corán
 Cristian
 Cristóbal
 Dalí
+Damocles
 Daniel
 Darío
 Darussalam # revisar
 Darwin
 David
+Deuteronomio
 Díaz
 Díez
 Dionisio
@@ -102,6 +115,7 @@ Domínguez
 Dorta
 Durán
 DVD
+Eclesiastés
 Edmundo
 Eduardo
 EEUU
@@ -114,7 +128,9 @@ Elvira
 Emilia
 Emilio
 Ernesto
+Escorpio
 Esther
+Euclides
 Eugenia
 Eugenio
 Eurípides
@@ -131,6 +147,7 @@ Fernández
 Fernando
 Ferrer
 Fidel
+Fidias
 Figueroa
 Firefox
 FMI
@@ -142,6 +159,7 @@ Fujimori
 Fundéu
 Gabriel
 Garzón
+Géminis
 Gerardo
 Giménez
 Giovanni
@@ -155,6 +173,7 @@ Guevara
 Guillermo
 Gustavo
 Gutiérrez
+Hamlet
 Héctor
 Helena
 Hernán
@@ -174,6 +193,7 @@ Inés
 Irene
 Isaac
 Isabel
+Isaías
 Isidro
 Ismael
 IVA
@@ -187,23 +207,31 @@ Jesús
 Jiménez
 Joan
 Joaquín
+Job
+Jonás
 Jonathan
 Jordi
 José
 Josefa
 Josep
+Josué
+Juan
 Juana
 Juanito
 Juárez
+Judit
 Julia
 Julián
 Kant
 Lara
 Laura
+Leo
 Leonardo
 Leonor
 Leopoldo
 Liaño
+Libra
+Linux 
 Lola
 Lope
 López
@@ -213,6 +241,7 @@ Lourdes
 Lucas
 Lucía
 Luciano
+Malaquías
 Maldonado
 Man
 Manuel
@@ -233,6 +262,7 @@ Max
 Mayen
 Mayotte
 McDonald
+Medea
 Méndez
 Mendoza
 Menem
@@ -253,6 +283,7 @@ Mozart
 Mozilla
 Muñoz
 Natalia
+Neptuno
 Néstor
 Nevis
 Nicolás
@@ -261,10 +292,13 @@ Noelia
 Núñez
 Nuria
 Octavio
+Odisea
+Odiseo
 Olga
 Omar
 OMS
 Ordóñez
+Orión
 Ortiz
 Óscar
 Oscar # revisar
@@ -273,19 +307,23 @@ OTAN
 Pablo
 Paco
 Palau
+Paracelso
 Paulina
 PCE
 PER
 Pereira
 Pérez
 Perón
+Perseo
 PIB
 Picasso
 Pierre
 Pinochet
+Piscis
 Pitágoras
 Pizarro
 Platón
+Pléyades
 Plutarco
 PNV
 Policleto
@@ -293,6 +331,7 @@ Ponce
 Poseidón
 PRD
 PRI
+Prometeo
 PSC
 PSOE
 Pujol
@@ -318,6 +357,7 @@ Rubén
 Ruiz
 Sáenz
 Sáez
+Sagitario
 Saint
 Sainz
 Salazar
@@ -332,6 +372,7 @@ Sebastián
 Sergio
 Serra
 Silvia
+Sirio
 Sócrates
 Sofía
 Sófocles
@@ -339,6 +380,8 @@ Sonia
 Spinoza
 Stalin
 Suárez
+Tauro
+Teseo
 Tomás
 Trujillo
 TV
@@ -352,12 +395,14 @@ Valentín
 Vanesa
 Varela
 Vázquez
+Vega
 Velasco
 Velázquez
 Vicenta
 Vicente
 Vidal
 VIH
+Virgo
 Vladimir
 Wallis
 Walter
@@ -365,8 +410,7 @@ Wide
 Wikipedia
 World
 Xavier
-Xunta
+Xunta # revisar (nombre común en otro idioma, extranjerismo)
 Yeltsin
 Yolanda
 Zedillo
-
