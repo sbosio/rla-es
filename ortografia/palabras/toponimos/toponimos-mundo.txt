@@ -32,93 +32,143 @@
 # país (p.e.: "Ciudad del Vaticano"), he dejado comentado el nombre original
 # y he añadido la palabra específica como línea independiente.
 
+Acaya
 Afganistán
 África
+Alabama
 Albania
+Alejandría
 Alemania
+Alepo
+Amberes
 América
+Ámsterdam
 Andorra
 Angola
 Antártida
 # Antigua y Barbuda
 Antillas
+Antioquía
+Aquitania
 Arabia
 # Arabia Saudita
+Arcadia
 Argelia
 Argentina
+Argólida
+Argos
 Armenia
 Aruba
 Asia
+Asur
+Atenas
 Australia
 Austria
 Azerbaiyán
+Babilonia
+Bagdad
 Bahamas
 Bangladés
 Barbados
 Baréin
+Basora
+Beirut
+Belén
 Bélgica
 Belice
 Benín
+Beocia
 Berkeley
 Bermuda
 Bielorrusia
 Birmania
 Bisáu
 Bissau
+Bizancio
 Bolivia
+Bombay
+Bósforo
 Bosnia
 # Bosnia y Herzegovina
+Boston
 Botsuana
 Bouvet
 Brasil
 Brunéi
 Bulgaria
+Burdeos
 Burkina
 # Burkina Faso
 Burundi
 Bután
 # Cabo Verde
 Caicos
+Calabria
+Calais
 Caledonia
 Camboya
+Cambridge
 Camerún
+Campania
+Canaán
 Canadá
+Cantón
+Capadocia
+Cartago
+Catania
 Catar
 Centroamérica
 Chad
-Checa
+Chequia
+Chicago
 Chile
 China
 Chipre
+Cícladas
 Cisjordania
 # Ciudad del Vaticano
 Clipperton
 Colombia
 Comoras
 Congo
+Constantinopla
 Cook
+Córcega
 Corea
 # Corea del Norte
 # Corea del Sur
+Corfú
+Corinto
 # Costa de Marfil
 # Costa Rica
+Creta
 Croacia
 Cuba
+Damasco
+Delfos
+Delos
 Dinamarca
 Dominica
 Dominicana
 Ecuador
+Elba
+Éfeso
+Egeo
 Egipto
 # El Salvador
 Emiratos
 # Emiratos Árabes Unidos
+Epidauro
 Eritrea
 Eslovaquia
 Eslovenia
 España
+Esparta
 # Estados Unidos
+Estambul
 Estonia
 Etiopía
+Éufrates
 Europa
 Faroe
 Faso
@@ -129,11 +179,15 @@ Francia
 Futuna
 Gabón
 Gales
+Galia
 Gambia
+Ganges
 Gaza
+Génova
 Georgia
 Ghana
 Gibraltar
+Gomorra
 Granada
 Granadinas
 Grecia
@@ -146,11 +200,13 @@ Guinea
 # Guinea Ecuatorial
 Guyana
 Haití
+Harvard
 Heard
 Herzegovina
+Himalaya
 Hispanoamérica
 Honduras
-Hong
+# Hong Kong
 Hungría
 India
 Indonesia
@@ -165,29 +221,40 @@ Israel
 Italia
 Jamaica
 Japón
+Jericó
 Jersey
+Jerusalén
 Jordania
+Judea
 Kazajistán
 Kenia
 Kirguistán
 Kiribati
 Kitts
-Kong
 Kuwait
+Lacedemonia
+Laconia
 Lanka
 Laos
 Latinoamérica
+Lepanto
+Lesbos
 Lesoto
 Letonia
 Líbano
 Liberia
 Libia
 Liechtenstein
+Liguria
 Lituania
+Lombardía
+Londres
 Luxemburgo
+Lúxor
 Macau
 Macedonia
 Madagascar
+Magnesia
 Malasia
 Malaui
 Maldivas
@@ -195,13 +262,19 @@ Mali
 Malta
 Malvinas
 Marianas
+Mármara
 Marruecos
 Marshall
 Martinica
 Mauricio
 Mauritania
+Mesina
+Mesopotamia
 México
+Micenas
 Micronesia
+Milán
+Mileto
 Moldavia
 Mónaco
 Mongolia
@@ -209,56 +282,83 @@ Montenegro
 Mozambique
 Myanmar
 Namibia
+Naṕoles
 Nauru
 Nepal
 Nicaragua
 Níger
 Nigeria
+Nínive
 Niue
 Norfolk
 Norteamérica
 Noruega
 # Nueva Zelanda
 Oceanía
+Olimpia
+Olimpo
 Omán
+Oxford
+Padua
 # Países Bajos
 Pakistán
 Palaos
+Palermo
 Palestina
+Palmira
 Panamá
 Papúa
 # Papúa Nueva Guinea
 Paraguay
+Parnaso
+Peloponeso
+Pérgamo
+Persépolis
+Persia
 Perú
 Pitcairn
 Polinesia
 Polonia
+Pompeya
 Portugal
+Platea
+Provenza
 Reino Unido
 # República Centroafricana
 # República Checa
 # República del Congo
 # República Democrática del Congo
 # República Dominicana
+Rodas
 Ruan
 Ruanda
 Rumanía
 Rusia
+Salamina
 Salomón
+Salónica
 Samoa
+Samos
+Samotracia
 # San Cristóbal y Nieves
 # San Marino
 # Santa Lucía
 # Santo Tomé y Príncipe
 # San Vicente y las Granadinas
+Santorini
+Sardes
 Saudita
 Senegal
 Serbia
 Seychelles
+Sicilia
+Sidón
 # Sierra Leona
 Singapur
 Sion
+Siracusa
 Siria
+Sodoma
 Solomon
 Somalia
 Soviética
@@ -270,34 +370,54 @@ Sudamérica
 Sudán
 # Sudán del Sur
 Suecia
+Suez
 Suiza
+Sumatra
 Surinam
 Svalbard
 Tailandia
+Tahití
 Taiwan
 Tanzania
+Tarento
+Taormina
 Tayikistán
+Tebas
+Termópilas
+Terranova
+Tesalónica
+Texas
+Tigris
 Timor
 # Timor Oriental
+Tiro
 Tobago
 Togo
 Tokelau
 Tomé
 Tonga
+Tracia
+Trafalgar
 Trinidad
 # Trinidad y Tobago
+Troya
 Túnez
 Turkmenistán
 Turquía
 Tuvalu
 Ucrania
 Uganda
+Umbría
+Ur
 Uruguay
+Uruk
 Uzbekistán
 Vanuatu
 Vaticano
 Venecia
+Véneto
 Venezuela
+Viena
 Vietnam
 Yemen
 Yibuti
