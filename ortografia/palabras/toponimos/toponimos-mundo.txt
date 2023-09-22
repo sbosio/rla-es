@@ -119,6 +119,7 @@ Catania
 Catar
 Centroamérica
 Chad
+Checa
 Chequia
 Chicago
 Chile
@@ -206,6 +207,7 @@ Herzegovina
 Himalaya
 Hispanoamérica
 Honduras
+Hong
 # Hong Kong
 Hungría
 India
@@ -231,6 +233,7 @@ Kenia
 Kirguistán
 Kiribati
 Kitts
+Kong
 Kuwait
 Lacedemonia
 Laconia
