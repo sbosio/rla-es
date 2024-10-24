@@ -1167,6 +1167,7 @@ aproches/v
 aprontamiento/S
 aprovechamiento/hS
 aprovisionamiento/S
+ápside/S
 apuntalamiento/S
 apuntamiento/S
 apunte/S
