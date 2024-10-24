@@ -161,7 +161,6 @@ aritmético/GS
 armador/GS
 armónico/GS
 aroma/S
-arponero/GS
 arqueólogo/GS
 arquitecto/GS
 arraigado/GS
