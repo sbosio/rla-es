@@ -2114,8 +2114,7 @@ bochorno/S
 bocinero/S
 bocín/S
 bocio/S
-bocoy
-bocoyes # Plural de bocoy, no existe bocóis
+bocoy/S
 bodegón/S
 bode/S
 bodigo/S
