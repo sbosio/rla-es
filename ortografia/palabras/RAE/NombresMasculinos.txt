@@ -1289,6 +1289,7 @@ aron
 arpende/S
 arpeo/S
 arpón/S
+arponero/S
 arqueamiento/S
 arqueo/S
 arquero/S
