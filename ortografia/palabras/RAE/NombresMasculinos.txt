@@ -12494,8 +12494,7 @@ tamujo/S
 tan
 tanaceto/S
 tanatorio/S
-tándem
-tándems # Plural recomendado por la Fundeu de tándem, con tilde por ser grupo consonántico final
+tándem/S
 tanganillo/S
 tángano/S
 tango/GNS
