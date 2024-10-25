@@ -559,7 +559,8 @@ alborto/S
 albugo/S
 albumen/S
 albuminoide/S
-álbum/S
+álbum
+álbumes # plural álbum
 albur/S
 alcabalero/S
 alcabor/S

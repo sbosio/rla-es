@@ -6,7 +6,7 @@
 #
 # Copyright 2004-2020, Santiago Bosio y otros.
 #
-# El proyecto y los diccionarios se distribuyen bajo un triple esquema de # licencias disjuntas: 
+# El proyecto y los diccionarios se distribuyen bajo un triple esquema de # licencias disjuntas:
 # GNU GPL versión 3 o posterior, GNU LGPL versión 3 o posterior o MPL versión 1.1 o posterior.
 # Puede seleccionar libremente bajo cuál de estas licencias realizará el uso.
 #
@@ -2756,8 +2756,8 @@ SFX G ós        osas      ós            # semidiós/osas
 
 # Nombres/adjetivos masculinos y femeninos que aceptan plural
 SFX S Y 32
-SFX S 0         s         [aceéfgiíkoóptuúw] # ábaco/s, abecé/s, etc.
-SFX S 0         es        [bdhíjlmrúxy]   # abad/es, ababol/es, etc.
+SFX S 0         s         [aceéfgiíkmoóptuúw] # ábaco/s, abecé/s, etc.
+SFX S 0         es        [bdhíjlrúxy]   # abad/es, ababol/es, etc.
 SFX S á         aes       á              # guaraná/aes
 SFX S 0         es        [^áeéíóú]n     # can/es
 SFX S 0         es        [^áéíóú]s      # as/es

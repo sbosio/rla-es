@@ -8736,8 +8736,8 @@ musgo/SG
 musgoso/GS
 musical/S
 músico/GS
-muslime
-muslim/S
+muslim  # plural muslimes en muslime/S
+muslime/S
 mustélido/SG
 mustio/GS
 musulmán/GS

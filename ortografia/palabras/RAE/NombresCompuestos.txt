@@ -437,7 +437,8 @@ pitoche/S
 plagal/S
 planchuela/S
 plantado/S
-plim/S
+plim
+plin
 plumaria/S
 pluvial/S
 poquito/S
