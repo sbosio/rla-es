@@ -208,7 +208,6 @@ Himalaya
 Hispanoamérica
 Honduras
 Hong
-# Hong Kong
 Hungría
 India
 Indonesia
