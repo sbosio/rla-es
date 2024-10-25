@@ -884,6 +884,7 @@ francés/GS
 franchute/GS
 francófono/GS
 francotirador/GS
+frenólogo/GS
 frente/S
 fresco/GS
 fresero/GS
