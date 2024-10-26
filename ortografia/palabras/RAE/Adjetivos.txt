@@ -10230,8 +10230,7 @@ preguntón/GS
 preindustrial/S
 prelaticio/SG
 preliminar/S
-premamá
-premamás
+premamá/S
 prematuro/GS
 premiador/GaS
 premioso/GS
