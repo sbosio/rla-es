@@ -6919,6 +6919,7 @@ inflador/GS
 inflamable/kS
 inflamador/GS
 inflamatorio/GS
+influente/S
 informante/S
 informático/SG
 informe/S
