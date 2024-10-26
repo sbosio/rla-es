@@ -3,6 +3,7 @@
 *.xpi
 *.zip
 .vscode
+.zed
 productos/
 .versiones.cfg
 contrib/
