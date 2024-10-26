@@ -9540,7 +9540,7 @@ pañete/S
 pañol/S
 paño/S
 pañuelo/S
-papá
+papá/S
 papa/cS
 papado/cS
 papafigo/S
@@ -9548,7 +9548,6 @@ papagayo/S
 papahuevos
 papamoscas
 páparo/S
-papás
 papayo/S
 papeleo/S
 papel/NS

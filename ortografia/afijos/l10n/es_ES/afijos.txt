@@ -2883,10 +2883,9 @@ SFX G és        esas      és            # burgués/esas
 SFX G ós        osas      ós            # semidiós/osas
 
 # Nombres/adjetivos masculinos y femeninos que aceptan plural
-SFX S Y 32
-SFX S 0         s         [aceéfgiíkmoóptuúw] # ábaco/s, abecé/s, etc.
+SFX S Y 31
+SFX S 0         s         [aáceéfgiíkmoóptuúw] # ábaco/s, abecé/s, etc.
 SFX S 0         es        [bdhíjlrúxy]   # abad/es, ababol/es, etc.
-SFX S á         aes       á              # guaraná/aes
 SFX S 0         es        [^áeéíóú]n     # can/es
 SFX S 0         es        [^áéíóú]s      # as/es
 SFX S án        anes      án             # ademán/anes
