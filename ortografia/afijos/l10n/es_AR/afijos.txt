@@ -50,12 +50,13 @@ REP vámonos    vayámonos # Error común en el español
 # Por ej.: autómatico -> automático. Si bien estos casos son poco frecuentes,
 # suele ocurrir en textos escaneados y reconocidos mediante OCR, que
 # aparezcan palabras mal acentuadas, o doblemente acentuadas.
-MAP 5
+MAP 6
 MAP aáAÁ
 MAP eéEÉ
 MAP iíIÍ
 MAP oóOÓ
 MAP uúüUÚÜ
+MAP nñNÑ
 
 #
 #
