@@ -84,6 +84,7 @@ pilapila/S
 pinuca/S
 pitahaya/S
 poblada/S
+polera/SU
 pulpería/S
 quila/S
 quisca/S

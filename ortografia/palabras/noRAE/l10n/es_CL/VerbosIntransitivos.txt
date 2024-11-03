@@ -1,5 +1,5 @@
-# Lista de lemas: NombresMasculinos.txt
-# Copyright (C) 2004-2009 de Santiago Bosio (sbosio AT gmail.com)
+# Lista de lemas: VerbosTransitivos.txt
+# Copyright (C) 2004-2012 de Santiago Bosio (sbosio AT gmail.com)
 
 # Este listado es software libre: usted puede redistribuirlo y/o modificarlo
 # conforme a los términos de la Licencia Pública General de GNU, publicada
@@ -14,8 +14,4 @@
 # Debe haber recibido una copia de la Licencia Pública General de GNU junto
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
-bicicletero/S
-cúlmine/S
-emprendimiento/S
-monitoreo/S
-polerón/SU
+cahuinear/RED

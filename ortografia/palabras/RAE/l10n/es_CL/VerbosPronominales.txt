@@ -64,4 +64,5 @@ pifiar/RED
 pololear/RED
 rayar/RED
 taimar/RED
+trapicar/REDñô
 virar/REDñ

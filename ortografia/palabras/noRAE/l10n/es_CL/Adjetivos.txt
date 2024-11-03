@@ -16,5 +16,6 @@
 
 actualizado/GSh
 bicicletero/GS
+cahuinero/GS
 cansador/GS
 disquero/GS
