@@ -116,6 +116,7 @@ americano/GS
 amigo/GS
 amortajador/GS
 ampliador/GS
+anarcosindicalista/S
 anárquico/GS
 anatómico/GS
 ancho/GS
@@ -136,6 +137,8 @@ antártico/GS
 antecesor/GS
 anticuario/GS
 antiespañol/GS
+antioqueño/GS
+antiterrorista/S
 antropólogo/GS
 apagador/GS
 aparador/GS
@@ -149,6 +152,7 @@ aprendiz/GS
 apretado/GS
 apuntador/GS
 apurador/GS
+aqueménida/S
 araucano/GS
 árbitro/GS
 arboricultor/GS
@@ -443,6 +447,7 @@ chepa/S
 chicharrero/GS
 chico/GS
 chicote/GS
+chiita/S
 chileno/GS
 chilindrón/S
 chillo/GS

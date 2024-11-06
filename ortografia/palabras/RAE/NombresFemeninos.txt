@@ -239,6 +239,7 @@ agresividad/S
 agricultura/S
 agrifada/S
 agrimensura/S
+agroindustria/S
 agronomía/S
 agrura/S
 aguachirle/S
@@ -784,6 +785,7 @@ arcada/S
 arca/S
 arcatura/S
 archa/S
+archidiócesis
 archiduquesa/S
 archivología/S
 arcilla/S
@@ -827,6 +829,7 @@ arqueada/S
 arqueología/S
 arquería/S
 arqueta/S
+arquidiócesis
 arquimesa/S
 arquitectura/S
 arquivolta/S
@@ -1015,9 +1018,11 @@ aviación/S
 avicultura/S
 avidez/S
 avienta/S
+avifauna/S
 avilanteza/S
 avilantez/S
 avioneta/S
+aviónica/S
 avispa/S
 avitaminosis
 avoceta/S

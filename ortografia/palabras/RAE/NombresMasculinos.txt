@@ -625,6 +625,7 @@ alerón/S
 alero/S
 aletargamiento/S
 aleto/HS
+alevín/S
 alezo/S
 alfabeto/S
 alfaharero/S
@@ -756,6 +757,7 @@ almizcle/S
 almocafre/S
 almocárabe/S
 almófar/S
+almogávar/S
 almohadazo/S
 almohadillado/S
 almohadón/S
@@ -891,6 +893,7 @@ amoldamiento/S
 amole/S
 amonestamiento/S
 amoniaco/S
+amoníaco/S
 amonio/S
 amonites
 amontonamiento/S
@@ -931,6 +934,7 @@ anal/S
 ananá
 ananás
 anaquel/S
+anarcosindicalismo/S
 anarquismo/S
 anascote/S
 anatema/S
@@ -1553,6 +1557,7 @@ autismo/S
 autobombo/S
 autobús
 autodidactismo
+autódromo/S
 autoengaño/S
 autoestop
 autoestopes
@@ -1618,6 +1623,8 @@ axis
 axón/S
 ayer/S
 ay/S
+ayatola/S
+ayatolá/S
 ayudador/S
 ayuno/hS
 ayuntamiento/S
@@ -3741,6 +3748,7 @@ consistorio/S
 consomé/S
 consonantismo/S
 consorcio/S
+consumo/Sd
 constitucionalismo/S
 constituyente/S
 constructivismo

@@ -244,6 +244,7 @@ actinomorfo/GS
 actitudinal/S
 activa/flkp
 activo/opGSflk
+actoral/S
 actualizador/SG
 actual/S
 actuante/S
@@ -257,6 +258,7 @@ acucioso/GS
 ácueo/SG
 acuífero/SG
 acultural/S
+acuminado/GS
 acumulador/GS
 acumulativo/GS
 acuoso/GS
@@ -451,6 +453,7 @@ agrícola/S
 agridulce/S
 agrio/SG
 agrisado/GS
+agroindustrial/S
 agroquímico/GS
 agropecuario/SG
 agrupador/SG
@@ -816,6 +819,7 @@ analógico/SG
 análogo/SG
 anal/S
 anárquico/GS
+anarcosindicalista/S
 anarquista/S
 anarquizante/S
 anatematizador/GS
@@ -956,6 +960,7 @@ antillano/GS
 antimicrobiano/GS
 antimonial/S
 antiniebla/S
+antioqueño/GS
 antipático/GS
 antipersona/S
 antipersonal/S
@@ -966,10 +971,12 @@ antirrábico/SG
 antirrobo/S
 antiscio/S
 antitanque/S
+antiterrorista/S
 antitético/GS
 antivirus
 antojadizo/GS
 antojado/GS
+antológico/GS
 antoniano/GS
 antónimo/SG
 antoniniano/GS
@@ -998,6 +1005,7 @@ anuo/GS
 anuro/GS
 añadido/SG
 añejo/SG
+aórtico/GS
 aovado/GS
 apabullante/S
 apacentador/GS
@@ -1105,6 +1113,7 @@ apurado/SG
 aquel
 aquellas
 aquellos
+aqueménida/S
 aqueo/SG
 aquilino/GS
 aquillado/GS
@@ -1128,6 +1137,7 @@ arbitrario/SG
 arbolado/GS
 arbóreo/SG
 arborescente/S
+arborícola/S
 arboriforme/S
 arbustivo/GS
 árcade/S
@@ -2593,6 +2603,7 @@ chichimeco/GS
 chiclanero/GS
 chico/GNS
 chiflado/GS
+chiita/S
 chileno/GS
 chilindrinero/GS
 chillador/GS
