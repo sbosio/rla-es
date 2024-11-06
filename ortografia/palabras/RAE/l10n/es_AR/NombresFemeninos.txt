@@ -19,6 +19,7 @@ amansadora/S
 azua/S
 banana/S
 basurita/S
+berlinesa/S
 bicicleteada/S
 bicicletería/S
 bolita/S

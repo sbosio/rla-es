@@ -1614,6 +1614,7 @@ barbirrubio/SG
 barbitonto/SG
 barbitúrico/GS
 barbudo/GS
+barcelonés/GS
 barcina/S
 bardiota/S
 barnabita/S
@@ -1718,6 +1719,7 @@ berengario/GS
 bermejizo/GS
 bermejo/GS
 bermellón/S
+berlinés/GS
 bernardo/GS
 berrendo/GS
 bestial/S
@@ -1752,6 +1754,7 @@ bígamo/GS
 bigardo/GS
 bignoniáceo/GS
 bigotudo/GS
+bilbaíno/GS
 bilbilitano/GS
 biliario/GS
 biliar/S
@@ -1769,6 +1772,7 @@ bioclimático/GS
 biográfica/d
 biográfico/GdS
 biológico/GS
+biomédico/GS
 bioquímico/GS
 bipartito/GS
 bípedo/SG
@@ -1861,6 +1865,7 @@ boquiseco/GS
 boquisumido/GS
 boquitorcido/GS
 boquituerto/GS
+borbónico/GS
 bordelés/GS
 borde/S
 bordonero/GS
@@ -2135,6 +2140,7 @@ campante/S
 campanudo/SG
 campeador/SG
 campechano/SG
+campeón/esGS
 campero/GS
 campesino/SG
 campestre/S
@@ -3135,7 +3141,6 @@ conservante/S
 conservativo/GS
 conservatorio/GS
 conservero/GS
-considerada/hk
 considerado/GSkh
 consiguiente/kS
 consistente/kS
@@ -8770,7 +8775,7 @@ nacianceno/SG
 nacido/GS
 naciente/S
 nacionalista/Sl
-nacional/lSf
+nacional/elSf
 nacionalsocialista/S
 nadador/GS
 naguatlato/SG

@@ -1777,6 +1777,7 @@ ballestrinque/S
 ballet/S
 ballico/S
 balneario/S
+balompié/S
 baloncesto/S
 balonmano/S
 balón/S
@@ -1802,6 +1803,7 @@ bandidaje/S
 bando/HS
 bandolerismo/S
 bandolón/S
+bandoneón/S
 bandujo/S
 bandullo/S
 baniano/S
@@ -1822,6 +1824,7 @@ baquiano/S
 baquio/S
 baranda/CS
 barandal/S
+barangay/S
 baratero/S
 baratillo/S
 báratro/S
@@ -1895,6 +1898,7 @@ basamento/S
 basculante/S
 basilicón/S
 basilisco/S
+básquet
 básquetbol/S
 basquetbol/S
 bastardelo/S
@@ -2384,6 +2388,7 @@ burato/S
 burdel/S
 burdeos
 bureo/S
+burgo/S
 burgomaestre/S
 burgrave/S
 burgraviato/S

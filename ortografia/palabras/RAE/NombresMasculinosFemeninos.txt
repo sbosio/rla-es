@@ -222,6 +222,7 @@ balsero/GS
 banastero/GS
 bandido/GS
 bandolero/GS
+bandoneonista/S
 banquero/GS
 bañero/GS
 baratillero/GS
@@ -229,6 +230,7 @@ barato/GS
 barbado/GS
 barbero/GS
 barcal/S
+barcelonés/GS
 barnizador/GS
 barquero/aGS
 barquillero/GS
@@ -255,12 +257,15 @@ becado/GS
 becario/GS
 bedel/GS
 begardo/GS
+beisbolista/S
 bellaco/GS
 bellotero/GS
 bendito/GS
 benjamín/GS
+berlinés/GS
 bibliotecario/GS
 bigardo/GS
+bilbaíno/GS
 billetero/GS
 billonario/GS
 biógrafo/GS
@@ -284,6 +289,7 @@ bolsero/GS
 bombero/GS
 bombo/GS
 bonetero/GS
+borbónico/GS
 borceguinero/GS
 bordador/GS
 bordelés/GS
@@ -352,7 +358,7 @@ camero/GS
 camionero/GS
 camisero/GS
 campechano/GS
-campeón/sGS
+campeón/esGS
 campero/GS
 canario/GS
 canastero/GS

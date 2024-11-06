@@ -1061,6 +1061,7 @@ bacante/S
 baca/S
 bacera/S
 baceta/S
+bachata/S
 bacía/S
 bacineta/S
 bacinica/S
@@ -1320,6 +1321,7 @@ bioestadística/S
 biografía/dS
 biología/S
 biomasa/S
+biomedicina/S
 biopsia/S
 bioquímica/S
 biorremedación/S
@@ -2697,7 +2699,7 @@ consejería/S
 conserjería/S
 conservación/S
 conserva/S
-consideración/hS
+consideración/hkS
 consignación/S
 consigna/S
 consistencia/kS
