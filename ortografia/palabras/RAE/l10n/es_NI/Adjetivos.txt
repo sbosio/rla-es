@@ -36,6 +36,7 @@ cholo/GS
 chueco/GS
 citadino/GS
 congresional/S
+controversial/S
 correntoso/GS
 coto/GS
 coyotero/GS

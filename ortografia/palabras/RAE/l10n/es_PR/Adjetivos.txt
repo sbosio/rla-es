@@ -24,6 +24,7 @@ chancho/GS
 cholo/GS
 chueco/GS
 congresional/S
+controversial/S
 correntoso/GS
 coyotero/GS
 exfoliador/GS

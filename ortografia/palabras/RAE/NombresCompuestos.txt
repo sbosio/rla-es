@@ -116,6 +116,7 @@ caldaria/S
 caleta/S
 cambiazo/S
 campa/S
+campal/S
 campeche/S
 cande/S
 candi/S

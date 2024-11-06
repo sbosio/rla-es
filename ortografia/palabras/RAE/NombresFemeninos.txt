@@ -1862,6 +1862,7 @@ caramilla/S
 cara/NS
 carantoña/S
 carapa/S
+carátula/S
 caravana/S
 carbonera/S
 carbonilla/S
@@ -2645,7 +2646,7 @@ conductividad/S
 conectividad/S
 coneja/S
 conejuna/S
-conexión/S
+conexión/Sh
 confección/S
 conferencia/S
 confesa/S
@@ -3291,6 +3292,7 @@ desempolvadura/S
 desempolvoradura/S
 desenfadaderas
 deserción/S
+desertificación/S
 desesperación/S
 desestabilización/S
 desfachatez/S
@@ -3356,6 +3358,7 @@ detención/S
 determinación/kSnd
 detonación/S
 deuda/S
+devaluación/S
 devanadera/S
 devastación/S
 devisa/S
@@ -4310,6 +4313,7 @@ estuosidad/S
 estupa/S
 estupefacción/S
 estupidez/S
+esvástica/S
 etamina/S
 etapa/S
 eta/S
@@ -4373,6 +4377,8 @@ excursión/S
 excusada/S
 excusa/S
 execración/S
+exegesis
+exégesis
 exención/S
 exequias
 exhibición/S
@@ -4435,6 +4441,7 @@ exuberancia/S
 exudación/S
 exultación/S
 eyaculación/S
+eyección/S
 fabada/S
 fabla/S
 fabricación/S
@@ -4553,7 +4560,7 @@ feromona/S
 ferrería/S
 ferretería/S
 ferrita/S
-fertilidad/S
+fertilidad/Sk
 fertilización/S
 férula/S
 fes
@@ -4618,6 +4625,7 @@ firmeza/S
 fiscalía/S
 fisga/S
 física/S
+fisicoquímica
 fisiognomía/S
 fisiología/S
 fisionomía/S
@@ -5222,6 +5230,7 @@ hallada/S
 hallulla/S
 halotecnia/S
 haloza/S
+halterofilia
 hamaca/S
 hambre/S
 hambruna/S
@@ -5742,6 +5751,7 @@ inmobiliaria/S
 inmolación/S
 inmunidad/S
 inmunodeficiencia/S
+inmunología/S
 inmunoterapia/S
 innovación/S
 innumerabilidad/S
@@ -5774,6 +5784,7 @@ instantánea/S
 instauración/S
 instigación/S
 institución/S
+institucionalidad/S
 institucionalización/S
 institutriz/S
 instrucción/S
@@ -5785,6 +5796,7 @@ insulina/S
 insulsez/S
 insurgencia/S
 insurrección/S
+insurreccional/S
 insustancialidad/S
 intangibilidad/S
 integración/Shp
@@ -5982,6 +5994,7 @@ judía/S
 judicatura/S
 juerga/S
 jueza/S
+jugabilidad
 jugada/S
 jugadera/S
 jugarreta/S
@@ -7304,7 +7317,7 @@ motosierra/S
 motricidad/S
 movedura/S
 movilidad/Ska
-movilización/S
+movilización/Sh
 moxa/S
 moyana/S
 moza/S

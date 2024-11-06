@@ -32,6 +32,7 @@ carnear/RED
 cedular/RED
 chiclear/RED
 chicotear/RED
+concesionar/RED
 corar/RED
 demeritar/RED
 desaterrar/IRD

@@ -2611,6 +2611,7 @@ calzorras
 camafeo/S
 camaleón/S
 camarico/S
+camarín/S
 camarlengo/S
 camarón/S
 cámaro/S
@@ -2650,6 +2651,7 @@ campanil/S
 campano/GSN
 campeador/S
 campeonato/sS
+campesinado/S
 campestre/S
 camping
 campo/NS
@@ -2680,6 +2682,7 @@ candelizo/S
 candilejo/S
 candilero/S
 candil/HNS
+candombe/S
 candor/S
 canecillo/S
 canelar/S
@@ -3030,6 +3033,7 @@ cebo/aS
 cebollar/S
 cebollino/S
 cebón/S
+cebuano/S
 cedacero/S
 cedazo/NS
 cedrito/S
@@ -3091,6 +3095,7 @@ céntimo/S
 centollo/S
 centón/S
 centralismo/S
+centrismo/S
 centro/S
 centurión/S
 cenzontle/S
@@ -3244,6 +3249,7 @@ chifle/S
 chiflete/S
 chigre/S
 chihuahua/S
+chiismo/S
 chilenismo/S
 chillido/S
 chillón/S
@@ -3536,10 +3542,12 @@ coito/S
 cojinete/S
 cojín/S
 cok
+colaboracionismo/S
 coladero/S
 colador/S
 colágeno/S
 colchón/S
+coleccionable/S
 coleccionismo/S
 colectivismo/S
 colectivo/S
@@ -3872,6 +3880,7 @@ corimbo/S
 corindón/S
 corinto/S
 corion/S
+cormorán/S
 cornatillo/S
 cornejo/S
 cornero/S
@@ -3957,6 +3966,7 @@ coscorrón/S
 coselete/S
 coseno/S
 cosido/hS
+cosmódromo/S
 cosmopolitismo/S
 cosmorama/S
 cosmos/m
@@ -4009,6 +4019,7 @@ cric/S
 crimen/S
 criptograma/S
 criptón/S
+críquet
 crisantemo/S
 crisólito/S
 crisol/S
@@ -4212,6 +4223,7 @@ dador/S
 dalle/S
 daltonismo/S
 damasco/NS
+damero/S
 dandi/S
 danés
 danes/S
@@ -4263,7 +4275,7 @@ dédalo/S
 dedal/S
 dedil/S
 defensorio/S
-déficit
+déficit/S
 definidor/S
 definido/S
 definitorio/S
@@ -4311,6 +4323,7 @@ deponente/S
 deportivo/S
 deprecativo/S
 depresor/S
+derbi/S
 derechuelo/S
 dermatoesqueleto/S
 dermesto/S
@@ -4722,6 +4735,7 @@ dolame/S
 dólar/S
 dolmán/S
 dolmen
+dólmenes # plural dolmen
 dolobre/S
 dolorido/S
 dolor/pS
@@ -4835,6 +4849,7 @@ ecónomo/S
 eco/S
 ecosistema/S
 ecosonda/S
+ecoturismo/S
 ectodermo/S
 ecuador/S
 ecuatorial/S
@@ -5491,6 +5506,7 @@ escudo/S
 escuerzo/S
 escullador/S
 esculpidor/S
+escultismo/S
 escupidero/S
 escupido/S
 escupitajo/S
@@ -5674,6 +5690,7 @@ estafilococo/S
 estafiloma/S
 estajero/S
 estajista/S
+estalinismo/S
 estallido/S
 estamento/S
 estampador/S
@@ -5781,6 +5798,7 @@ estregadero/S
 estregamiento/S
 estrelladero/S
 estrellamiento/S
+estrellato/S
 estremecimiento/S
 estreno/S
 estrenque/S
@@ -5873,6 +5891,7 @@ exoesqueleto/S
 exorcismo/S
 exordio/S
 exotismo/S
+expansionismo/S
 expedicionero/S
 expediente/S
 experimento/S
@@ -6109,6 +6128,7 @@ florete/S
 florilegio/S
 florín/S
 floripondio/S
+florón/S
 flósculo/S
 flotador/S
 flotamiento/S
@@ -6388,6 +6408,7 @@ gascón/S
 gases
 gas/f
 gasista/S
+gasoducto/S
 gasógeno/S
 gasóleo/S
 gastador/S
@@ -6535,6 +6556,7 @@ gozque/S
 GPS
 grabado/S
 gracejo/Sa
+graderío/S
 gradiente/S
 grado/aS
 graduador/S
@@ -6791,6 +6813,7 @@ helioscopio/S
 helióstato/S
 heliotropio/S
 heliotropo/S
+helipuerto/S
 helminto/S
 helor/S
 hematíe/S
@@ -6884,6 +6907,7 @@ hidroplano/S
 hidrosilicato/S
 hidróxido/S
 hidroxilo/S
+hidruro/S
 hielo/S
 hiemal/S
 hieratismo/S

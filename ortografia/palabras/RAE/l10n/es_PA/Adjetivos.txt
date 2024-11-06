@@ -28,6 +28,7 @@ chévere/S
 cholo/GS
 chueco/GS
 citadino/GS
+controversial/S
 correntoso/GS
 coyotero/GS
 dundo/GS

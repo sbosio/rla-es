@@ -166,6 +166,7 @@ capitán/S
 carambolista/S
 carapacho/S
 caricaturista/S
+carioca/S
 carota/S
 carrerista/S
 cartelista/S
@@ -184,6 +185,7 @@ causante/S
 cazatalentos
 celtista/S
 cenobita/S
+centrista/S
 centrocampista/S
 censualista/S
 censurista/S
@@ -197,6 +199,7 @@ chancleta/S
 chantajista/S
 chapa/SU
 charrúa/S
+chií/S
 chinche/S
 chofer/S
 chófer/S
@@ -214,6 +217,7 @@ coadyuvante/S
 coalicionista/S
 cobista/S
 cofrade/S
+colaboracionista/S
 colega/S
 colla/S
 columnista/S
@@ -266,6 +270,7 @@ copartícipe/S
 copiloto/S
 copista/S
 coplista/S
+coprotagonista/S
 corista/S
 coriza/S
 cornista/S
@@ -274,6 +279,7 @@ coronel/S
 corresponsal/S
 correveidile/S
 cortoplacista/S
+cosmonauta/S
 costumbrista/S
 cotilla/S
 creacionista/S
@@ -339,6 +345,7 @@ escultista/S
 esperantista/S
 espía/S
 estadista/S
+estalinista/S
 esteticista/S
 estilista/S
 estraperlista/S
@@ -457,6 +464,7 @@ internacionalista/S
 internauta/S
 intérprete/S
 intocable/S
+islamista/S
 israelí/S
 izquierdista/S
 jáquer/S

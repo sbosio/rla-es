@@ -25,6 +25,7 @@ chancho/GS
 chiche/SG
 cholo/GS
 chueco/GS
+controversial/S
 correntoso/GS
 coyotero/GS
 droguero/GS

@@ -33,6 +33,7 @@ choco/SG
 cholo/GS
 chueco/GS
 codo/GS
+controversial/S
 correntoso/GS
 coyotero/GS
 cuate/GS

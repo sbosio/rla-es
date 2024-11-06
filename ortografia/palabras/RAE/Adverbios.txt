@@ -243,6 +243,7 @@ clandestinamente
 claramente
 claro
 clericalmente
+clínicamente
 cochinamente
 colegiadamente
 colegialmente
@@ -410,6 +411,7 @@ dilatadamente
 diligentemente
 diminutamente
 diminutivamente
+dinámicamente
 directamente
 discretamente
 disimuladamente
@@ -518,6 +520,7 @@ esplendorosamente
 espontáneamente
 esquemáticamente
 establemente
+estadísticamente
 estéticamente
 estoicamente
 estrafalariamente
@@ -535,6 +538,7 @@ eternamente
 etimológicamente
 eventualmente
 evidentemente
+evolutivamente
 exactamente
 exacto
 exageradamente
@@ -801,6 +805,7 @@ indivisiblemente
 indolentemente
 indudablemente
 indulgentemente
+industrialmente
 inefablemente
 ineficazmente
 ineludiblemente

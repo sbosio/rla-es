@@ -33,6 +33,7 @@ chiche/SG
 cholo/GS
 chueco/GS
 compadre/S
+controversial/S
 correntoso/GS
 coyotero/GS
 desactualizado/GS

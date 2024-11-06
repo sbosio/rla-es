@@ -38,6 +38,7 @@ chueco/GS
 codo/GS
 comelón/GS
 concho/SG
+controversial/S
 coño/GS
 correntoso/GS
 coyotero/GS

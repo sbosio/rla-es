@@ -902,6 +902,7 @@ copar/REDÂ
 copelar/RED
 copilar/RED
 coproducir/XDA
+coprotagonizar/REDÀ
 coquizar/RED
 corchar/RED
 corcovar/RED
@@ -2190,6 +2191,7 @@ extraer/XDÀÁÂÃÈÊ
 extrapolar/REDÀ
 extrudir/RED
 eyacular/REDÁ
+eyectar/RED
 fabricar/REDÀÁÂÄÆ
 fabular/RED
 facilitar/REDÀÁÂÃÄÅÆ
@@ -2565,7 +2567,7 @@ laurear/RED
 layar/RED
 lazar/RED
 leer/REDÀÁÂÃÄÅÆÌÍÏÙÚø
-legalizar/REDÀÃ
+legalizar/REDÀÃk
 legar/REDÀÁÂÃÅAÆ
 legitimar/REDÀÁ
 legrar/RED

@@ -73,6 +73,7 @@ fono/S
 frijol/S
 frutillar/S
 futre/S
+futsal
 gachumbo/S
 gallinazo/S
 gamonalismo/S

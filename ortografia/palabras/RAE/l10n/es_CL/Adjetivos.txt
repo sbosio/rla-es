@@ -35,6 +35,7 @@ chiche/SG
 choco/SG
 cholo/GS
 chueco/GS
+controversial/S
 coño/GS
 correntoso/GS
 coyotero/GS

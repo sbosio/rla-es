@@ -2185,6 +2185,7 @@ cántabro/GS
 cantador/iGS
 cantalinoso/SG
 cantante/S
+cantaor/GS
 cantonalista/S
 cantonal/S
 cantonero/GS
@@ -2193,8 +2194,8 @@ cantor/GS
 canular/S
 cañihueco/S
 cañivano/S
-cañonera/S
 cañón/S
+cañonero/GS
 caoba/S
 caótico/SG
 capadocio/GS
@@ -2247,6 +2248,7 @@ carcelero/GS
 carcunda/S
 cardenalicio/GS
 cárdeno/GS
+cardiaco/GS
 cardíaco/SG
 cardinal/S
 cardiotónico/SG
@@ -2281,6 +2283,7 @@ carilargo/GS
 carilindo/GS
 carillo/S
 cariñoso/SG
+carioca/S
 cariofiláceo/SG
 cariofileo/SG
 cario/SGn
@@ -2366,6 +2369,7 @@ catalanista/S
 catalítico/GS
 catamarqueño/GS
 catarí/S
+cátaro/GS
 catarral/S
 catarrino/S
 catarroso/SG
@@ -2425,6 +2429,7 @@ cebador/GS
 cebollero/GS
 cebolludo/GS
 cebón/SG
+cebuano/GS
 ceburro/S
 cecal/S
 ceceante/S
@@ -2505,6 +2510,7 @@ central/S
 céntrico/GS
 centrifugador/GS
 centrífugo/SG
+centrista/S
 centroafricano/GS
 centroamericano/GS
 ceñido/SG
@@ -2557,6 +2563,7 @@ cesariano/GS
 cesariense/S
 cesionaria/f
 cesionario/GSf
+cespitoso/GS
 cestodo/S
 cetáceo/SG
 cetrino/GS
@@ -2597,6 +2604,7 @@ chasqueador/SG
 chato/GS
 chaval/GS
 chaveta/S
+checheno/GS
 checo/SG
 checoslovaco/GS
 chepa/S
@@ -2609,6 +2617,7 @@ chichimeco/GS
 chiclanero/GS
 chico/GNS
 chiflado/GS
+chií/S
 chiita/S
 chileno/GS
 chilindrinero/GS
@@ -2782,6 +2791,7 @@ cleptómano/GS
 clerical/cS
 climatérico/GS
 climático/GS
+climatológico/GS
 clínico/SG
 clitoriano/GS
 clorhídrico/GS
@@ -2837,12 +2847,14 @@ coimbricense/S
 cojitranco/SG
 cojo/GS
 cojonudo/GS
+colaboracionista/S
 colaborador/GS
 colaborativo/GS
 coladizo/GS
 colágeno/SG
 colagogo/GS
 colchonero/SG
+coleccionable/S
 colecticio/SG
 colectivista/S
 colector/pGS
@@ -2941,6 +2953,7 @@ competente/kS
 competidor/GS
 competitivo/SG
 compilador/GS
+compilatorio/GS
 complaciente/dS
 compleja/k
 complejo/GkS
@@ -3046,6 +3059,7 @@ conducente/kS
 conductible/S
 conducticio/S
 conductor/tGqS
+conductual/S
 conectivo/SG
 conector/SG
 conejero/GS
@@ -3202,7 +3216,7 @@ contestatario/SG
 contextual/S
 contextualizado/GS
 contiguo/GS
-continental/S
+continental/Sl
 continente/Sk
 contingente/GS
 continuador/GS
@@ -3566,6 +3580,7 @@ cultual/S
 cultural/S
 cultureta/S
 cumanagoto/GS
+cumano/GS
 cumpleañero/GS
 cumplida/k
 cumplidero/SG
@@ -3748,6 +3763,7 @@ demonológico/GS
 demostrable/kS
 denario/GS
 dendriforme/S
+dendrítico/GS
 dendroideo/SG
 dendroide/S
 denegatorio/GS
@@ -4018,6 +4034,7 @@ devanador/GS
 devanagari/S
 devaneador/GS
 devastador/GS
+devocional/S
 devoniano/GS
 devónico/GS
 devorador/GS
@@ -4513,6 +4530,7 @@ electromotor/SG
 electronegativo/SG
 electrónico/GS
 electropositivo/GS
+electroquímico/GS
 electrostático/GS
 elefancíaco/GS
 elefantino/SG
@@ -5091,6 +5109,7 @@ estadiza/n
 estadizo/nSG
 estadounidense/S
 estagirita/S
+estalinista/S
 estamental/S
 estampador/GS
 estampado/SG
@@ -5631,6 +5650,7 @@ fiscal/S
 fisgador/GS
 fisgón/SG
 físico/GS
+fisicoquímico/GS
 fisiognómico/GS
 fisiológico/SG
 fisiopatológico/SG
@@ -5670,6 +5690,7 @@ floreciente/S
 florentino/SG
 florero/GS
 florido/GS
+florístico/GS
 flotador/GS
 flotante/S
 fluctuante/S
@@ -6039,6 +6060,7 @@ gesticuloso/GS
 gestor/GS
 gestual/S
 ghanés/GS
+gibelino/GS
 giboso/GS
 giennense/S
 giganteo/GS
@@ -6225,6 +6247,7 @@ gubernamental/cS
 gubernativo/GS
 guedejoso/GS
 guedejudo/GS
+güelfo/GS
 güero/GS
 guerrero/GS
 guerrillero/GS
@@ -6631,6 +6654,7 @@ ibero/GS
 iberoamericano/GS
 ibicenco/GS
 icario/GS
+icónico/GS
 iconoclasta/S
 iconográfico/GS
 icoroso/GS
@@ -7054,6 +7078,7 @@ insultador/GS
 insultante/S
 insumable/S
 insurgente/S
+insurreccional/S
 insurrecto/SG
 intacto/GS
 integrable/Sp
@@ -7127,6 +7152,7 @@ introverso/SG
 introvertido/SG
 intruso/GS
 intumescente/S
+inundable/S
 inusitado/SG
 inutilizable/S
 inutilizado/GS
@@ -7174,6 +7200,7 @@ isabelino/GS
 isabelo/GS
 isidoriano/SG
 islámico/GS
+islamista/S
 islamita/S
 islandés/GS
 islándico/SG
@@ -7262,6 +7289,7 @@ jerónimo/SG
 jerosolimitano/GS
 jesnato/GS
 jesuita/S
+jesuítico/GS
 jetudo/GS
 jíbaro/SG
 jienense/S
@@ -7296,6 +7324,7 @@ judiciario/SG
 judiego/GS
 judío/SG
 juerguista/S
+jugable/S
 jugador/wSG
 juglaresco/SG
 juglar/S
@@ -10465,7 +10494,7 @@ proverbial/S
 providencialista/S
 providencial/S
 próvido/SG
-provincial/S
+provincial/Sl
 provinciano/SG
 provisional/S
 provocador/GS

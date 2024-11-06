@@ -373,11 +373,13 @@ canillero/GS
 canino/GS
 canoero/GS
 cantador/GS
+cantaor/GS
 cantautor/GS
 cantinero/GS
 cantonero/GS
 cantonés/GS
 cantor/GS
+cañonero/GS
 capachero/GS
 capataz/GS
 capeador/GS
@@ -390,6 +392,8 @@ caracterizador/GS
 carbonero/GS
 carcelero/GS
 cardador/GS
+cardiaco/GS
+cardíaco/GS
 cardiólogo/GS
 cargado/GS
 cargador/GS
@@ -412,6 +416,7 @@ casquivano/GS
 castellano/GS
 castigador/GS
 catalogador/GS
+cátaro/GS
 catecúmeno/GS
 catedrático/GS
 catequizador/GS
@@ -424,6 +429,7 @@ cazador/GS
 caza/S
 cazurro/GS
 cebollero/GS
+cebuano/GS
 celador/GS
 celiaco/GS
 celíaco/GS
@@ -448,6 +454,7 @@ charlatán/GS
 chatarrero/GS
 chato/GS
 chaval/GS
+checheno/GS
 checo/GS
 chepa/S
 chicharrero/GS
@@ -567,6 +574,7 @@ corbatero/GS
 corchero/GS
 cordelero/GS
 cordonero/GS
+coreógrafo/GS
 corneta/S
 cornudo/GS
 corredero/GS
@@ -611,6 +619,7 @@ cucharero/GS
 cucharetero/GS
 cuentero/GS
 culero/GS
+cumano/GS
 cunero/GS
 cuñado/fGS
 curador/oGS
@@ -879,6 +888,7 @@ final/S
 financiador/GS
 financiero/GS
 físico/GS
+fisicoquímico/GS
 fisiólogo/GS
 flamenco/GS
 florero/GS
@@ -938,6 +948,7 @@ gerente/GS
 germán/GS
 germano/GS
 gestor/GS
+gibelino/GS
 gigantón/GS
 ginecólogo/GS
 girador/GS
@@ -975,6 +986,7 @@ guardarropa/S
 guardián/GS
 guarnicionero/GS
 guayaco/GS
+güelfo/GS
 guerrero/GS
 guerrillero/GS
 guía/S

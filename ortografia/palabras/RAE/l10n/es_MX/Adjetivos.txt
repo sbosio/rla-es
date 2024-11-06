@@ -49,6 +49,7 @@ citadino/GS
 codo/GS
 comelón/GS
 comodín/GS
+controversial/S
 correntoso/GS
 cotorro/GS
 coyotero/GS
@@ -57,6 +58,7 @@ diariero/GS
 disparador/GS
 droguero/GS
 dundo/GS
+ejidal/S
 engomado/GS
 exfoliador/GS
 faceto/SG

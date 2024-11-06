@@ -35,6 +35,7 @@ chévere/S
 chivillo/GS
 cholo/GS
 chueco/GS
+controversial/S
 correntoso/GS
 coyotero/GS
 droguero/GS

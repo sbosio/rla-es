@@ -32,6 +32,7 @@ cholo/GS
 chueco/GS
 comelón/GS
 congresional/S
+controversial/S
 correntoso/GS
 coyotero/GS
 dundo/GS

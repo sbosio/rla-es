@@ -32,6 +32,7 @@ chicotear/RED
 coimear/REDÀ
 compadrear/RED
 conflictuar/IRD
+concesionar/RED
 corar/RED
 demeritar/RED
 desaterrar/IRD

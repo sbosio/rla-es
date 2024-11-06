@@ -38,6 +38,7 @@ chueco/GS
 citadino/GS
 comelón/GS
 congresional/S
+controversial/S
 correntoso/GS
 coyotero/GS
 desactualizado/GS

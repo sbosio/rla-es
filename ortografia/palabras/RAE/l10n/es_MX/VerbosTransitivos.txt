@@ -39,6 +39,7 @@ chinear/RED
 chiquear/RED
 chotear/RED
 conflictuar/IRD
+concesionar/RED
 contlapachear/RED
 copinar/RED
 corar/RED
@@ -69,6 +70,7 @@ empañetar/RED
 empetatar/RED
 empotrerar/RED
 engaratusar/RED
+enlistar/RED
 enlozar/RED
 enmadejar/RED
 enmugrar/RED

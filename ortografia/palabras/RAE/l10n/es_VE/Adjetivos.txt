@@ -39,6 +39,7 @@ cholo/GS
 chueco/GS
 citadino/GS
 comelón/GS
+controversial/S
 correntoso/GS
 corroncho/GS
 coyotero/GS

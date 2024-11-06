@@ -42,6 +42,7 @@ difuntear/RED
 digitar/RED
 empañetar/RED
 empotrerar/RED
+enlistar/RED
 enlozar/RED
 enrostrar/REDÂÅ
 guayar/RED
