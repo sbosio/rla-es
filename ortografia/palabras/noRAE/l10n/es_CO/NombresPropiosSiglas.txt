@@ -84,11 +84,13 @@ Cotes
 Cristián
 Cristina
 Cuartas
+DANE
 Dangond
 Daniela
 Danna
 Dario
 Darío
+DIAN
 Diomedes
 Dominguín
 Doris
@@ -197,7 +199,9 @@ Nataly
 Nelson
 Nemesio
 Nevado
+NIT
 Novoa
+NUIP
 Ocampo
 Ochoa
 Olivella
@@ -242,6 +246,7 @@ Rodrigo
 Rojas
 Roldán
 Rosero
+RUT
 Sabogal
 Salavarrieta
 Salcedo
