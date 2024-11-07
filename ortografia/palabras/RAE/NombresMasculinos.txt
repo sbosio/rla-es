@@ -7501,10 +7501,12 @@ karma/S
 kelvin
 kermes
 ketchup/S
+kibutz
 kilociclo/S
 kilográmetro/S
 kilogramo/S
 kilolitro/S
+kilometraje/S
 kilométrico/S
 kilómetro/S
 kilopondio/S
@@ -7585,8 +7587,10 @@ lansquenete/S
 lantánido/S
 lantano/S
 lanzafuego/S
+lanzagranadas
 lanzallamas
 lanzamiento/Sp
+lanzamisiles
 lanzazo/S
 lapachar/S
 lapacho/S
@@ -7693,10 +7697,12 @@ leme/S
 lemnisco/S
 lemosín/S
 lempira/S	# Contribuida por Alonso González Cuchillo
+lémur/S
 lenca
 lendrero/S
 lenguado/S
 lenguaje/S
+leninismo
 lenitivo/S
 lenocinio/S
 lentejar/S
@@ -7769,6 +7775,7 @@ ligamen/S
 ligamento/S
 ligamiento/fSa
 lignito/S
+liguero/S
 ligustre/Sa
 ligustro/S
 lilao/S

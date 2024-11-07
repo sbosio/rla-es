@@ -491,6 +491,7 @@ laxista/S
 leccionista/fS
 legista/S
 lendakari
+leninista/S
 letrista/S
 libelista/S
 liberal/cS

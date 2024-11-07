@@ -7475,6 +7475,7 @@ lanuginoso/GS
 lanzacohetes
 lanzado/GS
 lanzador/SG
+lanzamisiles
 laodicense/S
 laosiano/GS
 lapidario/GS
@@ -7573,6 +7574,7 @@ lene/G
 lenguaraz/S
 lenguaz/S
 lengudo/GS
+leninista/S
 lenitivo/GS
 len/S
 lenticular/S
@@ -7659,6 +7661,7 @@ ligero/GS
 light/S
 lignario/GS
 liguano/GS
+liguero/GS
 ligurino/GS
 ligur/S
 ligustrino/GS
