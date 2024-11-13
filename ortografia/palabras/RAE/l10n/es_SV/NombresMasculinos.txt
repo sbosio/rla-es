@@ -105,6 +105,7 @@ polvillo/S
 pucho/S
 puntaje/S
 quijo/S
+repechaje/S
 reservorio/S
 romerillo/S
 rompenueces

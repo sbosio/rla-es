@@ -925,6 +925,7 @@ anacronismo/S
 anadino/S
 anafe/S
 anafre/S
+anaglifo/S
 anagrama/S
 analfabetismo/S
 analgésico/S
@@ -2411,7 +2412,7 @@ buscapersonas
 buscapié/S
 busca/S
 buses/d
-bus/S
+bus/mS
 busto/S
 butacón/S
 butrino/S
@@ -3982,6 +3983,7 @@ costo/S
 costumbrismo/S
 costurero/S
 cotejo/S
+cotiledón/S
 cotilleo/S
 cotillo/aS
 cotillón/S
@@ -6483,6 +6485,7 @@ girino/S
 giro/dS
 girocompás
 giroscopio/S
+giróscopo/S
 gis/S
 gitanismo/S
 gitano/S
@@ -7995,7 +7998,9 @@ maestre/S
 maestresala/S
 maestrescuela/S
 maestril/S
+magacín/S
 maganel/S
+magazín/S
 magenta/S
 magisterio/S
 magma/S
@@ -8160,6 +8165,7 @@ manuscrito/S
 manutigio/S
 manzanar/S
 manzano/NS
+maoísmo
 maorí/S
 mapache/S
 mapamundi/S
@@ -8352,7 +8358,9 @@ mechero/S
 mechoacán/S
 mechón/S
 meconio/S
+medallero/S
 medallón/S
+médano/S
 medianero/S
 medianil/S
 medianista/S
@@ -8514,6 +8522,7 @@ metilo/S
 metimiento/Sjo
 metodismo/S
 método/S
+metraje/S
 metrallazo/S
 metrónomo/S
 metropolitano/S
@@ -8566,6 +8575,7 @@ milibar/S
 miligramo/S
 mililitro/S
 milímetro/S
+milisegundo/S
 militarismo/cS
 millar/S
 millardo/S
@@ -8587,6 +8597,7 @@ mingitorio/S
 mingo/S
 minarete/S
 minifundio/S
+minimalismo/S
 minimista/S
 minino/S
 minio/S
@@ -8665,6 +8676,7 @@ mochuelo/S
 moco/NGS
 modal/S
 modelado/S
+modelaje/S
 modelismo/S
 módem
 moderante/SO
@@ -8768,9 +8780,11 @@ monolito/S
 monólogo/S
 monometalismo/S
 monomio/S
+monomotor/S
 monopastos
 monopatín/S
 monoplano/S
+monoplaza/S
 monopolio/S
 monosabio/S
 monosacárido/S
@@ -9005,6 +9019,7 @@ nailon/S
 naipe/S
 naire/S
 nalgatorio/S
+nanotubo/S
 napelo/S
 napoleón/S
 naque/S
@@ -9073,8 +9088,10 @@ nenúfar/S
 neocatolicismo/S
 neoclasicismo/S
 neodimio
+neoliberalismo/S
 neologismo/S
 neón/S
+neonazismo/S
 neoplatonicismo/S
 neoplatonismo/S
 neopositivismo/S
@@ -9270,6 +9287,7 @@ odio/Si
 odre/S
 oeste
 ofertorio/S
+oficialismo
 oficiante/S
 oficionario/S
 oficio/S
@@ -9333,6 +9351,7 @@ ontologismo/S
 ópalo/S
 operativo/S
 opérculo/S
+opiáceo/S
 opio/S
 opioide/S
 opobálsamo/S
@@ -9801,6 +9820,8 @@ patrocinio/S
 patronato/S
 patronazgo/S
 patronero/S
+patronímico/S
+patrullaje/S
 patuco/S
 paular/S
 paúl/S
@@ -9876,6 +9897,7 @@ pejegallo/S
 pejemuller/S
 pejepalo/S
 peje/S
+pejerrey/S
 pejesapo/S
 peladillo/S
 pelagatos
@@ -10075,6 +10097,7 @@ petigrís/S
 petirrojo/S
 peto/NS
 petrel/S
+petroglifo/S
 petróleo/S
 peyote/S
 pezón/S
@@ -10130,6 +10153,7 @@ pilastrón/S
 pilatero/S
 pilates
 pildorero/S
+píleo/S
 pillador/S
 pillaje/S
 pillastre/S
@@ -10156,6 +10180,7 @@ pinchazo/S
 pingajo/S
 pinganello/S
 pingorote/S
+pingüino/S
 pinito/S
 pinnípedo/S
 pinocho/S
@@ -10344,7 +10369,7 @@ poco/S
 podenco/S
 podenquero/S
 poderío/S
-poder/S
+poder/tS
 podio/S
 pódium
 podómetro/S
@@ -10356,6 +10381,7 @@ podrimiento/S
 poema/S
 poemario/S
 poetastro/S
+pogromo/S
 polariscopio/S
 poleame/S
 polemarca/S
@@ -10421,7 +10447,9 @@ pontonero/S
 pontón/S
 popamiento/S
 populacho/S
+popularismo/S
 populazo/S
+populismo/S
 popurrí/S
 póquer/S
 porcentaje/S
@@ -10669,6 +10697,7 @@ pronóstico/S
 pronto/S
 prontuario/S
 pronunciamiento/S
+propelente/S
 propiciatorio/S
 propio/S
 propóleos
@@ -12258,6 +12287,7 @@ sonecillo/S
 sonetico/S
 soneto/SN
 soniche/S
+sónico/tS
 sonido/S
 soniquete/S
 sonriso/S
@@ -12324,6 +12354,7 @@ subcolector/S
 subcontinente/S
 subejecutor/S
 subfiador/S
+subfusil/S
 subidero/S
 subiente/S
 subimiento/S
@@ -12380,6 +12411,7 @@ sulfito/S
 sulfonal/S
 sulfuro/eS
 sultán/S
+sultanato/S
 sumario/S
 suma/S
 sumatorio/S
@@ -12456,6 +12488,7 @@ tablar/CS
 tablazo/S
 tablero/pS
 tablizo/S
+tabloide/S
 tabloncillo/S
 tablón/SNC
 tabor/S
@@ -12838,6 +12871,7 @@ tiracuero/S
 tiradero/S
 tirafondo/S
 tiragomas
+tiraje/S
 tirajo/S
 tiralíneas
 tiramiento/pS
@@ -13300,6 +13334,7 @@ turbit/S
 turbocompresor/S
 turbón/S
 turbo/S
+turborreactor/S
 turibulario/S
 turíbulo/S
 turiferario/S
@@ -13492,6 +13527,7 @@ velocímetro/S
 velocipedismo/S
 velocípedo/S
 velo/CSN
+velódromo/S
 velón/S
 velorio/S
 velorto/S
@@ -13593,6 +13629,7 @@ vial/S
 viático/S
 vibrador/S
 viburno/S
+vicariato/S
 viceconsulado/S
 viceprovincial/S
 viceversa/S
@@ -13692,6 +13729,7 @@ volatero/S
 volatín/S
 volcán/S
 voleibol/S
+vóley
 volframio/S
 volquetero/S
 volquete/S

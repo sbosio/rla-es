@@ -2171,7 +2171,7 @@ expiar/IRDÀ
 explanar/RED
 explicitar/REDÀ
 explorar/REDÀÁÂÄT
-explotar/REDÀÁÂÄÅÍ
+explotar/rREDÀÁÂÄÅÍ
 expoliar/REDÀ
 exportar/REDÀT
 exprimir/REDÀÁÂÄÆÌ

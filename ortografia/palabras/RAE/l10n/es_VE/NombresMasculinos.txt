@@ -133,6 +133,7 @@ papelerí­o/S
 parlante/S
 pasote/S
 patrullero/S
+piedemonte/S
 pininos
 pizarrón/S
 platón/S

@@ -67,10 +67,9 @@ punzonado/S
 radiocarbono/S
 ratito/S
 rebarbado/S
-renting # extranjerismo no adaptado #139
+repechaje/S
 solucionario/S
 sustituyente/S
-swing # extranjerismo no adaptado #139
 taquión/S
 teslámetro/S
 titán/S

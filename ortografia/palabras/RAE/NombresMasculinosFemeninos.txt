@@ -1264,6 +1264,7 @@ mezclador/GS
 micénico/GS
 micólogo/GS
 miércoles
+milanés/GS
 milhojas
 miliciano/GS
 milmillonésimo/GS
@@ -1343,7 +1344,9 @@ neurólogo/GS
 nietastro/GS
 nieto/GS
 niño/GS
+nipón/GS
 niquelador/GS
+norirlandés/GS
 norteño/GS
 notario/GS
 noticiero/GS
@@ -1351,6 +1354,7 @@ noveno/GS
 novicio/GS
 novillero/GS
 novio/GS
+novohispano/GS
 nuecero/GS
 numismático/GS
 nutricionista/S
@@ -1359,6 +1363,7 @@ obligado/GS
 obligatorio/GS
 obrero/GS
 observador/GS
+obtentor/GS
 ocal/S
 ochavo/GS
 ocioso/GS
@@ -1455,6 +1460,7 @@ pendiente/S
 pendón/GS
 péndulo/GS
 pensador/GS
+pentadáctilo/GS
 perdido/GS
 peregrino/GS
 perengano/GS
@@ -1471,6 +1477,7 @@ petardo/GS
 petimetre/GS
 petitorio/GS
 petrolero/GS
+piamontés/GS
 picado/GS
 pícaro/GS
 pichel/S

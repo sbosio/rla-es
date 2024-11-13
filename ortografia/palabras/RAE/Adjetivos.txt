@@ -2775,7 +2775,7 @@ clarividente/S
 claro/njSG
 clarucho/GS
 clasicista/S
-clásico/SG
+clásico/nSG
 clasificado/GS
 clasificador/SG
 clasificatorio/GS
@@ -4999,6 +4999,8 @@ esdrújulo/GS
 ese/GS
 esencial/Sn
 esenio/GS
+esfenisciforme/S
+esfenisciformes  # Forma como taxón
 esferal/S
 esférica/q
 esférico/SGq
@@ -8037,6 +8039,7 @@ maniblanco/GS
 manicorto/GS
 manido/GS
 maniego/GS
+manierista/S
 manifestador/GS
 manifestativo/SG
 manifiesto/GS
@@ -8074,6 +8077,7 @@ mañanero/GS
 mañero/GS
 maño/GS
 mañoso/SG
+maoísta/S
 maorí/S
 mapuche/S
 maquiavelista/S
@@ -8159,6 +8163,7 @@ masiliense/S
 masilio/GS
 masilo/GS
 masivo/GS
+masónico/GS
 masoquista/S
 masticador/GS
 masticatorio/GS
@@ -8405,6 +8410,7 @@ migratorio/SGk
 miguero/GS
 milagrero/GS
 milagroso/GS
+milanés/GS
 milenario/GS
 mileno/GS
 milenta/S
@@ -8435,6 +8441,7 @@ mineral/S
 minero/GS
 mingitorio/SG
 miniado/GS
+minimalista/S
 mínimo/SG
 ministerial/S
 ministrador/sSG
@@ -8602,8 +8609,10 @@ monomaniaco/GS
 monomaníaco/GS
 monometalista/S
 monomiario/S
+monomotor/S
 monona/S
 monoparental/S
+monoplaza/S
 monopólico/GS
 monopolizador/GS
 monorrimo/SG
@@ -8660,6 +8669,7 @@ morellano/GS
 moreno/GS
 morfofonológico/GS
 morfológico/GS
+morfosintáctico/GS
 moribundo/GS
 moriego/GS
 morigerado/SG
@@ -8807,7 +8817,7 @@ nacianceno/SG
 nacido/GS
 naciente/S
 nacionalista/Sl
-nacional/elSf
+nacional/uelSf
 nacionalsocialista/S
 nadador/GS
 naguatlato/SG
@@ -8921,8 +8931,10 @@ neoclásico/SG
 neogranadino/GS
 neo/GS
 neolatino/SG
+neoliberal/S
 neolítico/GS
 neonatal/S
+neonazi/S
 neoplásico/GS
 neoplatónico/GS
 neoyorquino/GS
@@ -8955,7 +8967,7 @@ neutralizador/GS
 neutro/SG
 nevado/GS
 nevoso/GS
-newtoniana/GS
+newtoniano/GS
 nicaragüense/S
 niceno/GS
 nicomediense/S
@@ -8971,11 +8983,13 @@ ninivita/S
 niñato/SG
 niñero/GS
 niño/GS
+nipón/GS
 nítido/GS
 nitrado/GS
 nítrico/GS
 nitrogenado/SG
 nitroso/GS
+nival/S
 nivelador/GS
 níveo/SG
 nobiliario/SG
@@ -8994,6 +9008,7 @@ nodular/S
 nogal/S
 noguerado/SG
 nómada/S
+nómade/S
 nombrada/p
 nombrado/pSG
 nominador/gGS
@@ -9021,6 +9036,7 @@ nono/GS
 non/S
 norcoreano/GS
 nórdico/GS
+norirlandés/GS
 normalista/S
 normal/sSa
 normando/GS
@@ -9053,6 +9069,7 @@ noventa/S
 noventavo/GS
 novicio/GS
 novísimo/GS
+novohispano/GS
 nubiense/S
 nubiloso/GS
 núbil/S
@@ -9125,6 +9142,7 @@ obstétrico/GS
 obstinado/GS
 obstruccionista/S
 obstructor/GS
+obtentor/GS
 obturador/GS
 obtuso/SG
 obvio/SG
@@ -9223,6 +9241,7 @@ oliente/S
 oligárquico/GS
 oligoceno/GS
 olímpico/GS
+oliváceo/GS
 olivarero/GS
 olivífero/SG
 olivoso/GS
@@ -9269,6 +9288,8 @@ operante/kS
 operativa/f
 operativo/fSG
 operatorio/SG
+operístico/GS
+opiáceo/GS
 opinable/Sk
 opinante/nS
 opioide/S
@@ -9657,10 +9678,12 @@ patriótico/GS
 patrocinador/SG
 patrocinado/SG
 patronal/S
+patronímico/GS
 patrullero/GS
 patudo/GS
 paulatino/GS
 paúl/S
+paulista/S
 paupérrimo/GS
 pausado/GS
 paviano/GS
@@ -9779,11 +9802,13 @@ pensante/S
 pensativo/GS
 pensilvano/GS
 pensionado/GS
+pentadáctilo/GS
 pentagonal/S
 pentágono/GS
 pentámero/GS
 pentapolitano/GS
 pentasílabo/GS
+pentecostal/S
 penúltima/b
 penúltimo/SGb
 penumbroso/GS
@@ -9911,12 +9936,14 @@ pétreo/GS
 petroleoquímico/GS
 petrolero/SG
 petrolífero/GS
+petroquímico/GS
 petroso/GS
 petulante/S
 peyorativo/SG
 piador/GS
 piadosa/k
 piadoso/kGS
+piamontés/GS
 piano/S
 piante/S
 piariego/GS
@@ -10101,6 +10128,7 @@ polaco/GS
 polar/eS
 polémico/SG
 poliadelfos
+policiaco/GS
 policíaco/GS
 policial/S
 polideportivo/GS
@@ -10181,6 +10209,7 @@ porteño/GS
 portera/p
 porteril/S
 portero/pGS
+porticado/GS
 portuario/GS
 portuense/S
 portugués/SG
@@ -10273,6 +10302,7 @@ preestablecido/SG
 preexcelso/GS
 preexistente/S
 prefabricado/GS
+preferencial/S
 pregonero/SG
 preguntador/GS
 preguntón/GS
@@ -10446,6 +10476,7 @@ propagandista/S
 propagandístico/GS
 propagativo/SG
 propalador/GS
+propelente/S
 propenso/GS
 propia/k
 propiciador/GS
@@ -10515,6 +10546,7 @@ prusiano/GS
 pseudónimo/GS
 psicoanalista/S
 psicoanalítico/SG
+psicodélico/GS
 psicofisiológico/GS
 psicológico/SG
 psicopedagógico/GS
@@ -10575,6 +10607,7 @@ puntiagudo/GS
 puntillista/S
 puntilloso/GS
 puntoso/GS
+puntuable/S
 puntual/kS
 puntuoso/GS
 punzador/GS
@@ -11494,6 +11527,7 @@ satisfactoria/k
 satisfactorio/kGS
 satisfecha/k
 satisfecho/kGS
+sativa/S
 sátrapa/S
 saturado/GSk
 saturnal/S
@@ -11750,6 +11784,7 @@ siciliano/GS
 sicionio/GS
 sicoanalista/S
 sicoanalítico/GS
+sicodélico/GS
 sicofisiológico/GS
 sicológico/GS
 sicopedagógico/GS
@@ -11957,6 +11992,7 @@ sonante/fSp
 sonántica/f
 sonántico/fSG
 sondable/kS
+sónico/tGS
 sonlocado/GS
 sonora/k
 sonoro/SGk
@@ -12049,6 +12085,8 @@ sudanés/GS
 sudante/S
 sudatorio/GS
 sudista/S
+sudoccidental/S
+sudoriental/S
 sudoriento/GS
 sudorífico/GS
 sudoroso/GS
@@ -12061,6 +12099,7 @@ suficiente/dkS
 sufijo/SG
 sufí/S
 sufista/S
+sufragáneo/GS
 sufragista/S
 sufrible/kS
 sufridero/SG
@@ -12135,6 +12174,8 @@ sureño/GS
 surfactante/S
 surgidor/GS
 surinamés/GS
+suroccidental/S
+suroriental/S
 surrealista/S
 surtidor/GS
 surtido/SG
@@ -13305,6 +13346,7 @@ visceral/S
 viscoso/GS
 visible/Snk
 visigodo/GS
+visigótico/GS
 visionario/SG
 visitador/GS
 visitante/S

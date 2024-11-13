@@ -520,9 +520,11 @@ manchú/S
 mandante/gS
 mandria/S
 mangante/S
+manierista/S
 manifestante/S
 maniquí/S
 mano/S
+maoísta/S
 maorí/S
 maquinista/S
 marchante/S
@@ -561,6 +563,7 @@ migrante/S
 militar/S
 mineralogista/S
 miniaturista/S
+minimalista/S
 minorista/S
 mitologista/S
 mocarra/S
@@ -581,6 +584,7 @@ mozárabe/S
 mueblista/S
 muisca/S
 mundialista/S
+muralista/S
 mutualista/S
 mutuante/S
 narcisista/S
@@ -589,6 +593,8 @@ naturalista/S
 naturópata/S
 neandertal/S
 negociante/S
+neoliberal/S
+neonazi/S
 neuroanatomista/S
 nigromante/S
 nobel/S
@@ -636,6 +642,7 @@ paseante/S
 pastelista/S
 pata/S
 patriota/S
+paulista/S
 pediatra/S
 pehuenche/S
 pelma/S
@@ -645,6 +652,7 @@ pendejo/S
 pendolista/S
 penitente/S
 pensionista/S
+percusionista/S
 perdonavidas
 perfumista/S
 perico/S
@@ -842,6 +850,7 @@ trepa/S
 tresillista/S
 tripulante/S
 trombón/S
+trombonista/S
 trompetista/S
 tronera/S
 tropelista/S

@@ -5028,6 +5028,7 @@ gleba/S
 glicerina/S
 glicina/S
 glicinia/S
+glicoproteína/S
 globalización/S
 glorieta/S
 glorificación/S
@@ -7065,6 +7066,7 @@ miga/Sa
 migración/kS
 migraña/S
 milamores
+milanesa/S
 milenrama/S
 milésima/S
 milgrana/S
@@ -7233,6 +7235,7 @@ montera/LS
 montonera/S
 montuosidad/S
 montura/S
+monumentalidad/S
 moña/S
 moqueta/S
 moquita/S
@@ -7380,6 +7383,7 @@ murta/NS
 murtina/S
 musácea/S
 musa/S
+musaraña/S
 muscaria/S
 musculatura/S
 muselina/S
@@ -7414,6 +7418,7 @@ naja/S
 nalgada/S
 nalga/S
 nana/S
+nanoestructura/S
 nanotecnología/S
 nansa/S
 nao/S
@@ -8318,6 +8323,7 @@ petición/pS
 petraria/S
 petrera/S
 petroleoquímica/S
+petroquímica/S
 petulancia/S
 petunia/S
 pezolada/S
@@ -8658,16 +8664,18 @@ postema/S
 posteridad/S
 posterioridad/S
 posteta/S
+postguerra/S
 postilla/aS
 postproducción/S
 postración/S
+postrimería/S
 postulanta/S
 postura/aSk
 potabilidad/S
 potajera/LS
 potala/S
 potasa/S
-potencia/kSn
+potencia/tkSn
 potenciación/S
 potencialidad/S
 potenza/S
@@ -9182,6 +9190,7 @@ recombinación/S
 recomendación/S
 recompensa/S
 reconditez/S
+reconversión/S
 recopilación/S
 recordación/S
 recriminación/S
@@ -9190,6 +9199,7 @@ recta/qS
 rectificación/S
 rectitud/S
 rectoral/S
+rectoría/S
 recuarta/S
 recua/S
 recuperación/S
@@ -9857,6 +9867,7 @@ sexualidad/S
 sexualización/S
 sibila/S
 sicalipsis
+sicodelia/S
 sicofisiología
 sicología/S
 sicopatía/S
@@ -10078,6 +10089,7 @@ sota/S
 suarda/S
 suavidad/S
 subasta/S
+subdelegación/S
 subducción/S
 subjetividad/S
 sublevación/S
@@ -10309,6 +10321,7 @@ telaraña/S
 telas/j
 tele/GS
 telecabina/S
+telecomedia/S
 telecomunicación/S
 teleconferencia/S
 telefonía/S
@@ -10675,6 +10688,7 @@ transliteración/S
 translucidez/S
 transmigración/S
 transmisión/pS
+transnacional/S
 transparencia/S
 transpiración/S
 transportación/S
@@ -10752,6 +10766,7 @@ trinquetada/S
 trinquetilla/S
 tripada/S
 tripa/S
+tripleta/S
 triplicación/S
 triplicidad/S
 tripulación/S
@@ -10857,6 +10872,7 @@ ubre/S
 ufanía/S
 ulceración/S
 úlcera/S
+ultraderecha/S
 ultratumba/S
 umbela/S
 umbelífera/S
@@ -10950,7 +10966,7 @@ validez/Sk
 valija/S
 valla/S
 valoración/Sp
-valorización/Sh
+valorización/pSh
 valquiria/S
 valuación/S
 valva/S
@@ -11264,6 +11280,7 @@ yerbera/S
 yes
 yesca/S
 yesera/S
+yesería/S
 yincana/S
 yola/S
 yubarta/S

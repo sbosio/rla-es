@@ -2245,7 +2245,7 @@ tupir/RED
 turbar/REDÁÂÅñò
 tutear/REDÀÁÂÄÅÆÍñò
 ulcerar/REDø
-unificar/REDÀÁÄñ
+unificar/pREDÀÁÄñ
 uniformar/REDÁñ
 unir/REDÀÁÂÄÅñòT
 untar/REDÀÁÂÄÆñ

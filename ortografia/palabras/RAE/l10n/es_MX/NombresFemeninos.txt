@@ -112,6 +112,7 @@ soca/S
 soya/S
 tallada/S
 tapisca/S
+terracería/S
 tigra/S
 tilichera/S
 tilma/S
