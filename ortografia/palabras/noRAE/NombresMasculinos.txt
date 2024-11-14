@@ -15,9 +15,11 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 alcano/S
+alqueno/S
 alnico/S
 anticuark/S
 antinodo/S
+arawak
 arché
 arjé
 autoconocimiento/S
@@ -30,20 +32,35 @@ capacitor/S								# Acordado en https://github.com/sbosio/rla-es/issues/8
 causalismo/S
 cibercafé/S
 clúster/S
+códec/S
+coescrito/S
 coherentismo/S
 direccionamiento/S
+disulfuro/S
 ecoparque/S
+ecozona/S
+emo
+endosperma
 espectrógrafo/S
+exclave/S
 exjugador/GS
 exoplaneta/S
 fenólico/S
 ferrimagnetismo
+fibrado/S
 flujómetro/S
 fluxímetro/S
 fundacionismo/S
 gaussímetro/S
+golazo/S
 gravitomagnetismo
+haluro/S
+holotipo/S
 iusnaturalismo
+kanato/S
+kanji
+labelo/S
+lóculo/S
 meme/S
 metadato/S
 microcontrolador/S

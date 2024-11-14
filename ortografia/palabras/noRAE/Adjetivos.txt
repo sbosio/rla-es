@@ -26,6 +26,7 @@ autocorrectivo/GS
 autodeterminado/GS
 autoimpuesto/GS
 autolubricante/S
+autosómico/GS
 autosustentable/S
 avergonzante/S
 bariónico/GS

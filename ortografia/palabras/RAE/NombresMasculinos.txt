@@ -4379,6 +4379,7 @@ descalcador/S
 descansadero/S
 descanso/SN
 descaramiento/S
+descargable/S
 descargamiento/S
 descargue/S
 descarnador/S

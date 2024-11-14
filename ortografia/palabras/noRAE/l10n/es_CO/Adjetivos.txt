@@ -16,3 +16,4 @@ enguayabado/GS
 hostigante/S
 mamerto/GS
 opcionado/GS
+paisa/S

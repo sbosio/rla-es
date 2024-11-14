@@ -15,7 +15,9 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 achicorero/GS
+briólogo/GS
 capacitador/GS
+cocreador/GS
 coinvestigador/GS
 desarrollador/GS
 originador/GS

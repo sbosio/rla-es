@@ -66,6 +66,7 @@ cucunubense/S
 cucutillense/S
 duitama/S
 duranense/S
+emo/S
 falanense/S
 falense/S
 filandense/S
@@ -129,6 +130,7 @@ otanchense/S
 paeces/S
 paence/S
 paéz/S
+paisa/S
 pajaritense/S
 pamplonense/S
 pandinense/S
@@ -209,6 +211,7 @@ villarricense/S
 villarriquense/S
 villarrosariense/S
 yotocense/S
+yudoca/S
 zapatoca/S
 zetaquirense/S
 zipaconense/S

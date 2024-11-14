@@ -1759,7 +1759,7 @@ candelera/S
 candeleta/S
 candencia/S
 candidación/S
-candidatura/S
+candidatura/nS
 candidez/S
 candileja/S
 candilera/S
@@ -2382,6 +2382,7 @@ cirugía/S
 cisquera/S
 cistácea/S
 cista/S
+cisteína/S
 cisterna/S
 cisticercosis
 cistitis

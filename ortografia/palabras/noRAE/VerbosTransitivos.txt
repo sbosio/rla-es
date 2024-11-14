@@ -15,6 +15,7 @@
 # con este listado. Si no es así, visite <http://www.gnu.org/licenses/>
 
 agendar/REDÀ			# Contribuida por Ricardo Goldberger
+cofundar/RED
 deshabilitar/RED		# Contribuida por Gonzalo Higuera Díaz
 discretizar/RED
 historificar/RED

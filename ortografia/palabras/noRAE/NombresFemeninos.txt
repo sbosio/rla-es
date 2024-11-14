@@ -19,9 +19,12 @@ acetamida/S
 acupresión/S			# Contribuida por Ricardo Goldberger
 alquilación
 amigdalectomía/S
+antesis
 antimateria
 apendicectomía/S
+apiáceas
 arponera/S
+asteráceas
 astrometría/S
 autocitación/S
 autoconciencia/S
@@ -30,6 +33,8 @@ autoimagen/S
 autolimitación/S
 bibliometría
 callejuela/S
+catana/S
+coautoría/S
 comerciabilidad/S
 compactación/S
 convolución/S
@@ -45,11 +50,14 @@ desconferencia/S
 determinabilidad/S
 discretización/S
 eritroblastosis
+estatuilla/S
+fabáceas
 ferroaleación/S
 fosforilación/S
 granularidad/S
 heterolisis
 heterólisis
+hifa/S
 historificación/S
 holofonía/S
 homogenización/S
@@ -93,4 +101,3 @@ temporalización/S
 titánide/S
 totalización/S
 usabilidad/S
-

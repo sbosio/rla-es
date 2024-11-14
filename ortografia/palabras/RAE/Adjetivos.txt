@@ -2085,6 +2085,7 @@ calificado/GS
 calificador/hGS
 calificativo/SG
 californiano/GS
+califórnico/GS
 californio/GS
 caligráfico/SG
 calimoso/GS
@@ -3865,6 +3866,7 @@ descafeinado/GS
 descalostrado/GS
 descalzo/GS
 descarado/GS
+descargable/S
 descaudalado/GS
 descendente/S
 descifrable/kS
