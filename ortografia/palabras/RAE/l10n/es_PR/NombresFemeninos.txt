@@ -48,6 +48,7 @@ mixta/S
 oroya/S
 picuda/S
 pitahaya/S
+premiación/S
 pulpería/S
 rara/S
 reclame/S

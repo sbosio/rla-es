@@ -724,6 +724,7 @@ recluta/S
 recurrente/S
 refranista/S
 regente/S
+relevista/S
 rematante/S
 remitente/S
 remontista/S
@@ -761,8 +762,10 @@ saltabarrancos
 saltacharquillos
 saltaparedes
 saltimbanqui/S
+sandinista/S
 sanscritista/S
 sargento/S
+sasánida/S
 sátrapa/S
 saxo/S
 saxofonista/S
@@ -793,6 +796,7 @@ suarista/S
 subintendente/S
 sufragista/S
 sumista/S
+suní/S
 superintendente/S
 superrealista/S
 suplefaltas
@@ -825,6 +829,7 @@ tiple/S
 tiquismiquis
 tiranicida/S
 titerista/S
+tlaxcalteca/S
 todoterreno/S
 tontaina/S
 tope/S
@@ -856,6 +861,7 @@ tronera/S
 tropelista/S
 trotacalles
 trotamundos
+trotskista/S
 trovista/S
 trucha/S
 tuareg/S
@@ -865,6 +871,7 @@ tumbaollas
 turista/S
 tusa/S
 urbanista/S
+valencianista/S
 veleta/S
 velocipedista/S
 versista/S
@@ -902,6 +909,7 @@ zahorí/S
 zampabollos
 zampapalo/S
 zampatortas
+zapatista/S
 zarista/S
 zarzuelista/S
 zelote/S

@@ -10965,6 +10965,7 @@ validación/S
 validez/Sk
 valija/S
 valla/S
+valona/S
 valoración/Sp
 valorización/pSh
 valquiria/S

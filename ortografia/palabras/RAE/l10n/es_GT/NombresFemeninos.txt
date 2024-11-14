@@ -52,6 +52,7 @@ milpa/S
 ña
 oroya/S
 pitahaya/S
+premiación/S
 pringamoza/S
 pulpería/S
 rara/S

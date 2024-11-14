@@ -64,6 +64,7 @@ oroya/S
 pachamanca/S
 pitahaya/S
 poblada/S
+premiación/S
 pulpería/S
 quila/S
 quinua/S

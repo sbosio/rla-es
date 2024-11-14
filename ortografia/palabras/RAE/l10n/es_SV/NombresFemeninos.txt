@@ -64,6 +64,7 @@ milpa/S
 oroya/S
 pacha/S
 pitahaya/S
+premiación/S
 pulpería/S
 radioemisora/S
 rara/S

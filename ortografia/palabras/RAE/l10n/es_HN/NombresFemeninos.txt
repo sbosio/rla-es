@@ -79,6 +79,7 @@ pimientilla/S
 pitahaya/S
 pitanga/S
 postrera/S
+premiación/S
 pringamoza/S
 pulpería/S
 radioemisora/S

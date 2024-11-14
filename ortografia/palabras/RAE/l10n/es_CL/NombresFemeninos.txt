@@ -85,6 +85,7 @@ pinuca/S
 pitahaya/S
 poblada/S
 polera/SU
+premiación/S
 pulpería/S
 quila/S
 quisca/S

@@ -91,6 +91,7 @@ pitahaya/S
 planeación/S
 podada/S
 portación/S
+premiación/S
 pulpería/S
 quitada/S
 radioemisora/S

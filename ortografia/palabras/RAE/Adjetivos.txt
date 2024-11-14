@@ -10818,6 +10818,7 @@ rebatible/Sk
 rebelde/S
 rebolludo/GS
 rebosante/S
+reboteador/GS
 rebuscado/GS
 rebuznador/SG
 recabita/S
@@ -10974,6 +10975,7 @@ relativista/S
 relativo/GfS
 relator/GS
 relevante/kS
+relevista/S
 religiosa/kc
 religioso/kGSc
 relinchador/GS
@@ -11453,6 +11455,7 @@ sancionatorio/GS
 sancristobaleño/GS
 sandalino/SG
 sandio/GS
+sandinista/S
 sanducero/GS
 sandunguero/SG
 sangley/S
@@ -11518,6 +11521,7 @@ sarmentoso/SG
 sarnoso/GS
 sarraceno/GS
 sarroso/GS
+sasánida/S
 satánico/SG
 satinador/GS
 satírico/GS
@@ -12130,6 +12134,7 @@ sumisa/k
 sumiso/GkS
 sumista/S
 sumo/GS
+suní/S
 suntuario/GS
 suntuosa/n
 suntuoso/GnS
@@ -12520,6 +12525,7 @@ titilador/GS
 titubeante/S
 titular/S
 tiznero/GS
+tlaxcalteca/S
 toba/S
 tobillero/GS
 toboso/GS
@@ -12867,6 +12873,7 @@ tropezoso/GS
 tropical/sSl
 trópico/SG
 trotador/SG
+trotskista/S
 trovadoresco/GS
 trovador/SG
 troyano/GS
@@ -12919,6 +12926,7 @@ turbador/fSG
 turbativo/GS
 turbio/GS
 turbo/S
+turbohélice/S
 turbulento/GS
 turco/GS
 turcomano/GS
@@ -13071,6 +13079,7 @@ vaída/hS
 valar/S
 valdense/S
 valedero/GS
+valencianista/S
 valenciano/GS
 valentiniano/GS
 valentino/GS
@@ -13086,6 +13095,7 @@ valiente/S
 valioso/GS
 vallar/S
 vallisoletano/SG
+valón/GS
 valvar/S
 valvular/S
 vanaglorioso/GS
@@ -13473,6 +13483,7 @@ zanquivano/SG
 zaparrastroso/GS
 zapateador/SG
 zapatero/GS
+zapatista/S
 zapatudo/GS
 zarabandista/S
 zarabando/GS

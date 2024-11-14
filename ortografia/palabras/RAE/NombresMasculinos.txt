@@ -11043,6 +11043,7 @@ rastrillado/S
 rastrillo/C
 rastrojo/S
 rastro/SN
+rata/S
 raticida/S
 ratón/S
 rato/S
@@ -13334,6 +13335,7 @@ turbit/S
 turbocompresor/S
 turbón/S
 turbo/S
+turbohélice/S
 turborreactor/S
 turibulario/S
 turíbulo/S
@@ -13443,6 +13445,8 @@ vallar/S
 valle/S
 vallenato/S
 vallico/S
+valón/S
+valones
 valor/S
 vals/S
 vampirismo/S

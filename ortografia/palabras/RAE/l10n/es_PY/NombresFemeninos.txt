@@ -55,6 +55,7 @@ pachamanca/S
 patota/S
 pitahaya/S
 poblada/S
+premiación/S
 pulpería/S
 quila/S
 rara/S

@@ -446,6 +446,7 @@ prescribir/REDÂ
 presumir/REDÂT
 primar/RED
 principiar/RED
+procesionar/RED
 profesar/REDÆ
 profundizar/REDÀÄ
 promediar/RED

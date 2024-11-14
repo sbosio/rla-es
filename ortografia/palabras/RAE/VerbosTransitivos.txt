@@ -2756,6 +2756,8 @@ muñir/RED
 muquir/RED
 murar/RED
 murciar/RED
+musicalizar/RED
+musicar/RED
 namorar/RED
 narrar/REDÀÁÂÃÆT
 nasalizar/RED
@@ -3240,6 +3242,7 @@ remachar/REDÙ
 remallar/RED
 remandar/RED
 remarcar/REDÀÂÆ
+remasterizar/D
 rembolsar/RED
 remedar/REDT
 remedir/XD

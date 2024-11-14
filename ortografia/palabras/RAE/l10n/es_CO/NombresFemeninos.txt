@@ -93,6 +93,7 @@ pitahaya/S
 pitora/S
 pitorá/S
 poblada/S
+premiación/S
 pringamoza/S
 pronuncia/S
 pulpería/S

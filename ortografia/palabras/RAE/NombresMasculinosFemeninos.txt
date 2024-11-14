@@ -1594,11 +1594,10 @@ raptor/GS
 raquetero/GS
 raso/GS
 rastrero/GS
-rata/S
 ratero/GS
 rayado/GS
 realizador/GS
-rea/S
+reboteador/GS
 recadero/GS
 recaudador/GS
 receptor/GS
@@ -1635,7 +1634,7 @@ remero/GS
 rentero/GS
 renunciatario/GS
 reorganizador/GS
-reo/S
+reo/GS
 repetidor/GS
 repostero/GS
 requintador/GS
@@ -1940,6 +1939,7 @@ vacuno/GS
 vaina/S
 valedor/GS
 valenciano/GS
+valón/GS
 vaquerizo/GS
 vaquero/GS
 vareador/GS

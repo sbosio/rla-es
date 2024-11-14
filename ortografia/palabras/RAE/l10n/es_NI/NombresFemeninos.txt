@@ -68,6 +68,7 @@ pacha/S
 pitahaya/S
 portación/S
 precisa/S
+premiación/S
 pulpería/S
 rara/S
 reclame/S
