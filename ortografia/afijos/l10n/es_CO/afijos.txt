@@ -3255,7 +3255,7 @@ SFX Ë ír        yéndonoslos   oír
 # Verbos regulares en imperativo, con clíticos de objeto directo en
 # 3ª persona, singular y plural; en posición enclítica.
 #
-SFX Ì Y 380
+SFX Ì Y 396
 SFX Ì abar      ábala    abar
 SFX Ì abar      ábalas   abar
 SFX Ì abar      ábalo    abar
@@ -3280,10 +3280,10 @@ SFX Ì ajar      ájala    ajar
 SFX Ì ajar      ájalas   ajar
 SFX Ì ajar      ájalo    ajar
 SFX Ì ajar      ájalos   ajar
-SFX Ì alar      álala    alar
-SFX Ì alar      álalas   alar
-SFX Ì alar      álalo    alar
-SFX Ì alar      álalos   alar
+SFX Ì alar      álela    alar
+SFX Ì alar      álelas   alar
+SFX Ì alar      álelo    alar
+SFX Ì alar      álelos   alar
 SFX Ì amar      ámala    amar
 SFX Ì amar      ámalas   amar
 SFX Ì amar      ámalo    amar
@@ -3456,6 +3456,10 @@ SFX Ì evar      évala    evar
 SFX Ì evar      évalas   evar
 SFX Ì evar      évalo    evar
 SFX Ì evar      évalos   evar
+SFX Ì ibir      íbala    ibir
+SFX Ì ibir      íbalas   ibir
+SFX Ì ibir      íbalo    ibir
+SFX Ì ibir      íbalos   ibir
 SFX Ì icar      ícala    icar
 SFX Ì icar      ícalas   icar
 SFX Ì icar      ícalo    icar
@@ -3496,6 +3500,10 @@ SFX Ì isar      ísala    isar
 SFX Ì isar      ísalas   isar
 SFX Ì isar      ísalo    isar
 SFX Ì isar      ísalos   isar
+SFX Ì istrar    ístrela  istrar
+SFX Ì istrar    ístrelas istrar
+SFX Ì istrar    ístrelo  istrar
+SFX Ì istrar    ístrelos istrar
 SFX Ì itar      ítala    itar
 SFX Ì itar      ítalas   itar
 SFX Ì itar      ítalo    itar
@@ -3592,6 +3600,10 @@ SFX Ì ujar      újalas   ujar
 SFX Ì ujar      újala    ujar
 SFX Ì ujar      újalos   ujar
 SFX Ì ujar      újalo    ujar
+SFX Ì ular      úlela    ular
+SFX Ì ular      úlelas   ular
+SFX Ì ular      úlelo    ular
+SFX Ì ular      úlelos   ular
 SFX Ì ulsar     úlsalas  ulsar
 SFX Ì ulsar     úlsala   ulsar
 SFX Ì ulsar     úlsalos  ulsar
@@ -3628,6 +3640,10 @@ SFX Ì uscar     úscalas  uscar
 SFX Ì uscar     úscala   uscar
 SFX Ì uscar     úscalos  uscar
 SFX Ì uscar     úscalo   uscar
+SFX Ì ustar     ústela   ustar
+SFX Ì ustar     ústelas  ustar
+SFX Ì ustar     ústelo   ustar
+SFX Ì ustar     ústelos  ustar
 SFX Ì utar      útalas   utar
 SFX Ì utar      útala    utar
 SFX Ì utar      útalos   utar
@@ -3640,13 +3656,15 @@ SFX Ì uzar      úzalo    uzar
 # Verbos regulares en imperativo, con clíticos de objeto directo o indirecto
 # en 1ª y 2ª persona, singular y plural; en posición enclítica.
 #
-SFX Í Y 170
+SFX Í Y 174
 SFX Í abar      ábame    abar
 SFX Í abar      ábanos   abar
 SFX Í ablar     áblame   ablar
 SFX Í ablar     áblanos  ablar
 SFX Í acar      ácame    acar
 SFX Í acar      ácanos   acar
+SFX Í actar     áctame   actar
+SFX Í actar     áctanos  actar
 SFX Í agar      ágame    agar
 SFX Í agar      áganos   agar
 SFX Í ajar      ájame    ajar
@@ -3781,6 +3799,8 @@ SFX Í orrer     órreme   orrer
 SFX Í orrer     órrenos  orrer
 SFX Í otar      ótame    otar
 SFX Í otar      ótanos   otar
+SFX Í oyar      óyame    oyar # apoyar
+SFX Í oyar      óyanos   oyar
 SFX Í ubir      úbeme    ubir
 SFX Í ubir      úbenos   ubir
 SFX Í ucar      úcame    ucar
@@ -4162,7 +4182,11 @@ SFX Ï urar      úraselo     urar
 # Verbos irregulares de presente en imperativo (2ª persona), con clíticos de
 # objeto directo en 3ª persona, singular y plural; en posición enclítica.
 #
-SFX Ð Y 52
+SFX Ð Y 60
+SFX Ð alar      álala     alar
+SFX Ð alar      álalas    alar
+SFX Ð alar      álalo     alar
+SFX Ð alar      álalos    alar
 SFX Ð egar      iégala    egar
 SFX Ð egar      iégalas   egar
 SFX Ð egar      iégalo    egar
@@ -4215,6 +4239,10 @@ SFX Ð ostrar    uéstrala  ostrar
 SFX Ð ostrar    uéstralas ostrar
 SFX Ð ostrar    uéstralo  ostrar
 SFX Ð ostrar    uéstralos ostrar
+SFX Ð ustar     ústala    ustar
+SFX Ð ustar     ústalas   ustar
+SFX Ð ustar     ústalo    ustar
+SFX Ð ustar     ústalos   ustar
 
 # Verbos irregulares de presente en imperativo (2ª persona), con clíticos de
 # objeto directo o indirecto en 1ª persona, singular y plural; en posición
@@ -6402,7 +6430,7 @@ SFX ó r         éndote       ucir
 # Verbos regulares que aceptan conjugación pronominal, en imperativo; con
 # pronombre personal reflexivo en posición enclítica.
 #
-SFX ô Y 137
+SFX ô Y 138
 SFX ô abar      ábate    abar
 SFX ô r         te       [aei]r    # 2ª pers. singular (vos)
 SFX ô acar      ácate    acar
@@ -6471,6 +6499,7 @@ SFX ô estar     éstate   estar
 SFX ô eter      étete    eter
 SFX ô evar      évate    evar
 SFX ô ever      évete    ever
+SFX ô ibir      íbete    ibir
 SFX ô ibrar     íbrate   ibrar
 SFX ô icar      ícate    icar
 SFX ô idar      ídate    idar

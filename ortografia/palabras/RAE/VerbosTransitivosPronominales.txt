@@ -1500,7 +1500,7 @@ evaporar/REDÀT
 evitar/REDÀÁÄÅÆñòø
 exacerbar/REDÀ
 exaltar/REDÀÂñ
-examinar/REDÀÁÂÄÅñòø
+examinar/REDÀÁÂÄÅÙñòø
 exasperar/REDÀÁñ
 excandecer/IRD
 excarcelar/RED
@@ -1672,7 +1672,7 @@ insertar/REDÀÁÂÄñòôøp
 insinuar/IRDÀÁÂÃÅÆñò
 insolar/RED
 insolentar/RED
-instalar/REDÂÀÄÅñòôø
+instalar/REDÐÂÀÄÅÌñòôøh
 institucionalizar/REDÀ
 instruir/IRDÀÁÂÈÉÊñó
 insubordinar/RED
@@ -2005,7 +2005,7 @@ refringir/RED
 refugiar/REDñòô
 regalar/REDÀÂÃÛñò
 regenerar/REDÀñ
-registrar/REDÀÁÅÆñòô
+registrar/REDÀÁÅÆÌñòô
 reglar/RED
 regocijar/REDÁñò
 reguardar/RED

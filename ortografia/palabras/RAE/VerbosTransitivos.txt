@@ -373,7 +373,7 @@ aposar/RED
 apostillar/RED
 apostrofar/RED
 apotrerar/RED
-apoyar/REDÀÁÂÄÅÆ
+apoyar/REDÀÁÂÄÅÆÍ
 aprehender/REDÀÁ
 apremiar/REDÀÁÂÄÆ
 aprender/REDÀÁÃÄÅÙÜ
@@ -640,7 +640,7 @@ calafetear/RED
 calandrar/RED
 calcar/RED
 calcografiar/IRD
-calcular/REDÀÂÄÆ
+calcular/REDÀÂÄÆÌ
 calibrar/REDÀA
 caligrafiar/IRD
 callantar/RED
@@ -2466,7 +2466,7 @@ inserir/XD
 insidiar/RED
 insonorizar/RED
 inspeccionar/REDÀÂÄÅÌ
-instalar/REDÂÀÄÅñòôøh
+instalar/REDÐÂÀÄÅÌñòôøh
 instaurar/REDÀÂ
 instigar/RED
 instilar/RED
