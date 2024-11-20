@@ -3283,7 +3283,23 @@ SFX Ë ír        yéndonoslos   oír
 # Verbos regulares en imperativo, con clíticos de objeto directo en
 # 3ª persona, singular y plural; en posición enclítica.
 #
-SFX Ì Y 384
+SFX Ì Y 400
+SFX Ì ibir      íbala    ibir
+SFX Ì ibir      íbalas   ibir
+SFX Ì ibir      íbalo    ibir
+SFX Ì ibir      íbalos   ibir
+SFX Ì istrar    ístrela  istrar
+SFX Ì istrar    ístrelas istrar
+SFX Ì istrar    ístrelo  istrar
+SFX Ì istrar    ístrelos istrar
+SFX Ì ular      úlela    ular
+SFX Ì ular      úlelas   ular
+SFX Ì ular      úlelo    ular
+SFX Ì ular      úlelos   ular
+SFX Ì ustar     ústela   ustar
+SFX Ì ustar     ústelas  ustar
+SFX Ì ustar     ústelo   ustar
+SFX Ì ustar     ústelos  ustar
 SFX Ì abar      ábala    abar
 SFX Ì abar      ábalas   abar
 SFX Ì abar      ábalo    abar
