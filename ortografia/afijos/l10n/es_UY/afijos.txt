@@ -6536,7 +6536,7 @@ SFX ó r         éndote       ucir
 # Verbos regulares que aceptan conjugación pronominal, en imperativo; con
 # pronombre personal reflexivo en posición enclítica.
 #
-SFX ô Y 137
+SFX ô Y 138
 SFX ô abar      ábate    abar
 SFX ô r         te       [aei]r    # 2ª pers. singular (vos)
 SFX ô acar      ácate    acar
