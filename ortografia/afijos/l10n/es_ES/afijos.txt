@@ -3486,7 +3486,23 @@ SFX Ë ír        yéndooslos    oír
 # Verbos regulares en imperativo, con clíticos de objeto directo en
 # 3ª persona, singular y plural; en posición enclítica.
 #
-SFX Ì Y 384
+SFX Ì Y 400
+SFX Ì ibir      íbala    ibir
+SFX Ì ibir      íbalas   ibir
+SFX Ì ibir      íbalo    ibir
+SFX Ì ibir      íbalos   ibir
+SFX Ì istrar    ístrela  istrar
+SFX Ì istrar    ístrelas istrar
+SFX Ì istrar    ístrelo  istrar
+SFX Ì istrar    ístrelos istrar
+SFX Ì ular      úlela    ular
+SFX Ì ular      úlelas   ular
+SFX Ì ular      úlelo    ular
+SFX Ì ular      úlelos   ular
+SFX Ì ustar     ústela   ustar
+SFX Ì ustar     ústelas  ustar
+SFX Ì ustar     ústelo   ustar
+SFX Ì ustar     ústelos  ustar
 SFX Ì abar      ábala    abar
 SFX Ì abar      ábalas   abar
 SFX Ì abar      ábalo    abar
@@ -3515,10 +3531,10 @@ SFX Ì ajar      ájala    ajar
 SFX Ì ajar      ájalas   ajar
 SFX Ì ajar      ájalo    ajar
 SFX Ì ajar      ájalos   ajar
-SFX Ì alar      álala    alar
-SFX Ì alar      álalas   alar
-SFX Ì alar      álalo    alar
-SFX Ì alar      álalos   alar
+SFX Ì alar      álela    alar
+SFX Ì alar      álelas   alar
+SFX Ì alar      álelo    alar
+SFX Ì alar      álelos   alar
 SFX Ì amar      ámala    amar
 SFX Ì amar      ámalas   amar
 SFX Ì amar      ámalo    amar
@@ -3875,7 +3891,11 @@ SFX Ì uzar      úzalo    uzar
 # Verbos regulares en imperativo, con clíticos de objeto directo o indirecto
 # en 1ª y 2ª persona, singular y plural; en posición enclítica.
 #
-SFX Í Y 172
+SFX Í Y 176
+SFX Í actar     áctame   actar
+SFX Í actar     áctanos  actar
+SFX Í oyar      óyame    oyar # apoyar
+SFX Í oyar      óyanos   oyar
 SFX Í abar      ábame    abar
 SFX Í abar      ábanos   abar
 SFX Í r         dme      r
@@ -4437,7 +4457,15 @@ SFX Ï urar      úraselo     urar
 # Verbos irregulares de presente en imperativo (2ª persona), con clíticos de
 # objeto directo en 3ª persona, singular y plural; en posición enclítica.
 #
-SFX Ð Y 56
+SFX Ð Y 64
+SFX Ð alar      álala     alar
+SFX Ð alar      álalas    alar
+SFX Ð alar      álalo     alar
+SFX Ð alar      álalos    alar
+SFX Ð ustar     ústala    ustar
+SFX Ð ustar     ústalas   ustar
+SFX Ð ustar     ústalo    ustar
+SFX Ð ustar     ústalos   ustar
 SFX Ð egar      iégala    egar
 SFX Ð egar      iégalas   egar
 SFX Ð egar      iégalo    egar
@@ -6772,7 +6800,7 @@ SFX ó r         éndote       ucir
 # Verbos regulares que aceptan conjugación pronominal, en imperativo; con
 # pronombre personal reflexivo en posición enclítica.
 #
-SFX ô Y 137
+SFX ô Y 138
 SFX ô abar      ábate    abar
 SFX ô r         os       r
 SFX ô acar      ácate    acar
@@ -6841,6 +6869,7 @@ SFX ô estar     éstate   estar
 SFX ô eter      étete    eter
 SFX ô evar      évate    evar
 SFX ô ever      évete    ever
+SFX ô ibir      íbete    ibir
 SFX ô ibrar     íbrate   ibrar
 SFX ô icar      ícate    icar
 SFX ô idar      ídate    idar

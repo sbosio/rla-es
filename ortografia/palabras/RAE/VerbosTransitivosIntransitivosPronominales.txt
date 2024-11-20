@@ -57,7 +57,7 @@ ahondar/REDÀÄ
 ahuecar/REDÀ
 ahumar/IRDÀ
 ajuglarar/RED
-ajustar/REDÀÁÂÃÄÅÆñòôTÛ
+ajustar/REDÐÀÁÂÃÄÅÆÌñòôTÛ
 alabear/RED
 alargar/REDÀÁÂÄÅÆÍñò
 albergar/REDÀÁñ
@@ -343,7 +343,7 @@ escalofriar/IRD
 escapar/REDÅñòôø
 escapular/RED
 escollar/RED
-escribir/REÀÁÂÄÆÍÏÎÚñòø
+escribir/REÀÁÂÄÆÍÌÏÎÚñòø
 escuchar/REDÀÁÂÄÅÆÍÎÙÚÛñòø
 escupir/REDÁÆñ
 escurrir/REDÀÄÌñò
@@ -483,7 +483,7 @@ prender/REDÀÂÄÆñòø
 prestar/REDÀÁÂÃÍÚñò
 pringar/REDñô
 privar/REDÀÁÂÄÅÆñò
-probar/IRDÄÀÁÂÃñòõù
+probar/IRDÄÀÁÂÃÝñòõù
 prometer/REDÀÃÍÚÛñòô
 pudrir/REÁÅñòô
 purgar/REDÁñT
