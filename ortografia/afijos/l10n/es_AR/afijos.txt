@@ -3537,10 +3537,10 @@ SFX Ì ajar      ájala    ajar
 SFX Ì ajar      ájalas   ajar
 SFX Ì ajar      ájalo    ajar
 SFX Ì ajar      ájalos   ajar
-SFX Ì alar      álala    alar
-SFX Ì alar      álalas   alar
-SFX Ì alar      álalo    alar
-SFX Ì alar      álalos   alar
+SFX Ì alar      álela    alar
+SFX Ì alar      álelas   alar
+SFX Ì alar      álelo    alar
+SFX Ì alar      álelos   alar
 SFX Ì amar      ámala    amar
 SFX Ì amar      ámalas   amar
 SFX Ì amar      ámalo    amar
