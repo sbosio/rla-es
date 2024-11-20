@@ -4234,7 +4234,15 @@ SFX Ï urar      úraselo     urar
 # Verbos irregulares de presente en imperativo (2ª persona), con clíticos de
 # objeto directo en 3ª persona, singular y plural; en posición enclítica.
 #
-SFX Ð Y 56
+SFX Ð Y 64
+SFX Ð alar      álala     alar
+SFX Ð alar      álalas    alar
+SFX Ð alar      álalo     alar
+SFX Ð alar      álalos    alar
+SFX Ð ustar     ústala    ustar
+SFX Ð ustar     ústalas   ustar
+SFX Ð ustar     ústalo    ustar
+SFX Ð ustar     ústalos   ustar
 SFX Ð egar      iégala    egar
 SFX Ð egar      iégalas   egar
 SFX Ð egar      iégalo    egar
