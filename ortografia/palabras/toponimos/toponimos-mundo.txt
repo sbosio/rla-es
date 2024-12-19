@@ -26,11 +26,6 @@
 # como que en este fichero tiene un valor sintáctico distinto ya que forma
 # parte de un nombre propio compuesto.
 #
-# Por simplicidad, yo (@RickieES en Github) he comentado las entidades que
-# existen como palabras comunes (caso de "Cabo Verde", "Costa Rica", etc.).
-# Si el nombre está compuesto por un vocablo común y otro específico del
-# país (p.e.: "Ciudad del Vaticano"), he dejado comentado el nombre original
-# y he añadido la palabra específica como línea independiente.
 
 Acaya
 Afganistán
@@ -42,16 +37,18 @@ Alemania
 Alepo
 Amberes
 América
+Américas
 Ámsterdam
+Andalucía
 Andorra
 Angola
 Antártida
-# Antigua y Barbuda
+Antigua
 Antillas
 Antioquía
 Aquitania
+Árabes
 Arabia
-# Arabia Saudita
 Arcadia
 Argelia
 Argentina
@@ -62,14 +59,17 @@ Aruba
 Asia
 Asur
 Atenas
+Atlanta
 Australia
 Austria
 Azerbaiyán
 Babilonia
 Bagdad
 Bahamas
+Bajos
 Bangladés
 Barbados
+Barbuda
 Baréin
 Basora
 Beirut
@@ -79,17 +79,18 @@ Belice
 Benín
 Beocia
 Berkeley
+Berlín
 Bermuda
 Bielorrusia
 Birmania
 Bisáu
 Bissau
 Bizancio
+Bogotá
 Bolivia
 Bombay
 Bósforo
 Bosnia
-# Bosnia y Herzegovina
 Boston
 Botsuana
 Bouvet
@@ -98,14 +99,14 @@ Brunéi
 Bulgaria
 Burdeos
 Burkina
-# Burkina Faso
 Burundi
 Bután
-# Cabo Verde
+Cabo
 Caicos
 Calabria
 Calais
 Caledonia
+Cali
 Camboya
 Cambridge
 Camerún
@@ -117,18 +118,21 @@ Capadocia
 Cartago
 Catania
 Catar
+Centroafricana
 Centroamérica
 Chad
 Checa
 Chequia
+Chiapas
 Chicago
 Chile
 China
 Chipre
 Cícladas
 Cisjordania
-# Ciudad del Vaticano
+Ciudad
 Clipperton
+Cochabamba
 Colombia
 Comoras
 Congo
@@ -136,36 +140,34 @@ Constantinopla
 Cook
 Córcega
 Corea
-# Corea del Norte
-# Corea del Sur
 Corfú
 Corinto
-# Costa de Marfil
-# Costa Rica
+Costa
 Creta
+Cristóbal
 Croacia
 Cuba
 Damasco
 Delfos
 Delos
+Democrática
 Dinamarca
 Dominica
 Dominicana
 Ecuador
-Elba
+Ecuatorial
 Éfeso
 Egeo
 Egipto
-# El Salvador
+Elba
 Emiratos
-# Emiratos Árabes Unidos
 Epidauro
 Eritrea
 Eslovaquia
 Eslovenia
 España
 Esparta
-# Estados Unidos
+Estados
 Estambul
 Estonia
 Etiopía
@@ -195,10 +197,9 @@ Grecia
 Groenlandia
 Guam
 Guatemala
+Guayaquil
 Guernsey
 Guinea
-# Guinea Bisáu
-# Guinea Ecuatorial
 Guyana
 Haití
 Harvard
@@ -209,6 +210,7 @@ Hispanoamérica
 Honduras
 Hong
 Hungría
+Iberoamérica
 India
 Indonesia
 Inglaterra
@@ -216,8 +218,7 @@ Irak
 Irán
 Irlanda
 Islandia
-# Islas Marshall
-# Islas Salomón
+Islas
 Israel
 Italia
 Jamaica
@@ -239,6 +240,7 @@ Laconia
 Lanka
 Laos
 Latinoamérica
+Leona
 Lepanto
 Lesbos
 Lesoto
@@ -248,9 +250,11 @@ Liberia
 Libia
 Liechtenstein
 Liguria
+Lisboa
 Lituania
 Lombardía
 Londres
+Lucía
 Luxemburgo
 Lúxor
 Macau
@@ -263,16 +267,21 @@ Maldivas
 Mali
 Malta
 Malvinas
+Managua
+Marfil
 Marianas
+Marino
 Mármara
 Marruecos
 Marshall
 Martinica
 Mauricio
 Mauritania
+Medellín
 Mesina
 Mesopotamia
 México
+Miami
 Micenas
 Micronesia
 Milán
@@ -281,6 +290,8 @@ Moldavia
 Mónaco
 Mongolia
 Montenegro
+Montevideo
+Moscú
 Mozambique
 Myanmar
 Namibia
@@ -288,21 +299,24 @@ Naṕoles
 Nauru
 Nepal
 Nicaragua
+Nieves
 Níger
 Nigeria
 Nínive
 Niue
 Norfolk
+Norte
 Norteamérica
 Noruega
-# Nueva Zelanda
+Nueva
 Oceanía
 Olimpia
 Olimpo
 Omán
+Oriental
 Oxford
 Padua
-# Países Bajos
+Países
 Pakistán
 Palaos
 Palermo
@@ -310,27 +324,25 @@ Palestina
 Palmira
 Panamá
 Papúa
-# Papúa Nueva Guinea
 Paraguay
 Parnaso
+Pekín
 Peloponeso
 Pérgamo
 Persépolis
 Persia
 Perú
 Pitcairn
+Platea
 Polinesia
 Polonia
 Pompeya
 Portugal
-Platea
+Príncipe
 Provenza
-Reino Unido
-# República Centroafricana
-# República Checa
-# República del Congo
-# República Democrática del Congo
-# República Dominicana
+Reino
+República
+Rica
 Rodas
 Ruan
 Ruanda
@@ -339,15 +351,15 @@ Rusia
 Salamina
 Salomón
 Salónica
+Salvador
 Samoa
 Samos
 Samotracia
-# San Cristóbal y Nieves
-# San Marino
-# Santa Lucía
-# Santo Tomé y Príncipe
-# San Vicente y las Granadinas
+San
+Santa
+Santo
 Santorini
+Sarajevo
 Sardes
 Saudita
 Senegal
@@ -355,7 +367,7 @@ Serbia
 Seychelles
 Sicilia
 Sidón
-# Sierra Leona
+Sierra
 Singapur
 Sion
 Siracusa
@@ -365,24 +377,23 @@ Solomon
 Somalia
 Soviética
 Sri
-# Sri Lanka
 Suazilandia
 Sudáfrica
 Sudamérica
 Sudán
-# Sudán del Sur
 Suecia
 Suez
 Suiza
 Sumatra
+Sur
 Surinam
 Svalbard
-Tailandia
 Tahití
+Tailandia
 Taiwan
 Tanzania
-Tarento
 Taormina
+Tarento
 Tayikistán
 Tebas
 Termópilas
@@ -391,17 +402,16 @@ Tesalónica
 Texas
 Tigris
 Timor
-# Timor Oriental
 Tiro
 Tobago
 Togo
 Tokelau
+Tokio
 Tomé
 Tonga
 Tracia
 Trafalgar
 Trinidad
-# Trinidad y Tobago
 Troya
 Túnez
 Turkmenistán
@@ -410,6 +420,8 @@ Tuvalu
 Ucrania
 Uganda
 Umbría
+Unido
+Unidos
 Ur
 Uruguay
 Uruk
@@ -419,10 +431,15 @@ Vaticano
 Venecia
 Véneto
 Venezuela
+Veracruz
+Verde
+Vicente
 Viena
 Vietnam
+Washington
 Yemen
 Yibuti
+Yucatán
 Yugoslavia
 Zambia
 Zelanda
