@@ -6500,6 +6500,7 @@ glauco/S
 glifo/S
 globo/S
 glóbulo/S
+glomérulo/S
 gloriapatri/S
 glosario/S
 glotón/S
@@ -6821,6 +6822,7 @@ helipuerto/S
 helminto/S
 helor/S
 hematíe/S
+hematocrito/S
 hematoma/S
 hemiciclo/S
 hemíptero/S
@@ -9282,6 +9284,7 @@ octosílabo/S
 octubre
 ocular/S
 óculo/S
+ocultamiento/S
 ocultismo/S
 odeón/S
 odio/Si
@@ -9721,6 +9724,7 @@ pargo/S
 parhelio/S
 parietal/S
 paritorio/S
+párkinson
 parlamentarismo/S
 parlamento/S
 parlatorio/S

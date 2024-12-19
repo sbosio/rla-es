@@ -2527,6 +2527,7 @@ cerealista/S
 cereal/S
 cerebral/S
 cerebroespinal/S
+cerebrovascular/S
 ceremonial/S
 ceremoniero/GS
 ceremonioso/GS
@@ -8298,6 +8299,7 @@ menesteroso/GS
 menfita/S
 menguado/GS
 menguante/S
+meníngeo/GS
 menipeo/GS
 menique/S
 menonita/S
@@ -8394,6 +8396,7 @@ mexicano/GS
 mexica/S
 mezquino/GS
 mi
+miccional/S
 micénico/GS
 microbiano/SG
 microbicida/S
@@ -11901,6 +11904,7 @@ sísmico/GS
 sisón/SG
 sistemático/GS
 sistémico/GS
+sistólico/GS
 sitiado/GS
 sitiador/GS
 sitibundo/GS
@@ -13027,6 +13031,7 @@ urbanístico/SG
 urbano/ksGSl
 urdidor/SG
 urdu/S
+urémico/GS
 urente/S
 uretral/S
 urgabonense/S
@@ -13149,6 +13154,7 @@ vegetariano/GS
 vegetativo/GS
 veguero/GS
 vehemente/S
+vehicular/S
 veintavo/GS
 veinteavo/GS
 veinteno/GS

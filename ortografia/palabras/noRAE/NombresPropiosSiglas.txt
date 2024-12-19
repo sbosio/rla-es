@@ -104,7 +104,7 @@ Dalí
 Damocles
 Daniel
 Darío
-Darussalam # revisar
+Darussalam
 Darwin
 David
 Deuteronomio
@@ -231,7 +231,7 @@ Leonor
 Leopoldo
 Liaño
 Libra
-Linux 
+Linux
 Lola
 Lope
 López
@@ -267,7 +267,7 @@ Méndez
 Mendoza
 Menem
 Menéndez
-Mercosur # revisar
+Mercosur
 Microsoft
 Miguel
 Miquel
@@ -301,13 +301,14 @@ Ordóñez
 Orión
 Ortiz
 Óscar
-Oscar # revisar
+Oscar
 Osvaldo
 OTAN
 Pablo
 Paco
 Palau
 Paracelso
+Parkinson
 Paulina
 PCE
 PER

@@ -1266,6 +1266,7 @@ benemérita/S
 benevolencia/S
 bengala/S
 benignidad/S
+benzodiacepina/S
 beodez/S
 berberidácea/S
 berenjena/S
@@ -2815,6 +2816,7 @@ contundencia/S
 contusión/S
 conurbación/S
 convalecencia/S
+convalidación/S
 convección/S
 convención/pS
 conveniencia/hkS
@@ -4676,6 +4678,7 @@ fluorita/S
 fluxión/S
 fobia/S
 foca/S
+focalización/S
 focha/S
 fogarada/S
 fogarata/S
@@ -5026,6 +5029,7 @@ gitanería/S
 glaciación/S
 glándula/S
 gleba/S
+glicemia/S
 glicerina/S
 glicina/S
 glicinia/S
@@ -5297,6 +5301,7 @@ hemiplejía/S
 hemocianina/S
 hemofilia/S
 hemoglobina/S
+hemólisis
 hemoptisis
 hemorragia/S
 hemorroide/GS
@@ -5401,6 +5406,7 @@ hiniestra/S
 hiperactividad/S
 hipérbola/S
 hipérbole/S
+hipercalcemia/S
 hiperclorhidria/S
 hipercrisis
 hiperdulía/S
@@ -7814,6 +7820,7 @@ ostaga/S
 ostentación/S
 osteomalacia/S
 osteomielitis
+osteoporosis
 ostia/S
 ostra/S
 ostricultura/S
@@ -11203,6 +11210,7 @@ viscosa/S
 viscosidad/S
 visera/S
 visibilidad/Snk
+visicitud/S
 visión/Snopt
 visitación/S
 visita/pS
@@ -11237,7 +11245,7 @@ volanta/S
 volatería/S
 volatilidad/S
 volatilla/S
-visicitud/S
+volemia/S
 volición/S
 voltariedad/S
 voltereta/S
