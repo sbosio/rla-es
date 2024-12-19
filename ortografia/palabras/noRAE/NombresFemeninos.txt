@@ -74,7 +74,7 @@ microinformática/S
 modelación/S
 nanoindentación/S
 némesis
-ortotipografía
+ortotipografía/S
 personalización/S
 preproducción/S			# Contribuida por Sergio Medina
 priorización/S
