@@ -233,6 +233,7 @@ cómitre/S
 comodante/S
 compareciente/S
 comparsa/S
+compatriota/S
 compendista/S
 compinche/S
 cómplice/S
@@ -266,7 +267,6 @@ controversista/S
 conviviente/S
 cónyuge/S
 copartícipe/S
-copiloto/S
 copista/S
 coplista/S
 coprotagonista/S
@@ -640,7 +640,7 @@ pasante/S
 paseante/S
 pastelista/S
 pata/S
-patriota/fS
+patriota/S
 paulista/S
 pediatra/S
 pehuenche/S
@@ -660,7 +660,7 @@ perista/S
 peronista/S
 petardista/S
 pianista/S
-piloto/S
+piloto/fS
 pincerna/S
 pinchadiscos
 pinche/S

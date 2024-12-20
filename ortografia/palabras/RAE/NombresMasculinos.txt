@@ -3849,7 +3849,6 @@ copero/S
 copete/S
 copón/S
 copo/S
-príncipe/S
 coprolito/S
 copto/S
 copyright
@@ -10649,7 +10648,7 @@ primordio/S
 primor/S
 principado/S
 principal/S
-príncipe/S
+príncipe/fS
 principio/S
 principote/S
 pringote/S

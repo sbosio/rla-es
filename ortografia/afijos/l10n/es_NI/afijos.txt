@@ -185,7 +185,7 @@ PFX e 0         bir       r
 PFX f Y 6
 PFX f 0         con       [^abehiloprug]
 PFX f 0         con       ll
-PFX f 0         com       [pb]
+PFX f 0         co       [pb]
 PFX f 0         co        [aehioug]
 PFX f 0         co        l[^l]
 PFX f 0         cor       r
