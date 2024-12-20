@@ -5216,6 +5216,7 @@ estupefacto/GS
 estupendo/SG
 estúpido/GS
 etario/GS
+etarra/S
 etéreo/SG
 eternal/S
 eterno/GS
@@ -6551,6 +6552,7 @@ homérico/SG
 homicida/S
 hominal/S
 homínido/GS
+homo
 homocerca/S
 homogéneo/GS
 homologable/S

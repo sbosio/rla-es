@@ -354,6 +354,7 @@ estuchista/S
 estudiante/S
 estufista/S
 estuquista/S
+etarra/S
 etimologista/S
 ex
 excursionista/S
@@ -445,6 +446,7 @@ hispanista/S
 hispanoparlante/S
 historietista/S
 hojaldrista/S
+homo
 huelguista/S
 huésped/S
 humanista/S

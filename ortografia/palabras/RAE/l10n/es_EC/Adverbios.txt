@@ -17,3 +17,4 @@
 dizque
 hasta
 nocaut
+nomás

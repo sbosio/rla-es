@@ -6439,12 +6439,13 @@ géiser/S
 gel/S
 gemelo/SG
 gemido/S
-gen/S
+gen
 gendarme/S
 generador/S
 generalato/S
 generalísimo/S
 género/Ss
+genes # plural gen (la bandera no funciona porque gen hace parte de terminaciones para reglas)
 geniazo/S
 genio/kS
 genital/S

@@ -8813,6 +8813,7 @@ proclamación/S
 proclama/S
 proclividad/S
 procura/S
+procuraduría/S
 prodigalidad/S
 prodigiosidad/S
 producción/tpSd

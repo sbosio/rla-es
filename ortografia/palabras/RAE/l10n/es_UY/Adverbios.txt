@@ -16,4 +16,5 @@
 
 dizque
 nocaut
+nomás
 regio
