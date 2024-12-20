@@ -378,7 +378,7 @@ figurante/S
 figura/SN
 filipinista/S
 finalista/S
-fiscal/S
+fiscal/KS
 fisioterapeuta/S
 flauta/S
 flautín/S
@@ -587,6 +587,7 @@ muralista/S
 mutualista/S
 mutuante/S
 narcisista/S
+narco/S
 narizotas
 naturalista/S
 naturópata/S
