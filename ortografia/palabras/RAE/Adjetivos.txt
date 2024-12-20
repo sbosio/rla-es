@@ -4934,6 +4934,7 @@ escandalizativo/GS
 escandaloso/GS
 escandinavo/GS
 escapado/GS
+escapista/S
 escapular/S
 escaqueado/SG
 escarbador/SG
@@ -5833,7 +5834,7 @@ frívolo/GS
 frondoso/GS
 frontalero/GS
 frontal/S
-fronterizo/SG
+fronterizo/uSG
 frontero/GS
 frontino/GS
 frotador/SG
@@ -10354,6 +10355,7 @@ presciente/S
 prescindible/Sk
 prescriptible/kS
 prescriptor/GS
+presencial/KSq
 presentable/Spk
 presentador/pGS
 presente/SG

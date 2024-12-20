@@ -108,6 +108,7 @@ polandés/GS
 postraumático/GS
 posvacacional/S
 propositivo/GS
+psicosocial/S
 reconducible/S
 representacional/S
 reproducible/S

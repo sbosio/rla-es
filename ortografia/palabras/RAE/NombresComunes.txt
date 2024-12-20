@@ -336,6 +336,7 @@ epigrafista/S
 epigramatista/S
 epigramista/S
 equivoquista/S
+escapista/S
 escolar/S
 escoliasta/S
 escribiente/S

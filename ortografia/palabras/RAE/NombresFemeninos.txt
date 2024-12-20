@@ -3945,6 +3945,7 @@ equidiferencia/S
 equidistancia/S
 equimosis
 equinoccial/S
+equipación/S
 equipolencia/S
 equiponderancia/S
 equis
