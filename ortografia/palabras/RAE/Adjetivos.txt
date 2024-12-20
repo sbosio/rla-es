@@ -4848,6 +4848,7 @@ epicúreo/GS
 epidemial/S
 epidémico/SG
 epidérmico/GS
+epidural/S
 epifito/SG
 epífito/GS
 epigástrico/GS
@@ -7223,6 +7224,7 @@ isópodo/S
 isotérmico/GS
 isotermo/GS
 isotónico/GS
+isotópico/GS
 isótropo/GS			# Contribuida por Gonzalo Higuera Díaz
 isquiático/GS
 israelí/S
@@ -10268,6 +10270,7 @@ postulante/S
 póstumo/GS
 potable/kS
 potásico/GS
+potenciador/GS
 potencial/S
 potente/nSk
 potenzado/SG
@@ -11386,6 +11389,7 @@ sagitario/SG
 sagrado/GS
 saguntino/GS
 sahariano/GS
+saharaui/S
 sainetesco/GS
 sajón/GS
 salacenco/GS
@@ -11971,7 +11975,7 @@ solfeador/GS
 solicitador/GS
 solicitante/S
 solícito/GS
-solidario/SG
+solidario/kSG
 sólido/GS
 solimitano/GS
 solípedo/S
@@ -13161,6 +13165,7 @@ veguero/GS
 vehemente/S
 vehicular/S
 veintavo/GS
+veinteañero/GS
 veinteavo/GS
 veinteno/GS
 veinte/S

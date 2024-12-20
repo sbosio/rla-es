@@ -422,7 +422,7 @@ guardarropa/S
 guarda/S
 guardiamarina/S
 guía/S
-guionista/S
+guionista/fS
 guiri/S
 guitarra/S
 guitarrista/S
@@ -754,6 +754,7 @@ sacadineros
 sacamanchas
 sacapelotas
 sacerdote/S
+saharaui/S
 sainetista/S
 saldista/S
 saltabardales

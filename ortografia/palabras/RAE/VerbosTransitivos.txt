@@ -1989,7 +1989,7 @@ enzurronar/RED
 epilogar/RED
 epitimar/RED
 epitomar/RED
-equiparar/REDÀÁÄT
+equiparar/REDAÀÁÄT
 erar/RED
 erogar/RED
 erradicar/REDÀ
@@ -2707,7 +2707,7 @@ mimar/REDÀÁÂÄ
 mimeografiar/IRD
 minar/hREDÀÂ
 miniar/RED
-minimizar/REDÀÄ
+minimizar/REDAÀÄ
 minusvalorar/RED
 minutar/RED
 mirificar/RED
@@ -3371,6 +3371,7 @@ riscar/RED
 ritmar/RED
 roblonar/RED
 roborar/RED
+robotizar/REDA
 rochar/RED
 rodrigar/RED
 roer/REIDÀÁÂÅÀÁÂÅ

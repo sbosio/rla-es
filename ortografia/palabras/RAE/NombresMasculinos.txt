@@ -990,6 +990,7 @@ anglicanismo/S
 anglicismo/S
 angloamericanismo/S
 anglosajón/S
+ángstrom/S
 anguilazo/S
 angular/S
 ángulo/S
@@ -1255,6 +1256,7 @@ areopagita/S
 areópago/S
 arestín/S
 arete/S
+argán/S
 arganda/S
 arganeo/S
 árgano/S
@@ -3847,6 +3849,7 @@ copero/S
 copete/S
 copón/S
 copo/S
+príncipe/S
 coprolito/S
 copto/S
 copyright
@@ -10133,6 +10136,7 @@ picatoste/S
 piche/S
 pichi/S
 pichón/S
+pícnic/S
 picolete/S
 picón/S
 picor/S
@@ -10543,6 +10547,7 @@ postre/S
 potajier/S
 potasio/S
 pote/CS
+potenciador/S
 potencial/S
 potenciómetro/S
 potentado/S
@@ -10644,7 +10649,7 @@ primordio/S
 primor/S
 principado/S
 principal/S
-príncipe/Sf
+príncipe/S
 principio/S
 principote/S
 pringote/S
@@ -10839,6 +10844,7 @@ puterío/S
 puto/GS
 putón/S
 puyazo/S
+puzle/S
 puzol/S
 quebracho/S
 quebradero/S
@@ -11780,6 +11786,7 @@ salomón/S
 saloncillo/S
 salón/SN
 salpicadero/S
+salpicón/S
 salpique/S
 salpresamiento/S
 salsamento/S
@@ -13285,6 +13292,7 @@ troqueo/S
 troque/S
 troquilo/S
 trote/S
+trotskismo/S
 trozo/hS
 truco/S
 trueno/S

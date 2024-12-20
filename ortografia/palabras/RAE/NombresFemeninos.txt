@@ -3677,6 +3677,7 @@ edificación/S
 edilidad/S
 educación/S
 efectividad/S
+efeméride/S
 efemérides
 efervescencia/S
 efe/S
@@ -3924,6 +3925,7 @@ epidemia/S
 epidemicidad/S
 epidemiología
 epidermis
+epidural/S
 epifanía/S
 epifonema/S
 epiglosis
@@ -9516,6 +9518,7 @@ rubicundez/S
 rubilla/S
 rúbrica/S
 ruciadera/S
+rúcula/S
 ruda/S
 rudeza/S
 rueca/S
@@ -9979,6 +9982,7 @@ sirte/S
 sirvienta/S
 sisa/S
 sistemática/S
+sistematicidad/S
 sistematización/S
 sístole/S
 sitacosis
