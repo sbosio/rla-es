@@ -82,6 +82,7 @@ aterradoramente
 atolondradamente
 atontadamente
 atrozmente
+audazmente
 auditivamente
 auricularmente
 auténticamente
@@ -496,11 +497,11 @@ tartamudeantemente
 temblorosamente
 tenazmente
 tensamente
-tenuamente
 tenuemente
 tergiversadamente
 tergiversadoramente
 tergiversantemente
+terminológicamente
 ternísimamente
 tersamente
 testarudamente

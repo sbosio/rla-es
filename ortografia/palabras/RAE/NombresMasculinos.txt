@@ -1866,6 +1866,7 @@ barraganete/S
 barragán/S
 barrancal/S
 barranco/S
+barranquismo/S
 barraquillo/S
 barreal/S
 barrenero/S
@@ -5425,7 +5426,7 @@ escáner/S
 escantillón/S
 escaño/S
 escaparate/S
-escape/S
+escape/SO
 escapo/S
 escapulario/S
 escaque/S
@@ -10644,7 +10645,7 @@ primordio/S
 primor/S
 principado/S
 principal/S
-príncipe/S
+príncipe/Sf
 principio/S
 principote/S
 pringote/S

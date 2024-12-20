@@ -2583,7 +2583,7 @@ compensación/S
 competencia/kS
 competición/S
 competitividad/S
-complacencia/S
+complacencia/Sd
 complejidad/S
 complementación/S
 complementariedad/S
@@ -4338,6 +4338,7 @@ euforia/S
 eugenesia/S
 eupepsia/S
 euritmia/S
+europeísta/S
 eutanasia/S
 evacuación/S
 evaluación/S
@@ -7688,7 +7689,7 @@ ofensa/S
 ofensiva/S
 oferta/S
 oficiala/S
-oficialidad/S
+oficialidad/Sf
 oficina/S
 oficiosidad/S
 ofimática/S
@@ -7773,7 +7774,7 @@ orejera/S
 orejuela/S
 orfandad/S
 orfebrería/S
-organización/pSh
+organización/pShf
 organogenia/S
 organza/S
 orgía/S
@@ -8810,7 +8811,7 @@ proclividad/S
 procura/S
 prodigalidad/S
 prodigiosidad/S
-producción/tpS
+producción/tpSd
 productividad/S
 proeza/S
 profanación/S

@@ -768,6 +768,7 @@ engrudador/GS
 enjuto/GS
 enlucidor/GS
 enmascarado/GS
+enólogo/GS
 enriador/GS
 ensalmador/GS
 ensayador/GS
@@ -1339,6 +1340,7 @@ nene/GS
 neófito/GS
 netezuelo/GS
 neumático/GS
+neumólogo/GS
 neurocirujano/GS
 neurólogo/GS
 nietastro/GS

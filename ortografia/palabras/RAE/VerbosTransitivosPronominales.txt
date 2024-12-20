@@ -1908,7 +1908,7 @@ prevenir/XDÀÁÈñ
 proclamar/REDÁÂÄñ
 procurar/REDÂÃÄÆñø
 prodigar/REDñ
-producir/XDÀÁÈÉñóT
+producir/XDÀÁÈÉñóTd
 proferir/XDÀ
 profesionalizar/REDAñ
 programar/REDÀñT

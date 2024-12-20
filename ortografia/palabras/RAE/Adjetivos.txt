@@ -4678,6 +4678,7 @@ encendedor/GS
 encendido/GS
 encerado/GS
 enchapinado/GS
+enchufable/S
 enciclopédico/SG
 enciclopedista/S
 enclenque/S
@@ -5093,6 +5094,7 @@ espumoso/GS
 espurio/SG
 esquelético/GS
 esquemático/GS
+esquiable/S
 esquilador/GS
 esquilimoso/GS
 esquimal/S
@@ -5233,7 +5235,8 @@ eufórico/GS
 eurasiático/SG
 euroasiático/GS
 europarlamentario/GS
-europeo/GS
+europeísta/S
+europeo/GSO
 euskera/S
 eusquera/S
 eutiquiano/GS
@@ -6548,6 +6551,7 @@ hominal/S
 homínido/GS
 homocerca/S
 homogéneo/GS
+homologable/S
 homólogo/SG
 homónimo/SG
 homoparental/S
@@ -8514,7 +8518,7 @@ mocho/S
 mocil/S
 mocito/GS
 mocoso/GS
-modal/S
+modal/Sl
 modelador/GS
 modélico/GS
 moderada/k
@@ -9161,7 +9165,7 @@ occidental/S
 occipital/S
 occiso/SG
 occitano/GS
-oceánico/SGu
+oceánico/SGul
 ocelado/GS
 ochavo/GS
 ochenta/S
@@ -9213,7 +9217,7 @@ ofensivo/kSG
 ofensor/SG
 oferente/S
 ofertante/S
-oficial/S
+oficial/Sf
 oficiante/S
 oficiosa/k
 oficioso/GSk
@@ -9342,7 +9346,7 @@ orense/S
 orgánica/k
 organicista/S
 orgánico/kSG
-organizador/hGpS
+organizador/hGpSf
 organizado/SG
 organizacional/S
 organizativo/GS
@@ -11721,6 +11725,7 @@ serifio/GS
 serio/GS
 sermonario/SG
 sermoneador/GS
+serológico/GS
 serondo/GS
 seroso/SG
 serpentino/SG
@@ -13259,6 +13264,7 @@ versátil/S
 versificador/GS
 vertebrada/k
 vertebrado/GkS
+vertebrador/GS
 vertebral/S
 vertedor/SG
 vertible/kfS
