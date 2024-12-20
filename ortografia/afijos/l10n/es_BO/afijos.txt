@@ -463,25 +463,24 @@ SFX N ga        guilla/S     ga
 # Sufijo -ismo: Indica 'doctrina, sistema, escuela o movimiento', 'propio de
 # o inclinado a', 'cualidad', 'deporte' y 'término científico o defecto'.
 # Relaciona sustantivos y adjetivos con sustantivos masculinos.
-SFX O Y 18
-SFX O ta         mo       ta
-SFX O 0          ismo     [dflnr]
-SFX O o          ismo     [^i]co
-SFX O o          ismo     [^o]ico
-SFX O ico        ísmo     oico
-SFX O a          ismo     [dt]a
-SFX O o          ísmo     eo
-SFX O e          ismo     [jrtp]e
-SFX O 0          ismo     ln
-SFX O án         anismo   án
-SFX O ón         onismo   ón
-SFX O o          smo      io
-SFX O o          ismo     [rst]o
-SFX O ía         ismo     ía
-SFX O a          smo      ia
-SFX O és         esismo   és
-SFX O 0          mo       is
-SFX O o          uismo    go
+SFX O Y 17
+SFX O ta         mo/S       ta
+SFX O 0          ismo/S     [dflnr]
+SFX O o          ismo/S     [^i]co
+SFX O o          ismo/S     [^o]ico
+SFX O ico        ísmo/S     oico
+SFX O a          ismo/S     [dt]a
+SFX O o          ísmo/S     eo
+SFX O e          ismo/S     [jrtp]e
+SFX O án         anismo/S   án
+SFX O ón         onismo/S   ón
+SFX O o          smo/S      io
+SFX O o          ismo/S     [rst]o
+SFX O ía         ismo/S     ía
+SFX O a          smo/S      ia
+SFX O és         esismo/S   és
+SFX O 0          mo/S       is
+SFX O o          uismo/S    go
 
 # Sufijo -miento (-amiento, -imiento): En los sustantivos deverbales expresa
 # 'acción y efecto', y a veces designa 'algo concreto'. Relaciona verbos con
