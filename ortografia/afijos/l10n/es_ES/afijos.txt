@@ -381,7 +381,7 @@ SFX O o          ismo     [^o]ico
 SFX O ico        ísmo     oico
 SFX O a          ismo     [dt]a
 SFX O o          ísmo     eo
-SFX O e          ismo     [jrt]e
+SFX O e          ismo     [jrtp]e
 SFX O 0          ismo     ln
 SFX O án         anismo   án
 SFX O ón         onismo   ón
