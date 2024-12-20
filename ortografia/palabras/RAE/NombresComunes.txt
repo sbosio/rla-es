@@ -233,7 +233,6 @@ cómitre/S
 comodante/S
 compareciente/S
 comparsa/S
-compatriota/S
 compendista/S
 compinche/S
 cómplice/S
@@ -641,7 +640,7 @@ pasante/S
 paseante/S
 pastelista/S
 pata/S
-patriota/S
+patriota/fS
 paulista/S
 pediatra/S
 pehuenche/S

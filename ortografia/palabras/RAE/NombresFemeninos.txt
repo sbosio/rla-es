@@ -2671,6 +2671,7 @@ confulgencia/S
 conga/S
 congelación/S
 congerie/S
+congestión/S
 conglomeración/S
 congoja/S
 congratulación/S
@@ -5006,7 +5007,7 @@ ges
 gestación/S
 gesta/S
 gesticulación/S
-gestión/fSkd
+gestión/Skd
 giba/S
 gibosidad/S
 giganta/MS

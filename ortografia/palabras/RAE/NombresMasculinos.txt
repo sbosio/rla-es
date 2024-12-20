@@ -6409,8 +6409,7 @@ garrote/NSH
 garrucho/S
 garzo/GS
 gascón/S
-gases
-gas/f
+gas/S
 gasista/S
 gasoducto/S
 gasógeno/S

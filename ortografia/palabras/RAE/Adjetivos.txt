@@ -3113,6 +3113,7 @@ congoleño/GS
 congolés/GS
 congo/SG
 congraciador/SG
+gratulatorio/GS
 congrua/k
 congruente/kS
 congruo/GSk
@@ -6184,8 +6185,7 @@ gratificante/S
 gratis
 grato/SGk
 gratuito/GS
-gratulatoria/f
-gratulatorio/GfS
+gratulatorio/GS
 gravativo/GS
 grave/SG
 grávida/k

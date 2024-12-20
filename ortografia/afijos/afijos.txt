@@ -101,10 +101,10 @@ PFX e 0         bir       r
 # Prefijo con-: Significa 'reunión', 'cooperación o compañía', o
 # 'participación'.
 PFX f Y 6
-PFX f 0         con       [^abehilopru]
+PFX f 0         con       [^abehiloprug]
 PFX f 0         con       ll
-PFX f 0         com       pb
-PFX f 0         co        [aehiou]
+PFX f 0         com       [pb]
+PFX f 0         co        [aehioug]
 PFX f 0         co        l[^l]
 PFX f 0         cor       r
 
