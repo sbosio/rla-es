@@ -302,6 +302,24 @@ PFX v 0         contrar     r
 PFX w Y 1
 PFX w 0         ex	     .
 
+# Prefijo métrico: Prefijos del SI para los múltiplos de unidades básicas y
+# derivadas. No se debe aplicar para 'metro' debido a la tilde y conviene la
+# creación de los lemas individuales para sus derivadas.
+
+PFX 📏 Y 12
+PFX 📏 0        tera     .
+PFX 📏 0        giga     .
+PFX 📏 0        mega     .
+PFX 📏 0        kilo     .
+PFX 📏 0        hecto    .
+PFX 📏 0        deca     .
+PFX 📏 0        deci     .
+PFX 📏 0        centi    .
+PFX 📏 0        mili     .
+PFX 📏 0        micro    .
+PFX 📏 0        nano     .
+PFX 📏 0        pico     .
+
 
 #
 #

@@ -911,7 +911,7 @@ amotinamiento/S
 amparo/hS
 ampere/S
 amperímetro/S
-amperio/S
+amperio/S📏
 amplexo/S
 amplificador/S
 amujeramiento/S
@@ -1825,6 +1825,7 @@ baque/S
 baquetazo/S
 baquiano/S
 baquio/S
+bar/S📏
 baranda/CS
 barandal/S
 barangay/S
@@ -1959,7 +1960,7 @@ bebistrajo/S
 becerrero/S
 becerro/NS
 becoquino/S
-becquerel/S
+becquerel/S📏
 becuadrado/S
 becuadro/S
 bedelio/S
@@ -3092,7 +3093,6 @@ centenal/S
 centenar/S
 centeno/S
 centésimo/S
-centilitro/S
 centiloquio/S
 centímetro/S
 céntimo/S
@@ -4174,7 +4174,7 @@ culatazo/S
 culebrazo/S
 culebrón/S
 culmen/S
-culombio/S
+culombio/S📏
 culo/S
 culote/S
 culteranismo/S
@@ -4253,8 +4253,6 @@ débito/S
 debut
 debutes
 decadentismo/S
-decagramo/S
-decalitro/S
 decálogo/S
 decanato/S
 decápodo/S
@@ -4262,8 +4260,6 @@ decenio/S
 deceso/S
 dechado/S
 decibelio/S
-decigramo/S
-decilitro/S
 decímetro/S
 decir/S
 declinatorio/S
@@ -5195,6 +5191,7 @@ enjuagatorio/S
 enjuague/S
 enjugador/S
 enjuiciamiento/S
+enjulio/S
 enjullo/S
 enlace/hS
 enladrillado/S
@@ -5976,7 +5973,7 @@ fano/S
 fantoche/S
 faquir/S
 farad
-faradio/Sm
+faradio/S📏
 faralá
 faralaes
 faralares
@@ -6574,12 +6571,12 @@ grafeno/S
 grafiti/S
 grafito/S
 grafo/S
-grais			# Plural de gray
+grais/📏			# Plural de gray
 grajo/S
 gramaje/S
 gramil/S
 gramófono/S
-gramo/S
+gramo/S📏
 granadero/S
 granado/S
 granate/S
@@ -6600,7 +6597,7 @@ gratil/S
 grátil/S
 gravamen/S
 gravímetro/S
-gray
+gray/📏
 graznido/S
 gredal/S
 green/S
@@ -6799,8 +6796,6 @@ hebrero/S
 hecha/S
 hechizo/S
 hecho/fS
-hectogramo/S
-hectolitro/S
 hediondo/S
 hedonismo/S
 hedor/S
@@ -6841,8 +6836,8 @@ hendimiento/S
 henequén/S
 henil/S
 heno/S
-henrio/S
-henry
+henrio/S📏
+henry/📏
 heptacordo/S
 heraldo/S
 herbajero/S
@@ -7449,7 +7444,7 @@ jorge/S
 jornal/S
 jorobeta/S
 joropo/S
-joule/S
+joule/S📏
 jovenado/S
 jovenete/S
 joyelero/S
@@ -7477,7 +7472,7 @@ jugueteo/S
 juguete/S
 juicio/nbS
 julepe/S
-julio/Si
+julio/S📏
 julo/S
 jumento/S
 juncal/S
@@ -7514,8 +7509,6 @@ ketchup/S
 kibutz
 kilociclo/S
 kilográmetro/S
-kilogramo/S
-kilolitro/S
 kilometraje/S
 kilométrico/S
 kilómetro/S
@@ -7852,7 +7845,7 @@ litigio/S
 litio/S
 litoral/S
 litre/S
-litro/S
+litro/S📏
 lituano/S
 lituo/S
 livor/S
@@ -7951,7 +7944,7 @@ lustre/S
 lutecio/S
 luteranismo/S
 luto/S
-lux/S
+lux/S📏
 luz/S
 mabolo/S
 macaco/S
@@ -8578,11 +8571,7 @@ milenario/OS
 milenarismo/S
 milenio/S
 milgranar/S
-milibar/S
-miligramo/S
-mililitro/S
 milímetro/S
-milisegundo/S
 militarismo/cS
 millar/S
 millardo/S
@@ -9126,8 +9115,8 @@ neutrino/S
 neutrón/S
 nevazo/S
 nevero/S
-newton
-newtons
+newton/📏
+newtons/📏 # plural: newton
 nexo/aS
 nial/S
 nicho/S
@@ -9304,8 +9293,8 @@ ofrecimiento/S
 oftalmoscopio/S
 ofuscamiento/S
 ogro/S
-ohm
-ohmio/S
+ohm/📏
+ohmio/S📏
 oídio/S
 oidor/S
 oído/S
@@ -9771,7 +9760,7 @@ pasaporte/S
 pasatiempo/S
 pasavante/S
 pasavolante/S
-pascal/S
+pascal/S📏
 pascasio/S
 paseadero/S
 paseador/S
@@ -11952,6 +11941,7 @@ seguidor/S
 seguimiento/oSf
 segundero/S
 segundillo/S
+segundo/S📏
 seguro/S
 seiscientas
 seiscientos
@@ -12811,7 +12801,7 @@ terruño/S
 terzuelo/S
 tés
 tesauro/S
-tesla/S
+tesla/S📏
 tesón/S
 tesoro/S
 teso/S
@@ -13756,8 +13746,8 @@ voltaje/S
 volteo/S
 volterianismo/S
 voltímetro/S
-voltio/S
-volt/S
+voltio/S📏
+volt/S📏
 volumen/S
 voluntariado/S
 volvo/S
@@ -13775,9 +13765,9 @@ vulgarismo/S
 vulgo/S
 vulturno/S
 waterpolo
-watt/S # Extranjerismo no adaptado
-weber # Extranjerismo no adaptado
-webers # Extranjerismo no adaptado
+watt/S📏 # Extranjerismo no adaptado
+weber/📏 # Extranjerismo no adaptado
+webers/📏 # plural: weber
 whisky # Extranjerismo no adaptado
 whiskys # Extranjerismo no adaptado
 wolframio
