@@ -485,6 +485,10 @@ SFX U go        guito/S     go
 SFX U ca        quita/S     ca
 SFX U ga        guita/S     ga
 
+SFX 🧠 Y 2
+SFX 🧠 0        mente       [^o]
+SFX 🧠 o        amente      o
+
 ###############################################################################
 #                                                                             #
 #                      SUFIJOS RELACIONADOS CON VERBOS                        #

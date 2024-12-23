@@ -1406,7 +1406,7 @@ aturdido/GS
 aturdidor/GS
 atusador/GS
 auca/S
-audaz/S
+audaz/S🧠
 audible/kS
 audio/S
 audiovisual/S
@@ -7672,8 +7672,7 @@ lidia/S
 liego/SG
 liento/GS
 ligamentoso/GS
-ligero/GS
-light/S
+ligero/GS🧠
 lignario/GS
 liguano/GS
 liguero/GS
