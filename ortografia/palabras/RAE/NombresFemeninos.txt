@@ -3664,7 +3664,7 @@ ecografía/S
 ecolalia/S
 ecolocación/S
 ecología/S
-economía/S
+economía/Sm🔭
 ecorregión/S
 ectasia/S
 ectopia/S
@@ -6531,7 +6531,6 @@ macicez/S
 macis
 macona/S
 macrocefalia/S
-macromolécula/S
 macsura/S
 macuba/S
 macuca/S
@@ -7196,7 +7195,7 @@ mojiganga/S
 mojigatez/S
 mojonera/S
 moldura/S
-molécula/S
+molécula/S🔭
 moledura/S
 mole/GS
 molestia/S

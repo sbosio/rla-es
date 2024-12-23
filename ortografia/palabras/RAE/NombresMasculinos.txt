@@ -3683,7 +3683,7 @@ concertino/S
 conchabamiento/S
 conchero/S
 concho/S
-concierto/hS
+concierto/hS🔭
 conciliábulo/S
 conciliar/S
 cónclave/S
@@ -3973,7 +3973,7 @@ cosido/hS
 cosmódromo/S
 cosmopolitismo/S
 cosmorama/S
-cosmos/m
+cosmos/m🔭
 coso/Sa
 cospel/S
 costado/S

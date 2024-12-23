@@ -146,6 +146,11 @@ PFX m Y 2
 PFX m 0         micro     [^r]
 PFX m 0         micror    r
 
+# Prefijo macro-: Significa 'grande'.
+PFX 🔭 Y 2
+PFX 🔭 0         macro     [^r]
+PFX 🔭 0         macror    r
+
 # Prefijo pre-: Significa 'anterioridad local o temporal', 'prioridad' o
 # 'encarecimiento'.
 PFX n Y 3

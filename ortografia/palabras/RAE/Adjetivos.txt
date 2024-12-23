@@ -1774,6 +1774,7 @@ biográfico/GdS
 biológico/GS
 biomédico/GS
 bioquímico/GS
+biótico/GS🔭
 bipartito/GS
 bípedo/SG
 bipontino/GS
@@ -4446,7 +4447,7 @@ eclesiástico/GS
 ecoico/GS
 ecológico/GS
 ecologista/S
-económico/GS
+económico/GSm🔭
 ecotado/GS
 ectodérmico/GS
 ectoparásito/GS
