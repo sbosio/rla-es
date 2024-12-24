@@ -198,6 +198,12 @@ PFX s 0         sub       .
 PFX t Y 1
 PFX t 0         super     .
 
+# Prefijo tele-: Significa 'a distancia'
+PFX ☎️ Y 3
+PFX ☎️ 0        tel       e
+PFX ☎️ 0        teler     r
+PFX ☎️ 0        tele      [^er]
+
 # Prefijo trans-/tras-: Significa 'al otro lado, en la parte opuesta o más
 # allá', 'a través de', 'que sobrepasan', y 'cambio o mudanza'.
 PFX u Y 8
