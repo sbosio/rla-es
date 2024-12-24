@@ -246,6 +246,11 @@ PFX 🔍 Y 2
 PFX 🔍 0         mini     [^r]
 PFX 🔍 0         minir    r
 
+# Prefijo maxi-: Significa 'muy grande' o 'muy largo'.
+PFX 💯 Y 2
+PFX 💯 0         maxi     [^r]
+PFX 💯 0         maxir    r
+
 # Prefijo pre-: Significa 'anterioridad local o temporal', 'prioridad' o
 # 'encarecimiento'.
 PFX n Y 3
