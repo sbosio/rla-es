@@ -2066,7 +2066,7 @@ bimestre/S
 bimetalismo/S
 bingo/S
 binomio/S
-bioma/S
+bioma/Sm
 biombo/S
 biopolímero/S
 biotopo/S
