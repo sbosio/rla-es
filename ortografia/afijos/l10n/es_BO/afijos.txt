@@ -584,6 +584,36 @@ SFX 🧠 Y 2
 SFX 🧠 0        mente       [^o]
 SFX 🧠 o        amente      o
 
+# Sufijo -ísimo (1): Para formar grado superlativo de adjetivos y adverbios
+# Casos diferentes de -ble y -gu[aeo]
+# No contiene reglas para lemas con acento gráfico no agudo
+SFX 🥇 Y 16
+SFX 🥇 0        ísimo/GS    l
+SFX 🥇 0        ísimo/GS    [^o]r
+SFX 🥇 0        císimo/GS   or
+SFX 🥇 z        císimo/GS   z
+SFX 🥇 a        ísimo/GS    [^í]a
+SFX 🥇 e        ísimo/GS    e
+SFX 🥇 i        ísimo/GS    i
+SFX 🥇 o        ísimo/GS    [^ií]o
+SFX 🥇 io       ísimo/GS    io
+SFX 🥇 ío       iísimo/GS   ío
+SFX 🥇 u        ísimo/GS    u
+SFX 🥇 án       ancísimo/GS án
+SFX 🥇 én       encísimo/GS én
+SFX 🥇 ín       incísimo/GS ín
+SFX 🥇 ón       oncísimo/GS ón
+SFX 🥇 0        císimo/GS   [^áéíóú]n
+
+# Sufijo -ísimo (2): Para formar grado superlativo de adjetivos y adverbios
+# Casos -ble y -gu[aeo]
+# No contiene reglas para lemas con acento gráfico no agudo
+SFX 🏅 Y 4
+SFX 🏅 le       ilísimo/GS  ble
+SFX 🏅 ua       üísimo/GS   gua
+SFX 🏅 ue       üísimo/GS   gue
+SFX 🏅 uo       üísimo/GS   guo
+
 ###############################################################################
 #                                                                             #
 #                      SUFIJOS RELACIONADOS CON VERBOS                        #
