@@ -3861,7 +3861,7 @@ coraje/S
 coralario/S
 coralillo/S
 corazoncillo/S
-corazón/NS
+corazón/NSU
 corbatín/S
 corbato/S
 corcel/S
