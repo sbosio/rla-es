@@ -1825,7 +1825,8 @@ baque/S
 baquetazo/S
 baquiano/S
 baquio/S
-bar/S📏
+bar/S📏 # Fís.
+bar/S🔍
 baranda/CS
 barandal/S
 barangay/S

@@ -4480,7 +4480,7 @@ fajinada/S
 fajina/S
 falacia/S
 falange/S
-falda/Sr
+falda/Sr🔍
 faldeta/S
 faldillas
 faldriquera/S
@@ -7105,9 +7105,7 @@ minerva/S
 minga/S
 miniatura/S
 minicadena/S
-minifalda/S
 minina/S
-miniserie/S
 ministración/S
 minoría/S
 minoridad/S
@@ -9847,7 +9845,7 @@ serenidad/S
 sericicultura/S
 sericultura/S
 seriedad/S
-serie/S
+serie/S🔍
 serna/S
 serosa/S
 serosidad/S

@@ -151,6 +151,11 @@ PFX 🔭 Y 2
 PFX 🔭 0         macro     [^r]
 PFX 🔭 0         macror    r
 
+# Prefijo mini-: Significa 'pequeño', 'corto' o 'breve'.
+PFX 🔍 Y 2
+PFX 🔍 0         mini     [^r]
+PFX 🔍 0         minir    r
+
 # Prefijo pre-: Significa 'anterioridad local o temporal', 'prioridad' o
 # 'encarecimiento'.
 PFX n Y 3
