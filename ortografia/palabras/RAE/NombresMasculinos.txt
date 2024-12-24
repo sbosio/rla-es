@@ -1798,7 +1798,8 @@ banasto/S
 bancalero/S
 bancal/S
 bance/S
-banco/SN
+banco/SN  # asiento
+banco/S☎️ # entidad financiera
 bancos/p
 banderillero/S
 banderín/S
@@ -13094,7 +13095,7 @@ transmudamiento/S
 transparente/S
 transportador/S
 transportamiento/S
-transporte/S
+transporte/S☎️
 tranvía/S
 tranviero/S
 tranzado/S

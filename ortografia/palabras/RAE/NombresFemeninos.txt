@@ -902,7 +902,7 @@ asimétricas
 asincronía/S
 asíntota/S
 asíndeton/S
-asistencia/hkS
+asistencia/hkS☎️
 asistenta/S
 asistolia/S
 asma/S
@@ -1209,7 +1209,7 @@ basta/NS
 bastarda/NS
 bastedad/S
 basteza/S
-basura/S
+basura/S☎️
 batahola/S
 batalla/S
 batallola/S
@@ -6888,7 +6888,7 @@ medianoche/S
 mediateca/S
 medicación/S
 medicalización
-medicina/S
+medicina/S☎️
 medición/S
 medida/S
 medievalidad/S
@@ -9163,7 +9163,7 @@ raza/S
 razón/S
 rea/fS
 realeza/S
-realidad/kS
+realidad/kS☎️
 realimentación/S
 realización/S
 reanudación/S
@@ -9540,7 +9540,7 @@ ruqueta/S
 rusticidad/S
 rustiquez/SG
 rutácea/S
-ruta/S
+ruta/S☎️
 rutina/S
 sabalera/S
 sabana/NS
@@ -10343,7 +10343,6 @@ telemática
 telenovela/S
 telepatía/S
 telera/S
-telerrealidad/S
 teleserie/S
 teleta/S
 televisión/S
@@ -10704,7 +10703,7 @@ transmisión/pS
 transnacional/S
 transparencia/S
 transpiración/S
-transportación/S
+transportación/S☎️
 transposición/S
 transustanciación/S
 transversalidad/S
