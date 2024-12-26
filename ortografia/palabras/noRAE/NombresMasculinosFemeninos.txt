@@ -22,4 +22,5 @@ coinvestigador/GS
 desarrollador/GS
 originador/GS
 productorio/GS
+saheliano/GS
 zapoteco/GS

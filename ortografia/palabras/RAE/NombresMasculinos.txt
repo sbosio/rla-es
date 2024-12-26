@@ -2696,6 +2696,7 @@ canelar/S
 canela/S
 canelero/S
 canelo/S
+canelón/S
 cangrejo/S
 canguelo/S
 canibalismo/S
@@ -4655,6 +4656,8 @@ díptico/S
 diptongo/S
 dique/S
 directorio/Ss
+dírham/S
+dírhem/S
 dirigible/S
 disacárido/S
 disanto/S
@@ -5026,6 +5029,7 @@ emponzoñamiento/S
 emporio/S
 empotramiento/S
 emprendimiento/S
+empresariado/S
 empréstito/S
 empuje/S
 empujón/S
@@ -5209,6 +5213,7 @@ enmudecimiento/S
 ennegrecimiento/S
 ennoblecimiento/S
 enorgullecimiento/S
+enoturismo/S
 enramado/S
 enrarecimiento/S
 enrasamiento/S
@@ -6276,6 +6281,7 @@ fruncido/S
 fruncimiento/S
 frutier/S
 fruto/S
+fuagrás/S
 fucilazo/S
 fuco/S
 fuego/S
@@ -7021,7 +7027,7 @@ holotúrido/S
 homarrache/S
 hombracho/S
 hombrecillo/S
-hombre/qotS
+hombre/qotSU
 hombrillo/S
 hombro/fS
 homenaje/S
@@ -8503,6 +8509,7 @@ metabolismo/S
 metabolito/S
 metacarpo/S
 metacentro/S
+metacrilato/S
 metalario/S
 metalenguaje/S
 metalero/S
@@ -10128,6 +10135,7 @@ picarro/S
 picatoste/S
 piche/S
 pichi/S
+pichichi/S
 pichón/S
 pícnic/S
 picolete/S

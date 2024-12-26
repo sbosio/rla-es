@@ -2993,6 +2993,7 @@ criatura/S
 criba/S
 criminalidad/S
 crin/S
+crioterapia/S
 cripta/S
 criptógama/S
 criptografía/S		# Contribuida por Gonzalo Higuera Díaz
@@ -3058,6 +3059,7 @@ cuartera/S
 cuarteta/S
 cuaterna/S
 cuaternidad/S
+cuatricromía/S
 cuatropea/S
 cuba/NS
 cubertería/S
@@ -6575,6 +6577,7 @@ magnetización/S
 magneto/S
 magnetosfera/S
 magnetósfera/S
+magnetoterapia
 magnificencia/S
 magnitud/S
 magnolia/S
@@ -7362,6 +7365,7 @@ muharra/S
 mujada/S
 mujalata/S
 mujercilla/S
+mujercita/S
 mujerona/S
 mujer/S
 mujerzuela/S
@@ -7969,6 +7973,7 @@ paracentesis
 parada/pS
 paradina/S
 paradoja/S
+parafarmacia/S
 parafernalia/S
 parafina/S
 paráfrasis

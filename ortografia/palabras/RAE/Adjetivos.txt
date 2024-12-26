@@ -2189,6 +2189,7 @@ cantador/iGS
 cantalinoso/SG
 cantante/S
 cantaor/GS
+canterano/GS
 cantonalista/S
 cantonal/S
 cantonero/GS
@@ -5529,6 +5530,7 @@ fatídico/SG
 fatigador/GS
 fatigoso/GS
 fatuo/GS
+faulkneriano/GS
 fausta/k
 fausto/kGS
 faustoso/GS

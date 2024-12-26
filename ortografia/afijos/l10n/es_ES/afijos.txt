@@ -489,7 +489,7 @@ SFX U ón        oncito/S    ón
 SFX U 0         cito/S      or
 SFX U o         íto/S       eo
 SFX U zo        cito/S      zo
-SFX U 0         cito/S      [djlnu]e
+SFX U 0         cito/S      [djlnru]e
 SFX U z         cecita/S    z
 SFX U 0         ecito/S     ur
 SFX U e         ito/S       [cpt]e

@@ -43,6 +43,7 @@ perrito/GS
 pequeñín/S
 pequeñito/GS
 picarón/GS
+piececito/S
 poquísimo/GS
 primerísimo/GS
 prontísimo/GS
@@ -50,6 +51,7 @@ puntito/S
 rapidísimo/GS
 rellenito/GS
 riquísimo/GS
+solecito/S
 tantísimo/GS
 tardísimo/S
 trocito/S

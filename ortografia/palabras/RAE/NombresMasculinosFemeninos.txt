@@ -375,6 +375,7 @@ canoero/GS
 cantador/GS
 cantaor/GS
 cantautor/GS
+canterano/GS
 cantinero/GS
 cantonero/GS
 cantonés/GS
@@ -1436,6 +1437,7 @@ patrón/GS
 patrono/S
 pavero/GS
 payaso/GS
+payés/GS
 peatón/GS
 pechero/GS
 pedagogo/GS

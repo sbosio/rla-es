@@ -30,6 +30,7 @@ autolubricante/S
 autosómico/GS
 autosustentable/S
 avergonzante/S
+ayurvédico/GS
 bariónico/GS
 belaruso/GS
 belorruso/GS
@@ -71,8 +72,10 @@ gravitomagnético/GS
 heterolítico/GS
 hidrotérmico/GS
 hipergeométrico/GS
+hitchcockiano/GS
 holofónico/GS
 homolítico/GS
+impatriado/GS
 importantísimo/GS
 impráctico/GS
 incremental/S
@@ -92,6 +95,7 @@ microinformático/GS
 mitocondrial/S
 monotípico/S
 multiescala/S
+multisensorial/S
 nanométrico/GS
 neobarroco/S
 neogótico/GS
@@ -104,6 +108,7 @@ ortotipográfico/GS
 papuano/GS
 patrocinante/S
 pequeñísimo/GS
+peregrinante/S
 periodontal/S
 piroclástico/GS
 policéntrico/GS
@@ -119,6 +124,7 @@ reproducible/S
 reumatoide/S
 reverberante/S
 rugiente/S
+saheliano/GS
 santaluciano/GS
 semiconsciente/S
 senoidal/S
