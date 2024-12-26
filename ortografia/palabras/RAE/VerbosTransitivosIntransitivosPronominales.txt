@@ -506,7 +506,7 @@ reducir/XDÀÁÈñóú
 reflejar/REDÀñò
 refrescar/REDÀÁÌÍñø
 refundir/REDÀÁñ
-regir/XDÀÁñ
+regir/XDÀÁñÔ
 rehervir/XD
 rehuir/IRDÀÁÂÈñ
 reír/XDÁÉÊñóöú

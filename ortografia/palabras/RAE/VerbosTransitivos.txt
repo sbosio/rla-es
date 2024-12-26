@@ -1558,7 +1558,7 @@ ejemplar/RED
 ejemplificar/REDÀÄ
 electrificar/REDA
 electrolizar/RED
-elegir/XDÀÁÂÈT
+elegir/XDÀÁÂÈTÔp
 elidir/RED
 elijar/REDT
 elogiar/REDÀÁÂÄÆT
@@ -3181,7 +3181,6 @@ reduplicar/RED
 reedificar/ARED
 reeditar/REDÀ
 reeducar/REDÀÁÂ
-reelegir/XDÀÁT
 reemplazar/REDÀÁÂÄÌ
 reencuadernar/RED
 reengendrar/RED
