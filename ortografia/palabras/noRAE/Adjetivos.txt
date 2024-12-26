@@ -19,6 +19,7 @@ anatomoclínico/GS
 ansiogénico/GS
 anticomercial/S
 antimonopólico/GS
+apaciguante/S
 asintótico/GS
 autoconsciente/S
 autocontenido/GS
@@ -123,6 +124,7 @@ senoidal/S
 sobreviniente/S
 srilanqués/GS
 sudsudanés/GS
+sufriente/S
 supermasivo/GS
 supersimétrico/GS
 suprasensible/S
