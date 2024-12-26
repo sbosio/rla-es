@@ -58,6 +58,7 @@ encriptado/GS
 espirométrico/GS
 estirable/S
 etnolingüístico/GS
+facilísimo/GS
 fenólico/GS
 ferrimagnético/GS
 finísimo/GS
@@ -131,6 +132,7 @@ texturado/GS
 torsor/S
 unario/GS
 unipolar/S
+utilísimo/GS
 uzbeco/GS
 vigorizante/S
 yemenita/S
