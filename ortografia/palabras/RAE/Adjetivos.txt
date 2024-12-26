@@ -112,7 +112,7 @@ abulense/S
 abúlico/GS
 abultado/GS
 abundancial/S
-abundante/tS
+abundante/tS🥇
 abundoso/GS
 aburelado/SG
 aburrido/GS
@@ -568,7 +568,7 @@ aldino/GS
 aleatorio/SG
 aleccionador/GS
 aledaño/SG
-alegórico/GS
+alegórico/GS🧠
 alegrador/GS
 alegre/SG
 alejado/GS
@@ -2384,6 +2384,7 @@ catedralicio/GS
 categórico/GS
 catenario/GS
 catenular/S
+catequético/GS
 catilinaria/S
 catódico/GS
 católico/cGS
@@ -2775,7 +2776,7 @@ clara/nj
 clarificador/GS
 clarisa/S
 clarividente/S
-claro/njSG
+claro/njSG🥇
 clarucho/GS
 clasicista/S
 clásico/nSG
@@ -4412,7 +4413,7 @@ dudoso/GS
 duendo/GS
 dular/S
 dulcero/GS
-dulce/S
+dulce/S🥇
 dulzaino/GS
 dulzón/GS
 duodecimal/S
@@ -5604,7 +5605,7 @@ fiado/fGS
 fiambre/S
 fibroso/GS
 ficticio/GS
-fidedigno/GS
+fidedigno/GS🧠
 fideicomisario/GS
 fido/GS
 fiduciario/SG
@@ -7378,7 +7379,7 @@ justificador/GS
 justificante/S
 justificativo/GS
 justinianeo/SG
-justo/kGS
+justo/kGS🥇
 juvenal/S
 juvenil/S
 juzgador/SG
@@ -9108,7 +9109,7 @@ numeral/S
 numeraria/t
 numerario/SGt
 numérico/SG
-numeroso/GS
+numeroso/GS🥇
 numismático/GS
 numular/S
 nuncupatorio/GS
@@ -10292,8 +10293,7 @@ pratense/S
 pravo/SG
 precarista/S
 precautorio/GS
-precedente/S
-precelente/S
+precedente/S🧠
 preceptista/S
 preceptivo/SG
 preciado/GS
@@ -10383,6 +10383,7 @@ presunto/GS
 presupuestario/GS
 presuroso/GS
 pretencioso/GS
+pretendido/GS🧠
 pretendiente/G
 pretérito/GS
 preternatural/S

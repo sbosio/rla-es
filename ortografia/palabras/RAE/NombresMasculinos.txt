@@ -5837,6 +5837,7 @@ estufido/S
 estupefaciente/S
 estupor/S
 estuprador/S
+estupro/S
 esturión/S
 esviaje/S
 etalaje/S
