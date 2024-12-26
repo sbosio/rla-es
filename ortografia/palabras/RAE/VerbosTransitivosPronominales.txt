@@ -341,7 +341,7 @@ arrebujar/RED
 arredondear/RED
 arredrar/REDñ
 arregazar/RED
-arreglar/REDÀÁÂÃÄÎñòôø
+arreglar/REDÀÁÂÃÄÎñòôøÌ
 arremangar/REDô
 arrestar/REDÀÁÆñ
 arrezagar/RED
@@ -642,7 +642,7 @@ decepcionar/REDÀÁñ
 decidir/REDÀñòôø
 dedicar/REDÀÁÂÃÄÅÆÇÌÍÎÏÙÚÛÜñòôø
 defender/IRDÀÄÐñòõù
-definir/REDÁñò
+definir/REDÁñòÌÍ
 deformar/REDÄ
 degradar/REDñ
 deificar/RED

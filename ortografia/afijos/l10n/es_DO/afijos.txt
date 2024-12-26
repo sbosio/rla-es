@@ -3359,7 +3359,9 @@ SFX Ë ír        yéndonoslos   oír
 # Verbos regulares en imperativo, con clíticos de objeto directo en
 # 3ª persona, singular y plural; en posición enclítica.
 #
-SFX Ì Y 400
+SFX Ì Y 402
+SFX Ì eglar     églalo/GS eglar
+SFX Ì inir      ínalo/GS inir
 SFX Ì ibir      íbala    ibir
 SFX Ì ibir      íbalas   ibir
 SFX Ì ibir      íbalo    ibir
@@ -3764,7 +3766,8 @@ SFX Ì uzar      úzalo    uzar
 # Verbos regulares en imperativo, con clíticos de objeto directo o indirecto
 # en 1ª y 2ª persona, singular y plural; en posición enclítica.
 #
-SFX Í Y 178
+SFX Í Y 179
+SFX Í inir      ínelo/GS inir
 SFX Í itir      íteme    itir
 SFX Í itir      ítenos   itir
 SFX Í actar     áctame   actar
