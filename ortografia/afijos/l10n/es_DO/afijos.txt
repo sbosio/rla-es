@@ -257,6 +257,11 @@ PFX n 0         pr        e
 PFX n 0         pre       [^er]
 PFX n 0         prer      r
 
+# Prefijo pos-: Significa 'detrás de' o 'después de'
+PFX ⏩ Y 2
+PFX ⏩ 0        post      s
+PFX ⏩ 0        pos       [^s]
+
 # Prefijo pro-: Significa 'por o en vez de', 'ante o delante', 'continuidad de
 # acción', 'a favor de', y 'negación o contradicción'.
 PFX o Y 2
