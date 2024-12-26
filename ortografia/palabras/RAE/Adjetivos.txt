@@ -414,7 +414,7 @@ agasajado/GS
 agasajador/GS
 agatino/GS
 agente/S
-ágil/S
+ágil/S🧠
 agitado/GS
 agitador/GS
 aglomerante/S
@@ -1628,6 +1628,7 @@ barreño/GS
 barrigón/GS
 barrigudo/GS
 barrillero/GS
+barriobajero/GS
 barroco/GS
 barroso/GS
 barruntador/GS
@@ -4430,7 +4431,7 @@ duplo/GSs
 duradero/GS
 durativo/GS
 durmiente/S
-duro/GS
+duro/GSq
 duunviral/S
 easonense/S
 ebionita/S
@@ -4731,6 +4732,7 @@ enfadoso/GS
 enfaenado/SG
 enfardador/GS
 enfático/GS
+enfebrecido/GS
 enferma/NSU # Se agregan por separado los lemas en femenino y masculino para poder aplicar las banderas de diminutivo + plural
 enfermizo/SG
 enfermo/NSU # Se agregan por separado los lemas en femenino y masculino para poder aplicar las banderas de diminutivo + plural
@@ -4817,6 +4819,7 @@ entrambos
 entrante/S
 entrañable/S
 entraño/SG
+entrecortado/GS🧠
 entredoble
 entregador/GS
 entrepretado/GS
@@ -6576,7 +6579,7 @@ honorífico/GS
 honradero/SG
 honrado/GS
 honrosa/h
-honroso/GSh
+honroso/GSh🧠
 hontanal/S
 horaciano/GS
 horadador/GS
@@ -9210,7 +9213,7 @@ octosílabo/GS
 ocular/S
 ocultador/GS
 ocultista/S
-oculto/SG
+oculto/SGq
 ocupacional/S
 ocupada/hS
 ocupador/GS
@@ -9818,7 +9821,7 @@ penoso/GS
 pensable/Sk
 pensador/SG
 pensante/S
-pensativo/GS
+pensativo/GS🧠
 pensilvano/GS
 pensionado/GS
 pentadáctilo/GS
@@ -12034,7 +12037,7 @@ soplador/GS
 soplón/SG
 soporífero/GS
 soporoso/GS
-soportable/kS
+soportable/kS🧠
 soportador/GS
 sorbedor/SG
 sórdido/SG
@@ -12348,7 +12351,7 @@ telegráfico/GS
 telemático/GS
 telendo/GS
 teleósteo/S
-telepático/GS
+telepático/GS🧠
 telescópico/SG
 televisivo/SG
 telonero/GS

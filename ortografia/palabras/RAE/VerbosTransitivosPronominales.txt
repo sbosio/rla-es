@@ -890,7 +890,6 @@ desgranar/RED
 desgreñar/RED
 desguindar/RED
 deshabituar/IRDñ
-deshacer/XÂÉñóöú
 deshelar/IRD
 desheredar/REDÁñ
 deshermanar/RED
@@ -1905,7 +1904,7 @@ presentar/REDÀÂÃÄÆÌÍñòôø
 preservar/REDÀÁÄÆñ
 preternaturalizar/RED
 prevenir/XDÀÁÈñ
-proclamar/REDÁÂÄñ
+proclamar/REDÁÂÄñd
 procurar/REDÂÃÄÆñø
 prodigar/REDñ
 producir/XDÀÁÈÉñóTd
@@ -2010,7 +2009,6 @@ reglar/RED
 regocijar/REDÁñò
 reguardar/RED
 regularizar/RED
-rehacer/XÀÁñ
 rehartar/RED
 rehumedecer/IRD
 reincorporar/REDÀÁñ

@@ -65,6 +65,7 @@ meme/S
 metadato/S
 microcontrolador/S
 microcurrículo/S
+murete/S
 nanomaterial/S
 nanómetro/S
 neogótico/S

@@ -385,7 +385,7 @@ guarecer/IRDÁñ
 guarir/RED
 guiñar/REDÂÆñò
 hablar/REDÁÂÄÆÍÎñòø
-hacer/XÀÁÂÃÄÅÆÉËÔÖáâãñóöú
+hacer/XÀÁÂÃÄÅÆÉËÔÖáâãñóöúhp
 helar/IRDñT
 hermosear/RED
 hincar/REDÀÅñòôø
