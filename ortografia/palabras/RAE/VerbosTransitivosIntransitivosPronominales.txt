@@ -207,7 +207,7 @@ cuajar/REDÀ
 cuartear/RED
 cuidar/REDÀÁÄÅÌÍÙÚñòôø
 cumplir/REDÀñø
-curar/REDÀÁÂñòôø
+curar/REDÀÁÂÃñòôø
 decir/XÀÁÂÃÈÉÊËÏáâãäñóú
 declarar/REDÀÂÄñò
 dejar/REDÀÁÂÃÄÅÆÌÍÎÏÙÚÛÜñòôø
@@ -246,7 +246,7 @@ desparecer/IRD
 desparpajar/RED
 despegar/REDÀñòT
 despejar/REDÀÁñò
-despertar/IRDÀÅÞñòõù
+despertar/IRDÐÀÅÞñòõù
 despistar/REDÀÂÎñò
 despuntar/REDÀ
 destacar/REDÁÂÄTñ
@@ -293,7 +293,7 @@ enchufar/REDÀô
 encimar/REDò
 encoger/REDÅñò
 encomendar/IRDÁñòùT
-encontrar/IRDÀÁÂÃÄÅÆñòù
+encontrar/IRDÀÁÂÃÄÅÆÐñòù
 encorar/IRD
 encordar/IRD
 encostrar/RED
@@ -345,7 +345,7 @@ escapular/RED
 escollar/RED
 escribir/REÀÁÂÄÆÍÌÏÎÚñòø
 escuchar/REDÀÁÂÄÅÆÍÎÙÚÛñòø
-escupir/REDÁÆñ
+escupir/REDÁÀÆñ
 escurrir/REDÀÄÌñò
 esforzar/IRDÁÅñòõù
 espabilar/REDÁñ
@@ -384,7 +384,7 @@ gozar/REDÀÁñ
 guarecer/IRDÁñ
 guarir/RED
 guiñar/REDÂÆñò
-hablar/REDÁÂÄÆÍÎñòø
+hablar/REDÁÀÂÄÆÍÎñòø
 hacer/XÀÁÂÃÄÅÆÉËÔÖáâãñóöúhp
 helar/IRDñT
 hermosear/RED
@@ -395,7 +395,7 @@ huir/IRDÁÂñó
 humillar/REDÀÁÂÄñòô
 igualar/REDÀÁÄñ
 implicar/REDÂñò
-imponer/XÀÁÉËñóöT
+imponer/XÀÁÂÉËñóöT
 inclinar/REDÁñòôø
 incubar/RED
 informar/REDÀÂÃÆñòôø
@@ -453,10 +453,10 @@ pacificar/REDÀ
 paganizar/RED
 paladear/RED
 palatalizar/RED
-palmear/REDÀÂò
+palmear/REDÀÂÄò
 parar/REDÀÂÅñòôø
 partir/REDÀÂÃÌÎÙñò
-pasar/pREDÀÃÄÅÆÇÍÌÏÙÛñòôøT
+pasar/pREDÀÃÄÅÂÆÇÍÌÏÙÛñòôøT
 pasear/REDÁÅñò
 pasmar/REDÁñôø
 pegar/REDÀÁÂÄÅÆÎñòô
@@ -490,7 +490,7 @@ purgar/REDÁñT
 quebrajar/RED
 quebrar/IRDÀñ
 quedar/REDÂÃÅÆÜñòôø
-quemar/pREDÁÀÅÌÙñò
+quemar/pREDÁÀÅÄÌÙñò
 rajar/REDÀÂÃÆñT
 rebalsar/RED
 rebosar/REDÀ
@@ -548,7 +548,7 @@ saltar/REDÀÃÆñòôøT
 salvar/REDÀÅÂÆÍñòôø
 sangrar/REDÂÆñ
 satisfacer/XÀÁÈñ
-seguir/XDÀÁÈÊÔÕáñóöú
+seguir/XDÀÁÂÈÊÔÕáñóöú
 sentar/IRDÀÄÅÆÐñòõù
 serenar/REDñôø
 servir/XDÀÁÂÈÉÔáâñóö

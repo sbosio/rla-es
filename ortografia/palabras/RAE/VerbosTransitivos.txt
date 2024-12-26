@@ -376,7 +376,7 @@ apotrerar/RED
 apoyar/REDÀÁÂÄÅÆÍ
 aprehender/REDÀÁ
 apremiar/REDÀÁÂÄÆ
-aprender/REDÀÁÃÄÅÙÜ
+aprender/REDÀÁÃÄÅÌÙÜ
 apresar/REDÀÁÂÄ
 aprisionar/REDÀÁÄÆ
 aprobar/hIRDÀÂÄA
@@ -1783,7 +1783,7 @@ enfortecer/IRD
 enfranquecer/IRD
 enfrascar/REDÁ
 enfullar/RED
-enfundar/REDÁÅ
+enfundar/REDÁÀÅ
 engafar/RED
 engaitar/RED
 engalgar/RED
@@ -2383,7 +2383,7 @@ imbuir/IRDÂ
 imitar/REDÀÁÂÄÅÆÙ
 impactar/REDÀÂÆ
 impartir/REDÀÂÆ
-impedir/XDÀÁÂÃÉÊË
+impedir/XDÀÁÂÃÉÊËÐ
 impeler/REDÅ
 impender/RED
 impermeabilizar/REDÀ

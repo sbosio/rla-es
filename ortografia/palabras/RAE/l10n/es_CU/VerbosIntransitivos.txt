@@ -38,7 +38,7 @@ lerdear/RED
 machetear/RED
 paluchear/RED
 pampear/RED
-pichar/RED
+pichar/REDÆ
 planchar/RED
 recesar/RED
 rumbear/RED

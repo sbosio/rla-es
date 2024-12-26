@@ -7886,7 +7886,8 @@ palingenesia/S
 palinodia/S
 palizada/Si
 palmácea/S
-palmada/SN
+palmada/SU
+palmadilla/S
 palma/NS
 palmatoria/S
 palmenta/S

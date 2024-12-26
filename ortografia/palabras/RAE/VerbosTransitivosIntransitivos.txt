@@ -29,7 +29,7 @@ acodillar/RED
 aconsonantar/RED
 acopar/RED
 adorar/REDÀÁÂÄÅÆTA
-advertir/XDÀÁÂÃÈÉÊËT
+advertir/XDÀÁÂÃÈÉÊËTÔ
 aflorar/REDÀA
 aforar/REID
 agonizar/RED
@@ -496,7 +496,7 @@ replicar/REDÀÁÂ
 resaltar/REDÀ
 resonar/IRD
 respirar/REDÀ
-responder/REDÀÁÅÎÒ
+responder/REDÀÁÅÎÍÒ
 restallar/RED
 restar/REDÀÁÂÇ
 resucitar/REDÁ

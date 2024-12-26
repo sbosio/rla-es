@@ -280,7 +280,7 @@ añudar/RED
 apacentar/IRD
 apaciguar/REDÂÀñ
 apadrinar/RED
-apagar/REDÁÃÌñ
+apagar/REDÀÁÃÌñ
 apalancar/REDÁñ
 apandillar/RED
 apantanar/RED
@@ -309,7 +309,7 @@ apianar/RED
 apiñar/RED
 aplacar/REDÀÂñ
 aplanar/RED
-aplastar/REDÀÁÂÅÌñò
+aplastar/REDÀÁÂÅÄÌñò
 aplatanar/RED
 aplebeyar/RED
 aplicar/REDÀÁÂÃÄÅÆÙñòôøA
@@ -514,7 +514,7 @@ cementar/RED
 centralizar/REDA
 centuplicar/RED
 ceñir/XDÀÊñóú
-cepillar/REDÂÄñø
+cepillar/REDÂÄÀñø
 cerciorar/REDñôø
 certificar/REDÀÁÂñTA
 chafar/RED
@@ -628,7 +628,7 @@ cruzar/REDÂñò
 cubijar/RED
 cubrir/REÀÂÄÆÌñòôø
 culpabilizar/RED
-culpar/REDÄÅñòø
+culpar/REDÄÅÀñòø
 cunear/RED
 curtir/RED
 curvar/RED
@@ -666,7 +666,7 @@ depurar/RED
 derramar/REDÀÁñò
 derrengar/RED
 derretir/XDÀñ
-derribar/REDÆñ
+derribar/REDÆñÄ
 derrubiar/RED
 derrumbar/REDÀñ
 desabastecer/IRD
@@ -727,7 +727,7 @@ desasir/IRDñ
 desasnar/REDñ
 desasosegar/IRD
 desatancar/RED
-desatar/REDñ
+desatar/REDÀñ
 desatascar/RED
 desatollar/RED
 desatolondrar/RED
@@ -972,7 +972,7 @@ desparramar/RED
 despatarrar/RED
 despechar/RED
 despechugar/RED
-despedazar/REDñ
+despedazar/REDÄñ
 despedir/XDÀÁÉÊñóöú
 despeinar/REDÁñò
 despellejar/REDÀñò
@@ -1760,7 +1760,7 @@ mancomunar/RED
 manejar/REDÀÄñòô
 mangar/RED
 manifestar/IRDñò
-mantener/XDÂÀÅÉÖñóöú
+mantener/XDÂÀÅÉÖÐñóöú
 maquillar/REDñòô
 marañar/RED
 maravillar/REDÁñ
@@ -1836,7 +1836,7 @@ obsesionar/REDñò
 obstruir/IRD
 ocluir/IRD
 ocultar/REDÀÃÄÅÆñòø
-ocupar/REDñòôø
+ocupar/REDÀñòôø
 ofender/REDÂñò
 ofrecer/IRDÁÂÃÅÆßñòõù
 ofuscar/RED
@@ -1844,7 +1844,7 @@ olivar/RED
 olvidar/REDÀÁÂÌñòôø
 omitir/REDÀ
 oponer/XÀÁÈñóT
-ordenar/pREDÀÄñò
+ordenar/pREDÀÄÆñò
 orear/REDñ
 organizar/REDÀÂÄñòô
 orientar/REDÄñòôÌÍÎÙÛÜø
@@ -2069,7 +2069,7 @@ restablecer/IRDÀÁÂñ
 restituir/IRDÁÊñT
 resumir/REDÀÁÆñ
 retardar/REDÄ
-retener/XDÀÁñó
+retener/XDÀÁÐñó
 retocar/REDÀÂÄñ
 retorcer/IRDÀÁÃÄÅÆÇñò
 retractar/REDñ

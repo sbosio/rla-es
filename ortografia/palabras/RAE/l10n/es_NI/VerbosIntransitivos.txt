@@ -34,7 +34,7 @@ fintear/RED
 nancear/RED
 pampear/RED
 paquetear/RED
-pichar/RED
+pichar/REDÆ
 recesar/RED
 rumbear/RED
 sabanear/RED

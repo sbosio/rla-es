@@ -27,7 +27,7 @@ escobillar/RED
 fintear/RED
 nancear/RED
 pampear/RED
-pichar/RED
+pichar/REDÆ
 rumbear/RED
 sabanear/RED
 sufragar/RED
