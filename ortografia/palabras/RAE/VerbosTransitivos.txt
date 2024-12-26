@@ -3490,7 +3490,7 @@ sobrellavar/RED
 sobrellenar/RED
 sobrellevar/REDÀ
 sobrepasar/REDÀÁÄ
-sobrepujar/RED
+sobrepujar/REDÁ
 sobrescribir/RE
 sobresembrar/IRD
 sobresolar/IRD

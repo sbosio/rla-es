@@ -395,7 +395,7 @@ huir/IRDÁÂñó
 humillar/REDÀÁÂÄñòô
 igualar/REDÀÁÄñ
 implicar/REDÂñò
-imponer/XÀÁÂÉËñóöT
+imponer/XÀÁÂÆÉËñóöT
 inclinar/REDÁñòôø
 incubar/RED
 informar/REDÀÂÃÆñòôø
@@ -422,7 +422,7 @@ llover/IRDÁñ
 lucir/IRDÀÅñòT
 malcasar/RED
 mancar/RED
-mandar/REDÀÁÂÃÄÅÌÍÏÙñòô
+mandar/REDÀÁÂÃÄÅÌÍÏÙÇñòô
 marcar/REDÀÂÄÅñòø
 marear/REDÁñ
 matar/REDÀÄÅÂÆÌÎñòôp

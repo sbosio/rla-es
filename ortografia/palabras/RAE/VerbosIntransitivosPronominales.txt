@@ -150,7 +150,7 @@ revolar/IRD
 rilar/RED
 roncear/RED
 runrunear/RED
-salir/XDñóöú
+salir/XDÆñóöú
 semejar/REDT
 sobreaguar/RED
 sonreír/XDñó

@@ -554,7 +554,7 @@ complacer/IRDÀÁÂñ
 complementar/REDÀÄñ
 complicar/REDÀÁÂÄÅÆñòA
 comportar/REDñòôø
-comprender/REDÄÌÙñ
+comprender/REDÄÀÌÙñ
 comprimir/REDÌÏØ
 comprometer/REDÀÁñòø
 computar/REDÀT
@@ -572,7 +572,7 @@ condensar/REDÀT
 confederar/RED
 confesar/IRDÃÅñòõ
 configurar/REDÄ
-confirmar/REDÀÁÂÙñò
+confirmar/REDÀÁÄÂÙñò
 confortar/REDÀÁñ
 confundir/REDÀÅÆñò
 congelar/REDÁñòT
@@ -604,7 +604,7 @@ contraer/XDÀ
 contrahacer/X
 contraponer/XÀ
 contrapuntear/REDÁñ
-contristar/RED
+contristar/REDñ
 controlar/REDÀÁÂñòôø
 contundir/RED
 conturbar/RED
@@ -2069,7 +2069,7 @@ restablecer/IRDÀÁÂñ
 restituir/IRDÁÊñT
 resumir/REDÀÁÆñ
 retardar/REDÄ
-retener/XDÀÁÐñó
+retener/XDÀÁÂÐñó
 retocar/REDÀÂÄñ
 retorcer/IRDÀÁÃÄÅÆÇñò
 retractar/REDñ

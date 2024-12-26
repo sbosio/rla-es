@@ -64,6 +64,7 @@ Begoña
 Belcebú
 Benítez
 Berlusconi
+Bernabé
 Bernabéu
 Bernal
 Berta
@@ -126,6 +127,7 @@ Eloy
 Elvira
 Emilia
 Emilio
+Epicuro
 Ernesto
 Escorpio
 Esther
@@ -382,6 +384,7 @@ Stalin
 Suárez
 Tauro
 Teseo
+Teófilo
 Tomás
 Trujillo
 TV
