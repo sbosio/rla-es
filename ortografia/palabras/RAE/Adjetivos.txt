@@ -1683,7 +1683,7 @@ belfo/GS
 belga/S
 beliceño/GS
 belicista/S
-bélico/GS
+bélico/GS⏩
 belicoso/GS
 beligerante/S
 belitre/S
@@ -9309,7 +9309,7 @@ operador/fGS☎️
 operante/kS
 operativa/f
 operativo/fSG
-operatorio/SG
+operatorio/SG⏩
 operístico/GS
 opiáceo/GS
 opinable/Sk
@@ -10238,7 +10238,6 @@ portugués/SG
 posada/h
 posado/GhS
 posante/S
-posbélico/GS
 posdiluviano/GS
 poseedor/GS
 poseída/h
@@ -10256,7 +10255,6 @@ positivo/GSnk
 posmeridiano/GS
 posmodernista/S
 posmoderno/GS
-posoperatorio/GS
 pospalatal/S
 pospositivo/SG
 postal/S
