@@ -5088,7 +5088,7 @@ gorrina/S
 gorrinera/S
 gorriona/S
 gorrionera/S
-gota/S
+gota/SU
 gotera/eS
 grabación/S
 grabadura/S
@@ -10075,7 +10075,7 @@ sonatina/S
 sondaleza/S
 sonda/S
 sonoridad/S
-sonrisa/S
+sonrisa/SU
 sonsaca/S
 soñolencia/S
 sopanda/S
