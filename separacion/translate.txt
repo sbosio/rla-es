@@ -1,32 +1,32 @@
  2 2   
  a A 
- · ¡ 
+ √° √Å 
  b B 
  c C 
  d D 
  e E 
- È … 
+ √© √â 
  f F 
  g G 
  h H 
  i I 
- Ì Õ 
+ √≠ √ç 
  j J 
  k K 
  l L 
  m M 
  n N 
- Ò — 
+ √± √ë 
  o O 
- Û ” 
+ √≥ √ì 
  p P 
  q Q 
  r R 
  s S 
  t T 
  u U 
- ˙ ⁄ 
- ¸ ‹ 
+ √∫ √ö 
+ √º √ú 
  v V 
  w W 
  x X 
