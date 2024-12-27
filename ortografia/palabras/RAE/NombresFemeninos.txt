@@ -9916,6 +9916,7 @@ sigma/S
 signatura/Sa
 significación/S
 sílaba/S
+silabación/S
 silba/S
 silepsis
 sílfide/S
