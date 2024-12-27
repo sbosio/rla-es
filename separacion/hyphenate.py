@@ -1,17 +1,19 @@
-#!/usr/bin/python
-# -*- coding: iso-8859-1 -*-
-
 """ Hyphenation, using Frank Liang's algorithm.
 
     This module provides a single function to hyphenate words.  hyphenate_word takes
     a string (the word), and returns a list of parts that can be separated by hyphens.
 
-    >>> hyphenate_word("hyphenation")
-    ['hy', 'phen', 'ation']
-    >>> hyphenate_word("supercalifragilisticexpialidocious")
-    ['su', 'per', 'cal', 'ifrag', 'ilis', 'tic', 'ex', 'pi', 'ali', 'do', 'cious']
-    >>> hyphenate_word("project")
-    ['project']
+    # Ejemplos adaptados al espaÃ±ol por @cosmoscalibur
+    >>> hyphenate_word("desayuno") #196
+    ['des', 'a', 'yuno']
+    >>> hyphenate_word("submarino")
+    ['sub', 'ma', 'rino']
+    >>> hyphenate_word("maÃ­z")
+    ['maÃ­z']
+    >>> hyphenate_word("aeropuerto")
+    ['a', 'e', 'ro', 'puer', 'to']
+    >>> hyphenate_word("aereo") #270
+    ['a', 'e', 're', 'o']
 
     Ned Batchelder, July 2007.
     This Python code is in the public domain.
@@ -37,7 +39,7 @@ class Hyphenator:
         # Convert the a pattern like 'a1bc3d4' into a string of chars 'abcd'
         # and a list of points [ 0, 1, 0, 3, 4 ].
         chars = re.sub('[0-9]', '', pattern)
-        points = [ int(d or 0) for d in re.split("[.a-záéíóúüñ]", pattern) ]
+        points = [ int(d or 0) for d in re.split("[.a-zÃ¡Ã©Ã­Ã³ÃºÃ¼Ã±]", pattern) ]
 
         # Insert the pattern into the tree.  Each character finds a dict
         # another level down in the tree, and leaf nodes have the list of
@@ -84,8 +86,8 @@ class Hyphenator:
                 pieces.append('')
         return pieces
 
-with codecs.open('hyph_es.dic', 'r', 'iso-8859-1') as patternfile:
-    patterns=(patternfile.read().replace('ISO8859-1\nLEFTHYPHENMIN 2\nRIGHTHYPHENMIN 2\n', '').replace('\n', ' '))
+with codecs.open('hyph_es.dic', 'r', 'utf-8') as patternfile:
+    patterns=(patternfile.read().replace('UTF-8\nLEFTHYPHENMIN 2\nRIGHTHYPHENMIN 2\n', '').replace('\n', ' '))
 
 exceptions = """
 """
@@ -100,7 +102,7 @@ if __name__ == '__main__':
     import sys
     if len(sys.argv) > 1:
         for word in sys.argv[1:]:
-            print '-'.join(hyphenate_word(word))
+            print('-'.join(hyphenate_word(word)))
     else:
         import doctest
         doctest.testmod(verbose=True)
