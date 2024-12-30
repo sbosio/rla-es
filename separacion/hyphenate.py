@@ -1,3 +1,9 @@
+#!python3
+# Actualización 2024-12-27 por Edward Villegas (cosmoscalibur)
+# - ISO 8859-1 a UTF-8
+# - Python2 a Python3
+# - doctest con casos para `hyph_es`.
+
 """ Hyphenation, using Frank Liang's algorithm.
 
     This module provides a single function to hyphenate words.  hyphenate_word takes
@@ -5,22 +11,25 @@
 
     # Ejemplos adaptados al español por @cosmoscalibur
     >>> hyphenate_word("desayuno") #196
-    ['des', 'a', 'yuno']
+    ['de', 'sa', 'yuno']
     >>> hyphenate_word("submarino")
     ['sub', 'ma', 'rino']
     >>> hyphenate_word("maíz")
     ['maíz']
     >>> hyphenate_word("aeropuerto")
-    ['a', 'e', 'ro', 'puer', 'to']
-    >>> hyphenate_word("aereo") #270
-    ['a', 'e', 're', 'o']
+    ['ae', 'ro', 'puer', 'to']
+    >>> hyphenate_word("aéreo") #270
+    ['aé', 'reo']
+    >>> hyphenate_word("disputa") #264
+    ['dispu', 'ta']
+    >>> hyphenate_word("espectáculo") #264
+    ['es', 'pec', 'tácu', 'lo']
 
     Ned Batchelder, July 2007.
     This Python code is in the public domain.
 """
 
 import re
-import codecs
 
 __version__ = '1.0.20070709'
 
@@ -86,8 +95,9 @@ class Hyphenator:
                 pieces.append('')
         return pieces
 
-with codecs.open('hyph_es.dic', 'r', 'utf-8') as patternfile:
-    patterns=(patternfile.read().replace('UTF-8\nLEFTHYPHENMIN 2\nRIGHTHYPHENMIN 2\n', '').replace('\n', ' '))
+with open('hyph_es_test.dic') as patternfile:
+    # sed '/^%/d' hyph_es.dic | tr '\n' ' ' | sed 's/UTF-8 LEFTHYPHENMIN 2 RIGHTHYPHENMIN 2 //g' > hyph_es_test.dic
+    patterns=(patternfile.read())
 
 exceptions = """
 """
