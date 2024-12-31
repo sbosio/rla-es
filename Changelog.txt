@@ -1,3 +1,19 @@
+Versión 2.9:
+
+- En total, cerca de 1.000 lemas añadidos.
+- Múltiples actualizaciones en adjetivos.
+- Múltiples actualizaciones en adverbios.
+- Múltiples actualizaciones en nombres compuestos.
+- Múltiples actualizaciones en nombres femeninos.
+- Múltiples actualizaciones en nombres masculinos.
+- Múltiples actualizaciones en nombres masculinos y femeninos.
+- Añadido el nombre propio Wikipedia.
+- Actualizaciones en los topónimos del mundo.
+- Correcciones en prefijos y sufijos.
+- Reemplazo completo del fichero de separación silábica.
+- Mejoras en el proceso de construcción del diccionario y subida al repositorio de LO.
+- Mejoras en herramienta de verificación de separación silábica.
+
 Versión 2.8:
 
 - Añadidos ordinales que faltaban hasta el centenar (cuadragesimoprimero, septuagesimoquinto, etc.).
@@ -7,7 +23,7 @@ Versión 2.8:
 - Añadidos verbos criminalizar, demonizar, miniaturizar y recalificar.
 - Añadida forma verbal irregular que faltaba de andar, andéis.
 - Añadidos enclíticos de complemento directo en descuartizar.
-- Añadido el nombre rin (es_AR, es_CO, es_EC, es_GT, es_HN, es_MX, es_NI, es_PA) y removedor (es_CL, es_CU, es_UY). 
+- Añadido el nombre rin (es_AR, es_CO, es_EC, es_GT, es_HN, es_MX, es_NI, es_PA) y removedor (es_CL, es_CU, es_UY).
 - Añadido el verbo recepcionar (es_AR, es_NI, es_PE).
 
 Versión 2.7:
