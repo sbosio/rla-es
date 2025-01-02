@@ -2698,6 +2698,7 @@ ciento/S
 cierta/k
 cierto/SGk
 cifrado/GS
+cifrador/hGS
 cigofiláceo/SG
 ciliado/GS
 ciliar/Sf
@@ -3877,7 +3878,6 @@ descargable/S
 descaudalado/GS
 descendente/S
 descifrable/kS
-descifrador/GS
 descocado/GS
 descoligado/GS
 descollante/S

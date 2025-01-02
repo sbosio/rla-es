@@ -745,6 +745,7 @@ chorizar/RED
 chuperretear/RED
 churrascar/RED
 ciclar/RED
+cifrar/hREDÀÂP
 cilindrar/RED
 cimentar/IRD
 cincelar/RED
@@ -1141,7 +1142,6 @@ descerrajar/REDÀÁÂ
 descerrar/IRD
 descervigar/RED
 deschuponar/RED
-descifrar/REDÀÂP
 descimbrar/RED
 descimentar/IRD
 descinchar/RED
@@ -1748,7 +1748,7 @@ encorralar/RED
 encorrear/RED
 encortinar/RED
 encostalar/RED
-encriptar/RED
+encriptar/hRED
 encristalar/RED
 encuadernar/REDÀT
 encuadrar/REDÀÂÄ
