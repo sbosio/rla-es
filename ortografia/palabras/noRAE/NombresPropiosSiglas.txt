@@ -159,9 +159,7 @@ CIA
 Cimón
 Ciro
 Claudio
-Claudio
 Cleón
-Cleopatra
 Cleopatra
 Conón
 Constantino
@@ -182,7 +180,6 @@ Dafnis
 Dalí
 Damocles
 Daniel
-Darío
 Darío
 Darussalam
 Darwin
@@ -409,7 +406,6 @@ Lara
 Laura
 Leo
 Leonardo
-Leonardo
 Leónidas
 Leonor
 Leopoldo
@@ -428,10 +424,7 @@ Lorena
 Lorenzo
 Lourdes
 Lucas
-Lucas
 Lucía
-Luciano
-Luciano
 Luciano
 Lucrecio
 Malaquías
@@ -443,13 +436,13 @@ Marc
 Marcelo
 Marín
 Marino
+María
 Mario
 Márquez
 Marsias
 Martí
 Martín
 Martínez
-Marx
 Marx
 Matías
 Matilde
@@ -708,7 +701,6 @@ Tzetzes
 UE
 Ugarit
 UGT
-Ulises
 Ulises
 UNESCO
 Uruk
