@@ -30,6 +30,7 @@ azud/S
 azumbre/S
 babel/S
 bermudas
+birreme/S
 bricbarca/S
 callicida/S
 canal/S
