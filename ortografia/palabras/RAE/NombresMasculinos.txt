@@ -2326,6 +2326,7 @@ brocamantón/S
 brocatel/S
 broche/HS
 brocino/S
+brócoli/S
 bromo/HS
 bromuro/S
 bronceador/S
