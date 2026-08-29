@@ -4345,7 +4345,7 @@ dolorida/a
 dolorido/GSa
 dolorioso/GS
 doloroso/GS
-doloso/GS
+doloso/GS🧠
 domable/kS
 dombenitense/S
 domesticable/kS
