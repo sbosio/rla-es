@@ -87,6 +87,7 @@ quiñar/RED
 rasmillar/RED
 rasquetear/RED
 refaccionar/REDÀ
+regalonear/RED
 reportear/RED
 retobar/RED
 talonear/RED
