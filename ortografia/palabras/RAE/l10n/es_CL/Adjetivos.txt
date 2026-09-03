@@ -25,6 +25,7 @@ aplazado/GS
 arruinado/GS
 bacán/GS
 barrial/S
+bencinero/GS
 boratero/GS
 cachiporra/S
 cachudo/GS

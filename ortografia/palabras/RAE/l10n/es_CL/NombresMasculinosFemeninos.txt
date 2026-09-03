@@ -19,6 +19,7 @@ alojado/GS
 aparatero/GS
 aplazado/GS
 arrimado/GS
+bencinero/GS
 boletero/GS
 boratero/GS
 calandraco/GS
