@@ -6585,6 +6585,7 @@ magra/MS
 magrura/S
 magulladura/S
 mahona/S
+maicena/S
 maicera/S
 maitinada/S
 majada/SL
@@ -10261,6 +10262,7 @@ tangente/FS
 tangidera/S
 tanoría/S
 tanqueta/S
+tanza/S
 tapada/S
 tapadera/S
 tapadura/hS

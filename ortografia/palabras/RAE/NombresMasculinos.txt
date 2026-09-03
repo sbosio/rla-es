@@ -3455,6 +3455,7 @@ clasema/S
 clasicismo/S
 clásico/SG
 clasificador/S
+clasismo/s
 claustro/NS
 clavecín/S
 clavelito/S
