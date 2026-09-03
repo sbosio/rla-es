@@ -61,6 +61,7 @@ hierbatero/SG
 hostigoso/GS
 hurguete/S
 impago/GS
+impeque/S
 invalorable/S
 macaco/S
 macanudo/GS
