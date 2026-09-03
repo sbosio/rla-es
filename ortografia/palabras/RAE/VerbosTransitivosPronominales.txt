@@ -2119,7 +2119,7 @@ sepultar/REDÀÁÂÄñ
 sextuplicar/RED
 signar/REDÀ
 siluetear/RED
-sincerar/REDÁñ
+sincerar/REDÁñø
 sincopizar/RED
 sindicar/REDÄT
 singularizar/REDÀ
