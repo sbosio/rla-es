@@ -29,6 +29,7 @@ azúcar/S
 azud/S
 azumbre/S
 babel/S
+bajante/S
 bermudas
 birreme/S
 bricbarca/S

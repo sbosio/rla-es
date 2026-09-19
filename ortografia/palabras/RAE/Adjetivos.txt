@@ -1546,6 +1546,7 @@ baída/S
 bailador/GS
 bailante/S
 bailarín/GS
+bajante/S
 bajero/GS
 bajista/S
 bajo/GS
