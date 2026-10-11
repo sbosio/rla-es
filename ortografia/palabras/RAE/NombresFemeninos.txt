@@ -902,7 +902,7 @@ asimétricas
 asincronía/S
 asíntota/S
 asíndeton/S
-asistencia/hkS☎️
+asistencia/hkS☎
 asistenta/S
 asistolia/S
 asma/S
@@ -1209,7 +1209,7 @@ basta/NS
 bastarda/NS
 bastedad/S
 basteza/S
-basura/S☎️
+basura/S☎
 batahola/S
 batalla/S
 batallola/S
@@ -3667,7 +3667,7 @@ ecografía/S
 ecolalia/S
 ecolocación/S
 ecología/S
-economía/Sm🔭
+economía/Sm▲
 ecorregión/S
 ectasia/S
 ectopia/S
@@ -4483,7 +4483,7 @@ fajinada/S
 fajina/S
 falacia/S
 falange/S
-falda/Sr🔍💯
+falda/Sr▽●
 faldeta/S
 faldillas
 faldriquera/S
@@ -6894,7 +6894,7 @@ medianoche/S
 mediateca/S
 medicación/S
 medicalización
-medicina/S☎️
+medicina/S☎
 medición/S
 medida/S
 medievalidad/S
@@ -7199,7 +7199,7 @@ mojiganga/S
 mojigatez/S
 mojonera/S
 moldura/S
-molécula/S🔭
+molécula/S▲
 moledura/S
 mole/GS
 molestia/S
@@ -9172,7 +9172,7 @@ raza/S
 razón/S
 rea/fS
 realeza/S
-realidad/kS☎️
+realidad/kS☎
 realimentación/S
 realización/S
 reanudación/S
@@ -9549,7 +9549,7 @@ ruqueta/S
 rusticidad/S
 rustiquez/SG
 rutácea/S
-ruta/S☎️
+ruta/S☎
 rutina/S
 sabalera/S
 sabana/NS
@@ -9854,7 +9854,7 @@ serenidad/S
 sericicultura/S
 sericultura/S
 seriedad/S
-serie/S🔍
+serie/S▽
 serna/S
 serosa/S
 serosidad/S
@@ -10714,7 +10714,7 @@ transmisión/pS
 transnacional/S
 transparencia/S
 transpiración/S
-transportación/S☎️
+transportación/S☎
 transposición/S
 transustanciación/S
 transversalidad/S
