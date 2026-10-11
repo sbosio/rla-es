@@ -112,7 +112,7 @@ abulense/S
 abúlico/GS
 abultado/GS
 abundancial/S
-abundante/tS🥇
+abundante/tS⭐
 abundoso/GS
 aburelado/SG
 aburrido/GS
@@ -287,7 +287,7 @@ adhesivo/GS
 adicionador/GS
 adicional/S
 adictivo/GS
-adicto/GS☎️
+adicto/GS☎
 adiestrado/GS
 adiestrador/GS
 adinerado/GS
@@ -414,7 +414,7 @@ agasajado/GS
 agasajador/GS
 agatino/GS
 agente/S
-ágil/S🧠
+ágil/S☁
 agitado/GS
 agitador/GS
 aglomerante/S
@@ -568,7 +568,7 @@ aldino/GS
 aleatorio/SG
 aleccionador/GS
 aledaño/SG
-alegórico/GS🧠
+alegórico/GS☁
 alegrador/GS
 alegre/SG
 alejado/GS
@@ -699,7 +699,7 @@ aluvial/S
 alveolar/S
 alvino/GS
 alzado/GS
-amable/S🏅
+amable/S☆
 amaceno/GS
 amacigado/GS
 amador/GS
@@ -795,7 +795,7 @@ ampliativo/SG
 ampliatorio/SG
 amplificador/GS
 amplificativo/GS
-amplio/GS🥇
+amplio/GS⭐
 ampollar/S
 ampuloso/GS
 amuchachado/GS
@@ -1406,7 +1406,7 @@ aturdido/GS
 aturdidor/GS
 atusador/GS
 auca/S
-audaz/S🧠
+audaz/S☁
 audible/kS
 audio/S
 audiovisual/S
@@ -1776,7 +1776,7 @@ biográfico/GdS
 biológico/GS
 biomédico/GS
 bioquímico/GS
-biótico/GS🔭
+biótico/GS▲
 bipartito/GS
 bípedo/SG
 bipontino/GS
@@ -1925,10 +1925,10 @@ bretón/GS
 bretoniano/GS
 breve/S
 briaga/i
-bribón/GS🥇
+bribón/GS⭐
 brigantino/GS
 brillador/GS
-brillante/S🥇
+brillante/S⭐
 brincador/GS
 brindador/GS
 brioso/SG
@@ -2780,7 +2780,7 @@ clara/nj
 clarificador/GS
 clarisa/S
 clarividente/S
-claro/njSG🥇
+claro/njSG⭐
 clarucho/GS
 clasicista/S
 clásico/nSG
@@ -3098,7 +3098,7 @@ confitado/SG
 conflictivo/GS
 conforme/Sk
 conformista/kS
-confortable/S🏅
+confortable/S☆
 confortador/SG
 confortante/Sp
 confortativo/GS
@@ -3202,7 +3202,7 @@ consumidor/GS
 consumista/S
 contable/kS
 contadero/SG
-contado/GS🥇
+contado/GS⭐
 contador/GS
 contagioso/GS
 contaminador/SG
@@ -3311,7 +3311,7 @@ corchoso/GS
 corcovado/GS
 cordelero/GS
 corderino/GS
-cordial/nS🥇
+cordial/nS⭐
 cordiforme/S
 cordillerano/GS
 cordobés/GS
@@ -3563,7 +3563,7 @@ cuentero/GS
 cuentista/S
 cuerdo/GS
 cuestionable/kS
-cuidado/GS🥇
+cuidado/GS⭐
 cuidador/GS
 cuidadoso/GS
 cuitada/h
@@ -4346,7 +4346,7 @@ dolorida/a
 dolorido/GSa
 dolorioso/GS
 doloroso/GS
-doloso/GS🧠
+doloso/GS☁
 domable/kS
 dombenitense/S
 domesticable/kS
@@ -4416,7 +4416,7 @@ dudoso/GS
 duendo/GS
 dular/S
 dulcero/GS
-dulce/S🥇
+dulce/S⭐
 dulzaino/GS
 dulzón/GS
 duodecimal/S
@@ -4452,7 +4452,7 @@ eclesiástico/GS
 ecoico/GS
 ecológico/GS
 ecologista/S
-económico/GSm🔭
+económico/GSm▲
 ecotado/GS
 ectodérmico/GS
 ectoparásito/GS
@@ -4821,7 +4821,7 @@ entrambos
 entrante/S
 entrañable/S
 entraño/SG
-entrecortado/GS🧠
+entrecortado/GS☁
 entredoble
 entregador/GS
 entrepretado/GS
@@ -5329,7 +5329,7 @@ exhortativo/SG
 exhortatorio/GS
 exhumador/GS
 exigente/S
-exiguo/GS🏅
+exiguo/GS☆
 eximente/S
 eximio/GS
 existencial/S
@@ -5574,7 +5574,7 @@ fenomenal/S
 fenoménico/GS
 fenomenológico/GS
 fenómeno/S
-feo/GS🥇
+feo/GS⭐
 feraz/S
 ferial/S
 feriante/S
@@ -5582,7 +5582,7 @@ ferino/SG
 fermentador/SG
 fermentativo/GS
 feroés/GS
-feroz/S🥇
+feroz/S⭐
 férreo/GS
 férrico/GS
 ferromagnético/GS
@@ -5611,7 +5611,7 @@ fiado/fGS
 fiambre/S
 fibroso/GS
 ficticio/GS
-fidedigno/GS🧠
+fidedigno/GS☁
 fideicomisario/GS
 fido/GS
 fiduciario/SG
@@ -5821,7 +5821,7 @@ frecuentador/SG
 frecuente/GS
 frecuentes/k
 fregador/GS
-fregón/GS🥇
+fregón/GS⭐
 frenético/GS
 frenológico/GS
 fresa/S
@@ -5836,7 +5836,7 @@ frígido/SG
 frigio/SG
 frigorífico/SG
 friki/S
-frío/GS🥇
+frío/GS⭐
 friolento/GS
 friolero/GS
 frisio/GS
@@ -6582,7 +6582,7 @@ honorífico/GS
 honradero/SG
 honrado/GS
 honrosa/h
-honroso/GSh🧠
+honroso/GSh☁
 hontanal/S
 horaciano/GS
 horadador/GS
@@ -6774,7 +6774,7 @@ impetrador/SG
 impetratorio/GS
 impetuoso/GS
 impiedoso/GS
-impío/GS🥇
+impío/GS⭐
 implicatorio/GS
 implícito/GS
 implorador/GS
@@ -6999,7 +6999,7 @@ infuso/GS
 ingenieril/S
 ingenioso/GS
 ingente/S
-ingenuo/GS🥇
+ingenuo/GS⭐
 inglés/SG
 inguinal/S
 inguinario/GS
@@ -7332,7 +7332,7 @@ jorobado/GS
 jorobeta/S
 josefino/GS
 jostrado/GS
-joven/S🥇
+joven/S⭐
 jovial/S
 juanetudo/GS
 juardoso/GS
@@ -7385,7 +7385,7 @@ justificador/GS
 justificante/S
 justificativo/GS
 justinianeo/SG
-justo/kGS🥇
+justo/kGS⭐
 juvenal/S
 juvenil/S
 juzgador/SG
@@ -7682,7 +7682,7 @@ lidia/S
 liego/SG
 liento/GS
 ligamentoso/GS
-ligero/GS🧠
+ligero/GS☁
 lignario/GS
 liguano/GS
 liguero/GS
@@ -8226,7 +8226,7 @@ maya/S
 mayestático/GS
 mayorista/S
 mayoritario/GS
-mayor/S🥇
+mayor/S⭐
 mayúsculo/GS
 mazonado/GS
 mazorral/S
@@ -9074,7 +9074,7 @@ norteño/GS
 noruego/GS
 nostálgico/GS
 nostras
-notable/S🏅
+notable/S☆
 notariado/SG
 notarial/S
 noticiero/SG
@@ -9115,7 +9115,7 @@ numeral/S
 numeraria/t
 numerario/SGt
 numérico/SG
-numeroso/GS🥇
+numeroso/GS⭐
 numismático/GS
 numular/S
 nuncupatorio/GS
@@ -9308,7 +9308,7 @@ opalino/GS
 opcional/S
 operable/Sk
 operacional/S
-operador/fGS☎️
+operador/fGS☎
 operante/kS
 operativa/f
 operativo/fSG
@@ -9824,7 +9824,7 @@ penoso/GS
 pensable/Sk
 pensador/SG
 pensante/S
-pensativo/GS🧠
+pensativo/GS☁
 pensilvano/GS
 pensionado/GS
 pentadáctilo/GS
@@ -10210,7 +10210,7 @@ ponzoñoso/GS
 pop/S
 popel/S
 populachero/GS
-popular/kS🥇
+popular/kS⭐
 populista/S
 populoso/GS
 porcentual/S
@@ -10297,7 +10297,7 @@ pratense/S
 pravo/SG
 precarista/S
 precautorio/GS
-precedente/S🧠
+precedente/S☁
 preceptista/S
 preceptivo/SG
 preciado/GS
@@ -10387,7 +10387,7 @@ presunto/GS
 presupuestario/GS
 presuroso/GS
 pretencioso/GS
-pretendido/GS🧠
+pretendido/GS☁
 pretendiente/G
 pretérito/GS
 preternatural/S
@@ -11396,7 +11396,7 @@ sacudidor/GS
 sádico/SG
 saduceo/GS
 saetero/GS
-sagaz/S🥇
+sagaz/S⭐
 sagital/S
 sagitario/SG
 sagrado/GS
@@ -11739,7 +11739,7 @@ serbocroata/S
 sereno/GS
 serial/S
 serifio/GS
-serio/GS🥇
+serio/GS⭐
 sermonario/SG
 sermoneador/GS
 serológico/GS
@@ -12038,7 +12038,7 @@ soplador/GS
 soplón/SG
 soporífero/GS
 soporoso/GS
-soportable/kS🧠
+soportable/kS☁
 soportador/GS
 sorbedor/SG
 sórdido/SG
@@ -12107,7 +12107,7 @@ sucesivo/GS
 sucesorio/GS
 sucesor/SG
 sucinto/SG
-sucio/GS🥇
+sucio/GS⭐
 sucoso/GS
 suculento/GS
 sucursal/S
@@ -12352,7 +12352,7 @@ telegráfico/GS
 telemático/GS
 telendo/GS
 teleósteo/S
-telepático/GS🧠
+telepático/GS☁
 telescópico/SG
 televisivo/SG
 telonero/GS
@@ -12401,7 +12401,7 @@ tensorial/S
 tentacular/S
 tentador/SG
 tentativo/SG
-tenue/S🥇
+tenue/S⭐
 tenutario/GS
 teodosiano/SG
 teologal/S
@@ -12654,7 +12654,7 @@ tozo/GS
 tozudo/GS
 trabado/SG
 trabajado/GS
-trabajador/GS🥇
+trabajador/GS⭐
 trabajante/S
 trabajoso/GS
 trabucador/GS
@@ -13469,7 +13469,7 @@ vudú/S
 vueludo/SG
 vulcanista/S
 vulgarizador/GS
-vulgar/S🥇
+vulgar/S⭐
 vulnerable/Sk
 vulnerario/SG
 vultuoso/GS

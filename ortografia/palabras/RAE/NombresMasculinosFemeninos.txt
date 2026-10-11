@@ -1377,7 +1377,7 @@ oleado/GS
 olímpico/GS
 olivicultor/GS
 ollero/GS
-operador/GS☎️
+operador/GS☎
 operario/GS
 opositor/GS
 óptico/GS

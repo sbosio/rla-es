@@ -153,19 +153,19 @@ PFX m 0         micro     [^r]
 PFX m 0         micror    r
 
 # Prefijo macro-: Significa 'grande'.
-PFX 🔭 Y 2
-PFX 🔭 0         macro     [^r]
-PFX 🔭 0         macror    r
+PFX ▲ Y 2
+PFX ▲ 0         macro     [^r]
+PFX ▲ 0         macror    r
 
 # Prefijo mini-: Significa 'pequeño', 'corto' o 'breve'.
-PFX 🔍 Y 2
-PFX 🔍 0         mini     [^r]
-PFX 🔍 0         minir    r
+PFX ▽ Y 2
+PFX ▽ 0         mini     [^r]
+PFX ▽ 0         minir    r
 
 # Prefijo maxi-: Significa 'muy grande' o 'muy largo'.
-PFX 💯 Y 2
-PFX 💯 0         maxi     [^r]
-PFX 💯 0         maxir    r
+PFX ● Y 2
+PFX ● 0         maxi     [^r]
+PFX ● 0         maxir    r
 
 # Prefijo pre-: Significa 'anterioridad local o temporal', 'prioridad' o
 # 'encarecimiento'.
@@ -215,10 +215,10 @@ PFX t Y 1
 PFX t 0         super     .
 
 # Prefijo tele-: Significa 'a distancia'
-PFX ☎️ Y 3
-PFX ☎️ 0        tel       e
-PFX ☎️ 0        teler     r
-PFX ☎️ 0        tele      [^er]
+PFX ☎ Y 3
+PFX ☎ 0        tel       e
+PFX ☎ 0        teler     r
+PFX ☎ 0        tele      [^er]
 
 # Prefijo trans-/tras-: Significa 'al otro lado, en la parte opuesta o más
 # allá', 'a través de', 'que sobrepasan', y 'cambio o mudanza'.
@@ -248,19 +248,19 @@ PFX w 0         ex	     .
 # derivadas. No se debe aplicar para 'metro' debido a la tilde y conviene la
 # creación de los lemas individuales para sus derivadas.
 
-PFX 📏 Y 12
-PFX 📏 0        tera     .
-PFX 📏 0        giga     .
-PFX 📏 0        mega     .
-PFX 📏 0        kilo     .
-PFX 📏 0        hecto    .
-PFX 📏 0        deca     .
-PFX 📏 0        deci     .
-PFX 📏 0        centi    .
-PFX 📏 0        mili     .
-PFX 📏 0        micro    .
-PFX 📏 0        nano     .
-PFX 📏 0        pico     .
+PFX ⚖ Y 12
+PFX ⚖ 0        tera     .
+PFX ⚖ 0        giga     .
+PFX ⚖ 0        mega     .
+PFX ⚖ 0        kilo     .
+PFX ⚖ 0        hecto    .
+PFX ⚖ 0        deca     .
+PFX ⚖ 0        deci     .
+PFX ⚖ 0        centi    .
+PFX ⚖ 0        mili     .
+PFX ⚖ 0        micro    .
+PFX ⚖ 0        nano     .
+PFX ⚖ 0        pico     .
 
 
 #
@@ -508,39 +508,39 @@ SFX U ga        guita/S     ga
 
 # Sufijo -mente: para formar adverbios acabados en -mente a partir de adjetivos
 # (apresurado --> apresuradamente; difícil --> difícilmente)
-SFX 🧠 Y 2
-SFX 🧠 0        mente       [^o]
-SFX 🧠 o        amente      o
+SFX ☁ Y 2
+SFX ☁ 0        mente       [^o]
+SFX ☁ o        amente      o
 
 # Sufijo -ísimo (1): Para formar grado superlativo de adjetivos y adverbios
 # Casos diferentes de -ble y -gu[aeo]
 # No contiene reglas para lemas con acento gráfico no agudo
-SFX 🥇 Y 16
-SFX 🥇 0        ísimo/GS    l
-SFX 🥇 0        ísimo/GS    [^o]r
-SFX 🥇 0        císimo/GS   or
-SFX 🥇 z        císimo/GS   z
-SFX 🥇 a        ísimo/GS    [^í]a
-SFX 🥇 e        ísimo/GS    e
-SFX 🥇 i        ísimo/GS    i
-SFX 🥇 o        ísimo/GS    [^ií]o
-SFX 🥇 io       ísimo/GS    io
-SFX 🥇 ío       iísimo/GS   ío
-SFX 🥇 u        ísimo/GS    u
-SFX 🥇 án       ancísimo/GS án
-SFX 🥇 én       encísimo/GS én
-SFX 🥇 ín       incísimo/GS ín
-SFX 🥇 ón       oncísimo/GS ón
-SFX 🥇 0        císimo/GS   [^áéíóú]n
+SFX ⭐ Y 16
+SFX ⭐ 0        ísimo/GS    l
+SFX ⭐ 0        ísimo/GS    [^o]r
+SFX ⭐ 0        císimo/GS   or
+SFX ⭐ z        císimo/GS   z
+SFX ⭐ a        ísimo/GS    [^í]a
+SFX ⭐ e        ísimo/GS    e
+SFX ⭐ i        ísimo/GS    i
+SFX ⭐ o        ísimo/GS    [^ií]o
+SFX ⭐ io       ísimo/GS    io
+SFX ⭐ ío       iísimo/GS   ío
+SFX ⭐ u        ísimo/GS    u
+SFX ⭐ án       ancísimo/GS án
+SFX ⭐ én       encísimo/GS én
+SFX ⭐ ín       incísimo/GS ín
+SFX ⭐ ón       oncísimo/GS ón
+SFX ⭐ 0        císimo/GS   [^áéíóú]n
 
 # Sufijo -ísimo (2): Para formar grado superlativo de adjetivos y adverbios
 # Casos -ble y -gu[aeo]
 # No contiene reglas para lemas con acento gráfico no agudo
-SFX 🏅 Y 4
-SFX 🏅 le       ilísimo/GS  ble
-SFX 🏅 ua       üísimo/GS   gua
-SFX 🏅 ue       üísimo/GS   gue
-SFX 🏅 uo       üísimo/GS   guo
+SFX ☆ Y 4
+SFX ☆ le       ilísimo/GS  ble
+SFX ☆ ua       üísimo/GS   gua
+SFX ☆ ue       üísimo/GS   gue
+SFX ☆ uo       üísimo/GS   guo
 
 ###############################################################################
 #                                                                             #
