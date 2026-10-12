@@ -9237,6 +9237,8 @@ nutrimiento/S
 ñandubáis		# Plural de ñandubay
 ñandubay
 ñaque/S
+ñu/S
+ñúes		# Plural de ñu
 oasis
 obedecimiento/S
 obelisco/S
