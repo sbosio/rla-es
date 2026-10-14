@@ -199,6 +199,7 @@ chancleta/S
 chantajista/S
 chapa/SU
 charrúa/S
+chelo/S
 chií/S
 chinche/S
 chofer/S
