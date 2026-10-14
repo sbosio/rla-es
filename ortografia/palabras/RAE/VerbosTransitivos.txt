@@ -3089,6 +3089,7 @@ readmitir/REDÀÂ
 reagrupar/REDÀÁÄ
 reajustar/REDÀ
 realimentar/RED
+realojar/REDÀÁ
 realquilar/RED
 reamar/RED
 reapretar/IRD
