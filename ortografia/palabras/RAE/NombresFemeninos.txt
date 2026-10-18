@@ -3142,6 +3142,7 @@ cúspide/S
 custodia/S
 cutícula/S
 cutrez/S
+dación/S
 dactiloscopia/S
 dádiva/S
 dadivosidad/S
@@ -7252,6 +7253,7 @@ montuosidad/S
 montura/S
 monumentalidad/S
 moña/S
+mopa/S
 moqueta/S
 moquita/S
 morácea/S
@@ -7640,6 +7642,7 @@ nutrición/Sh
 nutriz/S
 ñas
 ñoñez/S
+ñora/S
 o
 oes
 obcecación/S

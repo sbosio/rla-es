@@ -2422,6 +2422,7 @@ buses/d
 bus/mS
 busto/S
 butacón/S
+butano/S
 butrino/S
 buyo/S
 buzamiento/S
@@ -13368,6 +13369,7 @@ tusa/S
 tútano/S
 tute/S
 tutorial/S
+tutú/S
 ubio/S
 ucase/S
 ucraniano/S

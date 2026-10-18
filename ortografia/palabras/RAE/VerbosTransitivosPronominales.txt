@@ -1586,6 +1586,7 @@ graduar/IRDÁÂñT
 granjear/REDÁÂñ
 granular/RED
 gratular/RED
+gripar/RED
 guardar/REDÀÁÂÃÄÅÆÌÙÚñòôøT
 guiar/IRDÀÁÂÄÅÆÑñòõù
 guindar/RED
