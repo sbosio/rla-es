@@ -13195,6 +13195,7 @@ tres/N
 tresnal/S
 trestanto/S
 triache/S
+triaje/S
 trial/S
 triángulo/S
 triario/S
