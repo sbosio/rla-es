@@ -869,6 +869,7 @@ amén/S
 amento/S
 ameos
 americanismo/S
+americio
 amerizaje/S
 ametrallamiento/S
 ami
@@ -13312,6 +13313,7 @@ tsunami/S
 tuareg/S
 tubérculo/S
 tubo/S
+tucán/S
 tuciorismo/S
 tudel/S
 tudesco/S
